@@ -1,0 +1,14 @@
+.idea/*
+build/*
+dist/*
+carveme.egg-info/*
+*.pyc
+.eggs/*
+docs/_build/*
+Dockerfile
+.idea/*
+*.DS_Store
+.vscode/*
+carveme/universe/download bigg fasta.ipynb
+carveme/data/generated/bigg_proteins.dmnd
+venv/*
