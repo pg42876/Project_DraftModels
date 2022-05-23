@@ -1,0 +1,9783 @@
+{
+ "__idx__": {
+  "YPO0357": "bigg2-ype",
+  "YPO0359": "bigg2-ype",
+  "YPO0358": "bigg2-ype",
+  "YPO1610": "bigg2-ype",
+  "YPO1617": "bigg2-ype",
+  "YPO1615": "bigg2-ype",
+  "YPO1614": "bigg2-ype",
+  "YPO2957": "bigg2-ype",
+  "YPO2899": "bigg2-ype",
+  "YPO1581": "bigg2-ype",
+  "YPO1845": "bigg2-ype",
+  "YPO1587": "bigg2-ype",
+  "YPO2958": "bigg2-ype",
+  "YPO3412": "bigg2-ype",
+  "YPO3558": "bigg2-ype",
+  "YPO3417": "bigg2-ype",
+  "YPO3415": "bigg2-ype",
+  "YPO3419": "bigg2-ype",
+  "YPO3418": "bigg2-ype",
+  "YPO3557": "bigg2-ype",
+  "YPO2533": "bigg2-ype",
+  "YPO4090": "bigg2-ype",
+  "YPO1570": "bigg2-ype",
+  "YPO0672": "bigg2-ype",
+  "YPO0670": "bigg2-ype",
+  "YPO0676": "bigg2-ype",
+  "YPO1055": "bigg2-ype",
+  "YPO1054": "bigg2-ype",
+  "YPO1057": "bigg2-ype",
+  "YPO1056": "bigg2-ype",
+  "YPO1198": "bigg2-ype",
+  "YPO1050": "bigg2-ype",
+  "YPO1194": "bigg2-ype",
+  "YPO3632": "bigg2-ype",
+  "YPO3323": "bigg2-ype",
+  "YPO3325": "bigg2-ype",
+  "YPO3324": "bigg2-ype",
+  "YPO3326": "bigg2-ype",
+  "YPO0918": "bigg2-ype",
+  "YPO1358": "bigg2-ype",
+  "YPO1290": "bigg2-ype",
+  "YPO1357": "bigg2-ype",
+  "YPO1352": "bigg2-ype",
+  "YPO1350": "bigg2-ype",
+  "YPO0914": "bigg2-ype",
+  "YPO2824": "bigg2-ype",
+  "YPO2827": "bigg2-ype",
+  "YPO2829": "bigg2-ype",
+  "YPO2828": "bigg2-ype",
+  "YPO2736": "bigg2-ype",
+  "YPO1756": "bigg2-ype",
+  "YPO1757": "bigg2-ype",
+  "YPO3525": "bigg2-ype",
+  "YPO2904": "bigg2-ype",
+  "YPO3521": "bigg2-ype",
+  "YPO3520": "bigg2-ype",
+  "YPO3743": "bigg2-ype",
+  "YPO3742": "bigg2-ype",
+  "YPO3741": "bigg2-ype",
+  "YPO3740": "bigg2-ype",
+  "YPO3024": "bigg2-ype",
+  "YPO2692": "bigg2-ype",
+  "YPO2288": "bigg2-ype",
+  "YPO3020": "bigg2-ype",
+  "YPO2691": "bigg2-ype",
+  "YPO3808": "bigg2-ype",
+  "YPO1127": "bigg2-ype",
+  "YPO3804": "bigg2-ype",
+  "YPO3805": "bigg2-ype",
+  "YPO3806": "bigg2-ype",
+  "YPO3807": "bigg2-ype",
+  "YPO2896": "bigg2-ype",
+  "YPO2959": "bigg2-ype",
+  "YPO2232": "bigg2-ype",
+  "YPO3736": "bigg2-ype",
+  "YPO3734": "bigg2-ype",
+  "YPO0321": "bigg2-ype",
+  "YPO2601": "bigg2-ype",
+  "YPO1222": "bigg2-ype",
+  "YPO3739": "bigg2-ype",
+  "YPO2604": "bigg2-ype",
+  "YPO2607": "bigg2-ype",
+  "YPO3411": "bigg2-ype",
+  "YPO2193": "bigg2-ype",
+  "YPO3113": "bigg2-ype",
+  "YPO3938": "bigg2-ype",
+  "YPO3939": "bigg2-ype",
+  "YPO0138": "bigg2-ype",
+  "YPO3441": "bigg2-ype",
+  "YPO2514": "bigg2-ype",
+  "YPO2046": "bigg2-ype",
+  "YPO2513": "bigg2-ype",
+  "YPO2512": "bigg2-ype",
+  "YPO3115": "bigg2-ype",
+  "YPO0486": "bigg2-ype",
+  "YPO0481": "bigg2-ype",
+  "YPO0480": "bigg2-ype",
+  "YPO1549": "bigg2-ype",
+  "YPO0482": "bigg2-ype",
+  "YPO1547": "bigg2-ype",
+  "YPO1546": "bigg2-ype",
+  "YPO1545": "bigg2-ype",
+  "YPO1544": "bigg2-ype",
+  "YPO1543": "bigg2-ype",
+  "YPO1542": "bigg2-ype",
+  "YPO1541": "bigg2-ype",
+  "YPO0091": "bigg2-ype",
+  "YPO3830": "bigg2-ype",
+  "YPO2993": "bigg2-ype",
+  "YPO2995": "bigg2-ype",
+  "YPO4056": "bigg2-ype",
+  "YPO4057": "bigg2-ype",
+  "YPO4054": "bigg2-ype",
+  "YPO3834": "bigg2-ype",
+  "YPO0008": "bigg2-ype",
+  "YPO1430": "bigg2-ype",
+  "YPO1435": "bigg2-ype",
+  "YPO0439": "bigg2-ype",
+  "YPO0003": "bigg2-ype",
+  "YPO0007": "bigg2-ype",
+  "YPO0006": "bigg2-ype",
+  "YPO1312": "bigg2-ype",
+  "YPO0549": "bigg2-ype",
+  "YPO1310": "bigg2-ype",
+  "YPO1311": "bigg2-ype",
+  "YPO1641": "bigg2-ype",
+  "YPO3168": "bigg2-ype",
+  "YPO3167": "bigg2-ype",
+  "YPO3166": "bigg2-ype",
+  "YPO3165": "bigg2-ype",
+  "YPO3164": "bigg2-ype",
+  "YPO1648": "bigg2-ype",
+  "YPO1766": "bigg2-ype",
+  "YPO2627": "bigg2-ype",
+  "YPO0793": "bigg2-ype",
+  "YPO0792": "bigg2-ype",
+  "YPO0794": "bigg2-ype",
+  "YPO0796": "bigg2-ype",
+  "YPO2157": "bigg2-ype",
+  "YPO2908": "bigg2-ype",
+  "YPO2907": "bigg2-ype",
+  "YPO3569": "bigg2-ype",
+  "YPO3118": "bigg2-ype",
+  "YPO1389": "bigg2-ype",
+  "YPO0310": "bigg2-ype",
+  "YPO0313": "bigg2-ype",
+  "YPO0312": "bigg2-ype",
+  "YPO1384": "bigg2-ype",
+  "YPO3446": "bigg2-ype",
+  "YPO0648": "bigg2-ype",
+  "YPO1381": "bigg2-ype",
+  "YPO3117": "bigg2-ype",
+  "YPO1383": "bigg2-ype",
+  "YPO3443": "bigg2-ype",
+  "YPO1166": "bigg2-ype",
+  "YPO3660": "bigg2-ype",
+  "YPO3845": "bigg2-ype",
+  "YPO3848": "bigg2-ype",
+  "YPO3849": "bigg2-ype",
+  "YPO1168": "bigg2-ype",
+  "YPO0945": "bigg2-ype",
+  "YPO0946": "bigg2-ype",
+  "YPO0942": "bigg2-ype",
+  "YPO1939": "bigg2-ype",
+  "YPO1199": "bigg2-ype",
+  "YPO2649": "bigg2-ype",
+  "YPO2648": "bigg2-ype",
+  "YPO2645": "bigg2-ype",
+  "YPO2647": "bigg2-ype",
+  "YPO2646": "bigg2-ype",
+  "YPO4115": "bigg2-ype",
+  "YPO2768": "bigg2-ype",
+  "YPO2769": "bigg2-ype",
+  "YPO4114": "bigg2-ype",
+  "YPO3202": "bigg2-ype",
+  "YPO0893": "bigg2-ype",
+  "YPO4128": "bigg2-ype",
+  "YPO0891": "bigg2-ype",
+  "YPO4126": "bigg2-ype",
+  "YPO4127": "bigg2-ype",
+  "YPO4124": "bigg2-ype",
+  "YPO4125": "bigg2-ype",
+  "YPO3361": "bigg2-ype",
+  "YPO3360": "bigg2-ype",
+  "YPO4120": "bigg2-ype",
+  "YPO4121": "bigg2-ype",
+  "YPO3016": "bigg2-ype",
+  "YPO3015": "bigg2-ype",
+  "YPO3014": "bigg2-ype",
+  "YPO3013": "bigg2-ype",
+  "YPO3012": "bigg2-ype",
+  "YPO2548": "bigg2-ype",
+  "YPO2549": "bigg2-ype",
+  "YPO2546": "bigg2-ype",
+  "YPO2547": "bigg2-ype",
+  "YPO2544": "bigg2-ype",
+  "YPO2545": "bigg2-ype",
+  "YPO2543": "bigg2-ype",
+  "YPO2013": "bigg2-ype",
+  "YPO2205": "bigg2-ype",
+  "YPO3385": "bigg2-ype",
+  "YPO3384": "bigg2-ype",
+  "YPO3383": "bigg2-ype",
+  "YPO3380": "bigg2-ype",
+  "YPO3389": "bigg2-ype",
+  "YPO2763": "bigg2-ype",
+  "YPO2494": "bigg2-ype",
+  "YPO2496": "bigg2-ype",
+  "YPO2499": "bigg2-ype",
+  "YPO3062": "bigg2-ype",
+  "YPO2161": "bigg2-ype",
+  "YPO2164": "bigg2-ype",
+  "YPO2203": "bigg2-ype",
+  "YPO3064": "bigg2-ype",
+  "YPO2167": "bigg2-ype",
+  "YPO2630": "bigg2-ype",
+  "YPO0068": "bigg2-ype",
+  "YPO0888": "bigg2-ype",
+  "YPO0440": "bigg2-ype",
+  "YPO0442": "bigg2-ype",
+  "YPO0444": "bigg2-ype",
+  "YPO1654": "bigg2-ype",
+  "YPO1300": "bigg2-ype",
+  "YPO3941": "bigg2-ype",
+  "YPO3940": "bigg2-ype",
+  "YPO3942": "bigg2-ype",
+  "YPO0162": "bigg2-ype",
+  "YPO0048": "bigg2-ype",
+  "YPO0160": "bigg2-ype",
+  "YPO0161": "bigg2-ype",
+  "YPO0045": "bigg2-ype",
+  "YPO0047": "bigg2-ype",
+  "YPO1650": "bigg2-ype",
+  "YPO0040": "bigg2-ype",
+  "YPO0169": "bigg2-ype",
+  "YPO2425": "bigg2-ype",
+  "YPO3211": "bigg2-ype",
+  "YPO2421": "bigg2-ype",
+  "YPO0915": "bigg2-ype",
+  "YPO2423": "bigg2-ype",
+  "YPO2422": "bigg2-ype",
+  "YPO1298": "bigg2-ype",
+  "YPO2429": "bigg2-ype",
+  "YPO2381": "bigg2-ype",
+  "YPO2383": "bigg2-ype",
+  "YPO1608": "bigg2-ype",
+  "YPO0452": "bigg2-ype",
+  "YPO3200": "bigg2-ype",
+  "YPO0348": "bigg2-ype",
+  "YPO1600": "bigg2-ype",
+  "YPO0347": "bigg2-ype",
+  "YPO0616": "bigg2-ype",
+  "YPO0345": "bigg2-ype",
+  "YPO1605": "bigg2-ype",
+  "YPO1598": "bigg2-ype",
+  "YPO3365": "bigg2-ype",
+  "YPO3364": "bigg2-ype",
+  "YPO2368": "bigg2-ype",
+  "YPO1597": "bigg2-ype",
+  "YPO3400": "bigg2-ype",
+  "YPO3401": "bigg2-ype",
+  "YPO3402": "bigg2-ype",
+  "YPO3366": "bigg2-ype",
+  "YPO3623": "bigg2-ype",
+  "YPO3407": "bigg2-ype",
+  "YPO3408": "bigg2-ype",
+  "YPO4122": "bigg2-ype",
+  "YPO4123": "bigg2-ype",
+  "YPO1502": "bigg2-ype",
+  "YPO1501": "bigg2-ype",
+  "YPO1507": "bigg2-ype",
+  "YPO1505": "bigg2-ype",
+  "YPO4068": "bigg2-ype",
+  "YPO4067": "bigg2-ype",
+  "YPO1916": "bigg2-ype",
+  "YPO1508": "bigg2-ype",
+  "YPO4061": "bigg2-ype",
+  "YPO1913": "bigg2-ype",
+  "YPO0531": "bigg2-ype",
+  "YPO0530": "bigg2-ype",
+  "YPO0533": "bigg2-ype",
+  "YPO0532": "bigg2-ype",
+  "YPO1046": "bigg2-ype",
+  "YPO3589": "bigg2-ype",
+  "YPO0056": "bigg2-ype",
+  "YPO1048": "bigg2-ype",
+  "YPO1049": "bigg2-ype",
+  "YPO3624": "bigg2-ype",
+  "YPO3625": "bigg2-ype",
+  "YPO3626": "bigg2-ype",
+  "YPO3627": "bigg2-ype",
+  "YPO0909": "bigg2-ype",
+  "YPO1283": "bigg2-ype",
+  "YPO1321": "bigg2-ype",
+  "YPO1327": "bigg2-ype",
+  "YPO0905": "bigg2-ype",
+  "YPO0906": "bigg2-ype",
+  "YPO1324": "bigg2-ype",
+  "YPO2551": "bigg2-ype",
+  "YPO3011": "bigg2-ype",
+  "YPO2930": "bigg2-ype",
+  "YPO2836": "bigg2-ype",
+  "YPO2837": "bigg2-ype",
+  "YPO2830": "bigg2-ype",
+  "YPO3123": "bigg2-ype",
+  "YPO2014": "bigg2-ype",
+  "YPO3249": "bigg2-ype",
+  "YPO0995": "bigg2-ype",
+  "YPO0584": "bigg2-ype",
+  "YPO3243": "bigg2-ype",
+  "YPO3530": "bigg2-ype",
+  "YPO0581": "bigg2-ype",
+  "YPO3244": "bigg2-ype",
+  "YPO2293": "bigg2-ype",
+  "YPO3059": "bigg2-ype",
+  "YPO2294": "bigg2-ype",
+  "YPO2295": "bigg2-ype",
+  "YPO3053": "bigg2-ype",
+  "YPO2298": "bigg2-ype",
+  "YPO3758": "bigg2-ype",
+  "YPO1138": "bigg2-ype",
+  "YPO1139": "bigg2-ype",
+  "YPO3831": "bigg2-ype",
+  "YPO1137": "bigg2-ype",
+  "YPO3832": "bigg2-ype",
+  "YPO1133": "bigg2-ype",
+  "YPO3837": "bigg2-ype",
+  "YPO2616": "bigg2-ype",
+  "YPO2614": "bigg2-ype",
+  "YPO2615": "bigg2-ype",
+  "YPO2612": "bigg2-ype",
+  "YPO2613": "bigg2-ype",
+  "YPO2610": "bigg2-ype",
+  "YPO4117": "bigg2-ype",
+  "YPO4116": "bigg2-ype",
+  "YPO3334": "bigg2-ype",
+  "YPO3335": "bigg2-ype",
+  "YPO2208": "bigg2-ype",
+  "YPO2757": "bigg2-ype",
+  "YPO2204": "bigg2-ype",
+  "YPO2206": "bigg2-ype",
+  "YPO2752": "bigg2-ype",
+  "YPO4119": "bigg2-ype",
+  "YPO4118": "bigg2-ype",
+  "YPO3907": "bigg2-ype",
+  "YPO3906": "bigg2-ype",
+  "YPO1758": "bigg2-ype",
+  "YPO2188": "bigg2-ype",
+  "YPO3909": "bigg2-ype",
+  "YPO3908": "bigg2-ype",
+  "YPO2180": "bigg2-ype",
+  "YPO0122": "bigg2-ype",
+  "YPO0126": "bigg2-ype",
+  "YPO2053": "bigg2-ype",
+  "YPO2054": "bigg2-ype",
+  "YPO2059": "bigg2-ype",
+  "YPO3388": "bigg2-ype",
+  "YPO1415": "bigg2-ype",
+  "YPO0493": "bigg2-ype",
+  "YPO2984": "bigg2-ype",
+  "YPO1207": "bigg2-ype",
+  "YPO2982": "bigg2-ype",
+  "YPO2983": "bigg2-ype",
+  "YPO3023": "bigg2-ype",
+  "YPO2690": "bigg2-ype",
+  "YPO3454": "bigg2-ype",
+  "YPO3455": "bigg2-ype",
+  "YPO0015": "bigg2-ype",
+  "YPO1958": "bigg2-ype",
+  "YPO2960": "bigg2-ype",
+  "YPO2370": "bigg2-ype",
+  "YPO0159": "bigg2-ype",
+  "YPO2372": "bigg2-ype",
+  "YPO0157": "bigg2-ype",
+  "YPO0156": "bigg2-ype",
+  "YPO0155": "bigg2-ype",
+  "YPO0152": "bigg2-ype",
+  "YPO3179": "bigg2-ype",
+  "YPO1771": "bigg2-ype",
+  "YPO3176": "bigg2-ype",
+  "YPO1773": "bigg2-ype",
+  "YPO0490": "bigg2-ype",
+  "YPO3172": "bigg2-ype",
+  "YPO3173": "bigg2-ype",
+  "YPO1129": "bigg2-ype",
+  "YPO2870": "bigg2-ype",
+  "YPO2871": "bigg2-ype",
+  "YPO1128": "bigg2-ype",
+  "YPO2878": "bigg2-ype",
+  "YPO2879": "bigg2-ype",
+  "YPO0783": "bigg2-ype",
+  "YPO2160": "bigg2-ype",
+  "YPO3576": "bigg2-ype",
+  "YPO3577": "bigg2-ype",
+  "YPO3578": "bigg2-ype",
+  "YPO0459": "bigg2-ype",
+  "YPO2977": "bigg2-ype",
+  "YPO0035": "bigg2-ype",
+  "YPO0654": "bigg2-ype",
+  "YPO0658": "bigg2-ype",
+  "YPO1390": "bigg2-ype",
+  "YPO1391": "bigg2-ype",
+  "YPO1396": "bigg2-ype",
+  "YPO3990": "bigg2-ype",
+  "YPO1395": "bigg2-ype",
+  "YPO3718": "bigg2-ype",
+  "YPO3719": "bigg2-ype",
+  "YPO1171": "bigg2-ype",
+  "YPO1176": "bigg2-ype",
+  "YPO1177": "bigg2-ype",
+  "YPO3657": "bigg2-ype",
+  "YPO3659": "bigg2-ype",
+  "YPO3658": "bigg2-ype",
+  "YPO3712": "bigg2-ype",
+  "YPO3714": "bigg2-ype",
+  "YPO3715": "bigg2-ype",
+  "YPO3301": "bigg2-ype",
+  "YPO3300": "bigg2-ype",
+  "YPO1374": "bigg2-ype",
+  "YPO1073": "bigg2-ype",
+  "YPO1072": "bigg2-ype",
+  "YPO1379": "bigg2-ype",
+  "YPO1075": "bigg2-ype",
+  "YPO1074": "bigg2-ype",
+  "YPO3781": "bigg2-ype",
+  "YPO2710": "bigg2-ype",
+  "YPO3786": "bigg2-ype",
+  "YPO3788": "bigg2-ype",
+  "YPO3273": "bigg2-ype",
+  "YPO3378": "bigg2-ype",
+  "YPO3270": "bigg2-ype",
+  "YPO1083": "bigg2-ype",
+  "YPO3372": "bigg2-ype",
+  "YPO3371": "bigg2-ype",
+  "YPO0579": "bigg2-ype",
+  "YPO3377": "bigg2-ype",
+  "YPO3375": "bigg2-ype",
+  "YPO2539": "bigg2-ype",
+  "YPO2021": "bigg2-ype",
+  "YPO1106": "bigg2-ype",
+  "YPO3390": "bigg2-ype",
+  "YPO3391": "bigg2-ype",
+  "YPO3392": "bigg2-ype",
+  "YPO3393": "bigg2-ype",
+  "YPO1109": "bigg2-ype",
+  "YPO1108": "bigg2-ype",
+  "YPO2256": "bigg2-ype",
+  "YPO2257": "bigg2-ype",
+  "YPO2254": "bigg2-ype",
+  "YPO2255": "bigg2-ype",
+  "YPO2158": "bigg2-ype",
+  "YPO3099": "bigg2-ype",
+  "YPO2628": "bigg2-ype",
+  "YPO3097": "bigg2-ype",
+  "YPO2626": "bigg2-ype",
+  "YPO3095": "bigg2-ype",
+  "YPO3094": "bigg2-ype",
+  "YPO2623": "bigg2-ype",
+  "YPO2621": "bigg2-ype",
+  "YPO2442": "bigg2-ype",
+  "YPO2441": "bigg2-ype",
+  "YPO2329": "bigg2-ype",
+  "YPO0181": "bigg2-ype",
+  "YPO0185": "bigg2-ype",
+  "YPO2448": "bigg2-ype",
+  "YPO3864": "bigg2-ype",
+  "YPO3897": "bigg2-ype",
+  "YPO0058": "bigg2-ype",
+  "YPO0059": "bigg2-ype",
+  "YPO0117": "bigg2-ype",
+  "YPO0116": "bigg2-ype",
+  "YPO0053": "bigg2-ype",
+  "YPO3954": "bigg2-ype",
+  "YPO1851": "bigg2-ype",
+  "YPO0057": "bigg2-ype",
+  "YPO3899": "bigg2-ype",
+  "YPO0055": "bigg2-ype",
+  "YPO2433": "bigg2-ype",
+  "YPO2438": "bigg2-ype",
+  "YPO2439": "bigg2-ype",
+  "YPO1209": "bigg2-ype",
+  "YPO0330": "bigg2-ype",
+  "YPO1200": "bigg2-ype",
+  "YPO0334": "bigg2-ype",
+  "YPO3286": "bigg2-ype",
+  "YPO1349": "bigg2-ype",
+  "YPO2253": "bigg2-ype",
+  "YPO0241": "bigg2-ype",
+  "YPO3430": "bigg2-ype",
+  "YPO1511": "bigg2-ype",
+  "YPO1512": "bigg2-ype",
+  "YPO4078": "bigg2-ype",
+  "YPO2735": "bigg2-ype",
+  "YPO0024": "bigg2-ype",
+  "YPO4071": "bigg2-ype",
+  "YPO4072": "bigg2-ype",
+  "YPO1926": "bigg2-ype",
+  "YPO0935": "bigg2-ype",
+  "YPO0246": "bigg2-ype",
+  "YPO0931": "bigg2-ype",
+  "YPO3180": "bigg2-ype",
+  "YPO3183": "bigg2-ype",
+  "YPO3182": "bigg2-ype",
+  "YPO3225": "bigg2-ype",
+  "YPO0158": "bigg2-ype",
+  "YPO0522": "bigg2-ype",
+  "YPO3221": "bigg2-ype",
+  "YPO3222": "bigg2-ype",
+  "YPO0521": "bigg2-ype",
+  "YPO0520": "bigg2-ype",
+  "YPO2734": "bigg2-ype",
+  "YPO1331": "bigg2-ype",
+  "YPO1332": "bigg2-ype",
+  "YPO1333": "bigg2-ype",
+  "YPO1334": "bigg2-ype",
+  "YPO2705": "bigg2-ype",
+  "YPO2921": "bigg2-ype",
+  "YPO1867": "bigg2-ype",
+  "YPO2929": "bigg2-ype",
+  "YPO2844": "bigg2-ype",
+  "YPO3949": "bigg2-ype",
+  "YPO3132": "bigg2-ype",
+  "YPO1636": "bigg2-ype",
+  "YPO3501": "bigg2-ype",
+  "YPO3500": "bigg2-ype",
+  "YPO0239": "bigg2-ype",
+  "YPO3506": "bigg2-ype",
+  "YPO3761": "bigg2-ype",
+  "YPO3827": "bigg2-ype",
+  "YPO3824": "bigg2-ype",
+  "YPO3825": "bigg2-ype",
+  "YPO3820": "bigg2-ype",
+  "YPO3766": "bigg2-ype",
+  "YPO3769": "bigg2-ype",
+  "YPO3768": "bigg2-ype",
+  "YPO3986": "bigg2-ype",
+  "YPO2263": "bigg2-ype",
+  "YPO3980": "bigg2-ype",
+  "YPO1025": "bigg2-ype",
+  "YPO1149": "bigg2-ype",
+  "YPO1022": "bigg2-ype",
+  "YPO1023": "bigg2-ype",
+  "YPO1147": "bigg2-ype",
+  "YPO1146": "bigg2-ype",
+  "YPO1145": "bigg2-ype",
+  "YPO0145": "bigg2-ype",
+  "YPO3888": "bigg2-ype",
+  "YPO0436": "bigg2-ype",
+  "YPO1965": "bigg2-ype",
+  "YPO2559": "bigg2-ype",
+  "YPO2846": "bigg2-ype",
+  "YPO3347": "bigg2-ype",
+  "YPO1539": "bigg2-ype",
+  "YPO2744": "bigg2-ype",
+  "YPO3162": "bigg2-ype",
+  "YPO2214": "bigg2-ype",
+  "YPO2420": "bigg2-ype",
+  "YPO2409": "bigg2-ype",
+  "YPO2567": "bigg2-ype",
+  "YPO3964": "bigg2-ype",
+  "YPO1775": "bigg2-ype",
+  "YPO3910": "bigg2-ype",
+  "YPO3914": "bigg2-ype",
+  "YPO0378": "bigg2-ype",
+  "YPO2428": "bigg2-ype",
+  "YPO2067": "bigg2-ype",
+  "YPO2066": "bigg2-ype",
+  "YPO2061": "bigg2-ype",
+  "YPO2060": "bigg2-ype",
+  "YPO2063": "bigg2-ype",
+  "YPO1569": "bigg2-ype",
+  "YPO2509": "bigg2-ype",
+  "YPO0465": "bigg2-ype",
+  "YPO0463": "bigg2-ype",
+  "YPO0461": "bigg2-ype",
+  "YPO0460": "bigg2-ype",
+  "YPO3850": "bigg2-ype",
+  "YPO3937": "bigg2-ype",
+  "YPO3967": "bigg2-ype",
+  "YPO0060": "bigg2-ype",
+  "YPO4035": "bigg2-ype",
+  "YPO4036": "bigg2-ype",
+  "YPO4037": "bigg2-ype",
+  "YPO4038": "bigg2-ype",
+  "YPO4039": "bigg2-ype",
+  "YPO1966": "bigg2-ype",
+  "YPO3177": "bigg2-ype",
+  "YPO1963": "bigg2-ype",
+  "YPO1962": "bigg2-ype",
+  "YPO1601": "bigg2-ype",
+  "YPO0144": "bigg2-ype",
+  "YPO1414": "bigg2-ype",
+  "YPO0410": "bigg2-ype",
+  "YPO2369": "bigg2-ype",
+  "YPO0416": "bigg2-ype",
+  "YPO1410": "bigg2-ype",
+  "YPO1413": "bigg2-ype",
+  "YPO1412": "bigg2-ype",
+  "YPO0364": "bigg2-ype",
+  "YPO0365": "bigg2-ype",
+  "YPO1603": "bigg2-ype",
+  "YPO0360": "bigg2-ype",
+  "YPO3141": "bigg2-ype",
+  "YPO2524": "bigg2-ype",
+  "YPO3142": "bigg2-ype",
+  "YPO3144": "bigg2-ype",
+  "YPO1661": "bigg2-ype",
+  "YPO2889": "bigg2-ype",
+  "YPO2883": "bigg2-ype",
+  "YPO2751": "bigg2-ype",
+  "YPO3464": "bigg2-ype",
+  "YPO1599": "bigg2-ype",
+  "YPO3171": "bigg2-ype",
+  "YPO1351": "bigg2-ype",
+  "YPO1117": "bigg2-ype",
+  "YPO4080": "bigg2-ype",
+  "YPO4082": "bigg2-ype",
+  "YPO4089": "bigg2-ype",
+  "YPO2016": "bigg2-ype",
+  "YPO0844": "bigg2-ype",
+  "YPO3868": "bigg2-ype",
+  "YPO3318": "bigg2-ype",
+  "YPO3319": "bigg2-ype",
+  "YPO3760": "bigg2-ype",
+  "YPO3862": "bigg2-ype",
+  "YPO3863": "bigg2-ype",
+  "YPO3861": "bigg2-ype",
+  "YPO3866": "bigg2-ype",
+  "YPO3312": "bigg2-ype",
+  "YPO3865": "bigg2-ype",
+  "YPO1068": "bigg2-ype",
+  "YPO0922": "bigg2-ype",
+  "YPO3854": "bigg2-ype",
+  "YPO3762": "bigg2-ype",
+  "YPO0683": "bigg2-ype",
+  "YPO0682": "bigg2-ype",
+  "YPO1060": "bigg2-ype",
+  "YPO0960": "bigg2-ype",
+  "YPO2816": "bigg2-ype",
+  "YPO3793": "bigg2-ype",
+  "YPO3794": "bigg2-ype",
+  "YPO3795": "bigg2-ype",
+  "YPO3796": "bigg2-ype",
+  "YPO1548": "bigg2-ype",
+  "YPO0561": "bigg2-ype",
+  "YPO0565": "bigg2-ype",
+  "YPO3070": "bigg2-ype",
+  "YPO2528": "bigg2-ype",
+  "YPO3032": "bigg2-ype",
+  "YPO3034": "bigg2-ype",
+  "YPO3037": "bigg2-ype",
+  "YPO2686": "bigg2-ype",
+  "YPO3038": "bigg2-ype",
+  "YPO2523": "bigg2-ype",
+  "YPO1299": "bigg2-ype",
+  "YPO2525": "bigg2-ype",
+  "YPO2527": "bigg2-ype",
+  "YPO1114": "bigg2-ype",
+  "YPO1115": "bigg2-ype",
+  "YPO1116": "bigg2-ype",
+  "YPO3403": "bigg2-ype",
+  "YPO1110": "bigg2-ype",
+  "YPO1111": "bigg2-ype",
+  "YPO1112": "bigg2-ype",
+  "YPO1113": "bigg2-ype",
+  "YPO0329": "bigg2-ype",
+  "YPO1540": "bigg2-ype",
+  "YPO1118": "bigg2-ype",
+  "YPO0832": "bigg2-ype",
+  "YPO1964": "bigg2-ype",
+  "YPO2223": "bigg2-ype",
+  "YPO2222": "bigg2-ype",
+  "YPO2221": "bigg2-ype",
+  "YPO3726": "bigg2-ype",
+  "YPO2227": "bigg2-ype",
+  "YPO3722": "bigg2-ype",
+  "YPO2142": "bigg2-ype",
+  "YPO2635": "bigg2-ype",
+  "YPO2141": "bigg2-ype",
+  "YPO3080": "bigg2-ype",
+  "YPO3728": "bigg2-ype",
+  "YPO3725": "bigg2-ype",
+  "YPO3929": "bigg2-ype",
+  "YPO3928": "bigg2-ype",
+  "YPO0104": "bigg2-ype",
+  "YPO1028": "bigg2-ype",
+  "YPO3927": "bigg2-ype",
+  "YPO3727": "bigg2-ype",
+  "YPO3925": "bigg2-ype",
+  "YPO3924": "bigg2-ype",
+  "YPO3711": "bigg2-ype",
+  "YPO3305": "bigg2-ype",
+  "YPO0328": "bigg2-ype",
+  "YPO1238": "bigg2-ype",
+  "YPO0085": "bigg2-ype",
+  "YPO0088": "bigg2-ype",
+  "YPO3036": "bigg2-ype",
+  "YPO0767": "bigg2-ype",
+  "YPO1914": "bigg2-ype",
+  "YPO3716": "bigg2-ype",
+  "YPO1509": "bigg2-ype",
+  "YPO3428": "bigg2-ype",
+  "YPO3729": "bigg2-ype",
+  "YPO3424": "bigg2-ype",
+  "YPO2147": "bigg2-ype",
+  "YPO4048": "bigg2-ype",
+  "YPO0038": "bigg2-ype",
+  "YPO0066": "bigg2-ype",
+  "YPO0425": "bigg2-ype",
+  "YPO1441": "bigg2-ype",
+  "YPO1525": "bigg2-ype",
+  "YPO1524": "bigg2-ype",
+  "YPO0311": "bigg2-ype",
+  "YPO1522": "bigg2-ype",
+  "YPO0254": "bigg2-ype",
+  "YPO3193": "bigg2-ype",
+  "YPO0920": "bigg2-ype",
+  "YPO0921": "bigg2-ype",
+  "YPO0926": "bigg2-ype",
+  "YPO0251": "bigg2-ype",
+  "YPO0253": "bigg2-ype",
+  "YPO0553": "bigg2-ype",
+  "YPO0552": "bigg2-ype",
+  "YPO0551": "bigg2-ype",
+  "YPO0929": "bigg2-ype",
+  "YPO3215": "bigg2-ype",
+  "YPO0556": "bigg2-ype",
+  "YPO0555": "bigg2-ype",
+  "YPO1041": "bigg2-ype",
+  "YPO3516": "bigg2-ype",
+  "YPO2859": "bigg2-ype",
+  "YPO2912": "bigg2-ype",
+  "YPO3513": "bigg2-ype",
+  "YPO3697": "bigg2-ype",
+  "YPO3696": "bigg2-ype",
+  "YPO3519": "bigg2-ype",
+  "YPO1215": "bigg2-ype",
+  "YPO3588": "bigg2-ype",
+  "YPO3953": "bigg2-ype",
+  "YPO1629": "bigg2-ype",
+  "YPO3851": "bigg2-ype",
+  "YPO3999": "bigg2-ype",
+  "YPO3857": "bigg2-ype",
+  "YPO3856": "bigg2-ype",
+  "YPO3855": "bigg2-ype",
+  "YPO3779": "bigg2-ype",
+  "YPO3992": "bigg2-ype",
+  "YPO3859": "bigg2-ype",
+  "YPO3858": "bigg2-ype",
+  "YPO3996": "bigg2-ype",
+  "YPO3771": "bigg2-ype",
+  "YPO0954": "bigg2-ype",
+  "YPO1150": "bigg2-ype",
+  "YPO1151": "bigg2-ype",
+  "YPO1152": "bigg2-ype",
+  "YPO3285": "bigg2-ype",
+  "YPO3230": "bigg2-ype",
+  "YPO0958": "bigg2-ype",
+  "YPO2672": "bigg2-ype",
+  "YPO2675": "bigg2-ype",
+  "YPO1285": "bigg2-ype",
+  "YPO0322": "bigg2-ype",
+  "YPO3353": "bigg2-ype",
+  "YPO2264": "bigg2-ype",
+  "YPO3358": "bigg2-ype",
+  "YPO2773": "bigg2-ype",
+  "YPO2772": "bigg2-ype",
+  "YPO2775": "bigg2-ype",
+  "YPO2774": "bigg2-ype",
+  "YPO2777": "bigg2-ype",
+  "YPO2776": "bigg2-ype",
+  "YPO2418": "bigg2-ype",
+  "YPO2550": "bigg2-ype",
+  "YPO2553": "bigg2-ype",
+  "YPO2552": "bigg2-ype",
+  "YPO2555": "bigg2-ype",
+  "YPO2554": "bigg2-ype",
+  "YPO0550": "bigg2-ype",
+  "YPO3423": "bigg2-ype",
+  "YPO2566": "bigg2-ype",
+  "YPO0557": "bigg2-ype",
+  "YPO0577": "bigg2-ype",
+  "YPO3075": "bigg2-ype",
+  "YPO3077": "bigg2-ype",
+  "YPO3076": "bigg2-ype",
+  "YPO2176": "bigg2-ype",
+  "YPO3073": "bigg2-ype",
+  "YPO2174": "bigg2-ype",
+  "YPO2440": "bigg2-ype",
+  "YPO0907": "bigg2-ype",
+  "YPO2074": "bigg2-ype",
+  "YPO2306": "bigg2-ype",
+  "YPO2302": "bigg2-ype",
+  "YPO2303": "bigg2-ype",
+  "YPO0474": "bigg2-ype",
+  "YPO0475": "bigg2-ype",
+  "YPO0477": "bigg2-ype",
+  "YPO0470": "bigg2-ype",
+  "YPO0132": "bigg2-ype",
+  "YPO0070": "bigg2-ype",
+  "YPO3767": "bigg2-ype",
+  "YPO3977": "bigg2-ype",
+  "YPO3971": "bigg2-ype",
+  "YPO0078": "bigg2-ype",
+  "YPO3376": "bigg2-ype",
+  "YPO4001": "bigg2-ype",
+  "YPO4000": "bigg2-ype",
+  "YPO4003": "bigg2-ype",
+  "YPO4002": "bigg2-ype",
+  "YPO1400": "bigg2-ype",
+  "YPO2394": "bigg2-ype",
+  "YPO2393": "bigg2-ype",
+  "YPO0411": "bigg2-ype",
+  "YPO2391": "bigg2-ype",
+  "YPO2390": "bigg2-ype"
+ },
+ "bigg2-ype": {
+  "data_path": "e:\\cloud\\Dropbox\\projects\\sebastian_metadraft_templates\\metadraft_templates\\metadraft_template_data_2019-1\\data\\bigg2",
+  "genbank_in": "iPC815.gb",
+  "gene2reaction": {
+   "YPO0357": [
+    "R_FRD2",
+    "R_FRD3"
+   ],
+   "YPO0359": [
+    "R_FRD2",
+    "R_FRD3"
+   ],
+   "YPO0358": [
+    "R_FRD2",
+    "R_FRD3"
+   ],
+   "YPO1610": [
+    "R_SHK3Dr"
+   ],
+   "YPO1617": [
+    "R_NADH9",
+    "R_NADH5",
+    "R_NADH10"
+   ],
+   "YPO1615": [
+    "R_AGM4PH",
+    "R_AGMH",
+    "R_AGM3PH"
+   ],
+   "YPO1614": [
+    "R_TMK"
+   ],
+   "YPO2957": [
+    "R_MLTGY3pp",
+    "R_MLTGY4pp",
+    "R_MLTGY1pp",
+    "R_MLTGY2pp"
+   ],
+   "YPO2899": [
+    "R_MI1PP"
+   ],
+   "YPO1581": [
+    "R_RAFGH",
+    "R_STACHGALACT",
+    "R_GALS3"
+   ],
+   "YPO3924": [
+    "R_ARGSL"
+   ],
+   "YPO1587": [
+    "R_DHORTS"
+   ],
+   "YPO2958": [
+    "R_FEpp",
+    "R_FEex"
+   ],
+   "YPO3412": [
+    "R_ADMDC"
+   ],
+   "YPO3411": [
+    "R_SPMS"
+   ],
+   "YPO3417": [
+    "R_GLYCL",
+    "R_AKGDH",
+    "R_PDH"
+   ],
+   "YPO3415": [
+    "R_MICITDr",
+    "R_ACONTb",
+    "R_ACONTa"
+   ],
+   "YPO3419": [
+    "R_PDH"
+   ],
+   "YPO3418": [
+    "R_PDH"
+   ],
+   "YPO3557": [
+    "R_GLUSy"
+   ],
+   "YPO2021": [
+    "R_KDOPS"
+   ],
+   "YPO4090": [
+    "R_ORNCD"
+   ],
+   "YPO1570": [
+    "R_ARGSS"
+   ],
+   "YPO0672": [
+    "R_AGPAT140",
+    "R_AGPAT141",
+    "R_AGPAT120",
+    "R_AGPAT161",
+    "R_AGPAT160",
+    "R_AGPAT181",
+    "R_AGPAT180"
+   ],
+   "YPO0670": [
+    "R_NADPHQR3",
+    "R_NADPHQR4",
+    "R_NADPHQR2"
+   ],
+   "YPO0676": [
+    "R_DKGLCNR1",
+    "R_ALR2"
+   ],
+   "YPO1055": [
+    "R_3HAD160",
+    "R_3HAD180",
+    "R_3HAD60",
+    "R_3HAD80",
+    "R_3HAD181",
+    "R_3HAD141",
+    "R_3HAD100",
+    "R_3HAD161",
+    "R_3HAD140",
+    "R_3HAD121",
+    "R_3HAD120",
+    "R_3HAD40"
+   ],
+   "YPO1054": [
+    "R_U23GAAT"
+   ],
+   "YPO1057": [
+    "R_LPADSS"
+   ],
+   "YPO1056": [
+    "R_UAGAAT"
+   ],
+   "YPO1198": [
+    "R_GLYBabcpp"
+   ],
+   "YPO1050": [
+    "R_DASYN180",
+    "R_DASYN181",
+    "R_DASYN140",
+    "R_DASYN160",
+    "R_DASYN120",
+    "R_DASYN141",
+    "R_DASYN161"
+   ],
+   "YPO1194": [
+    "R_MCPST"
+   ],
+   "YPO3632": [
+    "R_PALMITTRANS"
+   ],
+   "YPO3323": [
+    "R_DMSOR2",
+    "R_DMSOR1"
+   ],
+   "YPO3325": [
+    "R_DMSOR2",
+    "R_DMSOR1"
+   ],
+   "YPO3324": [
+    "R_DMSOR2",
+    "R_DMSOR1"
+   ],
+   "YPO3326": [
+    "R_RBP4E"
+   ],
+   "YPO0918": [
+    "R_ARGt3pp",
+    "R_LYSt3pp"
+   ],
+   "YPO1358": [
+    "R_POX"
+   ],
+   "YPO1290": [
+    "R_SSALy"
+   ],
+   "YPO1357": [
+    "R_THRA2",
+    "R_ALATA_L2",
+    "R_THRA",
+    "R_ALATA_D2"
+   ],
+   "YPO1352": [
+    "R_ARGabcpp"
+   ],
+   "YPO0915": [
+    "R_RPI"
+   ],
+   "YPO1298": [
+    "R_FRUptspp"
+   ],
+   "YPO2824": [
+    "R_MTHFC",
+    "R_MTHFD"
+   ],
+   "YPO2827": [
+    "R_UPPRT"
+   ],
+   "YPO2829": [
+    "R_GARFT"
+   ],
+   "YPO2828": [
+    "R_PRAIS"
+   ],
+   "YPO2736": [
+    "R_PHEMEabcpp"
+   ],
+   "YPO1756": [
+    "R_MANptspp",
+    "R_GLCptspp",
+    "R_GAMptspp",
+    "R_ACMANAptspp",
+    "R_FRUpts2pp"
+   ],
+   "YPO1757": [
+    "R_MANptspp",
+    "R_GLCptspp",
+    "R_GAMptspp",
+    "R_ACMANAptspp",
+    "R_FRUpts2pp"
+   ],
+   "YPO3525": [
+    "R_METSOXR1"
+   ],
+   "YPO2904": [
+    "R_PPPNt2rpp"
+   ],
+   "YPO3521": [
+    "R_PPA"
+   ],
+   "YPO3520": [
+    "R_FBP"
+   ],
+   "YPO2984": [
+    "R_GLUTRS"
+   ],
+   "YPO3743": [
+    "R_THZPSN"
+   ],
+   "YPO3742": [
+    "R_THZPSN"
+   ],
+   "YPO3741": [
+    "R_THZPSN"
+   ],
+   "YPO3740": [
+    "R_TMPPP"
+   ],
+   "YPO3024": [
+    "R_ACNML"
+   ],
+   "YPO2692": [
+    "R_Kabcpp"
+   ],
+   "YPO2288": [
+    "R_AMPN"
+   ],
+   "YPO3020": [
+    "R_AMANK"
+   ],
+   "YPO2691": [
+    "R_Kabcpp"
+   ],
+   "YPO3808": [
+    "R_ILEabcpp",
+    "R_VALabcpp",
+    "R_THRabcpp",
+    "R_LEUabcpp"
+   ],
+   "YPO1127": [
+    "R_QULNS"
+   ],
+   "YPO3804": [
+    "R_ILEabcpp",
+    "R_VALabcpp",
+    "R_THRabcpp",
+    "R_LEUabcpp"
+   ],
+   "YPO3805": [
+    "R_ILEabcpp",
+    "R_VALabcpp",
+    "R_THRabcpp",
+    "R_LEUabcpp"
+   ],
+   "YPO3806": [
+    "R_ILEabcpp",
+    "R_VALabcpp",
+    "R_THRabcpp",
+    "R_LEUabcpp"
+   ],
+   "YPO3807": [
+    "R_ILEabcpp",
+    "R_VALabcpp",
+    "R_THRabcpp",
+    "R_LEUabcpp"
+   ],
+   "YPO2896": [
+    "R_CYSDSF"
+   ],
+   "YPO2959": [
+    "R_FEpp",
+    "R_FEex"
+   ],
+   "YPO2232": [
+    "R_F6PA"
+   ],
+   "YPO3736": [
+    "R_NADDP"
+   ],
+   "YPO3734": [
+    "R_UPPDC1"
+   ],
+   "YPO0088": [
+    "R_RNTR4c",
+    "R_RNTR1c",
+    "R_FLDR",
+    "R_RNTR3c",
+    "R_RNTR2c"
+   ],
+   "YPO2601": [
+    "R_MDDCP1pp",
+    "R_MDDCP5pp",
+    "R_MDDCP3pp",
+    "R_MDDCP2pp",
+    "R_MDDCP4pp"
+   ],
+   "YPO1222": [
+    "R_SERtex",
+    "R_IMPtex",
+    "R_DCMPtex",
+    "R_FUCtex",
+    "R_OCTAtex",
+    "R_ORNtex",
+    "R_Htex",
+    "R_XMPtex",
+    "R_NO2tex",
+    "R_L_LACtex",
+    "R_G3PCtex",
+    "R_G3PEtex",
+    "R_ISETACtex",
+    "R_23DAPPAtex",
+    "R_CU2tex",
+    "R_PROtex",
+    "R_ABUTtex",
+    "R_DGSNtex",
+    "R_GLCRtex",
+    "R_ILEtex",
+    "R_GDPtex",
+    "R_FRUURtex",
+    "R_3GMPtex",
+    "R_GLYBtex",
+    "R_ACGAM1Ptex",
+    "R_ACMUMtex",
+    "R_RMNtex",
+    "R_GTHOXtex",
+    "R_GLYCtex",
+    "R_LYStex",
+    "R_R5Ptex",
+    "R_SPMDtex",
+    "R_GLNtex",
+    "R_ACALDtex",
+    "R_GLYALDtex",
+    "R_26DAHtex",
+    "R_GALtex",
+    "R_ASNtex",
+    "R_METtex",
+    "R_MNLtex",
+    "R_GLCtex_copy1",
+    "R_DHAtex",
+    "R_GAL1Ptex",
+    "R_ACACtex",
+    "R_SO4tex",
+    "R_MALDtex",
+    "R_PACALDtex",
+    "R_MANtex",
+    "R_GAMAN6Ptex",
+    "R_TUNGStex",
+    "R_CHLtex",
+    "R_H2Stex",
+    "R_LCTStex",
+    "R_PPALtex",
+    "R_23CUMPtex",
+    "R_MAN6Ptex",
+    "R_TYRPtex",
+    "R_CYANtex",
+    "R_VALtex",
+    "R_GLYC3Ptex",
+    "R_XTSNtex",
+    "R_GLCNtex",
+    "R_DOPAtex",
+    "R_OROTtex",
+    "R_PEAMNtex",
+    "R_XYLUtex",
+    "R_GALCTtex",
+    "R_O2tex",
+    "R_ANHGMtex",
+    "R_3UMPtex",
+    "R_TARTRtex",
+    "R_GALURtex",
+    "R_CMPtex",
+    "R_DTMPtex",
+    "R_MOBDtex",
+    "R_ASO3tex",
+    "R_MANGLYCtex",
+    "R_CYSDtex",
+    "R_TREtex",
+    "R_TCYNTtex",
+    "R_CRNtex",
+    "R_CITtex",
+    "R_3CMPtex",
+    "R_SKMtex",
+    "R_PSCLYStex",
+    "R_F6Ptex",
+    "R_TRPtex",
+    "R_FE3tex",
+    "R_TMAOtex",
+    "R_COBALT2tex",
+    "R_HPPPNtex",
+    "R_PSERtex",
+    "R_GSNtex",
+    "R_HOMtex",
+    "R_G3PItex",
+    "R_GLYC2Ptex",
+    "R_ACGAL1Ptex",
+    "R_HCINNMtex",
+    "R_SULFACtex",
+    "R_HG2tex",
+    "R_URAtex",
+    "R_GALCTNtex",
+    "R_PTRCtex",
+    "R_GALCTNLtex",
+    "R_NOtex",
+    "R_DIMPtex",
+    "R_ACGAtex",
+    "R_CGLYtex",
+    "R_SUCCtex",
+    "R_12PPDStex",
+    "R_SO3tex",
+    "R_UDPACGALtex",
+    "R_ADEtex",
+    "R_NACtex",
+    "R_CYTDtex",
+    "R_HIStex",
+    "R_PROGLYtex",
+    "R_AMPtex",
+    "R_METSOX2tex",
+    "R_CSNtex",
+    "R_ACMANAtex",
+    "R_ACNAMtex",
+    "R_MALtex",
+    "R_DINStex",
+    "R_SBTtex",
+    "R_5DGLCNtex",
+    "R_G3PGtex",
+    "R_ALLTNtex",
+    "R_G1Ptex",
+    "R_Ktex",
+    "R_PYRtex",
+    "R_XANtex",
+    "R_DUMPtex",
+    "R_UDPGtex",
+    "R_G3PStex",
+    "R_TYMtex",
+    "R_FUMtex",
+    "R_DAPtex",
+    "R_GTPtex",
+    "R_PPAtex",
+    "R_FALDtex",
+    "R_NAtex",
+    "R_INSTtex",
+    "R_MG2tex",
+    "R_ARGtex",
+    "R_PHEtex",
+    "R_GAMtex",
+    "R_XYLtex",
+    "R_CYStex",
+    "R_BALAtex",
+    "R_O2Stex",
+    "R_Zn2tex",
+    "R_23CCMPtex",
+    "R_DDGLCNtex",
+    "R_G6Ptex",
+    "R_THRPtex",
+    "R_MMETtex",
+    "R_THRtex",
+    "R_THYMtex",
+    "R_GLUtex",
+    "R_GLYCAtex",
+    "R_H2tex",
+    "R_DCAtex",
+    "R_GLCUR1Ptex",
+    "R_LYXtex",
+    "R_GBBTNtex",
+    "R_FORtex",
+    "R_ETHAtex",
+    "R_DAMPtex",
+    "R_PPPNtex",
+    "R_ALLtex",
+    "R_NI2tex",
+    "R_THMtex",
+    "R_PItex",
+    "R_34dhpactex",
+    "R_PPTtex",
+    "R_NO3tex",
+    "R_H2Otex",
+    "R_ARBtex",
+    "R_MELIBtex",
+    "R_UDPGALtex",
+    "R_CYNTtex",
+    "R_GLYtex",
+    "R_AKGtex",
+    "R_PNTOtex",
+    "R_ETHSO3tex",
+    "R_TSULtex",
+    "R_UMPtex",
+    "R_TAURtex",
+    "R_THMDtex",
+    "R_BUTtex",
+    "R_CO2tex",
+    "R_HYXNtex",
+    "R_METSOX1tex",
+    "R_CD2tex",
+    "R_ASCBtex",
+    "R_UDPGLCURtex",
+    "R_DGMPtex",
+    "R_3AMPtex",
+    "R_GMPtex",
+    "R_CUtex",
+    "R_SO2tex",
+    "R_ACGALtex",
+    "R_BUTSO3tex",
+    "R_FRULYStex",
+    "R_NH4tex",
+    "R_DMStex",
+    "R_ETOHtex",
+    "R_CLtex",
+    "R_N2Otex",
+    "R_FE2tex",
+    "R_NMNtex",
+    "R_ASPtex",
+    "R_GTHRDtex",
+    "R_3PEPTtex",
+    "R_CA2tex",
+    "R_ACtex",
+    "R_23CAMPtex",
+    "R_GLCURtex",
+    "R_12PPDRtex",
+    "R_HXAtex",
+    "R_GALTtex",
+    "R_DMSOtex",
+    "R_UACGAMtex",
+    "R_LEUtex",
+    "R_ALAtex",
+    "R_FRUtex",
+    "R_ALAALAtex",
+    "R_RIBtex",
+    "R_4PEPTtex",
+    "R_4HOXPACDtex",
+    "R_METDtex",
+    "R_IDONtex",
+    "R_TYRtex",
+    "R_MSO3tex",
+    "R_AGMtex",
+    "R_23CGMPtex",
+    "R_TMAtex",
+    "R_GLYCLTtex",
+    "R_ACSERtex",
+    "R_DALAtex",
+    "R_MNtex",
+    "R_H2O2tex",
+    "R_D_LACtex",
+    "R_INDOLEtex",
+    "R_DSERtex",
+    "R_GALBDtex"
+   ],
+   "YPO3739": [
+    "R_AMPMS2"
+   ],
+   "YPO2604": [
+    "R_MCTP1App",
+    "R_MCTP2App"
+   ],
+   "YPO2607": [
+    "R_NMNAT",
+    "R_NNATr"
+   ],
+   "YPO3558": [
+    "R_GLUSy"
+   ],
+   "YPO2193": [
+    "R_ADOCBLtonex",
+    "R_CPGNtonex",
+    "R_FEENTERtonex",
+    "R_FECRMtonex",
+    "R_FEOXAMtonex",
+    "R_FE3DHBZStonex",
+    "R_FE3HOXtonex",
+    "R_FE3DCITtonex"
+   ],
+   "YPO3113": [
+    "R_CDPGD"
+   ],
+   "YPO3938": [
+    "R_GLCP2",
+    "R_GLCP"
+   ],
+   "YPO3939": [
+    "R_GLCS1"
+   ],
+   "YPO0138": [
+    "R_PPCK"
+   ],
+   "YPO3441": [
+    "R_AMPTASEPG",
+    "R_AMPTASECG"
+   ],
+   "YPO2514": [
+    "R_GLNabcpp"
+   ],
+   "YPO2046": [
+    "R_ARGTRS"
+   ],
+   "YPO2513": [
+    "R_GLNabcpp"
+   ],
+   "YPO2512": [
+    "R_GLNabcpp"
+   ],
+   "YPO3115": [
+    "R_G1PCTYT"
+   ],
+   "YPO0486": [
+    "R_DHFR"
+   ],
+   "YPO0481": [
+    "R_CBPS"
+   ],
+   "YPO0480": [
+    "R_DHDPRy"
+   ],
+   "YPO1549": [
+    "R_ATPPRT"
+   ],
+   "YPO0482": [
+    "R_CBPS"
+   ],
+   "YPO1547": [
+    "R_HSTPT"
+   ],
+   "YPO1546": [
+    "R_IGPDH",
+    "R_HISTP"
+   ],
+   "YPO1545": [
+    "R_IG3PS"
+   ],
+   "YPO1544": [
+    "R_PRMICI"
+   ],
+   "YPO1543": [
+    "R_IG3PS"
+   ],
+   "YPO1542": [
+    "R_PRATPP",
+    "R_PRAMPC"
+   ],
+   "YPO1541": [
+    "R_GND"
+   ],
+   "YPO0091": [
+    "R_GLYCtpp",
+    "R_GLYALDtpp"
+   ],
+   "YPO1137": [
+    "R_GALKr"
+   ],
+   "YPO2993": [
+    "R_MNLptspp",
+    "R_MANptspp",
+    "R_TREptspp",
+    "R_FRUptspp",
+    "R_GLCptspp",
+    "R_GAMptspp",
+    "R_ACMANAptspp",
+    "R_ACGAptspp",
+    "R_FRUpts2pp",
+    "R_MALTptspp"
+   ],
+   "YPO2995": [
+    "R_TREptspp",
+    "R_GLCptspp",
+    "R_ACGAptspp",
+    "R_MALTptspp"
+   ],
+   "YPO4056": [
+    "R_FDH4pp",
+    "R_FDH5pp"
+   ],
+   "YPO4057": [
+    "R_FDH4pp",
+    "R_FDH5pp"
+   ],
+   "YPO4054": [
+    "R_SELCYSS"
+   ],
+   "YPO1238": [
+    "R_HPYRI"
+   ],
+   "YPO1133": [
+    "R_PGM"
+   ],
+   "YPO0008": [
+    "R_RBK"
+   ],
+   "YPO1430": [
+    "R_3HAD160",
+    "R_3HAD180",
+    "R_3HAD60",
+    "R_3HAD80",
+    "R_3HAD181",
+    "R_3HAD141",
+    "R_3HAD100",
+    "R_3HAD161",
+    "R_3HAD140",
+    "R_T2DECAI",
+    "R_3HAD121",
+    "R_3HAD120",
+    "R_3HAD40"
+   ],
+   "YPO1435": [
+    "R_H2Otex"
+   ],
+   "YPO0439": [
+    "R_PPM",
+    "R_PPM2"
+   ],
+   "YPO0003": [
+    "R_ASNS2"
+   ],
+   "YPO0007": [
+    "R_RIBabcpp"
+   ],
+   "YPO0006": [
+    "R_Kt2pp"
+   ],
+   "YPO1312": [
+    "R_FEpp",
+    "R_FEex"
+   ],
+   "YPO0549": [
+    "R_MCTP1App",
+    "R_MCTP2App"
+   ],
+   "YPO1310": [
+    "R_FEpp",
+    "R_FEex"
+   ],
+   "YPO1311": [
+    "R_FEpp",
+    "R_FEex"
+   ],
+   "YPO1641": [
+    "R_ICDHyr"
+   ],
+   "YPO3168": [
+    "R_HEMEOS"
+   ],
+   "YPO3167": [
+    "R_CYTBO3_4pp"
+   ],
+   "YPO3166": [
+    "R_CYTBO3_4pp"
+   ],
+   "YPO3165": [
+    "R_CYTBO3_4pp"
+   ],
+   "YPO3164": [
+    "R_CYTBO3_4pp"
+   ],
+   "YPO1648": [
+    "R_NTP3pp",
+    "R_PHYTSpp"
+   ],
+   "YPO1766": [
+    "R_OP4ENH"
+   ],
+   "YPO3097": [
+    "R_PMANM"
+   ],
+   "YPO0793": [
+    "R_AACPS3",
+    "R_2AGPGAT140",
+    "R_2AGPEAT161",
+    "R_2AGPEAT140",
+    "R_AACPS8",
+    "R_2AGPGAT141",
+    "R_2AGPGAT120",
+    "R_2AGPEAT181",
+    "R_AACPS4",
+    "R_2AGPGAT181",
+    "R_AACPS5",
+    "R_2AGPEAT160",
+    "R_2AGPEAT180",
+    "R_AACPS9",
+    "R_2AGPGAT161",
+    "R_2AGPEAT120",
+    "R_AACPS6",
+    "R_2AGPGAT180",
+    "R_AACPS1",
+    "R_2AGPGAT160",
+    "R_AACPS2",
+    "R_AACPS7",
+    "R_2AGPEAT141"
+   ],
+   "YPO0792": [
+    "R_2AGPA141tipp",
+    "R_2AGPG140tipp",
+    "R_2AGPA120tipp",
+    "R_2AGPG160tipp",
+    "R_2AGPG180tipp",
+    "R_2AGPE160tipp",
+    "R_2AGPE141tipp",
+    "R_2AGPA161tipp",
+    "R_2AGPG120tipp",
+    "R_2AGPA181tipp",
+    "R_2AGPA180tipp",
+    "R_2AGPG181tipp",
+    "R_2AGPG161tipp",
+    "R_2AGPE161tipp",
+    "R_2AGPE120tipp",
+    "R_2AGPE140tipp",
+    "R_2AGPE181tipp",
+    "R_2AGPA160tipp",
+    "R_2AGPG141tipp",
+    "R_2AGPE180tipp",
+    "R_2AGPA140tipp"
+   ],
+   "YPO0794": [
+    "R_BSORy",
+    "R_BSORx"
+   ],
+   "YPO0796": [
+    "R_DAPDC"
+   ],
+   "YPO0460": [
+    "R_HSK"
+   ],
+   "YPO3095": [
+    "R_INSK",
+    "R_GSNK"
+   ],
+   "YPO2908": [
+    "R_NODOx",
+    "R_NODOy"
+   ],
+   "YPO2907": [
+    "R_GHMT2r",
+    "R_THRA2",
+    "R_ALATA_L2",
+    "R_THRA",
+    "R_ALATA_D2"
+   ],
+   "YPO3569": [
+    "R_UAGCVT"
+   ],
+   "YPO3118": [
+    "R_DADK_copy1",
+    "R_CPK1",
+    "R_NDPK8",
+    "R_CYTK2_1",
+    "R_NDPK7",
+    "R_DADK_copy2",
+    "R_ADK1",
+    "R_NDPK6",
+    "R_TPK1",
+    "R_NDPK4",
+    "R_NDPK3",
+    "R_NDPK5",
+    "R_ADK3",
+    "R_ADNK1",
+    "R_DYTK2",
+    "R_NDPK1",
+    "R_NDPK2",
+    "R_ADK4"
+   ],
+   "YPO1389": [
+    "R_PSERT",
+    "R_OHPBAT"
+   ],
+   "YPO0310": [
+    "R_CHRPL"
+   ],
+   "YPO0313": [
+    "R_DAGK160",
+    "R_DAGK161",
+    "R_DAGK140",
+    "R_DAGK141",
+    "R_DAGK120",
+    "R_DAGK181",
+    "R_DAGK180"
+   ],
+   "YPO0312": [
+    "R_G3PAT141",
+    "R_G3PAT160",
+    "R_G3PAT180",
+    "R_G3PAT161",
+    "R_G3PAT120",
+    "R_G3PAT181",
+    "R_G3PAT140"
+   ],
+   "YPO1384": [
+    "R_FORtppi",
+    "R_FORt2pp"
+   ],
+   "YPO3446": [
+    "R_OCBT"
+   ],
+   "YPO0648": [
+    "R_DHNPA2r"
+   ],
+   "YPO1381": [
+    "R_PFL"
+   ],
+   "YPO3117": [
+    "R_FCLT"
+   ],
+   "YPO1383": [
+    "R_PFL"
+   ],
+   "YPO3443": [
+    "R_VALTRS"
+   ],
+   "YPO1166": [
+    "R_BETALDHx",
+    "R_BETALDHy"
+   ],
+   "YPO3660": [
+    "R_DHQTi"
+   ],
+   "YPO3845": [
+    "R_DAPE"
+   ],
+   "YPO3848": [
+    "R_ADNCYC"
+   ],
+   "YPO3849": [
+    "R_HMBS"
+   ],
+   "YPO1168": [
+    "R_CHLt2pp"
+   ],
+   "YPO0945": [
+    "R_NTPP9",
+    "R_NTPP10",
+    "R_NTPP11"
+   ],
+   "YPO0946": [
+    "R_CPPPGO2"
+   ],
+   "YPO0942": [
+    "R_P5CR"
+   ],
+   "YPO1199": [
+    "R_GLYBabcpp"
+   ],
+   "YPO2649": [
+    "R_RNDR3b",
+    "R_RNDR2b",
+    "R_RNDR4b",
+    "R_RNDR1b"
+   ],
+   "YPO2648": [
+    "R_RNDR3b",
+    "R_RNDR2b",
+    "R_RNDR4b",
+    "R_RNDR1b"
+   ],
+   "YPO2645": [
+    "R_CTBTabcpp",
+    "R_PROabcpp",
+    "R_CRNabcpp",
+    "R_CRNDabcpp"
+   ],
+   "YPO2647": [
+    "R_CTBTabcpp",
+    "R_PROabcpp",
+    "R_CRNabcpp",
+    "R_CRNDabcpp"
+   ],
+   "YPO2646": [
+    "R_CTBTabcpp",
+    "R_PROabcpp",
+    "R_CRNabcpp",
+    "R_CRNDabcpp"
+   ],
+   "YPO3334": [
+    "R_3KGK_copy1",
+    "R_XYLK2"
+   ],
+   "YPO2768": [
+    "R_ACCOAC"
+   ],
+   "YPO2769": [
+    "R_DHFS"
+   ],
+   "YPO3335": [
+    "R_FUM"
+   ],
+   "YPO3202": [
+    "R_LEUt2rpp",
+    "R_VALt2rpp",
+    "R_ILEt2rpp"
+   ],
+   "YPO0893": [
+    "R_RNTR4c",
+    "R_RNTR1c",
+    "R_FLDR",
+    "R_RNTR3c",
+    "R_RNTR2c"
+   ],
+   "YPO3200": [
+    "R_MLTG1",
+    "R_MLTG2",
+    "R_MLTG3",
+    "R_MLTG5",
+    "R_MLTG4"
+   ],
+   "YPO0891": [
+    "R_TDSR1",
+    "R_TDSR2",
+    "R_DSBCGT"
+   ],
+   "YPO3365": [
+    "R_SADT2"
+   ],
+   "YPO4127": [
+    "R_ATPS4rpp"
+   ],
+   "YPO4124": [
+    "R_ATPS4rpp"
+   ],
+   "YPO3366": [
+    "R_SADT2"
+   ],
+   "YPO4122": [
+    "R_ATPS4rpp"
+   ],
+   "YPO3360": [
+    "R_MECDPS"
+   ],
+   "YPO4120": [
+    "R_ATPS4rpp"
+   ],
+   "YPO4121": [
+    "R_ATPS4rpp"
+   ],
+   "YPO3016": [
+    "R_ACNAMt2pp"
+   ],
+   "YPO3015": [
+    "R_SULabcpp",
+    "R_TSULabcpp",
+    "R_MOBDabcpp"
+   ],
+   "YPO3014": [
+    "R_SULabcpp",
+    "R_TSULabcpp",
+    "R_MOBDabcpp"
+   ],
+   "YPO3013": [
+    "R_SULabcpp",
+    "R_TSULabcpp",
+    "R_MOBDabcpp"
+   ],
+   "YPO3012": [
+    "R_SULabcpp",
+    "R_TSULabcpp",
+    "R_MOBDabcpp"
+   ],
+   "YPO3011": [
+    "R_CYSS"
+   ],
+   "YPO2549": [
+    "R_NADH17pp",
+    "R_NADH18pp",
+    "R_NADH16pp"
+   ],
+   "YPO2014": [
+    "R_CDPMEK"
+   ],
+   "YPO2547": [
+    "R_NADH17pp",
+    "R_NADH18pp",
+    "R_NADH16pp"
+   ],
+   "YPO2544": [
+    "R_NADH17pp",
+    "R_NADH18pp",
+    "R_NADH16pp"
+   ],
+   "YPO2545": [
+    "R_NADH17pp",
+    "R_NADH18pp",
+    "R_NADH16pp"
+   ],
+   "YPO2543": [
+    "R_NADH17pp",
+    "R_NADH18pp",
+    "R_NADH16pp"
+   ],
+   "YPO2013": [
+    "R_PRPPS"
+   ],
+   "YPO2757": [
+    "R_3OAS140",
+    "R_3OAS121",
+    "R_3OAS120",
+    "R_3OAS60",
+    "R_3OAS80",
+    "R_3OAS100",
+    "R_3OAS180",
+    "R_3OAS161",
+    "R_3OAS160",
+    "R_KAS14",
+    "R_MACPD",
+    "R_3OAS141"
+   ],
+   "YPO3385": [
+    "R_CBL1abcpp",
+    "R_CBIuabcpp",
+    "R_ADOCBLabcpp"
+   ],
+   "YPO0060": [
+    "R_THRD"
+   ],
+   "YPO3383": [
+    "R_NTPTP1",
+    "R_NTPTP2"
+   ],
+   "YPO1524": [
+    "R_URIK2",
+    "R_CYTDK2"
+   ],
+   "YPO1410": [
+    "R_TYRTA",
+    "R_PHETA1",
+    "R_ASPTA"
+   ],
+   "YPO3389": [
+    "R_G1SAT"
+   ],
+   "YPO2763": [
+    "R_PERD"
+   ],
+   "YPO2494": [
+    "R_CHLt2pp",
+    "R_GLYBt2pp",
+    "R_GLYt2pp"
+   ],
+   "YPO2496": [
+    "R_MALDDH"
+   ],
+   "YPO2499": [
+    "R_RIBabcpp"
+   ],
+   "YPO3062": [
+    "R_DHDPS"
+   ],
+   "YPO4038": [
+    "R_XYLI2",
+    "R_XYLI1"
+   ],
+   "YPO2164": [
+    "R_SELNPS"
+   ],
+   "YPO4119": [
+    "R_UAGDP",
+    "R_G1PACT"
+   ],
+   "YPO3064": [
+    "R_THIORDXi"
+   ],
+   "YPO4039": [
+    "R_XYLK",
+    "R_DXYLK"
+   ],
+   "YPO0254": [
+    "R_ASPt2pp",
+    "R_GLUt2rpp"
+   ],
+   "YPO1966": [
+    "R_SGDS"
+   ],
+   "YPO3193": [
+    "R_FA120ACPHi",
+    "R_FA160ACPHi",
+    "R_FA100ACPHi",
+    "R_FA161ACPHi",
+    "R_FA141ACPHi",
+    "R_FA80ACPHi",
+    "R_FA140ACPHi"
+   ],
+   "YPO0440": [
+    "R_PUNP1",
+    "R_PUNP3",
+    "R_PUNP5",
+    "R_PUNP2",
+    "R_PUNP4",
+    "R_PUNP6",
+    "R_DURIPP"
+   ],
+   "YPO0442": [
+    "R_PSP_L"
+   ],
+   "YPO0444": [
+    "R_NMNAT"
+   ],
+   "YPO3384": [
+    "R_MTAN",
+    "R_AHCYSNS",
+    "R_5DOAN"
+   ],
+   "YPO0921": [
+    "R_PGK"
+   ],
+   "YPO0251": [
+    "R_ACt4pp",
+    "R_GLYCLTt4pp"
+   ],
+   "YPO3941": [
+    "R_GLDBRAN2"
+   ],
+   "YPO3940": [
+    "R_GLGC"
+   ],
+   "YPO3942": [
+    "R_GLBRAN2"
+   ],
+   "YPO0162": [
+    "R_CSND"
+   ],
+   "YPO0048": [
+    "R_PPNCL2",
+    "R_PPCDC"
+   ],
+   "YPO0160": [
+    "R_NTRIR2x"
+   ],
+   "YPO0161": [
+    "R_NTRIR2x"
+   ],
+   "YPO0045": [
+    "R_ORPT"
+   ],
+   "YPO0047": [
+    "R_DUTPDP"
+   ],
+   "YPO0253": [
+    "R_ACS"
+   ],
+   "YPO0040": [
+    "R_GK1",
+    "R_DGK1"
+   ],
+   "YPO0169": [
+    "R_ADCS"
+   ],
+   "YPO2425": [
+    "R_CBL1abcpp",
+    "R_CBIuabcpp",
+    "R_ADOCBLabcpp"
+   ],
+   "YPO0553": [
+    "R_UAMAGS"
+   ],
+   "YPO2421": [
+    "R_UPLA4FNT"
+   ],
+   "YPO1350": [
+    "R_ARGabcpp"
+   ],
+   "YPO2423": [
+    "R_CBL1abcpp",
+    "R_CBIuabcpp",
+    "R_ADOCBLabcpp"
+   ],
+   "YPO2422": [
+    "R_UDPKAAT"
+   ],
+   "YPO0914": [
+    "R_PGCD"
+   ],
+   "YPO2429": [
+    "R_PHETRS"
+   ],
+   "YPO2381": [
+    "R_LGTHL",
+    "R_GLYOX_1"
+   ],
+   "YPO2383": [
+    "R_GRXR",
+    "R_PAPSR2",
+    "R_RNDR3b",
+    "R_RNDR2b",
+    "R_RNDR4b",
+    "R_RNDR1b"
+   ],
+   "YPO1608": [
+    "R_GLCptspp",
+    "R_ACGAptspp"
+   ],
+   "YPO0929": [
+    "R_ARGDCpp",
+    "R_ARGDC"
+   ],
+   "YPO4128": [
+    "R_ATPS4rpp"
+   ],
+   "YPO0348": [
+    "R_ASPT"
+   ],
+   "YPO1600": [
+    "R_AACPS3",
+    "R_AACPS8",
+    "R_AACPS4",
+    "R_AACPS5",
+    "R_AACPS9",
+    "R_AACPS6",
+    "R_AACPS1",
+    "R_UAGAAT",
+    "R_AACPS2",
+    "R_AACPS7",
+    "R_MCOATA",
+    "R_ACOATA"
+   ],
+   "YPO0347": [
+    "R_FUMt2_3pp",
+    "R_SUCCt2_3pp",
+    "R_ASPt2_3pp",
+    "R_SUCFUMtpp",
+    "R_MALt2_3pp"
+   ],
+   "YPO0616": [
+    "R_LACZpp"
+   ],
+   "YPO0345": [
+    "R_TDSR1",
+    "R_TDSR2",
+    "R_DSBDR"
+   ],
+   "YPO1605": [
+    "R_DTMPK"
+   ],
+   "YPO1598": [
+    "R_MCOATA"
+   ],
+   "YPO4126": [
+    "R_ATPS4rpp"
+   ],
+   "YPO1414": [
+    "R_AMPTASEPG",
+    "R_AMPTASECG"
+   ],
+   "YPO0410": [
+    "R_DGUNC"
+   ],
+   "YPO1597": [
+    "R_KAS15",
+    "R_ACOATA"
+   ],
+   "YPO3400": [
+    "R_HPPK2"
+   ],
+   "YPO3401": [
+    "R_MOHMT"
+   ],
+   "YPO3402": [
+    "R_PANTS"
+   ],
+   "YPO4125": [
+    "R_ATPS4rpp"
+   ],
+   "YPO3407": [
+    "R_HCO3E"
+   ],
+   "YPO3408": [
+    "R_HXPRT",
+    "R_GUAPRT"
+   ],
+   "YPO3361": [
+    "R_MEPCT"
+   ],
+   "YPO4123": [
+    "R_ATPS4rpp"
+   ],
+   "YPO1502": [
+    "R_ALCD19",
+    "R_ALCD2x",
+    "R_FALDH2"
+   ],
+   "YPO1501": [
+    "R_SFGTHi"
+   ],
+   "YPO1507": [
+    "R_GALabcpp",
+    "R_GLCabcpp"
+   ],
+   "YPO1505": [
+    "R_GTPCI"
+   ],
+   "YPO4068": [
+    "R_MNLptspp"
+   ],
+   "YPO4067": [
+    "R_M1PD"
+   ],
+   "YPO1916": [
+    "R_SALSYN"
+   ],
+   "YPO1508": [
+    "R_GALabcpp",
+    "R_GLCabcpp"
+   ],
+   "YPO4061": [
+    "R_SPODM"
+   ],
+   "YPO1913": [
+    "R_FEpp",
+    "R_FEex"
+   ],
+   "YPO0531": [
+    "R_IPPMIb",
+    "R_IPPMIa"
+   ],
+   "YPO0530": [
+    "R_IPPMIb",
+    "R_IPPMIa"
+   ],
+   "YPO0533": [
+    "R_IPPS"
+   ],
+   "YPO0532": [
+    "R_IPMD",
+    "R_OMCDC"
+   ],
+   "YPO1046": [
+    "R_UMPK",
+    "R_URIDK2r"
+   ],
+   "YPO3589": [
+    "R_ASPCT"
+   ],
+   "YPO1851": [
+    "R_PROD2",
+    "R_P5CD"
+   ],
+   "YPO1048": [
+    "R_DXPRIi"
+   ],
+   "YPO1049": [
+    "R_UDCPDPS"
+   ],
+   "YPO3624": [
+    "R_SULFACabcpp",
+    "R_ETHSO3abcpp",
+    "R_BUTSO3abcpp",
+    "R_ISETACabcpp",
+    "R_MSO3abcpp"
+   ],
+   "YPO3625": [
+    "R_FDMO2",
+    "R_FDMO6",
+    "R_FDMO",
+    "R_FDMO3",
+    "R_FDMO4"
+   ],
+   "YPO3626": [
+    "R_SULFACabcpp",
+    "R_ETHSO3abcpp",
+    "R_BUTSO3abcpp",
+    "R_ISETACabcpp",
+    "R_MSO3abcpp"
+   ],
+   "YPO3627": [
+    "R_SULFACabcpp",
+    "R_ETHSO3abcpp",
+    "R_BUTSO3abcpp",
+    "R_ISETACabcpp",
+    "R_MSO3abcpp"
+   ],
+   "YPO0909": [
+    "R_OMPHHX"
+   ],
+   "YPO1283": [
+    "R_MNNH"
+   ],
+   "YPO1321": [
+    "R_SERt2rpp"
+   ],
+   "YPO1327": [
+    "R_GRXR",
+    "R_PAPSR2",
+    "R_RNDR3b",
+    "R_RNDR2b",
+    "R_RNDR4b",
+    "R_RNDR1b"
+   ],
+   "YPO0905": [
+    "R_GLYCL"
+   ],
+   "YPO0906": [
+    "R_GLYCL"
+   ],
+   "YPO1324": [
+    "R_UDCPDP",
+    "R_UDCPDPpp"
+   ],
+   "YPO2548": [
+    "R_NADH17pp",
+    "R_NADH18pp",
+    "R_NADH16pp"
+   ],
+   "YPO2930": [
+    "R_PDX5PS"
+   ],
+   "YPO2836": [
+    "R_PPK2",
+    "R_PPK"
+   ],
+   "YPO2837": [
+    "R_GTPDPDP"
+   ],
+   "YPO2830": [
+    "R_SPMDAT2",
+    "R_SPMDAT1"
+   ],
+   "YPO3123": [
+    "R_ADPT"
+   ],
+   "YPO2546": [
+    "R_NADH17pp",
+    "R_NADH18pp",
+    "R_NADH16pp"
+   ],
+   "YPO3249": [
+    "R_ALLTAMH"
+   ],
+   "YPO0995": [
+    "R_MELIBt2pp"
+   ],
+   "YPO0584": [
+    "R_SERt4pp",
+    "R_THRt4pp"
+   ],
+   "YPO3243": [
+    "R_S7PI"
+   ],
+   "YPO3530": [
+    "R_23PDE2pp",
+    "R_23PDE9pp",
+    "R_23PDE7pp",
+    "R_3NTD4pp",
+    "R_3NTD7pp",
+    "R_3NTD9pp",
+    "R_3KGK_copy2",
+    "R_23PDE4pp"
+   ],
+   "YPO0581": [
+    "R_ALTRH"
+   ],
+   "YPO3244": [
+    "R_ACOAD7f",
+    "R_ACOAD3f",
+    "R_ACOAD5f",
+    "R_ACOAD4f",
+    "R_ACOAD8f",
+    "R_ACOAD1f",
+    "R_ACOAD6f",
+    "R_ACOAD2f"
+   ],
+   "YPO2293": [
+    "R_ACLS",
+    "R_ACHBS"
+   ],
+   "YPO3059": [
+    "R_PRASCSi"
+   ],
+   "YPO2294": [
+    "R_ACLS",
+    "R_ACHBS"
+   ],
+   "YPO2295": [
+    "R_NTD1",
+    "R_NTD2",
+    "R_NTD5"
+   ],
+   "YPO3053": [
+    "R_SDPDS"
+   ],
+   "YPO2298": [
+    "R_DNMPPA"
+   ],
+   "YPO3758": [
+    "R_PNTK"
+   ],
+   "YPO2626": [
+    "R_AGDC"
+   ],
+   "YPO1138": [
+    "R_UGLT"
+   ],
+   "YPO1139": [
+    "R_UDPG4E"
+   ],
+   "YPO3831": [
+    "R_HOMt2pp"
+   ],
+   "YPO3830": [
+    "R_LPLIPAL2E120",
+    "R_LPLIPAL2ATE141",
+    "R_LPLIPAL2ATG140",
+    "R_LPLIPAL2E180",
+    "R_LPLIPAL2ATE140",
+    "R_LPLIPAL2A120",
+    "R_LPLIPAL2ATE161",
+    "R_LPLIPAL2E181",
+    "R_LPLIPAL2ATG120",
+    "R_LPLIPAL2G160",
+    "R_LPLIPAL2ATG180",
+    "R_LPLIPAL2G140",
+    "R_LPLIPAL2A180",
+    "R_LPLIPAL2ATE181",
+    "R_LPLIPAL2A140",
+    "R_LPLIPAL2ATG181",
+    "R_LPLIPAL2ATE160",
+    "R_LPLIPAL2G161",
+    "R_LPLIPAL2ATE180",
+    "R_LPLIPAL2G141",
+    "R_LPLIPAL2G180",
+    "R_LPLIPAL2G120",
+    "R_LPLIPAL2A181",
+    "R_LPLIPAL2ATG161",
+    "R_LPLIPAL2ATE120",
+    "R_LPLIPAL2G181",
+    "R_LPLIPAL2E141",
+    "R_LPLIPAL2E140",
+    "R_LPLIPAL2A141",
+    "R_LPLIPAL2E160",
+    "R_LPLIPAL2A160",
+    "R_LPLIPAL2E161",
+    "R_LPLIPAL2ATG160",
+    "R_LPLIPAL2ATG141",
+    "R_LPLIPAL2A161"
+   ],
+   "YPO3832": [
+    "R_THRt2pp"
+   ],
+   "YPO3834": [
+    "R_PLIPA2E141pp",
+    "R_PLIPA1G180pp",
+    "R_PLIPA1G120pp",
+    "R_PLIPA2G120pp",
+    "R_PLIPA1G161pp",
+    "R_PLIPA1E161pp",
+    "R_PLIPA1G140pp",
+    "R_PLIPA2G160pp",
+    "R_PLIPA1A140pp",
+    "R_PLIPA1E160pp",
+    "R_PLIPA2E120pp",
+    "R_PLIPA1A141pp",
+    "R_PLIPA2E160pp",
+    "R_PLIPA2G141pp",
+    "R_PLIPA1E180pp",
+    "R_PLIPA2A180pp",
+    "R_PLIPA1E140pp",
+    "R_PLIPA2G140pp",
+    "R_PLIPA2A181pp",
+    "R_PLIPA1A181pp",
+    "R_PLIPA1G141pp",
+    "R_PLIPA1G160pp",
+    "R_PLIPA2A161pp",
+    "R_PLIPA2G180pp",
+    "R_PLIPA1A180pp",
+    "R_PLIPA1A120pp",
+    "R_PLIPA1E120pp",
+    "R_PLIPA1E181pp",
+    "R_PLIPA1G181pp",
+    "R_PLIPA1A161pp",
+    "R_PLIPA1A160pp",
+    "R_PLIPA2E181pp",
+    "R_PLIPA2G161pp",
+    "R_PLIPA2A160pp",
+    "R_PLIPA2G181pp",
+    "R_PLIPA2E180pp",
+    "R_PLIPA2A141pp",
+    "R_PLIPA2A120pp",
+    "R_PLIPA1E141pp",
+    "R_PLIPA2E161pp",
+    "R_PLIPA2A140pp",
+    "R_PLIPA2E140pp"
+   ],
+   "YPO3837": [
+    "R_NI2tpp",
+    "R_COBALT2tpp",
+    "R_MG2tpp"
+   ],
+   "YPO2616": [
+    "R_ALPATG160pp",
+    "R_ALPATE160pp"
+   ],
+   "YPO2614": [
+    "R_GLUabcpp",
+    "R_ASPabcpp"
+   ],
+   "YPO2615": [
+    "R_GLUabcpp",
+    "R_ASPabcpp"
+   ],
+   "YPO2612": [
+    "R_GLUabcpp",
+    "R_ASPabcpp"
+   ],
+   "YPO2613": [
+    "R_GLUabcpp",
+    "R_ASPabcpp"
+   ],
+   "YPO2610": [
+    "R_LEUTRS"
+   ],
+   "YPO4117": [
+    "R_PIuabcpp"
+   ],
+   "YPO4116": [
+    "R_PIuabcpp"
+   ],
+   "YPO4115": [
+    "R_PIuabcpp"
+   ],
+   "YPO4114": [
+    "R_PIuabcpp"
+   ],
+   "YPO2208": [
+    "R_ANS"
+   ],
+   "YPO2205": [
+    "R_PRAIi",
+    "R_IGPS"
+   ],
+   "YPO2204": [
+    "R_TRPS3",
+    "R_TRPS2",
+    "R_TRPS1"
+   ],
+   "YPO2206": [
+    "R_ANS",
+    "R_ANPRT"
+   ],
+   "YPO2752": [
+    "R_MDDEP2pp",
+    "R_MDDEP3pp",
+    "R_MDDEP1pp",
+    "R_MDDEP4pp"
+   ],
+   "YPO2203": [
+    "R_TRPS3",
+    "R_TRPS2",
+    "R_TRPS1"
+   ],
+   "YPO4118": [
+    "R_GF6PTA"
+   ],
+   "YPO3380": [
+    "R_GDPDPK",
+    "R_GTPDPK"
+   ],
+   "YPO3907": [
+    "R_RIBabcpp"
+   ],
+   "YPO3906": [
+    "R_RIBabcpp"
+   ],
+   "YPO1758": [
+    "R_MANptspp",
+    "R_GLCptspp",
+    "R_GAMptspp",
+    "R_ACMANAptspp",
+    "R_FRUpts2pp"
+   ],
+   "YPO2188": [
+    "R_CLPNS160pp",
+    "R_CLPNS180pp",
+    "R_CLPNS141pp",
+    "R_CLPNS161pp",
+    "R_CLPNS181pp",
+    "R_CLPNS140pp",
+    "R_CLPNS120pp"
+   ],
+   "YPO3519": [
+    "R_UM3PL",
+    "R_UM4PL"
+   ],
+   "YPO3909": [
+    "R_GLUR"
+   ],
+   "YPO3908": [
+    "R_RIBabcpp"
+   ],
+   "YPO2180": [
+    "R_ACALD",
+    "R_ALCD2x"
+   ],
+   "YPO0122": [
+    "R_CYANST"
+   ],
+   "YPO0126": [
+    "R_AMALT3",
+    "R_AMALT1",
+    "R_AMALT2",
+    "R_AMALT4"
+   ],
+   "YPO2053": [
+    "R_ASPTRS"
+   ],
+   "YPO2054": [
+    "R_NTPP5",
+    "R_DNTPPA"
+   ],
+   "YPO3825": [
+    "R_G3PD6",
+    "R_G3PD5",
+    "R_G3PD7"
+   ],
+   "YPO2059": [
+    "R_ZNabcpp"
+   ],
+   "YPO3388": [
+    "R_CLt3_2pp"
+   ],
+   "YPO0493": [
+    "R_PDX5PS"
+   ],
+   "YPO0490": [
+    "R_AP4AH",
+    "R_AP5AH",
+    "R_GP4GH"
+   ],
+   "YPO0330": [
+    "R_RMK"
+   ],
+   "YPO2982": [
+    "R_MNt2pp",
+    "R_FE2t2pp"
+   ],
+   "YPO2983": [
+    "R_URIt2pp_copy1",
+    "R_DCYTt2pp",
+    "R_THMDt2pp",
+    "R_ADNt2pp",
+    "R_DURIt2pp",
+    "R_DADNt2pp",
+    "R_CYTDt2pp_copy1"
+   ],
+   "YPO3023": [
+    "R_AMANAPEr"
+   ],
+   "YPO2690": [
+    "R_Kabcpp"
+   ],
+   "YPO0015": [
+    "R_DSBAO1",
+    "R_DSBAO2"
+   ],
+   "YPO1958": [
+    "R_NAt3pp",
+    "R_CA2t3pp",
+    "R_Kt3pp"
+   ],
+   "YPO2370": [
+    "R_PDX5POi",
+    "R_PYAM5PO"
+   ],
+   "YPO0159": [
+    "R_NO2t2rpp"
+   ],
+   "YPO2372": [
+    "R_ANHMK"
+   ],
+   "YPO0157": [
+    "R_TRPTRS"
+   ],
+   "YPO0156": [
+    "R_PGLYCP"
+   ],
+   "YPO0155": [
+    "R_RPE"
+   ],
+   "YPO0152": [
+    "R_DHQS"
+   ],
+   "YPO3080": [
+    "R_LPLIPAL1G141pp",
+    "R_LPLIPAL1G140pp",
+    "R_LPLIPAL1G180pp",
+    "R_LPLIPAL1A120pp",
+    "R_LPLIPAL1E160pp",
+    "R_LPLIPAL1E141pp",
+    "R_LPLIPAL1G160pp",
+    "R_LPLIPAL1A180pp",
+    "R_LPLIPAL1A140pp",
+    "R_LPLIPAL1E181pp",
+    "R_LPLIPAL1A161pp",
+    "R_LPLIPAL1A160pp",
+    "R_LPLIPAL1E180pp",
+    "R_LPLIPAL1A181pp",
+    "R_LPLIPAL1G161pp",
+    "R_LPLIPAL1A141pp",
+    "R_LPLIPAL1G181pp",
+    "R_LPLIPAL1E140pp",
+    "R_LPLIPAL1E120pp",
+    "R_LPLIPAL1G120pp",
+    "R_LPLIPAL1E161pp"
+   ],
+   "YPO3179": [
+    "R_PGPP120pp",
+    "R_PGPP180pp",
+    "R_PGPP160",
+    "R_PGPP180",
+    "R_PGPP161",
+    "R_PGPP181",
+    "R_PGPP140pp",
+    "R_PGPP160pp",
+    "R_PGPP161pp",
+    "R_PGPP120",
+    "R_PGPP141",
+    "R_PGPP181pp",
+    "R_PGPP141pp",
+    "R_PGPP140"
+   ],
+   "YPO1771": [
+    "R_SERD_L"
+   ],
+   "YPO3176": [
+    "R_GRTT",
+    "R_DMATT"
+   ],
+   "YPO1773": [
+    "R_ADCS"
+   ],
+   "YPO1775": [
+    "R_GART",
+    "R_ACKr"
+   ],
+   "YPO3172": [
+    "R_THZPSN"
+   ],
+   "YPO3173": [
+    "R_THZPSN"
+   ],
+   "YPO1129": [
+    "R_NI2t3pp",
+    "R_COBALT2t3pp",
+    "R_CD2t3pp",
+    "R_ZN2t3pp",
+    "R_MN2t3pp"
+   ],
+   "YPO2870": [
+    "R_GMPS2"
+   ],
+   "YPO3999": [
+    "R_ALAALAabcpp",
+    "R_PROGLYabcpp",
+    "R_CGLYabcpp"
+   ],
+   "YPO1128": [
+    "R_NMNPtpp"
+   ],
+   "YPO2878": [
+    "R_HISTRS"
+   ],
+   "YPO2879": [
+    "R_MECDPDH2"
+   ],
+   "YPO0783": [
+    "R_TMDS"
+   ],
+   "YPO3856": [
+    "R_ECAP3pp",
+    "R_ECAP1pp",
+    "R_ECAP2pp"
+   ],
+   "YPO2160": [
+    "R_NNAM"
+   ],
+   "YPO3576": [
+    "R_CAt6pp"
+   ],
+   "YPO2161": [
+    "R_GLUNpp",
+    "R_ASNNpp"
+   ],
+   "YPO3578": [
+    "R_KDOPP"
+   ],
+   "YPO3779": [
+    "R_OPHHX"
+   ],
+   "YPO2977": [
+    "R_HEX1"
+   ],
+   "YPO3403": [
+    "R_ASP1DC"
+   ],
+   "YPO0654": [
+    "R_GMHEPK",
+    "R_GMHEPAT"
+   ],
+   "YPO0658": [
+    "R_DB4PS"
+   ],
+   "YPO1390": [
+    "R_PSCVT"
+   ],
+   "YPO1391": [
+    "R_UMPK",
+    "R_CYTK1"
+   ],
+   "YPO1396": [
+    "R_TDSK"
+   ],
+   "YPO3859": [
+    "R_TDPAGTA"
+   ],
+   "YPO1395": [
+    "R_PA180abcpp",
+    "R_PGP120abcpp",
+    "R_PG141abcpp",
+    "R_PG180abcpp",
+    "R_PGP181abcpp",
+    "R_PGP140abcpp",
+    "R_PG181abcpp",
+    "R_PG140abcpp",
+    "R_PGP141abcpp",
+    "R_PG161abcpp",
+    "R_PGP180abcpp",
+    "R_PGP161abcpp",
+    "R_PG120abcpp",
+    "R_PA120abcpp",
+    "R_PA141abcpp",
+    "R_PE140abcpp",
+    "R_PE120abcpp",
+    "R_PA181abcpp",
+    "R_PA161abcpp",
+    "R_PG160abcpp",
+    "R_PA140abcpp",
+    "R_PE161abcpp",
+    "R_COLIPAabcpp",
+    "R_PA160abcpp",
+    "R_PE181abcpp",
+    "R_PGP160abcpp",
+    "R_PE141abcpp",
+    "R_PE160abcpp",
+    "R_PE180abcpp"
+   ],
+   "YPO3718": [
+    "R_PGI"
+   ],
+   "YPO3719": [
+    "R_ASPK"
+   ],
+   "YPO1171": [
+    "R_PUNP3",
+    "R_PUNP5",
+    "R_PUNP4",
+    "R_PUNP7",
+    "R_PUNP6"
+   ],
+   "YPO1176": [
+    "R_MDDEP2pp",
+    "R_MDDEP3pp",
+    "R_MDDEP1pp",
+    "R_MDDEP4pp"
+   ],
+   "YPO1177": [
+    "R_LDH_D2",
+    "R_LDH_D"
+   ],
+   "YPO3657": [
+    "R_PNTOt4pp"
+   ],
+   "YPO3659": [
+    "R_ACCOAC"
+   ],
+   "YPO3658": [
+    "R_ACCOAC"
+   ],
+   "YPO3712": [
+    "R_14GLUCANabcpp",
+    "R_MALTHXabcpp",
+    "R_MALTTTRabcpp",
+    "R_MALTabcpp",
+    "R_MALTPTabcpp",
+    "R_MALTTRabcpp"
+   ],
+   "YPO2167": [
+    "R_NTPP3",
+    "R_NTPP4"
+   ],
+   "YPO3714": [
+    "R_14GLUCANabcpp",
+    "R_MALTHXabcpp",
+    "R_MALTTTRabcpp",
+    "R_MALTabcpp",
+    "R_MALTPTabcpp",
+    "R_MALTTRabcpp"
+   ],
+   "YPO3715": [
+    "R_14GLUCANabcpp",
+    "R_MALTHXabcpp",
+    "R_MALTTTRabcpp",
+    "R_MALTabcpp",
+    "R_MALTPTabcpp",
+    "R_MALTTRabcpp"
+   ],
+   "YPO3301": [
+    "R_GLUCYS"
+   ],
+   "YPO3300": [
+    "R_RHCCE"
+   ],
+   "YPO1374": [
+    "R_TRDR"
+   ],
+   "YPO4035": [
+    "R_XYLabcpp"
+   ],
+   "YPO1073": [
+    "R_METabcpp",
+    "R_METDabcpp"
+   ],
+   "YPO1072": [
+    "R_METabcpp",
+    "R_METDabcpp"
+   ],
+   "YPO1379": [
+    "R_SERTRS2",
+    "R_SERTRS"
+   ],
+   "YPO1075": [
+    "R_DKGLCNR1",
+    "R_ALR2"
+   ],
+   "YPO1074": [
+    "R_GMHEPPA"
+   ],
+   "YPO3781": [
+    "R_AMMQLT8",
+    "R_OMBZLM"
+   ],
+   "YPO2710": [
+    "R_ASPO3",
+    "R_ASPO5",
+    "R_ASPO4",
+    "R_ASPO6"
+   ],
+   "YPO3786": [
+    "R_PYNP2r"
+   ],
+   "YPO3788": [
+    "R_METS"
+   ],
+   "YPO3273": [
+    "R_PSSA181",
+    "R_PSSA180",
+    "R_PSSA140",
+    "R_PSSA120",
+    "R_PSSA160",
+    "R_PSSA141",
+    "R_PSSA161"
+   ],
+   "YPO3378": [
+    "R_NTPP5",
+    "R_NTPP1",
+    "R_NTPP2",
+    "R_NTPP3",
+    "R_NTPP6",
+    "R_NTPP7",
+    "R_NTPP8",
+    "R_NTPP4"
+   ],
+   "YPO3270": [
+    "R_THIORDXi",
+    "R_RNDR1",
+    "R_METSOXR1",
+    "R_METSOXR2",
+    "R_RNDR4",
+    "R_PAPSR",
+    "R_DSBDR",
+    "R_RNDR2",
+    "R_TRDR",
+    "R_RNDR3"
+   ],
+   "YPO1083": [
+    "R_ALLTNt2rpp"
+   ],
+   "YPO3372": [
+    "R_FLVR",
+    "R_FMNRx2",
+    "R_SULR"
+   ],
+   "YPO3371": [
+    "R_FLVR",
+    "R_FMNRx2",
+    "R_SULR"
+   ],
+   "YPO0579": [
+    "R_GUI2",
+    "R_GUI1"
+   ],
+   "YPO3377": [
+    "R_CTPS2"
+   ],
+   "YPO3375": [
+    "R_SPODMpp"
+   ],
+   "YPO3364": [
+    "R_ADSK"
+   ],
+   "YPO2539": [
+    "R_5DGLCNR"
+   ],
+   "YPO2533": [
+    "R_EDD"
+   ],
+   "YPO1106": [
+    "R_NADK"
+   ],
+   "YPO3390": [
+    "R_FE3DCITabcpp"
+   ],
+   "YPO3391": [
+    "R_FE3DCITabcpp"
+   ],
+   "YPO3392": [
+    "R_FE3DCITabcpp"
+   ],
+   "YPO3393": [
+    "R_MCTP1App",
+    "R_MPTG2",
+    "R_MCTP1Bpp",
+    "R_MPTG",
+    "R_MCTP2App"
+   ],
+   "YPO1109": [
+    "R_SUCDi"
+   ],
+   "YPO1108": [
+    "R_CS"
+   ],
+   "YPO2256": [
+    "R_ARBabcpp"
+   ],
+   "YPO2257": [
+    "R_ARBabcpp"
+   ],
+   "YPO2254": [
+    "R_RBK_L1"
+   ],
+   "YPO2255": [
+    "R_ARBabcpp"
+   ],
+   "YPO2158": [
+    "R_METSOXR2"
+   ],
+   "YPO3099": [
+    "R_MAN1PT2"
+   ],
+   "YPO2628": [
+    "R_ACGAptspp"
+   ],
+   "YPO2627": [
+    "R_G6PDA"
+   ],
+   "YPO4078": [
+    "R_2DGLCNRy",
+    "R_2DGULRx",
+    "R_2DGULRy",
+    "R_HPYRRx",
+    "R_HPYRRy",
+    "R_GLYCLTDy",
+    "R_2DGLCNRx",
+    "R_DKGLCNR2y",
+    "R_DKGLCNR2x",
+    "R_GLYCLTDx"
+   ],
+   "YPO2157": [
+    "R_GAPD"
+   ],
+   "YPO3094": [
+    "R_Kt3pp"
+   ],
+   "YPO2623": [
+    "R_ASNS1"
+   ],
+   "YPO2621": [
+    "R_OMMBLHX"
+   ],
+   "YPO3937": [
+    "R_G3PD5"
+   ],
+   "YPO2442": [
+    "R_FEpp",
+    "R_FEex"
+   ],
+   "YPO2441": [
+    "R_FEpp",
+    "R_FEex"
+   ],
+   "YPO2329": [
+    "R_LDH_D"
+   ],
+   "YPO0181": [
+    "R_CYStpp",
+    "R_ACSERtpp"
+   ],
+   "YPO0185": [
+    "R_TAUDO"
+   ],
+   "YPO2448": [
+    "R_MTRPOX",
+    "R_SARCOX"
+   ],
+   "YPO3729": [
+    "R_PRAGSr"
+   ],
+   "YPO3312": [
+    "R_GLYK"
+   ],
+   "YPO3897": [
+    "R_DHAD1",
+    "R_DHAD2"
+   ],
+   "YPO0058": [
+    "R_AGMHE"
+   ],
+   "YPO0059": [
+    "R_GLYAT"
+   ],
+   "YPO0117": [
+    "R_MTHFR2"
+   ],
+   "YPO0116": [
+    "R_ASPK"
+   ],
+   "YPO0053": [
+    "R_PTPATi"
+   ],
+   "YPO3954": [
+    "R_GLCNt2rpp"
+   ],
+   "YPO0056": [
+    "R_LPS_YPtetra",
+    "R_LPS_YPhexa",
+    "R_LPS_YPpenta"
+   ],
+   "YPO0057": [
+    "R_LPS_YPtetra",
+    "R_LPS_YPhexa",
+    "R_LPS_YPpenta"
+   ],
+   "YPO3899": [
+    "R_PHETA1",
+    "R_ILETA",
+    "R_VALTA",
+    "R_LEUTAi"
+   ],
+   "YPO0055": [
+    "R_MOAT2",
+    "R_MOAT"
+   ],
+   "YPO2433": [
+    "R_THRTRS"
+   ],
+   "YPO2438": [
+    "R_MLTGY3pp",
+    "R_MLTGY4pp",
+    "R_MLTGY1pp",
+    "R_MLTGY2pp"
+   ],
+   "YPO2439": [
+    "R_FEpp",
+    "R_FEex"
+   ],
+   "YPO1209": [
+    "R_TYRt2rpp"
+   ],
+   "YPO1207": [
+    "R_CAT"
+   ],
+   "YPO1200": [
+    "R_ARGAGMt7pp"
+   ],
+   "YPO0334": [
+    "R_RMNtpp",
+    "R_LYXt2pp"
+   ],
+   "YPO1060": [
+    "R_ACCOAC"
+   ],
+   "YPO2253": [
+    "R_ARAI"
+   ],
+   "YPO3927": [
+    "R_AGPR"
+   ],
+   "YPO3183": [
+    "R_APRAUR",
+    "R_DHPPDA2"
+   ],
+   "YPO1629": [
+    "R_ACGAMK"
+   ],
+   "YPO3430": [
+    "R_DPCOAK"
+   ],
+   "YPO1511": [
+    "R_ME1"
+   ],
+   "YPO1512": [
+    "R_DCYTD",
+    "R_CYTD"
+   ],
+   "YPO0452": [
+    "R_MLTGY3pp",
+    "R_MLTGY4pp",
+    "R_MLTGY1pp",
+    "R_MLTGY2pp"
+   ],
+   "YPO2735": [
+    "R_PHEMEabcpp"
+   ],
+   "YPO0024": [
+    "R_GLNS"
+   ],
+   "YPO4071": [
+    "R_GLYTRS"
+   ],
+   "YPO4072": [
+    "R_GLYTRS"
+   ],
+   "YPO1926": [
+    "R_PPCSCT"
+   ],
+   "YPO0935": [
+    "R_GTHS"
+   ],
+   "YPO0246": [
+    "R_SHK3Dr"
+   ],
+   "YPO0931": [
+    "R_METAT"
+   ],
+   "YPO3180": [
+    "R_TMPK"
+   ],
+   "YPO0241": [
+    "R_FMETTRS"
+   ],
+   "YPO3182": [
+    "R_RBFSb"
+   ],
+   "YPO3225": [
+    "R_HXPRT",
+    "R_XPPT",
+    "R_GUAPRT"
+   ],
+   "YPO0158": [
+    "R_UPP3MT",
+    "R_SHCHF",
+    "R_SHCHD2"
+   ],
+   "YPO0522": [
+    "R_THMabcpp"
+   ],
+   "YPO3221": [
+    "R_G5SD"
+   ],
+   "YPO3222": [
+    "R_GLU5K"
+   ],
+   "YPO0521": [
+    "R_THMabcpp"
+   ],
+   "YPO0520": [
+    "R_THMabcpp"
+   ],
+   "YPO2734": [
+    "R_PHEMEabcpp"
+   ],
+   "YPO1331": [
+    "R_PTRCabcpp"
+   ],
+   "YPO1332": [
+    "R_PTRCabcpp"
+   ],
+   "YPO1333": [
+    "R_PTRCabcpp"
+   ],
+   "YPO1334": [
+    "R_PTRCabcpp"
+   ],
+   "YPO3795": [
+    "R_G3PSabcpp",
+    "R_G3PGabcpp",
+    "R_G3PIabcpp",
+    "R_G3PEabcpp",
+    "R_G3PCabcpp",
+    "R_GLYC3Pabcpp"
+   ],
+   "YPO2921": [
+    "R_PRFGS"
+   ],
+   "YPO3728": [
+    "R_IMPC",
+    "R_AICART"
+   ],
+   "YPO1867": [
+    "R_PGSA160",
+    "R_PGSA161",
+    "R_PGSA141",
+    "R_PGSA140",
+    "R_PGSA180",
+    "R_PGSA120",
+    "R_PGSA181"
+   ],
+   "YPO2929": [
+    "R_ACPS1"
+   ],
+   "YPO2844": [
+    "R_ABTA"
+   ],
+   "YPO3949": [
+    "R_ASAD"
+   ],
+   "YPO3132": [
+    "R_INDOLEt2pp"
+   ],
+   "YPO1636": [
+    "R_ADSL1r",
+    "R_ADSL2r"
+   ],
+   "YPO3501": [
+    "R_DHPS2"
+   ],
+   "YPO3500": [
+    "R_PGAMT"
+   ],
+   "YPO0239": [
+    "R_Kt2pp"
+   ],
+   "YPO3506": [
+    "R_MDDCP1pp",
+    "R_MDDEP2pp",
+    "R_MDDCP5pp",
+    "R_MDDEP3pp",
+    "R_MDDCP3pp",
+    "R_MDDEP1pp",
+    "R_MDDCP2pp",
+    "R_MDDEP4pp",
+    "R_MDDCP4pp"
+   ],
+   "YPO3761": [
+    "R_PPPGO3",
+    "R_PPPGO"
+   ],
+   "YPO3827": [
+    "R_GPDDA1",
+    "R_GPDDA3",
+    "R_GPDDA2",
+    "R_GPDDA4",
+    "R_GPDDA5"
+   ],
+   "YPO3824": [
+    "R_G3PD6",
+    "R_G3PD5",
+    "R_G3PD7"
+   ],
+   "YPO0144": [
+    "R_ADPRDP"
+   ],
+   "YPO3820": [
+    "R_CU2abcpp",
+    "R_NI2abcpp",
+    "R_CU1abcpp",
+    "R_ZN2abcpp",
+    "R_CD2abcpp",
+    "R_COBALT2abcpp",
+    "R_HG2abcpp"
+   ],
+   "YPO3766": [
+    "R_CTECOAI7",
+    "R_ECOAH6",
+    "R_HACD2i",
+    "R_ECOAH7",
+    "R_HACD1i",
+    "R_HACD6i",
+    "R_ECOAH4",
+    "R_ECOAH5",
+    "R_ECOAH2",
+    "R_HACD3i",
+    "R_ECOAH8",
+    "R_HACD4i",
+    "R_HACD7i",
+    "R_HACD8i",
+    "R_ECOAH3",
+    "R_CTECOAI8",
+    "R_ECOAH1",
+    "R_CTECOAI6",
+    "R_HACD5i"
+   ],
+   "YPO3769": [
+    "R_OPHBDC"
+   ],
+   "YPO3768": [
+    "R_FLVR",
+    "R_FE3Ri",
+    "R_FLVRx",
+    "R_FADRx",
+    "R_FMNRx",
+    "R_FMNRx2"
+   ],
+   "YPO3986": [
+    "R_CDAPPA140",
+    "R_CDAPPA141",
+    "R_CDAPPA160",
+    "R_CDAPPA161",
+    "R_CDAPPA120",
+    "R_CDAPPA181",
+    "R_CDAPPA180"
+   ],
+   "YPO2263": [
+    "R_MAN6PI"
+   ],
+   "YPO3980": [
+    "R_GLYCK2"
+   ],
+   "YPO1025": [
+    "R_MLTGY3pp",
+    "R_MLTGY4pp",
+    "R_MLTGY1pp",
+    "R_MLTGY2pp"
+   ],
+   "YPO1149": [
+    "R_PGL"
+   ],
+   "YPO1022": [
+    "R_ACGS"
+   ],
+   "YPO1023": [
+    "R_AGM3PApp",
+    "R_AGM4PApp"
+   ],
+   "YPO1147": [
+    "R_SULabcpp",
+    "R_TUNGSabcpp",
+    "R_MOBDabcpp"
+   ],
+   "YPO1146": [
+    "R_SULabcpp",
+    "R_TUNGSabcpp",
+    "R_MOBDabcpp"
+   ],
+   "YPO1145": [
+    "R_SULabcpp",
+    "R_TUNGSabcpp",
+    "R_MOBDabcpp"
+   ],
+   "YPO3347": [
+    "R_ASO3t8pp"
+   ],
+   "YPO2744": [
+    "R_HDCAtexi",
+    "R_TTDCEAtexi",
+    "R_OCDCAtexi",
+    "R_TTDCAtexi",
+    "R_DDCAtexi",
+    "R_OCDCEAtexi",
+    "R_HDCEAtexi"
+   ],
+   "YPO2214": [
+    "R_CBIAT",
+    "R_CBLAT"
+   ],
+   "YPO2420": [
+    "R_ULA4NFT",
+    "R_UDPGDC"
+   ],
+   "YPO2409": [
+    "R_PPS"
+   ],
+   "YPO2567": [
+    "R_PTAr",
+    "R_PTA2"
+   ],
+   "YPO3171": [
+    "R_DPR"
+   ],
+   "YPO3910": [
+    "R_FE3DCITtonex"
+   ],
+   "YPO3914": [
+    "R_NADTRHD"
+   ],
+   "YPO0378": [
+    "R_ADSS"
+   ],
+   "YPO2428": [
+    "R_PHETRS"
+   ],
+   "YPO2871": [
+    "R_IMPD"
+   ],
+   "YPO2067": [
+    "R_EDA",
+    "R_OAADC"
+   ],
+   "YPO2066": [
+    "R_G6PDH2r"
+   ],
+   "YPO2061": [
+    "R_ZNabcpp"
+   ],
+   "YPO2060": [
+    "R_ZNabcpp"
+   ],
+   "YPO2063": [
+    "R_LAURTRANS"
+   ],
+   "YPO1569": [
+    "R_L_LACD2",
+    "R_L_LACD3"
+   ],
+   "YPO2509": [
+    "R_ACONMT"
+   ],
+   "YPO0465": [
+    "R_PROt2rpp",
+    "R_CRNDt2rpp",
+    "R_CTBTt2rpp",
+    "R_CRNt2rpp"
+   ],
+   "YPO0463": [
+    "R_TALA"
+   ],
+   "YPO0461": [
+    "R_THRS",
+    "R_4HTHRS"
+   ],
+   "YPO2846": [
+    "R_PTRCabcpp"
+   ],
+   "YPO1299": [
+    "R_FRUK"
+   ],
+   "YPO3850": [
+    "R_UPP3S"
+   ],
+   "YPO0132": [
+    "R_FE2abcpp"
+   ],
+   "YPO3967": [
+    "R_PIt2rpp"
+   ],
+   "YPO3964": [
+    "R_RIBabcpp"
+   ],
+   "YPO0066": [
+    "R_GRXR",
+    "R_PAPSR2",
+    "R_RNDR3b",
+    "R_RNDR2b",
+    "R_RNDR4b",
+    "R_RNDR1b"
+   ],
+   "YPO4036": [
+    "R_XYLabcpp"
+   ],
+   "YPO4037": [
+    "R_XYLabcpp"
+   ],
+   "YPO1965": [
+    "R_SADH"
+   ],
+   "YPO1964": [
+    "R_SGSAD"
+   ],
+   "YPO0068": [
+    "R_G3PD2"
+   ],
+   "YPO3177": [
+    "R_DXPS"
+   ],
+   "YPO1963": [
+    "R_AST"
+   ],
+   "YPO1962": [
+    "R_SDPTA",
+    "R_ACOTA",
+    "R_SOTA"
+   ],
+   "YPO1601": [
+    "R_3OAS140",
+    "R_3OAS120",
+    "R_3OAS181",
+    "R_3OAS60",
+    "R_3OAS80",
+    "R_3OAS100",
+    "R_3OAS180",
+    "R_3OAS160",
+    "R_KAS14"
+   ],
+   "YPO1415": [
+    "R_DHORD5",
+    "R_DHORD2"
+   ],
+   "YPO0145": [
+    "R_MCTP1App",
+    "R_MPTG2",
+    "R_MCTP1Bpp",
+    "R_MPTG",
+    "R_MCTP2App"
+   ],
+   "YPO2368": [
+    "R_PYDAMK",
+    "R_HMPK1",
+    "R_PYDXK",
+    "R_PYDXNK"
+   ],
+   "YPO2369": [
+    "R_TYRTRS"
+   ],
+   "YPO0416": [
+    "R_LPS_YPtetra",
+    "R_LPS_YPhexa",
+    "R_LPS_YPpenta"
+   ],
+   "YPO1215": [
+    "R_OHPHM",
+    "R_DMQMT"
+   ],
+   "YPO1413": [
+    "R_NAMNPP"
+   ],
+   "YPO1412": [
+    "R_ASNTRS"
+   ],
+   "YPO0364": [
+    "R_PSD120",
+    "R_PSD140",
+    "R_PSD160",
+    "R_PSD141",
+    "R_PSD181",
+    "R_PSD180",
+    "R_PSD161"
+   ],
+   "YPO0365": [
+    "R_NTP3",
+    "R_NTP5",
+    "R_NTP10",
+    "R_NTP1"
+   ],
+   "YPO1603": [
+    "R_ADCL"
+   ],
+   "YPO0360": [
+    "R_FRD2",
+    "R_FRD3"
+   ],
+   "YPO3141": [
+    "R_FACOAE80",
+    "R_FACOAE160",
+    "R_FACOAE141",
+    "R_FACOAE161",
+    "R_FACOAE60",
+    "R_FACOAE180",
+    "R_FACOAE120",
+    "R_FACOAE181",
+    "R_FACOAE100",
+    "R_FACOAE140"
+   ],
+   "YPO3142": [
+    "R_NH4tpp"
+   ],
+   "YPO3144": [
+    "R_GTHRDabc2pp"
+   ],
+   "YPO1661": [
+    "R_NI2uabcpp",
+    "R_MG2uabcpp"
+   ],
+   "YPO1150": [
+    "R_AMAOTr"
+   ],
+   "YPO2889": [
+    "R_AMPTASEPG",
+    "R_AMPTASECG"
+   ],
+   "YPO2883": [
+    "R_NDPK8",
+    "R_NDPK7",
+    "R_NDPK6",
+    "R_NDPK4",
+    "R_NDPK3",
+    "R_NDPK5",
+    "R_NDPK1",
+    "R_NDPK2"
+   ],
+   "YPO2751": [
+    "R_CHORS"
+   ],
+   "YPO3464": [
+    "R_R15BPK"
+   ],
+   "YPO1599": [
+    "R_3OAR161",
+    "R_3OAR40",
+    "R_3OAR140",
+    "R_3OAR120",
+    "R_3OAR141",
+    "R_3OAR80",
+    "R_3OAR121",
+    "R_3OAR180",
+    "R_3OAR100",
+    "R_3OAR60",
+    "R_3OAR160",
+    "R_3OAR181"
+   ],
+   "YPO2960": [
+    "R_FEpp",
+    "R_FEex"
+   ],
+   "YPO1351": [
+    "R_ARGabcpp"
+   ],
+   "YPO3577": [
+    "R_A5PISO"
+   ],
+   "YPO4080": [
+    "R_AAMYLpp"
+   ],
+   "YPO4082": [
+    "R_VPAMTr"
+   ],
+   "YPO4089": [
+    "R_THRD_L"
+   ],
+   "YPO2016": [
+    "R_GLUTRR"
+   ],
+   "YPO0844": [
+    "R_TGBPA"
+   ],
+   "YPO3868": [
+    "R_THIORDXi",
+    "R_RNDR1",
+    "R_METSOXR1",
+    "R_METSOXR2",
+    "R_RNDR4",
+    "R_PAPSR",
+    "R_DSBDR",
+    "R_RNDR2",
+    "R_TRDR",
+    "R_RNDR3"
+   ],
+   "YPO3318": [
+    "R_RIBabcpp"
+   ],
+   "YPO3319": [
+    "R_CAT"
+   ],
+   "YPO3760": [
+    "R_UAPGR"
+   ],
+   "YPO3862": [
+    "R_TDPGDH"
+   ],
+   "YPO3863": [
+    "R_UACMAMO"
+   ],
+   "YPO3861": [
+    "R_G1PTT"
+   ],
+   "YPO3866": [
+    "R_ACGAMT"
+   ],
+   "YPO3864": [
+    "R_UAG2E"
+   ],
+   "YPO3865": [
+    "R_ECAP3pp",
+    "R_ECAP1pp",
+    "R_ECAP2pp"
+   ],
+   "YPO1068": [
+    "R_PROTRS"
+   ],
+   "YPO3762": [
+    "R_Kt2pp"
+   ],
+   "YPO0683": [
+    "R_ADOCBLtonex",
+    "R_CPGNtonex",
+    "R_FEENTERtonex",
+    "R_FECRMtonex",
+    "R_FEOXAMtonex",
+    "R_FE3DHBZStonex",
+    "R_FE3HOXtonex",
+    "R_FE3DCITtonex"
+   ],
+   "YPO0682": [
+    "R_ADOCBLtonex",
+    "R_CPGNtonex",
+    "R_FEENTERtonex",
+    "R_FECRMtonex",
+    "R_FEOXAMtonex",
+    "R_FE3DHBZStonex",
+    "R_FE3HOXtonex",
+    "R_FE3DCITtonex"
+   ],
+   "YPO1349": [
+    "R_ARGabcpp"
+   ],
+   "YPO0960": [
+    "R_ORNDC"
+   ],
+   "YPO2816": [
+    "R_DASYN180",
+    "R_DASYN181",
+    "R_DASYN140",
+    "R_DASYN160",
+    "R_DASYN120",
+    "R_DASYN141",
+    "R_DASYN161"
+   ],
+   "YPO3793": [
+    "R_G3PSabcpp",
+    "R_G3PGabcpp",
+    "R_G3PIabcpp",
+    "R_G3PEabcpp",
+    "R_G3PCabcpp",
+    "R_GLYC3Pabcpp"
+   ],
+   "YPO3794": [
+    "R_G3PSabcpp",
+    "R_G3PGabcpp",
+    "R_G3PIabcpp",
+    "R_G3PEabcpp",
+    "R_G3PCabcpp",
+    "R_GLYC3Pabcpp"
+   ],
+   "YPO2705": [
+    "R_OBTFL",
+    "R_PFL"
+   ],
+   "YPO3796": [
+    "R_G3PSabcpp",
+    "R_G3PGabcpp",
+    "R_G3PIabcpp",
+    "R_G3PEabcpp",
+    "R_G3PCabcpp",
+    "R_GLYC3Pabcpp"
+   ],
+   "YPO1548": [
+    "R_HISTD"
+   ],
+   "YPO0561": [
+    "R_UHGADA"
+   ],
+   "YPO0565": [
+    "R_NTPP1",
+    "R_NTPP2",
+    "R_DNTPPA"
+   ],
+   "YPO2176": [
+    "R_TMDK1",
+    "R_DURIK1"
+   ],
+   "YPO2528": [
+    "R_ICHORS"
+   ],
+   "YPO3032": [
+    "R_CPPPGO"
+   ],
+   "YPO3034": [
+    "R_ME2"
+   ],
+   "YPO3037": [
+    "R_NO3R1bpp",
+    "R_NO3R2bpp"
+   ],
+   "YPO2686": [
+    "R_PGMT"
+   ],
+   "YPO3038": [
+    "R_NO3R1bpp",
+    "R_NO3R2bpp"
+   ],
+   "YPO2523": [
+    "R_SUCBZL"
+   ],
+   "YPO2524": [
+    "R_SUCBZS"
+   ],
+   "YPO2525": [
+    "R_NPHS"
+   ],
+   "YPO2527": [
+    "R_OXGDC2",
+    "R_SHCHCS2"
+   ],
+   "YPO1114": [
+    "R_AKGDH"
+   ],
+   "YPO1115": [
+    "R_SUCOAS"
+   ],
+   "YPO1116": [
+    "R_SUCOAS"
+   ],
+   "YPO1117": [
+    "R_CYTBD2pp",
+    "R_CYTBDpp"
+   ],
+   "YPO1110": [
+    "R_SUCDi"
+   ],
+   "YPO1111": [
+    "R_SUCDi"
+   ],
+   "YPO1112": [
+    "R_SUCDi"
+   ],
+   "YPO1113": [
+    "R_AKGDH"
+   ],
+   "YPO1540": [
+    "R_GALUi"
+   ],
+   "YPO1118": [
+    "R_CYTBD2pp",
+    "R_CYTBDpp"
+   ],
+   "YPO0832": [
+    "R_TGBPA"
+   ],
+   "YPO2223": [
+    "R_PAPA160",
+    "R_PAPA161",
+    "R_PAPA141",
+    "R_PAPA140pp",
+    "R_PAPA180pp",
+    "R_PAPA140",
+    "R_PGPP120pp",
+    "R_PGPP180pp",
+    "R_PGPP160",
+    "R_PGPP180",
+    "R_PAPA141pp",
+    "R_PGPP161",
+    "R_PGPP181",
+    "R_PGPP140pp",
+    "R_PGPP160pp",
+    "R_PAPA181pp",
+    "R_PGPP161pp",
+    "R_UDCPDP",
+    "R_PGPP120",
+    "R_PAPA120",
+    "R_PAPA120pp",
+    "R_PGPP141",
+    "R_PGPP181pp",
+    "R_PAPA161pp",
+    "R_PAPA180",
+    "R_PAPA160pp",
+    "R_PGPP141pp",
+    "R_PGPP140",
+    "R_UDCPDPpp",
+    "R_PAPA181"
+   ],
+   "YPO2222": [
+    "R_GTPCII2"
+   ],
+   "YPO2221": [
+    "R_ACONTb",
+    "R_ACONTa"
+   ],
+   "YPO3726": [
+    "R_MALS"
+   ],
+   "YPO2227": [
+    "R_OMPDC"
+   ],
+   "YPO3722": [
+    "R_METS"
+   ],
+   "YPO2142": [
+    "R_NAt3_1p5pp"
+   ],
+   "YPO2635": [
+    "R_RNTR4c",
+    "R_RNTR1c",
+    "R_FLDR",
+    "R_RNTR3c",
+    "R_RNTR2c"
+   ],
+   "YPO2141": [
+    "R_DSBAO1",
+    "R_DSBAO2"
+   ],
+   "YPO2630": [
+    "R_GLNTRS"
+   ],
+   "YPO2147": [
+    "R_DAAD"
+   ],
+   "YPO2418": [
+    "R_LA4NTpp"
+   ],
+   "YPO0459": [
+    "R_ASPK",
+    "R_HSDy"
+   ],
+   "YPO3725": [
+    "R_ICL"
+   ],
+   "YPO3929": [
+    "R_PPC"
+   ],
+   "YPO3928": [
+    "R_NACODA",
+    "R_ACODA"
+   ],
+   "YPO0104": [
+    "R_DHNAOT4"
+   ],
+   "YPO1028": [
+    "R_CYSSADS"
+   ],
+   "YPO3888": [
+    "R_DPR",
+    "R_KARA1",
+    "R_KARA2"
+   ],
+   "YPO3727": [
+    "R_HSST"
+   ],
+   "YPO3925": [
+    "R_ACGK"
+   ],
+   "YPO1845": [
+    "R_CYSDDS",
+    "R_CYSDS"
+   ],
+   "YPO3711": [
+    "R_14GLUCANtexi",
+    "R_MALTTRtexi",
+    "R_GLCtex_copy2",
+    "R_MALTPTtexi",
+    "R_MALTTTRtexi",
+    "R_MALTHXtexi",
+    "R_MALTtexi"
+   ],
+   "YPO3305": [
+    "R_ALATRS"
+   ],
+   "YPO0328": [
+    "R_RMPA"
+   ],
+   "YPO0329": [
+    "R_LYXI",
+    "R_RMI"
+   ],
+   "YPO0085": [
+    "R_TPI"
+   ],
+   "YPO0321": [
+    "R_ALAR"
+   ],
+   "YPO3036": [
+    "R_NO3R1bpp",
+    "R_NO3R2bpp"
+   ],
+   "YPO0767": [
+    "R_GLCNt2rpp",
+    "R_FRUURt2rpp"
+   ],
+   "YPO1914": [
+    "R_FEpp",
+    "R_FEex"
+   ],
+   "YPO3716": [
+    "R_14GLUCANabcpp",
+    "R_MALTHXabcpp",
+    "R_MALTTTRabcpp",
+    "R_MALTabcpp",
+    "R_MALTPTabcpp",
+    "R_MALTTRabcpp"
+   ],
+   "YPO1509": [
+    "R_GALabcpp",
+    "R_GLCabcpp"
+   ],
+   "YPO3428": [
+    "R_GMPR"
+   ],
+   "YPO3423": [
+    "R_AM3PA",
+    "R_AM4PA",
+    "R_AGM4PA",
+    "R_AGM3PA"
+   ],
+   "YPO3424": [
+    "R_NNDPR"
+   ],
+   "YPO1939": [
+    "R_GLUN"
+   ],
+   "YPO4048": [
+    "R_NAt3pp",
+    "R_Kt3pp"
+   ],
+   "YPO0038": [
+    "R_PPGPPDP",
+    "R_GDPDPK"
+   ],
+   "YPO0425": [
+    "R_DGUNC"
+   ],
+   "YPO1441": [
+    "R_MGSA"
+   ],
+   "YPO1525": [
+    "R_DCTPD"
+   ],
+   "YPO0035": [
+    "R_GLUt4pp"
+   ],
+   "YPO0311": [
+    "R_HBZOPT"
+   ],
+   "YPO1522": [
+    "R_METTRS"
+   ],
+   "YPO0922": [
+    "R_E4PD"
+   ],
+   "YPO0888": [
+    "R_LYSTRS"
+   ],
+   "YPO0920": [
+    "R_FBA"
+   ],
+   "YPO1654": [
+    "R_LACZ"
+   ],
+   "YPO0926": [
+    "R_TKT1",
+    "R_TKT2"
+   ],
+   "YPO1300": [
+    "R_FRUptspp"
+   ],
+   "YPO1650": [
+    "R_KOKDO_LIPAhexa",
+    "R_KOKDO_LIPAtetra",
+    "R_KOKDO_LIPApenta"
+   ],
+   "YPO3211": [
+    "R_HEX7"
+   ],
+   "YPO0552": [
+    "R_PAPPT3"
+   ],
+   "YPO0551": [
+    "R_UGMDDS"
+   ],
+   "YPO0550": [
+    "R_UAAGDS"
+   ],
+   "YPO3215": [
+    "R_SHKK"
+   ],
+   "YPO0556": [
+    "R_UAMAS"
+   ],
+   "YPO0555": [
+    "R_UAGPT3"
+   ],
+   "YPO1041": [
+    "R_THDPS"
+   ],
+   "YPO3516": [
+    "R_MDH"
+   ],
+   "YPO2859": [
+    "R_PMPK",
+    "R_HMPK1"
+   ],
+   "YPO2912": [
+    "R_NADS2",
+    "R_NADS1"
+   ],
+   "YPO3513": [
+    "R_OCTDPS"
+   ],
+   "YPO3697": [
+    "R_TREptspp"
+   ],
+   "YPO3696": [
+    "R_TRE6PH"
+   ],
+   "YPO3953": [
+    "R_GNK"
+   ],
+   "YPO1539": [
+    "R_GALUi"
+   ],
+   "YPO3588": [
+    "R_ASPCT"
+   ],
+   "YPO3455": [
+    "R_RNTR4c",
+    "R_RNTR1c",
+    "R_RNTR3c",
+    "R_RNTR2c"
+   ],
+   "YPO3454": [
+    "R_RNTR4c",
+    "R_RNTR1c",
+    "R_RNTR3c",
+    "R_RNTR2c"
+   ],
+   "YPO3851": [
+    "R_UPP3MT"
+   ],
+   "YPO3623": [
+    "R_FMNRx",
+    "R_FMNRx2"
+   ],
+   "YPO3857": [
+    "R_AADDGT"
+   ],
+   "YPO0436": [
+    "R_DRPA"
+   ],
+   "YPO3855": [
+    "R_ACMAMUT"
+   ],
+   "YPO3854": [
+    "R_ALAt2pp",
+    "R_DALAt2pp",
+    "R_BALAt2pp",
+    "R_GLYt2pp",
+    "R_DSERt2pp"
+   ],
+   "YPO3992": [
+    "R_FUMt2_2pp",
+    "R_MALDt2_2pp",
+    "R_MALt2_2pp",
+    "R_ASPt2_2pp",
+    "R_OROTt2_2pp",
+    "R_SUCCt2_2pp"
+   ],
+   "YPO3990": [
+    "R_DDGLK"
+   ],
+   "YPO3858": [
+    "R_ECAtpp"
+   ],
+   "YPO3996": [
+    "R_CDGUNPD"
+   ],
+   "YPO3771": [
+    "R_PPBNGS"
+   ],
+   "YPO0954": [
+    "R_MLTGY3pp",
+    "R_MLTGY4pp",
+    "R_MLTGY1pp",
+    "R_MLTGY2pp"
+   ],
+   "YPO3286": [
+    "R_DDPA"
+   ],
+   "YPO1151": [
+    "R_BTS4"
+   ],
+   "YPO1152": [
+    "R_AOXSr"
+   ],
+   "YPO3285": [
+    "R_PPND",
+    "R_CHORM"
+   ],
+   "YPO3230": [
+    "R_LALGP",
+    "R_AMPTASEPG",
+    "R_AMPTASECG"
+   ],
+   "YPO0958": [
+    "R_RIBabcpp"
+   ],
+   "YPO2672": [
+    "R_UREAtex",
+    "R_UREAtpp"
+   ],
+   "YPO2675": [
+    "R_Kt2pp"
+   ],
+   "YPO1285": [
+    "R_TRPt2rpp"
+   ],
+   "YPO0322": [
+    "R_TYRTA",
+    "R_PHETA1",
+    "R_UNK3",
+    "R_LEUTAi"
+   ],
+   "YPO3353": [
+    "R_RPI",
+    "R_ALLPI"
+   ],
+   "YPO2264": [
+    "R_FUM"
+   ],
+   "YPO3358": [
+    "R_PPA",
+    "R_NTD11",
+    "R_NTD9",
+    "R_NTD8",
+    "R_NTD10",
+    "R_NTD1",
+    "R_NTD3",
+    "R_NTD12",
+    "R_NTD2",
+    "R_NTD4",
+    "R_NTD5",
+    "R_PPA2",
+    "R_NTD6",
+    "R_NTD7"
+   ],
+   "YPO2773": [
+    "R_OPHBDC"
+   ],
+   "YPO2772": [
+    "R_GLUPRT"
+   ],
+   "YPO2775": [
+    "R_LYSabcpp",
+    "R_ORNabcpp",
+    "R_ARGabcpp",
+    "R_HISabcpp"
+   ],
+   "YPO2774": [
+    "R_HISabcpp"
+   ],
+   "YPO2777": [
+    "R_LYSabcpp",
+    "R_ORNabcpp",
+    "R_ARGabcpp",
+    "R_HISabcpp"
+   ],
+   "YPO2776": [
+    "R_LYSabcpp",
+    "R_ORNabcpp",
+    "R_ARGabcpp",
+    "R_HISabcpp"
+   ],
+   "YPO2551": [
+    "R_NADH17pp",
+    "R_NADH18pp",
+    "R_NADH16pp"
+   ],
+   "YPO2550": [
+    "R_NADH17pp",
+    "R_NADH18pp",
+    "R_NADH16pp"
+   ],
+   "YPO2553": [
+    "R_NADH17pp",
+    "R_NADH18pp",
+    "R_NADH16pp"
+   ],
+   "YPO2552": [
+    "R_NADH17pp",
+    "R_NADH18pp",
+    "R_NADH16pp"
+   ],
+   "YPO2555": [
+    "R_NADH17pp",
+    "R_NADH18pp",
+    "R_NADH16pp"
+   ],
+   "YPO2554": [
+    "R_NADH17pp",
+    "R_NADH18pp",
+    "R_NADH16pp"
+   ],
+   "YPO2559": [
+    "R_NTD8",
+    "R_NTD1",
+    "R_NTD3",
+    "R_NTD12",
+    "R_NTD5",
+    "R_NTD6"
+   ],
+   "YPO2566": [
+    "R_ACKr"
+   ],
+   "YPO0557": [
+    "R_ALAALAr"
+   ],
+   "YPO0577": [
+    "R_GLCURt2rpp",
+    "R_GALURt2rpp"
+   ],
+   "YPO3075": [
+    "R_USHD"
+   ],
+   "YPO3077": [
+    "R_AIRC2"
+   ],
+   "YPO3076": [
+    "R_AIRC3"
+   ],
+   "YPO3070": [
+    "R_ASR"
+   ],
+   "YPO3073": [
+    "R_CYSTRS"
+   ],
+   "YPO2174": [
+    "R_UDPGD"
+   ],
+   "YPO2440": [
+    "R_FEpp",
+    "R_FEex"
+   ],
+   "YPO0907": [
+    "R_GLYCL"
+   ],
+   "YPO2074": [
+    "R_FACOAL100t2pp",
+    "R_FACOAL120t2pp",
+    "R_FACOAL80t2pp",
+    "R_FACOAL180t2pp",
+    "R_FACOAL140t2pp",
+    "R_FACOAL60t2pp",
+    "R_FACOAL181t2pp",
+    "R_FACOAL141t2pp",
+    "R_FACOAL161t2pp",
+    "R_FACOAL160t2pp"
+   ],
+   "YPO2306": [
+    "R_ARGORNt7pp"
+   ],
+   "YPO2302": [
+    "R_NADTRHD",
+    "R_THD2pp"
+   ],
+   "YPO2303": [
+    "R_NADTRHD",
+    "R_THD2pp"
+   ],
+   "YPO0474": [
+    "R_RBFK",
+    "R_FMNAT"
+   ],
+   "YPO0475": [
+    "R_ILETRS"
+   ],
+   "YPO0477": [
+    "R_IPDPS",
+    "R_DMPPS"
+   ],
+   "YPO0470": [
+    "R_NAt3_2pp"
+   ],
+   "YPO3162": [
+    "R_AGM4Pt2pp",
+    "R_AGM3Pt2pp",
+    "R_AGMt2pp"
+   ],
+   "YPO0070": [
+    "R_SERAT"
+   ],
+   "YPO3767": [
+    "R_ACACT2r",
+    "R_ACACT5r",
+    "R_ACACT7r",
+    "R_ACACT6r",
+    "R_ACACT3r",
+    "R_ACACT4r",
+    "R_ACACT8r",
+    "R_KAT1"
+   ],
+   "YPO3977": [
+    "R_GTHOr"
+   ],
+   "YPO3971": [
+    "R_GLUDy"
+   ],
+   "YPO0078": [
+    "R_PFK_2",
+    "R_PFK"
+   ],
+   "YPO3376": [
+    "R_ENO"
+   ],
+   "YPO4001": [
+    "R_ALAALAabcpp",
+    "R_PROGLYabcpp",
+    "R_CGLYabcpp"
+   ],
+   "YPO4000": [
+    "R_ALAALAabcpp",
+    "R_PROGLYabcpp",
+    "R_CGLYabcpp"
+   ],
+   "YPO4003": [
+    "R_ALAALAabcpp",
+    "R_PROGLYabcpp",
+    "R_CGLYabcpp"
+   ],
+   "YPO4002": [
+    "R_ALAALAabcpp",
+    "R_PROGLYabcpp",
+    "R_CGLYabcpp"
+   ],
+   "YPO1400": [
+    "R_KDOCT2"
+   ],
+   "YPO2394": [
+    "R_ALPATG160pp",
+    "R_ALPATE160pp"
+   ],
+   "YPO2393": [
+    "R_PYK"
+   ],
+   "YPO0411": [
+    "R_DGUNC"
+   ],
+   "YPO2391": [
+    "R_RBFSa"
+   ],
+   "YPO2390": [
+    "R_CFAS180E",
+    "R_CFAS160E",
+    "R_CFAS160G",
+    "R_CFAS180G"
+   ]
+  },
+  "sbml_in": "iPC815.xml",
+  "taxon_id": "214092",
+  "sbml_out_generic": "e:\\cloud\\Dropbox\\projects\\sebastian_metadraft_templates\\metadraft_templates\\metadraft_template_data_2019-1\\lib_model\\(bigg2-ype)-(iPC815).seqplus.xml",
+  "sbml_out": "e:\\cloud\\Dropbox\\projects\\sebastian_metadraft_templates\\metadraft_templates\\metadraft_template_data_2019-1\\lib_model\\(bigg2-ype)-(iPC815).seqplus.xml",
+  "reaction2gene": {
+   "R_CTPS2": [
+    "YPO3377"
+   ],
+   "R_ACNML": [
+    "YPO3024"
+   ],
+   "R_THRA": [
+    "YPO2907",
+    "YPO1357"
+   ],
+   "R_TMK": [
+    "YPO1614"
+   ],
+   "R_OCTAtex": [
+    "YPO1222"
+   ],
+   "R_NACODA": [
+    "YPO3928"
+   ],
+   "R_BALAtex": [
+    "YPO1222"
+   ],
+   "R_TDSK": [
+    "YPO1396"
+   ],
+   "R_SPODMpp": [
+    "YPO3375"
+   ],
+   "R_PRAIS": [
+    "YPO2828"
+   ],
+   "R_ADCS": [
+    "YPO1773",
+    "YPO0169"
+   ],
+   "R_3OAS120": [
+    "YPO2757",
+    "YPO1601"
+   ],
+   "R_CFAS160E": [
+    "YPO2390"
+   ],
+   "R_3OAR140": [
+    "YPO1599"
+   ],
+   "R_3OAR141": [
+    "YPO1599"
+   ],
+   "R_NAt3pp": [
+    "YPO1958",
+    "YPO4048"
+   ],
+   "R_GLUt4pp": [
+    "YPO0035"
+   ],
+   "R_DINStex": [
+    "YPO1222"
+   ],
+   "R_DADNt2pp": [
+    "YPO2983"
+   ],
+   "R_GLUtex": [
+    "YPO1222"
+   ],
+   "R_DOPAtex": [
+    "YPO1222"
+   ],
+   "R_PPAtex": [
+    "YPO1222"
+   ],
+   "R_GLYCL": [
+    "YPO3417",
+    "YPO0905",
+    "YPO0906",
+    "YPO0907"
+   ],
+   "R_ADCL": [
+    "YPO1603"
+   ],
+   "R_GLYtex": [
+    "YPO1222"
+   ],
+   "R_NTP3pp": [
+    "YPO1648"
+   ],
+   "R_LPLIPAL2ATE140": [
+    "YPO3830"
+   ],
+   "R_LPLIPAL2ATE141": [
+    "YPO3830"
+   ],
+   "R_DAGK120": [
+    "YPO0313"
+   ],
+   "R_UHGADA": [
+    "YPO0561"
+   ],
+   "R_MALTTRtexi": [
+    "YPO3711"
+   ],
+   "R_DHQTi": [
+    "YPO3660"
+   ],
+   "R_DNTPPA": [
+    "YPO2054",
+    "YPO0565"
+   ],
+   "R_TREptspp": [
+    "YPO2995",
+    "YPO3697",
+    "YPO2993"
+   ],
+   "R_FCLT": [
+    "YPO3117"
+   ],
+   "R_FE2abcpp": [
+    "YPO0132"
+   ],
+   "R_RMPA": [
+    "YPO0328"
+   ],
+   "R_3HAD40": [
+    "YPO1055",
+    "YPO1430"
+   ],
+   "R_FMNAT": [
+    "YPO0474"
+   ],
+   "R_SERTRS": [
+    "YPO1379"
+   ],
+   "R_NNATr": [
+    "YPO2607"
+   ],
+   "R_COBALT2abcpp": [
+    "YPO3820"
+   ],
+   "R_F6PA": [
+    "YPO2232"
+   ],
+   "R_FE2tex": [
+    "YPO1222"
+   ],
+   "R_EDD": [
+    "YPO2533"
+   ],
+   "R_ATPS4rpp": [
+    "YPO4126",
+    "YPO4127",
+    "YPO4124",
+    "YPO4125",
+    "YPO4122",
+    "YPO4123",
+    "YPO4120",
+    "YPO4121",
+    "YPO4128"
+   ],
+   "R_EDA": [
+    "YPO2067"
+   ],
+   "R_FACOAE120": [
+    "YPO3141"
+   ],
+   "R_SULabcpp": [
+    "YPO3014",
+    "YPO3013",
+    "YPO3012",
+    "YPO1147",
+    "YPO1146",
+    "YPO1145",
+    "YPO3015"
+   ],
+   "R_DASYN141": [
+    "YPO1050",
+    "YPO2816"
+   ],
+   "R_PPGPPDP": [
+    "YPO0038"
+   ],
+   "R_HMPK1": [
+    "YPO2368",
+    "YPO2859"
+   ],
+   "R_DGK1": [
+    "YPO0040"
+   ],
+   "R_CHRPL": [
+    "YPO0310"
+   ],
+   "R_CYStex": [
+    "YPO1222"
+   ],
+   "R_MG2uabcpp": [
+    "YPO1661"
+   ],
+   "R_ACACtex": [
+    "YPO1222"
+   ],
+   "R_LPLIPAL2G141": [
+    "YPO3830"
+   ],
+   "R_LPLIPAL2G140": [
+    "YPO3830"
+   ],
+   "R_DDGLCNtex": [
+    "YPO1222"
+   ],
+   "R_GALURtex": [
+    "YPO1222"
+   ],
+   "R_SPODM": [
+    "YPO4061"
+   ],
+   "R_SDPDS": [
+    "YPO3053"
+   ],
+   "R_ACMAMUT": [
+    "YPO3855"
+   ],
+   "R_ACGAMT": [
+    "YPO3866"
+   ],
+   "R_PRFGS": [
+    "YPO2921"
+   ],
+   "R_CLPNS120pp": [
+    "YPO2188"
+   ],
+   "R_ACACT7r": [
+    "YPO3767"
+   ],
+   "R_ILEtex": [
+    "YPO1222"
+   ],
+   "R_PPND": [
+    "YPO3285"
+   ],
+   "R_ALLtex": [
+    "YPO1222"
+   ],
+   "R_FACOAE60": [
+    "YPO3141"
+   ],
+   "R_DDPA": [
+    "YPO3286"
+   ],
+   "R_AACPS9": [
+    "YPO1600",
+    "YPO0793"
+   ],
+   "R_AACPS8": [
+    "YPO1600",
+    "YPO0793"
+   ],
+   "R_AACPS7": [
+    "YPO1600",
+    "YPO0793"
+   ],
+   "R_AACPS6": [
+    "YPO1600",
+    "YPO0793"
+   ],
+   "R_AACPS5": [
+    "YPO1600",
+    "YPO0793"
+   ],
+   "R_AACPS4": [
+    "YPO1600",
+    "YPO0793"
+   ],
+   "R_AACPS3": [
+    "YPO1600",
+    "YPO0793"
+   ],
+   "R_AACPS2": [
+    "YPO1600",
+    "YPO0793"
+   ],
+   "R_AACPS1": [
+    "YPO1600",
+    "YPO0793"
+   ],
+   "R_NADDP": [
+    "YPO3736"
+   ],
+   "R_NADPHQR3": [
+    "YPO0670"
+   ],
+   "R_MLTGY2pp": [
+    "YPO0452",
+    "YPO2957",
+    "YPO1025",
+    "YPO2438",
+    "YPO0954"
+   ],
+   "R_CYSDSF": [
+    "YPO2896"
+   ],
+   "R_CDGUNPD": [
+    "YPO3996"
+   ],
+   "R_Htex": [
+    "YPO1222"
+   ],
+   "R_GLYCLTDx": [
+    "YPO4078"
+   ],
+   "R_GLYCLTDy": [
+    "YPO4078"
+   ],
+   "R_CFAS160G": [
+    "YPO2390"
+   ],
+   "R_GLUDy": [
+    "YPO3971"
+   ],
+   "R_HXAtex": [
+    "YPO1222"
+   ],
+   "R_PLIPA1A141pp": [
+    "YPO3834"
+   ],
+   "R_OHPHM": [
+    "YPO1215"
+   ],
+   "R_SBTtex": [
+    "YPO1222"
+   ],
+   "R_2AGPA180tipp": [
+    "YPO0792"
+   ],
+   "R_2AGPEAT160": [
+    "YPO0793"
+   ],
+   "R_2AGPEAT161": [
+    "YPO0793"
+   ],
+   "R_UAGPT3": [
+    "YPO0555"
+   ],
+   "R_THYMtex": [
+    "YPO1222"
+   ],
+   "R_AGPR": [
+    "YPO3927"
+   ],
+   "R_AGM4PA": [
+    "YPO3423"
+   ],
+   "R_MALtex": [
+    "YPO1222"
+   ],
+   "R_FALDtex": [
+    "YPO1222"
+   ],
+   "R_PGPP141pp": [
+    "YPO2223",
+    "YPO3179"
+   ],
+   "R_MALDDH": [
+    "YPO2496"
+   ],
+   "R_PYRtex": [
+    "YPO1222"
+   ],
+   "R_THRtex": [
+    "YPO1222"
+   ],
+   "R_FE3Ri": [
+    "YPO3768"
+   ],
+   "R_2AGPEAT180": [
+    "YPO0793"
+   ],
+   "R_2AGPEAT181": [
+    "YPO0793"
+   ],
+   "R_UDPG4E": [
+    "YPO1139"
+   ],
+   "R_DMPPS": [
+    "YPO0477"
+   ],
+   "R_LPS_YPtetra": [
+    "YPO0056",
+    "YPO0057",
+    "YPO0416"
+   ],
+   "R_ALPATE160pp": [
+    "YPO2616",
+    "YPO2394"
+   ],
+   "R_G5SD": [
+    "YPO3221"
+   ],
+   "R_ACPS1": [
+    "YPO2929"
+   ],
+   "R_ANS": [
+    "YPO2206",
+    "YPO2208"
+   ],
+   "R_HSTPT": [
+    "YPO1547"
+   ],
+   "R_PSD180": [
+    "YPO0364"
+   ],
+   "R_3NTD4pp": [
+    "YPO3530"
+   ],
+   "R_SO4tex": [
+    "YPO1222"
+   ],
+   "R_ADSL2r": [
+    "YPO1636"
+   ],
+   "R_ACNAMt2pp": [
+    "YPO3016"
+   ],
+   "R_PTRCabcpp": [
+    "YPO1331",
+    "YPO1332",
+    "YPO1333",
+    "YPO1334",
+    "YPO2846"
+   ],
+   "R_RNDR3": [
+    "YPO3270",
+    "YPO3868"
+   ],
+   "R_GLU5K": [
+    "YPO3222"
+   ],
+   "R_RBP4E": [
+    "YPO3326"
+   ],
+   "R_GSNtex": [
+    "YPO1222"
+   ],
+   "R_H2tex": [
+    "YPO1222"
+   ],
+   "R_GLCP": [
+    "YPO3938"
+   ],
+   "R_H2Stex": [
+    "YPO1222"
+   ],
+   "R_DPCOAK": [
+    "YPO3430"
+   ],
+   "R_ICHORS": [
+    "YPO2528"
+   ],
+   "R_UACMAMO": [
+    "YPO3863"
+   ],
+   "R_LPLIPAL2E141": [
+    "YPO3830"
+   ],
+   "R_LPLIPAL2E140": [
+    "YPO3830"
+   ],
+   "R_PROGLYtex": [
+    "YPO1222"
+   ],
+   "R_HACD7i": [
+    "YPO3766"
+   ],
+   "R_GALUi": [
+    "YPO1540",
+    "YPO1539"
+   ],
+   "R_PRASCSi": [
+    "YPO3059"
+   ],
+   "R_ORNDC": [
+    "YPO0960"
+   ],
+   "R_URIt2pp_copy1": [
+    "YPO2983"
+   ],
+   "R_UMPK": [
+    "YPO1046",
+    "YPO1391"
+   ],
+   "R_MSO3tex": [
+    "YPO1222"
+   ],
+   "R_GF6PTA": [
+    "YPO4118"
+   ],
+   "R_FRUpts2pp": [
+    "YPO1758",
+    "YPO1756",
+    "YPO1757",
+    "YPO2993"
+   ],
+   "R_UDCPDP": [
+    "YPO2223",
+    "YPO1324"
+   ],
+   "R_TYRtex": [
+    "YPO1222"
+   ],
+   "R_HSK": [
+    "YPO0460"
+   ],
+   "R_ACCOAC": [
+    "YPO3659",
+    "YPO3658",
+    "YPO1060",
+    "YPO2768"
+   ],
+   "R_MCOATA": [
+    "YPO1598",
+    "YPO1600"
+   ],
+   "R_MALTabcpp": [
+    "YPO3712",
+    "YPO3714",
+    "YPO3715",
+    "YPO3716"
+   ],
+   "R_CLPNS141pp": [
+    "YPO2188"
+   ],
+   "R_TPI": [
+    "YPO0085"
+   ],
+   "R_2AGPGAT140": [
+    "YPO0793"
+   ],
+   "R_2AGPGAT141": [
+    "YPO0793"
+   ],
+   "R_DHNPA2r": [
+    "YPO0648"
+   ],
+   "R_FEex": [
+    "YPO1914",
+    "YPO1312",
+    "YPO1310",
+    "YPO1311",
+    "YPO2959",
+    "YPO2958",
+    "YPO2960",
+    "YPO2440",
+    "YPO2442",
+    "YPO2441",
+    "YPO2439",
+    "YPO1913"
+   ],
+   "R_NMNAT": [
+    "YPO0444",
+    "YPO2607"
+   ],
+   "R_LPLIPAL2A141": [
+    "YPO3830"
+   ],
+   "R_LPLIPAL2A140": [
+    "YPO3830"
+   ],
+   "R_PLIPA1E180pp": [
+    "YPO3834"
+   ],
+   "R_HSST": [
+    "YPO3727"
+   ],
+   "R_NTPTP1": [
+    "YPO3383"
+   ],
+   "R_GLCRtex": [
+    "YPO1222"
+   ],
+   "R_ECAP2pp": [
+    "YPO3865",
+    "YPO3856"
+   ],
+   "R_NAt3_1p5pp": [
+    "YPO2142"
+   ],
+   "R_2AGPE161tipp": [
+    "YPO0792"
+   ],
+   "R_MMETtex": [
+    "YPO1222"
+   ],
+   "R_LACZ": [
+    "YPO1654"
+   ],
+   "R_CRNDt2rpp": [
+    "YPO0465"
+   ],
+   "R_TYRTA": [
+    "YPO0322",
+    "YPO1410"
+   ],
+   "R_ASAD": [
+    "YPO3949"
+   ],
+   "R_MALDt2_2pp": [
+    "YPO3992"
+   ],
+   "R_AMAOTr": [
+    "YPO1150"
+   ],
+   "R_GMHEPAT": [
+    "YPO0654"
+   ],
+   "R_G3PGabcpp": [
+    "YPO3793",
+    "YPO3794",
+    "YPO3795",
+    "YPO3796"
+   ],
+   "R_PYDXK": [
+    "YPO2368"
+   ],
+   "R_PGSA120": [
+    "YPO1867"
+   ],
+   "R_FORtppi": [
+    "YPO1384"
+   ],
+   "R_G3PAT120": [
+    "YPO0312"
+   ],
+   "R_DXYLK": [
+    "YPO4039"
+   ],
+   "R_MPTG": [
+    "YPO0145",
+    "YPO3393"
+   ],
+   "R_TUNGSabcpp": [
+    "YPO1147",
+    "YPO1146",
+    "YPO1145"
+   ],
+   "R_CLPNS161pp": [
+    "YPO2188"
+   ],
+   "R_NAMNPP": [
+    "YPO1413"
+   ],
+   "R_NADH10": [
+    "YPO1617"
+   ],
+   "R_GTHRDabc2pp": [
+    "YPO3144"
+   ],
+   "R_3CMPtex": [
+    "YPO1222"
+   ],
+   "R_MLTGY1pp": [
+    "YPO0452",
+    "YPO2957",
+    "YPO1025",
+    "YPO2438",
+    "YPO0954"
+   ],
+   "R_DAAD": [
+    "YPO2147"
+   ],
+   "R_CYANtex": [
+    "YPO1222"
+   ],
+   "R_GLCabcpp": [
+    "YPO1507",
+    "YPO1509",
+    "YPO1508"
+   ],
+   "R_METabcpp": [
+    "YPO1073",
+    "YPO1072"
+   ],
+   "R_AGPAT161": [
+    "YPO0672"
+   ],
+   "R_DSBAO1": [
+    "YPO2141",
+    "YPO0015"
+   ],
+   "R_ICL": [
+    "YPO3725"
+   ],
+   "R_PROabcpp": [
+    "YPO2645",
+    "YPO2647",
+    "YPO2646"
+   ],
+   "R_PPNCL2": [
+    "YPO0048"
+   ],
+   "R_OMBZLM": [
+    "YPO3781"
+   ],
+   "R_SUCCt2_3pp": [
+    "YPO0347"
+   ],
+   "R_ACOAD8f": [
+    "YPO3244"
+   ],
+   "R_HG2abcpp": [
+    "YPO3820"
+   ],
+   "R_ASPO3": [
+    "YPO2710"
+   ],
+   "R_ASPO5": [
+    "YPO2710"
+   ],
+   "R_ASPO4": [
+    "YPO2710"
+   ],
+   "R_CYSSADS": [
+    "YPO1028"
+   ],
+   "R_ASPO6": [
+    "YPO2710"
+   ],
+   "R_ACMANAtex": [
+    "YPO1222"
+   ],
+   "R_FACOAE140": [
+    "YPO3141"
+   ],
+   "R_5DOAN": [
+    "YPO3384"
+   ],
+   "R_UGMDDS": [
+    "YPO0551"
+   ],
+   "R_MDDCP5pp": [
+    "YPO2601",
+    "YPO3506"
+   ],
+   "R_LGTHL": [
+    "YPO2381"
+   ],
+   "R_TARTRtex": [
+    "YPO1222"
+   ],
+   "R_TDPAGTA": [
+    "YPO3859"
+   ],
+   "R_NI2tpp": [
+    "YPO3837"
+   ],
+   "R_PSSA161": [
+    "YPO3273"
+   ],
+   "R_MECDPS": [
+    "YPO3360"
+   ],
+   "R_TRPS3": [
+    "YPO2204",
+    "YPO2203"
+   ],
+   "R_DMQMT": [
+    "YPO1215"
+   ],
+   "R_ACOAD1f": [
+    "YPO3244"
+   ],
+   "R_G1Ptex": [
+    "YPO1222"
+   ],
+   "R_G3PStex": [
+    "YPO1222"
+   ],
+   "R_AGM4PApp": [
+    "YPO1023"
+   ],
+   "R_GUI1": [
+    "YPO0579"
+   ],
+   "R_GUI2": [
+    "YPO0579"
+   ],
+   "R_BSORy": [
+    "YPO0794"
+   ],
+   "R_CU2tex": [
+    "YPO1222"
+   ],
+   "R_ARGDC": [
+    "YPO0929"
+   ],
+   "R_GLUCYS": [
+    "YPO3301"
+   ],
+   "R_PSCLYStex": [
+    "YPO1222"
+   ],
+   "R_LPLIPAL1E161pp": [
+    "YPO3080"
+   ],
+   "R_THRt2pp": [
+    "YPO3832"
+   ],
+   "R_PGL": [
+    "YPO1149"
+   ],
+   "R_PGK": [
+    "YPO0921"
+   ],
+   "R_PGI": [
+    "YPO3718"
+   ],
+   "R_ASR": [
+    "YPO3070"
+   ],
+   "R_SPMDtex": [
+    "YPO1222"
+   ],
+   "R_THRPtex": [
+    "YPO1222"
+   ],
+   "R_AST": [
+    "YPO1963"
+   ],
+   "R_LACZpp": [
+    "YPO0616"
+   ],
+   "R_CU1abcpp": [
+    "YPO3820"
+   ],
+   "R_TRPS2": [
+    "YPO2204",
+    "YPO2203"
+   ],
+   "R_TRPS1": [
+    "YPO2204",
+    "YPO2203"
+   ],
+   "R_ABUTtex": [
+    "YPO1222"
+   ],
+   "R_ARAI": [
+    "YPO2253"
+   ],
+   "R_IMPtex": [
+    "YPO1222"
+   ],
+   "R_AMANAPEr": [
+    "YPO3023"
+   ],
+   "R_PLIPA1G141pp": [
+    "YPO3834"
+   ],
+   "R_23PDE4pp": [
+    "YPO3530"
+   ],
+   "R_PGPP161pp": [
+    "YPO2223",
+    "YPO3179"
+   ],
+   "R_NACtex": [
+    "YPO1222"
+   ],
+   "R_PG181abcpp": [
+    "YPO1395"
+   ],
+   "R_FLVRx": [
+    "YPO3768"
+   ],
+   "R_NADPHQR2": [
+    "YPO0670"
+   ],
+   "R_ACNAMtex": [
+    "YPO1222"
+   ],
+   "R_L_LACtex": [
+    "YPO1222"
+   ],
+   "R_DSERtex": [
+    "YPO1222"
+   ],
+   "R_TAUDO": [
+    "YPO0185"
+   ],
+   "R_CYTK2_1": [
+    "YPO3118"
+   ],
+   "R_2AGPA120tipp": [
+    "YPO0792"
+   ],
+   "R_AADDGT": [
+    "YPO3857"
+   ],
+   "R_GLUNpp": [
+    "YPO2161"
+   ],
+   "R_ARGtex": [
+    "YPO1222"
+   ],
+   "R_DAGK140": [
+    "YPO0313"
+   ],
+   "R_DAGK141": [
+    "YPO0313"
+   ],
+   "R_SHKK": [
+    "YPO3215"
+   ],
+   "R_AMMQLT8": [
+    "YPO3781"
+   ],
+   "R_XMPtex": [
+    "YPO1222"
+   ],
+   "R_G3PEtex": [
+    "YPO1222"
+   ],
+   "R_PIuabcpp": [
+    "YPO4117",
+    "YPO4116",
+    "YPO4115",
+    "YPO4114"
+   ],
+   "R_G6Ptex": [
+    "YPO1222"
+   ],
+   "R_PMPK": [
+    "YPO2859"
+   ],
+   "R_ANHGMtex": [
+    "YPO1222"
+   ],
+   "R_RBK_L1": [
+    "YPO2254"
+   ],
+   "R_NADTRHD": [
+    "YPO2302",
+    "YPO2303",
+    "YPO3914"
+   ],
+   "R_MAN1PT2": [
+    "YPO3099"
+   ],
+   "R_LPLIPAL2ATE120": [
+    "YPO3830"
+   ],
+   "R_VALtex": [
+    "YPO1222"
+   ],
+   "R_PLIPA2E180pp": [
+    "YPO3834"
+   ],
+   "R_2DGLCNRy": [
+    "YPO4078"
+   ],
+   "R_2DGLCNRx": [
+    "YPO4078"
+   ],
+   "R_GLYALDtex": [
+    "YPO1222"
+   ],
+   "R_PLIPA2E181pp": [
+    "YPO3834"
+   ],
+   "R_R15BPK": [
+    "YPO3464"
+   ],
+   "R_SUCBZS": [
+    "YPO2524"
+   ],
+   "R_GLYCtpp": [
+    "YPO0091"
+   ],
+   "R_G3PEabcpp": [
+    "YPO3793",
+    "YPO3794",
+    "YPO3795",
+    "YPO3796"
+   ],
+   "R_CLPNS160pp": [
+    "YPO2188"
+   ],
+   "R_FACOAE141": [
+    "YPO3141"
+   ],
+   "R_ACGAL1Ptex": [
+    "YPO1222"
+   ],
+   "R_SUCBZL": [
+    "YPO2523"
+   ],
+   "R_GAMAN6Ptex": [
+    "YPO1222"
+   ],
+   "R_DSERt2pp": [
+    "YPO3854"
+   ],
+   "R_PROGLYabcpp": [
+    "YPO3999",
+    "YPO4001",
+    "YPO4000",
+    "YPO4003",
+    "YPO4002"
+   ],
+   "R_METSOX2tex": [
+    "YPO1222"
+   ],
+   "R_TCYNTtex": [
+    "YPO1222"
+   ],
+   "R_G3PAT181": [
+    "YPO0312"
+   ],
+   "R_HACD6i": [
+    "YPO3766"
+   ],
+   "R_NADS1": [
+    "YPO2912"
+   ],
+   "R_NADS2": [
+    "YPO2912"
+   ],
+   "R_G3PCabcpp": [
+    "YPO3793",
+    "YPO3794",
+    "YPO3795",
+    "YPO3796"
+   ],
+   "R_CYTBO3_4pp": [
+    "YPO3167",
+    "YPO3166",
+    "YPO3165",
+    "YPO3164"
+   ],
+   "R_DB4PS": [
+    "YPO0658"
+   ],
+   "R_MAN6Ptex": [
+    "YPO1222"
+   ],
+   "R_ADPRDP": [
+    "YPO0144"
+   ],
+   "R_IMPD": [
+    "YPO2871"
+   ],
+   "R_2AGPG120tipp": [
+    "YPO0792"
+   ],
+   "R_IMPC": [
+    "YPO3728"
+   ],
+   "R_CYTDtex": [
+    "YPO1222"
+   ],
+   "R_26DAHtex": [
+    "YPO1222"
+   ],
+   "R_ACtex": [
+    "YPO1222"
+   ],
+   "R_DDGLK": [
+    "YPO3990"
+   ],
+   "R_23CGMPtex": [
+    "YPO1222"
+   ],
+   "R_PA181abcpp": [
+    "YPO1395"
+   ],
+   "R_ACt4pp": [
+    "YPO0251"
+   ],
+   "R_A5PISO": [
+    "YPO3577"
+   ],
+   "R_PUNP4": [
+    "YPO0440",
+    "YPO1171"
+   ],
+   "R_PUNP7": [
+    "YPO1171"
+   ],
+   "R_ETOHtex": [
+    "YPO1222"
+   ],
+   "R_PUNP1": [
+    "YPO0440"
+   ],
+   "R_GLYC2Ptex": [
+    "YPO1222"
+   ],
+   "R_PUNP2": [
+    "YPO0440"
+   ],
+   "R_LYSabcpp": [
+    "YPO2775",
+    "YPO2777",
+    "YPO2776"
+   ],
+   "R_ACACT6r": [
+    "YPO3767"
+   ],
+   "R_HG2tex": [
+    "YPO1222"
+   ],
+   "R_SADT2": [
+    "YPO3365",
+    "YPO3366"
+   ],
+   "R_UAMAGS": [
+    "YPO0553"
+   ],
+   "R_ALATA_L2": [
+    "YPO2907",
+    "YPO1357"
+   ],
+   "R_MALTptspp": [
+    "YPO2995",
+    "YPO2993"
+   ],
+   "R_MTHFR2": [
+    "YPO0117"
+   ],
+   "R_ANPRT": [
+    "YPO2206"
+   ],
+   "R_CYSDS": [
+    "YPO1845"
+   ],
+   "R_MDDEP4pp": [
+    "YPO2752",
+    "YPO3506",
+    "YPO1176"
+   ],
+   "R_DCMPtex": [
+    "YPO1222"
+   ],
+   "R_PALMITTRANS": [
+    "YPO3632"
+   ],
+   "R_UNK3": [
+    "YPO0322"
+   ],
+   "R_GPDDA5": [
+    "YPO3827"
+   ],
+   "R_CAt6pp": [
+    "YPO3576"
+   ],
+   "R_GPDDA3": [
+    "YPO3827"
+   ],
+   "R_GPDDA2": [
+    "YPO3827"
+   ],
+   "R_GPDDA1": [
+    "YPO3827"
+   ],
+   "R_HOMt2pp": [
+    "YPO3831"
+   ],
+   "R_COBALT2tex": [
+    "YPO1222"
+   ],
+   "R_FE3tex": [
+    "YPO1222"
+   ],
+   "R_AMANK": [
+    "YPO3020"
+   ],
+   "R_Kt3pp": [
+    "YPO1958",
+    "YPO4048",
+    "YPO3094"
+   ],
+   "R_FDMO": [
+    "YPO3625"
+   ],
+   "R_AGM4PH": [
+    "YPO1615"
+   ],
+   "R_NTPP9": [
+    "YPO0945"
+   ],
+   "R_NTPP6": [
+    "YPO3378"
+   ],
+   "R_NTPP7": [
+    "YPO3378"
+   ],
+   "R_RNDR4": [
+    "YPO3270",
+    "YPO3868"
+   ],
+   "R_NTPP5": [
+    "YPO2054",
+    "YPO3378"
+   ],
+   "R_RNDR2": [
+    "YPO3270",
+    "YPO3868"
+   ],
+   "R_ARGt3pp": [
+    "YPO0918"
+   ],
+   "R_RNDR1": [
+    "YPO3270",
+    "YPO3868"
+   ],
+   "R_PRAGSr": [
+    "YPO3729"
+   ],
+   "R_UPPRT": [
+    "YPO2827"
+   ],
+   "R_PA160abcpp": [
+    "YPO1395"
+   ],
+   "R_3HAD161": [
+    "YPO1055",
+    "YPO1430"
+   ],
+   "R_3HAD160": [
+    "YPO1055",
+    "YPO1430"
+   ],
+   "R_CHORS": [
+    "YPO2751"
+   ],
+   "R_CSNtex": [
+    "YPO1222"
+   ],
+   "R_ORNtex": [
+    "YPO1222"
+   ],
+   "R_LCTStex": [
+    "YPO1222"
+   ],
+   "R_SADH": [
+    "YPO1965"
+   ],
+   "R_AMPTASECG": [
+    "YPO3441",
+    "YPO1414",
+    "YPO2889",
+    "YPO3230"
+   ],
+   "R_SERTRS2": [
+    "YPO1379"
+   ],
+   "R_CHORM": [
+    "YPO3285"
+   ],
+   "R_ATPPRT": [
+    "YPO1549"
+   ],
+   "R_DGMPtex": [
+    "YPO1222"
+   ],
+   "R_RBFSa": [
+    "YPO2391"
+   ],
+   "R_3HAD80": [
+    "YPO1055",
+    "YPO1430"
+   ],
+   "R_AGM3PApp": [
+    "YPO1023"
+   ],
+   "R_TPK1": [
+    "YPO3118"
+   ],
+   "R_NTP10": [
+    "YPO0365"
+   ],
+   "R_ACONTb": [
+    "YPO2221",
+    "YPO3415"
+   ],
+   "R_ACONTa": [
+    "YPO2221",
+    "YPO3415"
+   ],
+   "R_LPLIPAL1G141pp": [
+    "YPO3080"
+   ],
+   "R_LPLIPAL2ATG160": [
+    "YPO3830"
+   ],
+   "R_LPLIPAL2ATG161": [
+    "YPO3830"
+   ],
+   "R_ACONMT": [
+    "YPO2509"
+   ],
+   "R_LPLIPAL2E120": [
+    "YPO3830"
+   ],
+   "R_ZN2abcpp": [
+    "YPO3820"
+   ],
+   "R_O2Stex": [
+    "YPO1222"
+   ],
+   "R_GLCtex_copy1": [
+    "YPO1222"
+   ],
+   "R_GLCtex_copy2": [
+    "YPO3711"
+   ],
+   "R_MALTTTRabcpp": [
+    "YPO3712",
+    "YPO3714",
+    "YPO3715",
+    "YPO3716"
+   ],
+   "R_CYStpp": [
+    "YPO0181"
+   ],
+   "R_FEpp": [
+    "YPO1914",
+    "YPO1312",
+    "YPO1310",
+    "YPO1311",
+    "YPO2959",
+    "YPO2958",
+    "YPO2960",
+    "YPO2440",
+    "YPO2442",
+    "YPO2441",
+    "YPO2439",
+    "YPO1913"
+   ],
+   "R_AGPAT120": [
+    "YPO0672"
+   ],
+   "R_LYSTRS": [
+    "YPO0888"
+   ],
+   "R_PGSA140": [
+    "YPO1867"
+   ],
+   "R_PGSA141": [
+    "YPO1867"
+   ],
+   "R_TTDCEAtexi": [
+    "YPO2744"
+   ],
+   "R_FACOAL120t2pp": [
+    "YPO2074"
+   ],
+   "R_RNDR4b": [
+    "YPO2649",
+    "YPO0066",
+    "YPO2648",
+    "YPO2383",
+    "YPO1327"
+   ],
+   "R_NTP5": [
+    "YPO0365"
+   ],
+   "R_COBALT2tpp": [
+    "YPO3837"
+   ],
+   "R_NTP1": [
+    "YPO0365"
+   ],
+   "R_NTP3": [
+    "YPO0365"
+   ],
+   "R_3UMPtex": [
+    "YPO1222"
+   ],
+   "R_LPLIPAL1E141pp": [
+    "YPO3080"
+   ],
+   "R_XYLUtex": [
+    "YPO1222"
+   ],
+   "R_NAtex": [
+    "YPO1222"
+   ],
+   "R_ACLS": [
+    "YPO2294",
+    "YPO2293"
+   ],
+   "R_DNMPPA": [
+    "YPO2298"
+   ],
+   "R_FA160ACPHi": [
+    "YPO3193"
+   ],
+   "R_DGUNC": [
+    "YPO0425",
+    "YPO0410",
+    "YPO0411"
+   ],
+   "R_COBALT2t3pp": [
+    "YPO1129"
+   ],
+   "R_PUNP5": [
+    "YPO0440",
+    "YPO1171"
+   ],
+   "R_LYStex": [
+    "YPO1222"
+   ],
+   "R_FA141ACPHi": [
+    "YPO3193"
+   ],
+   "R_ARGTRS": [
+    "YPO2046"
+   ],
+   "R_ALAALAtex": [
+    "YPO1222"
+   ],
+   "R_GTPDPK": [
+    "YPO3380"
+   ],
+   "R_GP4GH": [
+    "YPO0490"
+   ],
+   "R_PUNP6": [
+    "YPO0440",
+    "YPO1171"
+   ],
+   "R_UREAtex": [
+    "YPO2672"
+   ],
+   "R_RNTR3c": [
+    "YPO0893",
+    "YPO3455",
+    "YPO3454",
+    "YPO0088",
+    "YPO2635"
+   ],
+   "R_AMPMS2": [
+    "YPO3739"
+   ],
+   "R_FACOAL161t2pp": [
+    "YPO2074"
+   ],
+   "R_LPLIPAL2A181": [
+    "YPO3830"
+   ],
+   "R_23CAMPtex": [
+    "YPO1222"
+   ],
+   "R_PPA2": [
+    "YPO3358"
+   ],
+   "R_PUNP3": [
+    "YPO0440",
+    "YPO1171"
+   ],
+   "R_SULFACtex": [
+    "YPO1222"
+   ],
+   "R_MELIBtex": [
+    "YPO1222"
+   ],
+   "R_FA100ACPHi": [
+    "YPO3193"
+   ],
+   "R_23PDE7pp": [
+    "YPO3530"
+   ],
+   "R_HMBS": [
+    "YPO3849"
+   ],
+   "R_PSD161": [
+    "YPO0364"
+   ],
+   "R_R5Ptex": [
+    "YPO1222"
+   ],
+   "R_GALtex": [
+    "YPO1222"
+   ],
+   "R_PGPP181pp": [
+    "YPO2223",
+    "YPO3179"
+   ],
+   "R_CTBTabcpp": [
+    "YPO2645",
+    "YPO2647",
+    "YPO2646"
+   ],
+   "R_LYXt2pp": [
+    "YPO0334"
+   ],
+   "R_TMPK": [
+    "YPO3180"
+   ],
+   "R_UPP3MT": [
+    "YPO3851",
+    "YPO0158"
+   ],
+   "R_THRS": [
+    "YPO0461"
+   ],
+   "R_GTPtex": [
+    "YPO1222"
+   ],
+   "R_PLIPA2A140pp": [
+    "YPO3834"
+   ],
+   "R_NO3R2bpp": [
+    "YPO3038",
+    "YPO3037",
+    "YPO3036"
+   ],
+   "R_2AGPA160tipp": [
+    "YPO0792"
+   ],
+   "R_PDH": [
+    "YPO3419",
+    "YPO3418",
+    "YPO3417"
+   ],
+   "R_DCAtex": [
+    "YPO1222"
+   ],
+   "R_KARA1": [
+    "YPO3888"
+   ],
+   "R_KARA2": [
+    "YPO3888"
+   ],
+   "R_THRD": [
+    "YPO0060"
+   ],
+   "R_3OAR160": [
+    "YPO1599"
+   ],
+   "R_3OAR161": [
+    "YPO1599"
+   ],
+   "R_P5CD": [
+    "YPO1851"
+   ],
+   "R_FLVR": [
+    "YPO3372",
+    "YPO3371",
+    "YPO3768"
+   ],
+   "R_SGSAD": [
+    "YPO1964"
+   ],
+   "R_MDDCP1pp": [
+    "YPO2601",
+    "YPO3506"
+   ],
+   "R_GLYAT": [
+    "YPO0059"
+   ],
+   "R_PG160abcpp": [
+    "YPO1395"
+   ],
+   "R_LPLIPAL1G181pp": [
+    "YPO3080"
+   ],
+   "R_PLIPA2E120pp": [
+    "YPO3834"
+   ],
+   "R_CDPGD": [
+    "YPO3113"
+   ],
+   "R_PLIPA1A120pp": [
+    "YPO3834"
+   ],
+   "R_FRUURt2rpp": [
+    "YPO0767"
+   ],
+   "R_DASYN140": [
+    "YPO1050",
+    "YPO2816"
+   ],
+   "R_TGBPA": [
+    "YPO0844",
+    "YPO0832"
+   ],
+   "R_LEUTRS": [
+    "YPO2610"
+   ],
+   "R_IGPDH": [
+    "YPO1546"
+   ],
+   "R_GK1": [
+    "YPO0040"
+   ],
+   "R_FLDR": [
+    "YPO0893",
+    "YPO0088",
+    "YPO2635"
+   ],
+   "R_GLYTRS": [
+    "YPO4071",
+    "YPO4072"
+   ],
+   "R_CGLYtex": [
+    "YPO1222"
+   ],
+   "R_ECOAH4": [
+    "YPO3766"
+   ],
+   "R_ECOAH7": [
+    "YPO3766"
+   ],
+   "R_ECOAH6": [
+    "YPO3766"
+   ],
+   "R_ECOAH1": [
+    "YPO3766"
+   ],
+   "R_GLCURt2rpp": [
+    "YPO0577"
+   ],
+   "R_ECOAH2": [
+    "YPO3766"
+   ],
+   "R_PE181abcpp": [
+    "YPO1395"
+   ],
+   "R_GAMtex": [
+    "YPO1222"
+   ],
+   "R_ECOAH8": [
+    "YPO3766"
+   ],
+   "R_UREAtpp": [
+    "YPO2672"
+   ],
+   "R_LDH_D2": [
+    "YPO1177"
+   ],
+   "R_MN2t3pp": [
+    "YPO1129"
+   ],
+   "R_PLIPA1A161pp": [
+    "YPO3834"
+   ],
+   "R_LPLIPAL1G140pp": [
+    "YPO3080"
+   ],
+   "R_OHPBAT": [
+    "YPO1389"
+   ],
+   "R_NTD8": [
+    "YPO3358",
+    "YPO2559"
+   ],
+   "R_CLPNS181pp": [
+    "YPO2188"
+   ],
+   "R_ACMUMtex": [
+    "YPO1222"
+   ],
+   "R_RMNtex": [
+    "YPO1222"
+   ],
+   "R_PLIPA2E160pp": [
+    "YPO3834"
+   ],
+   "R_GTHRDtex": [
+    "YPO1222"
+   ],
+   "R_SUCDi": [
+    "YPO1109",
+    "YPO1110",
+    "YPO1111",
+    "YPO1112"
+   ],
+   "R_GLCNtex": [
+    "YPO1222"
+   ],
+   "R_VALt2rpp": [
+    "YPO3202"
+   ],
+   "R_THDPS": [
+    "YPO1041"
+   ],
+   "R_DASYN161": [
+    "YPO1050",
+    "YPO2816"
+   ],
+   "R_DASYN160": [
+    "YPO1050",
+    "YPO2816"
+   ],
+   "R_PLIPA1E181pp": [
+    "YPO3834"
+   ],
+   "R_FA140ACPHi": [
+    "YPO3193"
+   ],
+   "R_DDCAtexi": [
+    "YPO2744"
+   ],
+   "R_HPPPNtex": [
+    "YPO1222"
+   ],
+   "R_DGSNtex": [
+    "YPO1222"
+   ],
+   "R_UPP3S": [
+    "YPO3850"
+   ],
+   "R_ACSERtex": [
+    "YPO1222"
+   ],
+   "R_LPLIPAL2G161": [
+    "YPO3830"
+   ],
+   "R_FADRx": [
+    "YPO3768"
+   ],
+   "R_BETALDHy": [
+    "YPO1166"
+   ],
+   "R_GLYBtex": [
+    "YPO1222"
+   ],
+   "R_IPDPS": [
+    "YPO0477"
+   ],
+   "R_MALTHXabcpp": [
+    "YPO3712",
+    "YPO3714",
+    "YPO3715",
+    "YPO3716"
+   ],
+   "R_NTD4": [
+    "YPO3358"
+   ],
+   "R_ARGORNt7pp": [
+    "YPO2306"
+   ],
+   "R_MANGLYCtex": [
+    "YPO1222"
+   ],
+   "R_CLt3_2pp": [
+    "YPO3388"
+   ],
+   "R_PGP161abcpp": [
+    "YPO1395"
+   ],
+   "R_LPLIPAL1A160pp": [
+    "YPO3080"
+   ],
+   "R_NTD6": [
+    "YPO3358",
+    "YPO2559"
+   ],
+   "R_3OAR60": [
+    "YPO1599"
+   ],
+   "R_LPLIPAL1A161pp": [
+    "YPO3080"
+   ],
+   "R_METTRS": [
+    "YPO1522"
+   ],
+   "R_LPADSS": [
+    "YPO1057"
+   ],
+   "R_URIDK2r": [
+    "YPO1046"
+   ],
+   "R_ALLPI": [
+    "YPO3353"
+   ],
+   "R_DMStex": [
+    "YPO1222"
+   ],
+   "R_PROD2": [
+    "YPO1851"
+   ],
+   "R_GLYCK2": [
+    "YPO3980"
+   ],
+   "R_INSTtex": [
+    "YPO1222"
+   ],
+   "R_N2Otex": [
+    "YPO1222"
+   ],
+   "R_SOTA": [
+    "YPO1962"
+   ],
+   "R_RMNtpp": [
+    "YPO0334"
+   ],
+   "R_PFK": [
+    "YPO0078"
+   ],
+   "R_PFL": [
+    "YPO1381",
+    "YPO1383",
+    "YPO2705"
+   ],
+   "R_CSND": [
+    "YPO0162"
+   ],
+   "R_ZNabcpp": [
+    "YPO2061",
+    "YPO2059",
+    "YPO2060"
+   ],
+   "R_LPLIPAL2ATE180": [
+    "YPO3830"
+   ],
+   "R_LPLIPAL2ATE181": [
+    "YPO3830"
+   ],
+   "R_SDPTA": [
+    "YPO1962"
+   ],
+   "R_TMPPP": [
+    "YPO3740"
+   ],
+   "R_LPS_YPhexa": [
+    "YPO0056",
+    "YPO0057",
+    "YPO0416"
+   ],
+   "R_2AGPG181tipp": [
+    "YPO0792"
+   ],
+   "R_VPAMTr": [
+    "YPO4082"
+   ],
+   "R_THMabcpp": [
+    "YPO0522",
+    "YPO0520",
+    "YPO0521"
+   ],
+   "R_NADPHQR4": [
+    "YPO0670"
+   ],
+   "R_UAG2E": [
+    "YPO3864"
+   ],
+   "R_5DGLCNR": [
+    "YPO2539"
+   ],
+   "R_2AGPA141tipp": [
+    "YPO0792"
+   ],
+   "R_FA161ACPHi": [
+    "YPO3193"
+   ],
+   "R_TMAOtex": [
+    "YPO1222"
+   ],
+   "R_DAMPtex": [
+    "YPO1222"
+   ],
+   "R_DRPA": [
+    "YPO0436"
+   ],
+   "R_UAGCVT": [
+    "YPO3569"
+   ],
+   "R_HXPRT": [
+    "YPO3408",
+    "YPO3225"
+   ],
+   "R_LPLIPAL1G120pp": [
+    "YPO3080"
+   ],
+   "R_MANptspp": [
+    "YPO1758",
+    "YPO1756",
+    "YPO1757",
+    "YPO2993"
+   ],
+   "R_AGMt2pp": [
+    "YPO3162"
+   ],
+   "R_PLIPA2E140pp": [
+    "YPO3834"
+   ],
+   "R_DYTK2": [
+    "YPO3118"
+   ],
+   "R_CLPNS140pp": [
+    "YPO2188"
+   ],
+   "R_TRPtex": [
+    "YPO1222"
+   ],
+   "R_PMANM": [
+    "YPO3097"
+   ],
+   "R_MTHFD": [
+    "YPO2824"
+   ],
+   "R_MTHFC": [
+    "YPO2824"
+   ],
+   "R_GTHS": [
+    "YPO0935"
+   ],
+   "R_KDOCT2": [
+    "YPO1400"
+   ],
+   "R_FORt2pp": [
+    "YPO1384"
+   ],
+   "R_PGPP120": [
+    "YPO2223",
+    "YPO3179"
+   ],
+   "R_LPLIPAL1G160pp": [
+    "YPO3080"
+   ],
+   "R_OXGDC2": [
+    "YPO2527"
+   ],
+   "R_PPCSCT": [
+    "YPO1926"
+   ],
+   "R_TREtex": [
+    "YPO1222"
+   ],
+   "R_PRAMPC": [
+    "YPO1542"
+   ],
+   "R_MOBDabcpp": [
+    "YPO1147",
+    "YPO1146",
+    "YPO1145",
+    "YPO3015",
+    "YPO3014",
+    "YPO3013",
+    "YPO3012"
+   ],
+   "R_OPHBDC": [
+    "YPO3769",
+    "YPO2773"
+   ],
+   "R_CDAPPA120": [
+    "YPO3986"
+   ],
+   "R_PHEMEabcpp": [
+    "YPO2735",
+    "YPO2734",
+    "YPO2736"
+   ],
+   "R_PLIPA1E120pp": [
+    "YPO3834"
+   ],
+   "R_T2DECAI": [
+    "YPO1430"
+   ],
+   "R_PSCVT": [
+    "YPO1390"
+   ],
+   "R_PAPA180pp": [
+    "YPO2223"
+   ],
+   "R_GPDDA4": [
+    "YPO3827"
+   ],
+   "R_MEPCT": [
+    "YPO3361"
+   ],
+   "R_MNt2pp": [
+    "YPO2982"
+   ],
+   "R_MLTG1": [
+    "YPO3200"
+   ],
+   "R_MLTG2": [
+    "YPO3200"
+   ],
+   "R_MLTG3": [
+    "YPO3200"
+   ],
+   "R_MLTG4": [
+    "YPO3200"
+   ],
+   "R_MLTG5": [
+    "YPO3200"
+   ],
+   "R_GLNS": [
+    "YPO0024"
+   ],
+   "R_LPLIPAL1A120pp": [
+    "YPO3080"
+   ],
+   "R_NO2tex": [
+    "YPO1222"
+   ],
+   "R_PLIPA2G140pp": [
+    "YPO3834"
+   ],
+   "R_HACD5i": [
+    "YPO3766"
+   ],
+   "R_FRUtex": [
+    "YPO1222"
+   ],
+   "R_ALATA_D2": [
+    "YPO1357",
+    "YPO2907"
+   ],
+   "R_PLIPA2E161pp": [
+    "YPO3834"
+   ],
+   "R_PLIPA2A160pp": [
+    "YPO3834"
+   ],
+   "R_2AGPG160tipp": [
+    "YPO0792"
+   ],
+   "R_OPHHX": [
+    "YPO3779"
+   ],
+   "R_ME1": [
+    "YPO1511"
+   ],
+   "R_ME2": [
+    "YPO3034"
+   ],
+   "R_LPLIPAL2E181": [
+    "YPO3830"
+   ],
+   "R_LPLIPAL2E180": [
+    "YPO3830"
+   ],
+   "R_URAtex": [
+    "YPO1222"
+   ],
+   "R_PA120abcpp": [
+    "YPO1395"
+   ],
+   "R_ACACT4r": [
+    "YPO3767"
+   ],
+   "R_GHMT2r": [
+    "YPO2907"
+   ],
+   "R_METSOXR2": [
+    "YPO2158",
+    "YPO3868",
+    "YPO3270"
+   ],
+   "R_LPLIPAL2ATG180": [
+    "YPO3830"
+   ],
+   "R_LPLIPAL2ATG181": [
+    "YPO3830"
+   ],
+   "R_TKT1": [
+    "YPO0926"
+   ],
+   "R_TKT2": [
+    "YPO0926"
+   ],
+   "R_ALR2": [
+    "YPO0676",
+    "YPO1075"
+   ],
+   "R_LPLIPAL2A120": [
+    "YPO3830"
+   ],
+   "R_DHAD1": [
+    "YPO3897"
+   ],
+   "R_URIK2": [
+    "YPO1524"
+   ],
+   "R_DHAD2": [
+    "YPO3897"
+   ],
+   "R_NADH9": [
+    "YPO1617"
+   ],
+   "R_PLIPA2A120pp": [
+    "YPO3834"
+   ],
+   "R_UPPDC1": [
+    "YPO3734"
+   ],
+   "R_PPPGO3": [
+    "YPO3761"
+   ],
+   "R_DADK_copy2": [
+    "YPO3118"
+   ],
+   "R_SUCCtex": [
+    "YPO1222"
+   ],
+   "R_CTECOAI7": [
+    "YPO3766"
+   ],
+   "R_MALTHXtexi": [
+    "YPO3711"
+   ],
+   "R_CTECOAI6": [
+    "YPO3766"
+   ],
+   "R_FUMt2_3pp": [
+    "YPO0347"
+   ],
+   "R_ZN2t3pp": [
+    "YPO1129"
+   ],
+   "R_PLIPA1E160pp": [
+    "YPO3834"
+   ],
+   "R_NTRIR2x": [
+    "YPO0160",
+    "YPO0161"
+   ],
+   "R_ETHSO3abcpp": [
+    "YPO3624",
+    "YPO3626",
+    "YPO3627"
+   ],
+   "R_LPLIPAL1E181pp": [
+    "YPO3080"
+   ],
+   "R_3HAD181": [
+    "YPO1055",
+    "YPO1430"
+   ],
+   "R_3HAD180": [
+    "YPO1055",
+    "YPO1430"
+   ],
+   "R_AAMYLpp": [
+    "YPO4080"
+   ],
+   "R_2AGPG161tipp": [
+    "YPO0792"
+   ],
+   "R_GLCptspp": [
+    "YPO2995",
+    "YPO1608",
+    "YPO2993",
+    "YPO1758",
+    "YPO1756",
+    "YPO1757"
+   ],
+   "R_NPHS": [
+    "YPO2525"
+   ],
+   "R_CBPS": [
+    "YPO0481",
+    "YPO0482"
+   ],
+   "R_PGP141abcpp": [
+    "YPO1395"
+   ],
+   "R_PYDAMK": [
+    "YPO2368"
+   ],
+   "R_MOAT2": [
+    "YPO0055"
+   ],
+   "R_3AMPtex": [
+    "YPO1222"
+   ],
+   "R_NTPP2": [
+    "YPO3378",
+    "YPO0565"
+   ],
+   "R_BUTtex": [
+    "YPO1222"
+   ],
+   "R_NTPP3": [
+    "YPO3378",
+    "YPO2167"
+   ],
+   "R_TMAtex": [
+    "YPO1222"
+   ],
+   "R_GLYALDtpp": [
+    "YPO0091"
+   ],
+   "R_3OAR181": [
+    "YPO1599"
+   ],
+   "R_MDDCP2pp": [
+    "YPO2601",
+    "YPO3506"
+   ],
+   "R_NTPP1": [
+    "YPO3378",
+    "YPO0565"
+   ],
+   "R_ADK3": [
+    "YPO3118"
+   ],
+   "R_PLIPA2G161pp": [
+    "YPO3834"
+   ],
+   "R_TTDCAtexi": [
+    "YPO2744"
+   ],
+   "R_KAS15": [
+    "YPO1597"
+   ],
+   "R_ORPT": [
+    "YPO0045"
+   ],
+   "R_G3PAT140": [
+    "YPO0312"
+   ],
+   "R_PE161abcpp": [
+    "YPO1395"
+   ],
+   "R_BETALDHx": [
+    "YPO1166"
+   ],
+   "R_OBTFL": [
+    "YPO2705"
+   ],
+   "R_LPLIPAL1E160pp": [
+    "YPO3080"
+   ],
+   "R_IPPS": [
+    "YPO0533"
+   ],
+   "R_ACHBS": [
+    "YPO2294",
+    "YPO2293"
+   ],
+   "R_ASNS2": [
+    "YPO0003"
+   ],
+   "R_ASNS1": [
+    "YPO2623"
+   ],
+   "R_STACHGALACT": [
+    "YPO1581"
+   ],
+   "R_ALCD19": [
+    "YPO1502"
+   ],
+   "R_PAPA181": [
+    "YPO2223"
+   ],
+   "R_PAPA180": [
+    "YPO2223"
+   ],
+   "R_TDSR1": [
+    "YPO0891",
+    "YPO0345"
+   ],
+   "R_G3PIabcpp": [
+    "YPO3793",
+    "YPO3794",
+    "YPO3795",
+    "YPO3796"
+   ],
+   "R_TDSR2": [
+    "YPO0891",
+    "YPO0345"
+   ],
+   "R_23CCMPtex": [
+    "YPO1222"
+   ],
+   "R_2AGPG140tipp": [
+    "YPO0792"
+   ],
+   "R_PFK_2": [
+    "YPO0078"
+   ],
+   "R_METDtex": [
+    "YPO1222"
+   ],
+   "R_U23GAAT": [
+    "YPO1054"
+   ],
+   "R_PAPA161": [
+    "YPO2223"
+   ],
+   "R_PAPA160": [
+    "YPO2223"
+   ],
+   "R_UDPGALtex": [
+    "YPO1222"
+   ],
+   "R_DCTPD": [
+    "YPO1525"
+   ],
+   "R_ACKr": [
+    "YPO2566",
+    "YPO1775"
+   ],
+   "R_FMETTRS": [
+    "YPO0241"
+   ],
+   "R_ILEt2rpp": [
+    "YPO3202"
+   ],
+   "R_DHORD5": [
+    "YPO1415"
+   ],
+   "R_DHORD2": [
+    "YPO1415"
+   ],
+   "R_ASNNpp": [
+    "YPO2161"
+   ],
+   "R_PG161abcpp": [
+    "YPO1395"
+   ],
+   "R_PSSA180": [
+    "YPO3273"
+   ],
+   "R_PSSA181": [
+    "YPO3273"
+   ],
+   "R_IG3PS": [
+    "YPO1543",
+    "YPO1545"
+   ],
+   "R_PNTK": [
+    "YPO3758"
+   ],
+   "R_ADNK1": [
+    "YPO3118"
+   ],
+   "R_FMNRx": [
+    "YPO3768",
+    "YPO3623"
+   ],
+   "R_RNTR2c": [
+    "YPO0893",
+    "YPO3455",
+    "YPO3454",
+    "YPO0088",
+    "YPO2635"
+   ],
+   "R_ADNCYC": [
+    "YPO3848"
+   ],
+   "R_G1SAT": [
+    "YPO3389"
+   ],
+   "R_PLIPA1E141pp": [
+    "YPO3834"
+   ],
+   "R_ACOAD3f": [
+    "YPO3244"
+   ],
+   "R_23DAPPAtex": [
+    "YPO1222"
+   ],
+   "R_MANtex": [
+    "YPO1222"
+   ],
+   "R_TYRTRS": [
+    "YPO2369"
+   ],
+   "R_XANtex": [
+    "YPO1222"
+   ],
+   "R_RPE": [
+    "YPO0155"
+   ],
+   "R_ADEtex": [
+    "YPO1222"
+   ],
+   "R_5DGLCNtex": [
+    "YPO1222"
+   ],
+   "R_NO3R1bpp": [
+    "YPO3038",
+    "YPO3037",
+    "YPO3036"
+   ],
+   "R_SUCCt2_2pp": [
+    "YPO3992"
+   ],
+   "R_RBFSb": [
+    "YPO3182"
+   ],
+   "R_G3PAT141": [
+    "YPO0312"
+   ],
+   "R_2AGPG180tipp": [
+    "YPO0792"
+   ],
+   "R_LALGP": [
+    "YPO3230"
+   ],
+   "R_ASPCT": [
+    "YPO3589",
+    "YPO3588"
+   ],
+   "R_3OAR100": [
+    "YPO1599"
+   ],
+   "R_MECDPDH2": [
+    "YPO2879"
+   ],
+   "R_DHPPDA2": [
+    "YPO3183"
+   ],
+   "R_GART": [
+    "YPO1775"
+   ],
+   "R_TSULabcpp": [
+    "YPO3015",
+    "YPO3014",
+    "YPO3013",
+    "YPO3012"
+   ],
+   "R_DCYTt2pp": [
+    "YPO2983"
+   ],
+   "R_PA140abcpp": [
+    "YPO1395"
+   ],
+   "R_NADH5": [
+    "YPO1617"
+   ],
+   "R_GLNabcpp": [
+    "YPO2513",
+    "YPO2512",
+    "YPO2514"
+   ],
+   "R_CFAS180E": [
+    "YPO2390"
+   ],
+   "R_RPI": [
+    "YPO0915",
+    "YPO3353"
+   ],
+   "R_DAGK160": [
+    "YPO0313"
+   ],
+   "R_DAGK161": [
+    "YPO0313"
+   ],
+   "R_CYTBD2pp": [
+    "YPO1117",
+    "YPO1118"
+   ],
+   "R_FDH4pp": [
+    "YPO4056",
+    "YPO4057"
+   ],
+   "R_LYSt3pp": [
+    "YPO0918"
+   ],
+   "R_GLDBRAN2": [
+    "YPO3941"
+   ],
+   "R_PHYTSpp": [
+    "YPO1648"
+   ],
+   "R_DAPE": [
+    "YPO3845"
+   ],
+   "R_ALAALAr": [
+    "YPO0557"
+   ],
+   "R_GLUPRT": [
+    "YPO2772"
+   ],
+   "R_NI2tex": [
+    "YPO1222"
+   ],
+   "R_SO2tex": [
+    "YPO1222"
+   ],
+   "R_FRD3": [
+    "YPO0360",
+    "YPO0357",
+    "YPO0359",
+    "YPO0358"
+   ],
+   "R_FRD2": [
+    "YPO0360",
+    "YPO0357",
+    "YPO0359",
+    "YPO0358"
+   ],
+   "R_RIBabcpp": [
+    "YPO0958",
+    "YPO3908",
+    "YPO3907",
+    "YPO3906",
+    "YPO3318",
+    "YPO2499",
+    "YPO0007",
+    "YPO3964"
+   ],
+   "R_PLIPA1G181pp": [
+    "YPO3834"
+   ],
+   "R_2AGPEAT120": [
+    "YPO0793"
+   ],
+   "R_HCINNMtex": [
+    "YPO1222"
+   ],
+   "R_ARGSS": [
+    "YPO1570"
+   ],
+   "R_HPPK2": [
+    "YPO3400"
+   ],
+   "R_UM4PL": [
+    "YPO3519"
+   ],
+   "R_ARGSL": [
+    "YPO3924"
+   ],
+   "R_OAADC": [
+    "YPO2067"
+   ],
+   "R_AMALT3": [
+    "YPO0126"
+   ],
+   "R_2AGPG141tipp": [
+    "YPO0792"
+   ],
+   "R_AGM3PA": [
+    "YPO3423"
+   ],
+   "R_MTAN": [
+    "YPO3384"
+   ],
+   "R_CO2tex": [
+    "YPO1222"
+   ],
+   "R_FACOAL160t2pp": [
+    "YPO2074"
+   ],
+   "R_DASYN181": [
+    "YPO1050",
+    "YPO2816"
+   ],
+   "R_FACOAL140t2pp": [
+    "YPO2074"
+   ],
+   "R_CGLYabcpp": [
+    "YPO3999",
+    "YPO4001",
+    "YPO4000",
+    "YPO4003",
+    "YPO4002"
+   ],
+   "R_AGM3PH": [
+    "YPO1615"
+   ],
+   "R_FUCtex": [
+    "YPO1222"
+   ],
+   "R_LPLIPAL2G181": [
+    "YPO3830"
+   ],
+   "R_LPLIPAL2G180": [
+    "YPO3830"
+   ],
+   "R_PE180abcpp": [
+    "YPO1395"
+   ],
+   "R_Zn2tex": [
+    "YPO1222"
+   ],
+   "R_SULR": [
+    "YPO3372",
+    "YPO3371"
+   ],
+   "R_NTPP8": [
+    "YPO3378"
+   ],
+   "R_L_LACD3": [
+    "YPO1569"
+   ],
+   "R_L_LACD2": [
+    "YPO1569"
+   ],
+   "R_LPLIPAL1A140pp": [
+    "YPO3080"
+   ],
+   "R_GTPCI": [
+    "YPO1505"
+   ],
+   "R_KDOPP": [
+    "YPO3578"
+   ],
+   "R_PRAIi": [
+    "YPO2205"
+   ],
+   "R_KDOPS": [
+    "YPO2021"
+   ],
+   "R_ORNCD": [
+    "YPO4090"
+   ],
+   "R_MALTTRabcpp": [
+    "YPO3712",
+    "YPO3714",
+    "YPO3715",
+    "YPO3716"
+   ],
+   "R_AMPtex": [
+    "YPO1222"
+   ],
+   "R_PLIPA2A161pp": [
+    "YPO3834"
+   ],
+   "R_GDPtex": [
+    "YPO1222"
+   ],
+   "R_SELNPS": [
+    "YPO2164"
+   ],
+   "R_XYLI1": [
+    "YPO4038"
+   ],
+   "R_PAPA161pp": [
+    "YPO2223"
+   ],
+   "R_PPM": [
+    "YPO0439"
+   ],
+   "R_MNLtex": [
+    "YPO1222"
+   ],
+   "R_PYNP2r": [
+    "YPO3786"
+   ],
+   "R_NNDPR": [
+    "YPO3424"
+   ],
+   "R_DXPRIi": [
+    "YPO1048"
+   ],
+   "R_HPYRI": [
+    "YPO1238"
+   ],
+   "R_PHETRS": [
+    "YPO2429",
+    "YPO2428"
+   ],
+   "R_FACOAL141t2pp": [
+    "YPO2074"
+   ],
+   "R_LEUt2rpp": [
+    "YPO3202"
+   ],
+   "R_PLIPA1E140pp": [
+    "YPO3834"
+   ],
+   "R_CPPPGO2": [
+    "YPO0946"
+   ],
+   "R_XYLtex": [
+    "YPO1222"
+   ],
+   "R_GLYCtex": [
+    "YPO1222"
+   ],
+   "R_ACGAMK": [
+    "YPO1629"
+   ],
+   "R_PRPPS": [
+    "YPO2013"
+   ],
+   "R_UACGAMtex": [
+    "YPO1222"
+   ],
+   "R_DSBCGT": [
+    "YPO0891"
+   ],
+   "R_IPMD": [
+    "YPO0532"
+   ],
+   "R_PE120abcpp": [
+    "YPO1395"
+   ],
+   "R_LPLIPAL1E140pp": [
+    "YPO3080"
+   ],
+   "R_LA4NTpp": [
+    "YPO2418"
+   ],
+   "R_PYDXNK": [
+    "YPO2368"
+   ],
+   "R_PANTS": [
+    "YPO3402"
+   ],
+   "R_CA2tex": [
+    "YPO1222"
+   ],
+   "R_ECAtpp": [
+    "YPO3858"
+   ],
+   "R_DTMPtex": [
+    "YPO1222"
+   ],
+   "R_PGPP160": [
+    "YPO2223",
+    "YPO3179"
+   ],
+   "R_MDDCP4pp": [
+    "YPO2601",
+    "YPO3506"
+   ],
+   "R_DHAtex": [
+    "YPO1222"
+   ],
+   "R_PGPP161": [
+    "YPO2223",
+    "YPO3179"
+   ],
+   "R_MOAT": [
+    "YPO0055"
+   ],
+   "R_SPMS": [
+    "YPO3411"
+   ],
+   "R_FECRMtonex": [
+    "YPO0683",
+    "YPO0682",
+    "YPO2193"
+   ],
+   "R_SFGTHi": [
+    "YPO1501"
+   ],
+   "R_DHPS2": [
+    "YPO3501"
+   ],
+   "R_ASPt2pp": [
+    "YPO0254"
+   ],
+   "R_HBZOPT": [
+    "YPO0311"
+   ],
+   "R_ACOAD7f": [
+    "YPO3244"
+   ],
+   "R_CU2abcpp": [
+    "YPO3820"
+   ],
+   "R_INSK": [
+    "YPO3095"
+   ],
+   "R_PLIPA1G140pp": [
+    "YPO3834"
+   ],
+   "R_PLIPA1G160pp": [
+    "YPO3834"
+   ],
+   "R_CAT": [
+    "YPO3319",
+    "YPO1207"
+   ],
+   "R_GUAPRT": [
+    "YPO3408",
+    "YPO3225"
+   ],
+   "R_MPTG2": [
+    "YPO0145",
+    "YPO3393"
+   ],
+   "R_PNTOt4pp": [
+    "YPO3657"
+   ],
+   "R_ACALDtex": [
+    "YPO1222"
+   ],
+   "R_PLIPA1G180pp": [
+    "YPO3834"
+   ],
+   "R_PGSA160": [
+    "YPO1867"
+   ],
+   "R_PGSA161": [
+    "YPO1867"
+   ],
+   "R_NOtex": [
+    "YPO1222"
+   ],
+   "R_PLIPA2A141pp": [
+    "YPO3834"
+   ],
+   "R_OROTtex": [
+    "YPO1222"
+   ],
+   "R_OMPHHX": [
+    "YPO0909"
+   ],
+   "R_PAPA141pp": [
+    "YPO2223"
+   ],
+   "R_GLCURtex": [
+    "YPO1222"
+   ],
+   "R_SHK3Dr": [
+    "YPO0246",
+    "YPO1610"
+   ],
+   "R_SERD_L": [
+    "YPO1771"
+   ],
+   "R_LPLIPAL1G180pp": [
+    "YPO3080"
+   ],
+   "R_UDPGtex": [
+    "YPO1222"
+   ],
+   "R_UDCPDPS": [
+    "YPO1049"
+   ],
+   "R_FE3HOXtonex": [
+    "YPO0683",
+    "YPO0682",
+    "YPO2193"
+   ],
+   "R_ACOAD2f": [
+    "YPO3244"
+   ],
+   "R_OROTt2_2pp": [
+    "YPO3992"
+   ],
+   "R_NADH17pp": [
+    "YPO2548",
+    "YPO2549",
+    "YPO2546",
+    "YPO2554",
+    "YPO2544",
+    "YPO2545",
+    "YPO2543",
+    "YPO2550",
+    "YPO2553",
+    "YPO2552",
+    "YPO2555",
+    "YPO2547",
+    "YPO2551"
+   ],
+   "R_TRPTRS": [
+    "YPO0157"
+   ],
+   "R_LPLIPAL2A180": [
+    "YPO3830"
+   ],
+   "R_PAPSR": [
+    "YPO3270",
+    "YPO3868"
+   ],
+   "R_3HAD100": [
+    "YPO1055",
+    "YPO1430"
+   ],
+   "R_MOBDtex": [
+    "YPO1222"
+   ],
+   "R_ARBtex": [
+    "YPO1222"
+   ],
+   "R_SKMtex": [
+    "YPO1222"
+   ],
+   "R_ACOTA": [
+    "YPO1962"
+   ],
+   "R_H2Otex": [
+    "YPO1222",
+    "YPO1435"
+   ],
+   "R_NTD9": [
+    "YPO3358"
+   ],
+   "R_GAL1Ptex": [
+    "YPO1222"
+   ],
+   "R_ACODA": [
+    "YPO3928"
+   ],
+   "R_NTD1": [
+    "YPO3358",
+    "YPO2295",
+    "YPO2559"
+   ],
+   "R_NTD3": [
+    "YPO3358",
+    "YPO2559"
+   ],
+   "R_NTD2": [
+    "YPO3358",
+    "YPO2295"
+   ],
+   "R_NTD5": [
+    "YPO3358",
+    "YPO2295",
+    "YPO2559"
+   ],
+   "R_3GMPtex": [
+    "YPO1222"
+   ],
+   "R_NTD7": [
+    "YPO3358"
+   ],
+   "R_2AGPE181tipp": [
+    "YPO0792"
+   ],
+   "R_ALAR": [
+    "YPO0321"
+   ],
+   "R_ASPt2_3pp": [
+    "YPO0347"
+   ],
+   "R_3OAS100": [
+    "YPO2757",
+    "YPO1601"
+   ],
+   "R_PLIPA1A160pp": [
+    "YPO3834"
+   ],
+   "R_PAPA160pp": [
+    "YPO2223"
+   ],
+   "R_TAURtex": [
+    "YPO1222"
+   ],
+   "R_CLPNS180pp": [
+    "YPO2188"
+   ],
+   "R_HOMtex": [
+    "YPO1222"
+   ],
+   "R_GLYC3Pabcpp": [
+    "YPO3793",
+    "YPO3794",
+    "YPO3795",
+    "YPO3796"
+   ],
+   "R_MLTGY4pp": [
+    "YPO0452",
+    "YPO2957",
+    "YPO1025",
+    "YPO2438",
+    "YPO0954"
+   ],
+   "R_CTECOAI8": [
+    "YPO3766"
+   ],
+   "R_SALSYN": [
+    "YPO1916"
+   ],
+   "R_2AGPGAT120": [
+    "YPO0793"
+   ],
+   "R_DADK_copy1": [
+    "YPO3118"
+   ],
+   "R_2AGPE141tipp": [
+    "YPO0792"
+   ],
+   "R_DHDPRy": [
+    "YPO0480"
+   ],
+   "R_NTPP10": [
+    "YPO0945"
+   ],
+   "R_NTPP11": [
+    "YPO0945"
+   ],
+   "R_3OAR180": [
+    "YPO1599"
+   ],
+   "R_ASP1DC": [
+    "YPO3403"
+   ],
+   "R_ASNtex": [
+    "YPO1222"
+   ],
+   "R_NI2abcpp": [
+    "YPO3820"
+   ],
+   "R_ARGDCpp": [
+    "YPO0929"
+   ],
+   "R_FBA": [
+    "YPO0920"
+   ],
+   "R_NTPTP2": [
+    "YPO3383"
+   ],
+   "R_RHCCE": [
+    "YPO3300"
+   ],
+   "R_AGM3Pt2pp": [
+    "YPO3162"
+   ],
+   "R_GLUTRS": [
+    "YPO2984"
+   ],
+   "R_GLUTRR": [
+    "YPO2016"
+   ],
+   "R_ACGAtex": [
+    "YPO1222"
+   ],
+   "R_AKGtex": [
+    "YPO1222"
+   ],
+   "R_RBFK": [
+    "YPO0474"
+   ],
+   "R_2AGPA140tipp": [
+    "YPO0792"
+   ],
+   "R_COLIPAabcpp": [
+    "YPO1395"
+   ],
+   "R_HISabcpp": [
+    "YPO2775",
+    "YPO2774",
+    "YPO2777",
+    "YPO2776"
+   ],
+   "R_KOKDO_LIPAhexa": [
+    "YPO1650"
+   ],
+   "R_RNDR1b": [
+    "YPO2649",
+    "YPO2648",
+    "YPO2383",
+    "YPO1327",
+    "YPO0066"
+   ],
+   "R_UDPGLCURtex": [
+    "YPO1222"
+   ],
+   "R_THRTRS": [
+    "YPO2433"
+   ],
+   "R_USHD": [
+    "YPO3075"
+   ],
+   "R_ARGAGMt7pp": [
+    "YPO1200"
+   ],
+   "R_PGP160abcpp": [
+    "YPO1395"
+   ],
+   "R_NAt3_2pp": [
+    "YPO0470"
+   ],
+   "R_CYSDtex": [
+    "YPO1222"
+   ],
+   "R_CLtex": [
+    "YPO1222"
+   ],
+   "R_TMDS": [
+    "YPO0783"
+   ],
+   "R_D_LACtex": [
+    "YPO1222"
+   ],
+   "R_PACALDtex": [
+    "YPO1222"
+   ],
+   "R_FRUK": [
+    "YPO1299"
+   ],
+   "R_DMATT": [
+    "YPO3176"
+   ],
+   "R_ACOAD5f": [
+    "YPO3244"
+   ],
+   "R_ULA4NFT": [
+    "YPO2420"
+   ],
+   "R_PSSA120": [
+    "YPO3273"
+   ],
+   "R_DMSOR1": [
+    "YPO3325",
+    "YPO3324",
+    "YPO3323"
+   ],
+   "R_DMSOR2": [
+    "YPO3325",
+    "YPO3324",
+    "YPO3323"
+   ],
+   "R_2DGULRx": [
+    "YPO4078"
+   ],
+   "R_2DGULRy": [
+    "YPO4078"
+   ],
+   "R_23PDE2pp": [
+    "YPO3530"
+   ],
+   "R_CBLAT": [
+    "YPO2214"
+   ],
+   "R_PROTRS": [
+    "YPO1068"
+   ],
+   "R_GMPtex": [
+    "YPO1222"
+   ],
+   "R_FE3DCITtonex": [
+    "YPO3910",
+    "YPO0683",
+    "YPO0682",
+    "YPO2193"
+   ],
+   "R_PLIPA1A140pp": [
+    "YPO3834"
+   ],
+   "R_GLYt2pp": [
+    "YPO2494",
+    "YPO3854"
+   ],
+   "R_PAPA140pp": [
+    "YPO2223"
+   ],
+   "R_GALURt2rpp": [
+    "YPO0577"
+   ],
+   "R_GRTT": [
+    "YPO3176"
+   ],
+   "R_PLIPA2E141pp": [
+    "YPO3834"
+   ],
+   "R_ASPTA": [
+    "YPO1410"
+   ],
+   "R_NDPK8": [
+    "YPO3118",
+    "YPO2883"
+   ],
+   "R_NDPK7": [
+    "YPO3118",
+    "YPO2883"
+   ],
+   "R_NDPK6": [
+    "YPO3118",
+    "YPO2883"
+   ],
+   "R_NDPK5": [
+    "YPO3118",
+    "YPO2883"
+   ],
+   "R_NDPK4": [
+    "YPO3118",
+    "YPO2883"
+   ],
+   "R_NDPK3": [
+    "YPO3118",
+    "YPO2883"
+   ],
+   "R_NDPK2": [
+    "YPO3118",
+    "YPO2883"
+   ],
+   "R_NDPK1": [
+    "YPO3118",
+    "YPO2883"
+   ],
+   "R_DUTPDP": [
+    "YPO0047"
+   ],
+   "R_3OAR40": [
+    "YPO1599"
+   ],
+   "R_3OAS60": [
+    "YPO2757",
+    "YPO1601"
+   ],
+   "R_AKGDH": [
+    "YPO1114",
+    "YPO3417",
+    "YPO1113"
+   ],
+   "R_SARCOX": [
+    "YPO2448"
+   ],
+   "R_LEUTAi": [
+    "YPO0322",
+    "YPO3899"
+   ],
+   "R_H2O2tex": [
+    "YPO1222"
+   ],
+   "R_MICITDr": [
+    "YPO3415"
+   ],
+   "R_PA161abcpp": [
+    "YPO1395"
+   ],
+   "R_RIBtex": [
+    "YPO1222"
+   ],
+   "R_UMPtex": [
+    "YPO1222"
+   ],
+   "R_PDX5POi": [
+    "YPO2370"
+   ],
+   "R_LPLIPAL2G160": [
+    "YPO3830"
+   ],
+   "R_CD2abcpp": [
+    "YPO3820"
+   ],
+   "R_CRNt2rpp": [
+    "YPO0465"
+   ],
+   "R_G6PDA": [
+    "YPO2627"
+   ],
+   "R_ENO": [
+    "YPO3376"
+   ],
+   "R_ACACT8r": [
+    "YPO3767"
+   ],
+   "R_GNK": [
+    "YPO3953"
+   ],
+   "R_AMPN": [
+    "YPO2288"
+   ],
+   "R_ETHSO3tex": [
+    "YPO1222"
+   ],
+   "R_ORNabcpp": [
+    "YPO2775",
+    "YPO2777",
+    "YPO2776"
+   ],
+   "R_DIMPtex": [
+    "YPO1222"
+   ],
+   "R_METDabcpp": [
+    "YPO1073",
+    "YPO1072"
+   ],
+   "R_ASPt2_2pp": [
+    "YPO3992"
+   ],
+   "R_ASO3tex": [
+    "YPO1222"
+   ],
+   "R_FEOXAMtonex": [
+    "YPO0683",
+    "YPO0682",
+    "YPO2193"
+   ],
+   "R_ALLTAMH": [
+    "YPO3249"
+   ],
+   "R_ACACT3r": [
+    "YPO3767"
+   ],
+   "R_UDPACGALtex": [
+    "YPO1222"
+   ],
+   "R_GALTtex": [
+    "YPO1222"
+   ],
+   "R_CRNtex": [
+    "YPO1222"
+   ],
+   "R_LPLIPAL1E120pp": [
+    "YPO3080"
+   ],
+   "R_GLUN": [
+    "YPO1939"
+   ],
+   "R_GLCP2": [
+    "YPO3938"
+   ],
+   "R_ADSL1r": [
+    "YPO1636"
+   ],
+   "R_BTS4": [
+    "YPO1151"
+   ],
+   "R_PTAr": [
+    "YPO2567"
+   ],
+   "R_OCBT": [
+    "YPO3446"
+   ],
+   "R_CYTDK2": [
+    "YPO1524"
+   ],
+   "R_2AGPE160tipp": [
+    "YPO0792"
+   ],
+   "R_DURIt2pp": [
+    "YPO2983"
+   ],
+   "R_FACOAE180": [
+    "YPO3141"
+   ],
+   "R_FACOAE181": [
+    "YPO3141"
+   ],
+   "R_LEUtex": [
+    "YPO1222"
+   ],
+   "R_ABTA": [
+    "YPO2844"
+   ],
+   "R_DMSOtex": [
+    "YPO1222"
+   ],
+   "R_PGPP140": [
+    "YPO2223",
+    "YPO3179"
+   ],
+   "R_PGPP141": [
+    "YPO2223",
+    "YPO3179"
+   ],
+   "R_DSBDR": [
+    "YPO0345",
+    "YPO3270",
+    "YPO3868"
+   ],
+   "R_GLGC": [
+    "YPO3940"
+   ],
+   "R_NH4tpp": [
+    "YPO3142"
+   ],
+   "R_CDAPPA140": [
+    "YPO3986"
+   ],
+   "R_CDAPPA141": [
+    "YPO3986"
+   ],
+   "R_PTA2": [
+    "YPO2567"
+   ],
+   "R_METtex": [
+    "YPO1222"
+   ],
+   "R_PLIPA1A181pp": [
+    "YPO3834"
+   ],
+   "R_M1PD": [
+    "YPO4067"
+   ],
+   "R_PLIPA2G180pp": [
+    "YPO3834"
+   ],
+   "R_SSALy": [
+    "YPO1290"
+   ],
+   "R_PA180abcpp": [
+    "YPO1395"
+   ],
+   "R_FALDH2": [
+    "YPO1502"
+   ],
+   "R_PGPP180pp": [
+    "YPO2223",
+    "YPO3179"
+   ],
+   "R_FE2t2pp": [
+    "YPO2982"
+   ],
+   "R_CA2t3pp": [
+    "YPO1958"
+   ],
+   "R_PEAMNtex": [
+    "YPO1222"
+   ],
+   "R_VALTA": [
+    "YPO3899"
+   ],
+   "R_G3PGtex": [
+    "YPO1222"
+   ],
+   "R_NTPP4": [
+    "YPO3378",
+    "YPO2167"
+   ],
+   "R_HACD3i": [
+    "YPO3766"
+   ],
+   "R_F6Ptex": [
+    "YPO1222"
+   ],
+   "R_PHETA1": [
+    "YPO0322",
+    "YPO1410",
+    "YPO3899"
+   ],
+   "R_CHLt2pp": [
+    "YPO2494",
+    "YPO1168"
+   ],
+   "R_IGPS": [
+    "YPO2205"
+   ],
+   "R_KAT1": [
+    "YPO3767"
+   ],
+   "R_MDDEP1pp": [
+    "YPO2752",
+    "YPO3506",
+    "YPO1176"
+   ],
+   "R_2AGPE120tipp": [
+    "YPO0792"
+   ],
+   "R_LPLIPAL1A181pp": [
+    "YPO3080"
+   ],
+   "R_2AGPGAT180": [
+    "YPO0793"
+   ],
+   "R_2AGPGAT181": [
+    "YPO0793"
+   ],
+   "R_3OAS161": [
+    "YPO2757"
+   ],
+   "R_ILETA": [
+    "YPO3899"
+   ],
+   "R_2AGPE140tipp": [
+    "YPO0792"
+   ],
+   "R_3OAS160": [
+    "YPO2757",
+    "YPO1601"
+   ],
+   "R_LAURTRANS": [
+    "YPO2063"
+   ],
+   "R_PSD160": [
+    "YPO0364"
+   ],
+   "R_THMDtex": [
+    "YPO1222"
+   ],
+   "R_LYXtex": [
+    "YPO1222"
+   ],
+   "R_GDPDPK": [
+    "YPO0038",
+    "YPO3380"
+   ],
+   "R_PSERtex": [
+    "YPO1222"
+   ],
+   "R_NH4tex": [
+    "YPO1222"
+   ],
+   "R_DURIPP": [
+    "YPO0440"
+   ],
+   "R_3OAS181": [
+    "YPO1601"
+   ],
+   "R_3OAS180": [
+    "YPO2757",
+    "YPO1601"
+   ],
+   "R_GMPS2": [
+    "YPO2870"
+   ],
+   "R_ACOATA": [
+    "YPO1600",
+    "YPO1597"
+   ],
+   "R_2AGPE180tipp": [
+    "YPO0792"
+   ],
+   "R_2AGPEAT141": [
+    "YPO0793"
+   ],
+   "R_PSD181": [
+    "YPO0364"
+   ],
+   "R_G3PSabcpp": [
+    "YPO3793",
+    "YPO3794",
+    "YPO3795",
+    "YPO3796"
+   ],
+   "R_MELIBt2pp": [
+    "YPO0995"
+   ],
+   "R_2AGPA181tipp": [
+    "YPO0792"
+   ],
+   "R_3NTD7pp": [
+    "YPO3530"
+   ],
+   "R_AGPAT181": [
+    "YPO0672"
+   ],
+   "R_AGPAT180": [
+    "YPO0672"
+   ],
+   "R_ECAP3pp": [
+    "YPO3865",
+    "YPO3856"
+   ],
+   "R_THMtex": [
+    "YPO1222"
+   ],
+   "R_4HOXPACDtex": [
+    "YPO1222"
+   ],
+   "R_14GLUCANabcpp": [
+    "YPO3712",
+    "YPO3714",
+    "YPO3715",
+    "YPO3716"
+   ],
+   "R_DURIK1": [
+    "YPO2176"
+   ],
+   "R_PRMICI": [
+    "YPO1544"
+   ],
+   "R_UDPGD": [
+    "YPO2174"
+   ],
+   "R_ASPTRS": [
+    "YPO2053"
+   ],
+   "R_AGPAT160": [
+    "YPO0672"
+   ],
+   "R_MAN6PI": [
+    "YPO2263"
+   ],
+   "R_GMHEPPA": [
+    "YPO1074"
+   ],
+   "R_LDH_D": [
+    "YPO1177",
+    "YPO2329"
+   ],
+   "R_AM3PA": [
+    "YPO3423"
+   ],
+   "R_GALBDtex": [
+    "YPO1222"
+   ],
+   "R_APRAUR": [
+    "YPO3183"
+   ],
+   "R_PE140abcpp": [
+    "YPO1395"
+   ],
+   "R_ACOAD4f": [
+    "YPO3244"
+   ],
+   "R_PPK2": [
+    "YPO2836"
+   ],
+   "R_GALCTNLtex": [
+    "YPO1222"
+   ],
+   "R_AGMH": [
+    "YPO1615"
+   ],
+   "R_PSERT": [
+    "YPO1389"
+   ],
+   "R_P5CR": [
+    "YPO0942"
+   ],
+   "R_MALS": [
+    "YPO3726"
+   ],
+   "R_ASCBtex": [
+    "YPO1222"
+   ],
+   "R_TALA": [
+    "YPO0463"
+   ],
+   "R_ASPtex": [
+    "YPO1222"
+   ],
+   "R_PROtex": [
+    "YPO1222"
+   ],
+   "R_PAPA120pp": [
+    "YPO2223"
+   ],
+   "R_THIORDXi": [
+    "YPO3064",
+    "YPO3868",
+    "YPO3270"
+   ],
+   "R_DHORTS": [
+    "YPO1587"
+   ],
+   "R_PAPA141": [
+    "YPO2223"
+   ],
+   "R_PAPA140": [
+    "YPO2223"
+   ],
+   "R_ALAt2pp": [
+    "YPO3854"
+   ],
+   "R_PROt2rpp": [
+    "YPO0465"
+   ],
+   "R_HEX1": [
+    "YPO2977"
+   ],
+   "R_HEX7": [
+    "YPO3211"
+   ],
+   "R_PTRCtex": [
+    "YPO1222"
+   ],
+   "R_SERt2rpp": [
+    "YPO1321"
+   ],
+   "R_UAMAS": [
+    "YPO0556"
+   ],
+   "R_FDH5pp": [
+    "YPO4056",
+    "YPO4057"
+   ],
+   "R_PLIPA2G181pp": [
+    "YPO3834"
+   ],
+   "R_GTHOr": [
+    "YPO3977"
+   ],
+   "R_OCDCEAtexi": [
+    "YPO2744"
+   ],
+   "R_KOKDO_LIPAtetra": [
+    "YPO1650"
+   ],
+   "R_RNTR4c": [
+    "YPO0893",
+    "YPO3455",
+    "YPO3454",
+    "YPO0088",
+    "YPO2635"
+   ],
+   "R_MALTTTRtexi": [
+    "YPO3711"
+   ],
+   "R_OP4ENH": [
+    "YPO1766"
+   ],
+   "R_ACGAM1Ptex": [
+    "YPO1222"
+   ],
+   "R_G3PD2": [
+    "YPO0068"
+   ],
+   "R_G3PAT161": [
+    "YPO0312"
+   ],
+   "R_G3PAT160": [
+    "YPO0312"
+   ],
+   "R_CDPMEK": [
+    "YPO2014"
+   ],
+   "R_LPLIPAL1A180pp": [
+    "YPO3080"
+   ],
+   "R_ISETACabcpp": [
+    "YPO3624",
+    "YPO3626",
+    "YPO3627"
+   ],
+   "R_KOKDO_LIPApenta": [
+    "YPO1650"
+   ],
+   "R_MNNH": [
+    "YPO1283"
+   ],
+   "R_GTPDPDP": [
+    "YPO2837"
+   ],
+   "R_PG180abcpp": [
+    "YPO1395"
+   ],
+   "R_GND": [
+    "YPO1541"
+   ],
+   "R_3OAR120": [
+    "YPO1599"
+   ],
+   "R_3OAR121": [
+    "YPO1599"
+   ],
+   "R_O2tex": [
+    "YPO1222"
+   ],
+   "R_TMDK1": [
+    "YPO2176"
+   ],
+   "R_PItex": [
+    "YPO1222"
+   ],
+   "R_METSOXR1": [
+    "YPO3868",
+    "YPO3525",
+    "YPO3270"
+   ],
+   "R_GAPD": [
+    "YPO2157"
+   ],
+   "R_CFAS180G": [
+    "YPO2390"
+   ],
+   "R_ACGAptspp": [
+    "YPO2993",
+    "YPO2628",
+    "YPO2995",
+    "YPO1608"
+   ],
+   "R_GLNtex": [
+    "YPO1222"
+   ],
+   "R_GLYC3Ptex": [
+    "YPO1222"
+   ],
+   "R_GLYBabcpp": [
+    "YPO1198",
+    "YPO1199"
+   ],
+   "R_PLIPA1G161pp": [
+    "YPO3834"
+   ],
+   "R_AGM4Pt2pp": [
+    "YPO3162"
+   ],
+   "R_BALAt2pp": [
+    "YPO3854"
+   ],
+   "R_LPLIPAL2ATE160": [
+    "YPO3830"
+   ],
+   "R_LPLIPAL2ATE161": [
+    "YPO3830"
+   ],
+   "R_PYK": [
+    "YPO2393"
+   ],
+   "R_INDOLEt2pp": [
+    "YPO3132"
+   ],
+   "R_CPPPGO": [
+    "YPO3032"
+   ],
+   "R_ACGK": [
+    "YPO3925"
+   ],
+   "R_PGAMT": [
+    "YPO3500"
+   ],
+   "R_HCO3E": [
+    "YPO3407"
+   ],
+   "R_ACGS": [
+    "YPO1022"
+   ],
+   "R_3OAS80": [
+    "YPO2757",
+    "YPO1601"
+   ],
+   "R_METSOX1tex": [
+    "YPO1222"
+   ],
+   "R_MCTP2App": [
+    "YPO0145",
+    "YPO3393",
+    "YPO2604",
+    "YPO0549"
+   ],
+   "R_MALDtex": [
+    "YPO1222"
+   ],
+   "R_PPS": [
+    "YPO2409"
+   ],
+   "R_GSNK": [
+    "YPO3095"
+   ],
+   "R_FUM": [
+    "YPO2264",
+    "YPO3335"
+   ],
+   "R_4HTHRS": [
+    "YPO0461"
+   ],
+   "R_PTPATi": [
+    "YPO0053"
+   ],
+   "R_ADOCBLtonex": [
+    "YPO0683",
+    "YPO0682",
+    "YPO2193"
+   ],
+   "R_PPC": [
+    "YPO3929"
+   ],
+   "R_PPA": [
+    "YPO3358",
+    "YPO3521"
+   ],
+   "R_PPCDC": [
+    "YPO0048"
+   ],
+   "R_CTBTt2rpp": [
+    "YPO0465"
+   ],
+   "R_CBIuabcpp": [
+    "YPO2425",
+    "YPO3385",
+    "YPO2423"
+   ],
+   "R_PPK": [
+    "YPO2836"
+   ],
+   "R_ADNt2pp": [
+    "YPO2983"
+   ],
+   "R_ALATRS": [
+    "YPO3305"
+   ],
+   "R_MACPD": [
+    "YPO2757"
+   ],
+   "R_ADSK": [
+    "YPO3364"
+   ],
+   "R_FE3DHBZStonex": [
+    "YPO0683",
+    "YPO0682",
+    "YPO2193"
+   ],
+   "R_FACOAE100": [
+    "YPO3141"
+   ],
+   "R_CYANST": [
+    "YPO0122"
+   ],
+   "R_ADSS": [
+    "YPO0378"
+   ],
+   "R_ASNTRS": [
+    "YPO1412"
+   ],
+   "R_DTMPK": [
+    "YPO1605"
+   ],
+   "R_MNtex": [
+    "YPO1222"
+   ],
+   "R_ETHAtex": [
+    "YPO1222"
+   ],
+   "R_SERt4pp": [
+    "YPO0584"
+   ],
+   "R_PAPA181pp": [
+    "YPO2223"
+   ],
+   "R_ALPATG160pp": [
+    "YPO2616",
+    "YPO2394"
+   ],
+   "R_MOHMT": [
+    "YPO3401"
+   ],
+   "R_HACD2i": [
+    "YPO3766"
+   ],
+   "R_CYTDt2pp_copy1": [
+    "YPO2983"
+   ],
+   "R_ACACT5r": [
+    "YPO3767"
+   ],
+   "R_TRE6PH": [
+    "YPO3696"
+   ],
+   "R_DHQS": [
+    "YPO0152"
+   ],
+   "R_GLCS1": [
+    "YPO3939"
+   ],
+   "R_ALAtex": [
+    "YPO1222"
+   ],
+   "R_G1PCTYT": [
+    "YPO3115"
+   ],
+   "R_FACOAE80": [
+    "YPO3141"
+   ],
+   "R_GALS3": [
+    "YPO1581"
+   ],
+   "R_LYXI": [
+    "YPO0329"
+   ],
+   "R_PGPP120pp": [
+    "YPO2223",
+    "YPO3179"
+   ],
+   "R_PG120abcpp": [
+    "YPO1395"
+   ],
+   "R_ALAALAabcpp": [
+    "YPO3999",
+    "YPO4001",
+    "YPO4000",
+    "YPO4003",
+    "YPO4002"
+   ],
+   "R_SUCFUMtpp": [
+    "YPO0347"
+   ],
+   "R_THZPSN": [
+    "YPO3743",
+    "YPO3742",
+    "YPO3741",
+    "YPO3172",
+    "YPO3173"
+   ],
+   "R_XYLabcpp": [
+    "YPO4035",
+    "YPO4036",
+    "YPO4037"
+   ],
+   "R_PAPPT3": [
+    "YPO0552"
+   ],
+   "R_XYLK2": [
+    "YPO3334"
+   ],
+   "R_DAPDC": [
+    "YPO0796"
+   ],
+   "R_PPBNGS": [
+    "YPO3771"
+   ],
+   "R_CYTK1": [
+    "YPO1391"
+   ],
+   "R_ACACT2r": [
+    "YPO3767"
+   ],
+   "R_GLUR": [
+    "YPO3909"
+   ],
+   "R_FMNRx2": [
+    "YPO3372",
+    "YPO3371",
+    "YPO3768",
+    "YPO3623"
+   ],
+   "R_CDAPPA180": [
+    "YPO3986"
+   ],
+   "R_GLYBt2pp": [
+    "YPO2494"
+   ],
+   "R_LPLIPAL2ATG141": [
+    "YPO3830"
+   ],
+   "R_2AGPEAT140": [
+    "YPO0793"
+   ],
+   "R_FACOAL100t2pp": [
+    "YPO2074"
+   ],
+   "R_23PDE9pp": [
+    "YPO3530"
+   ],
+   "R_G3PD7": [
+    "YPO3824",
+    "YPO3825"
+   ],
+   "R_G3PD5": [
+    "YPO3824",
+    "YPO3825",
+    "YPO3937"
+   ],
+   "R_GLCUR1Ptex": [
+    "YPO1222"
+   ],
+   "R_AIRC3": [
+    "YPO3076"
+   ],
+   "R_AIRC2": [
+    "YPO3077"
+   ],
+   "R_PGP140abcpp": [
+    "YPO1395"
+   ],
+   "R_PYAM5PO": [
+    "YPO2370"
+   ],
+   "R_TRDR": [
+    "YPO3270",
+    "YPO1374",
+    "YPO3868"
+   ],
+   "R_FE3DCITabcpp": [
+    "YPO3390",
+    "YPO3391",
+    "YPO3392"
+   ],
+   "R_FRUURtex": [
+    "YPO1222"
+   ],
+   "R_DXPS": [
+    "YPO3177"
+   ],
+   "R_TUNGStex": [
+    "YPO1222"
+   ],
+   "R_FRULYStex": [
+    "YPO1222"
+   ],
+   "R_CHLtex": [
+    "YPO1222"
+   ],
+   "R_SULFACabcpp": [
+    "YPO3624",
+    "YPO3626",
+    "YPO3627"
+   ],
+   "R_MGSA": [
+    "YPO1441"
+   ],
+   "R_S7PI": [
+    "YPO3243"
+   ],
+   "R_KAS14": [
+    "YPO2757",
+    "YPO1601"
+   ],
+   "R_ILETRS": [
+    "YPO0475"
+   ],
+   "R_PHEtex": [
+    "YPO1222"
+   ],
+   "R_VALabcpp": [
+    "YPO3808",
+    "YPO3804",
+    "YPO3805",
+    "YPO3806",
+    "YPO3807"
+   ],
+   "R_PPPNt2rpp": [
+    "YPO2904"
+   ],
+   "R_CYSDDS": [
+    "YPO1845"
+   ],
+   "R_PE141abcpp": [
+    "YPO1395"
+   ],
+   "R_NODOx": [
+    "YPO2908"
+   ],
+   "R_NODOy": [
+    "YPO2908"
+   ],
+   "R_XYLK": [
+    "YPO4039"
+   ],
+   "R_GMPR": [
+    "YPO3428"
+   ],
+   "R_ECOAH5": [
+    "YPO3766"
+   ],
+   "R_LPLIPAL1G161pp": [
+    "YPO3080"
+   ],
+   "R_FBP": [
+    "YPO3520"
+   ],
+   "R_LPLIPAL2E160": [
+    "YPO3830"
+   ],
+   "R_AICART": [
+    "YPO3728"
+   ],
+   "R_THMDt2pp": [
+    "YPO2983"
+   ],
+   "R_RAFGH": [
+    "YPO1581"
+   ],
+   "R_PLIPA2A180pp": [
+    "YPO3834"
+   ],
+   "R_GLYCLTtex": [
+    "YPO1222"
+   ],
+   "R_LPLIPAL2ATG120": [
+    "YPO3830"
+   ],
+   "R_PGPP140pp": [
+    "YPO2223",
+    "YPO3179"
+   ],
+   "R_ECOAH3": [
+    "YPO3766"
+   ],
+   "R_INDOLEtex": [
+    "YPO1222"
+   ],
+   "R_GLUt2rpp": [
+    "YPO0254"
+   ],
+   "R_HIStex": [
+    "YPO1222"
+   ],
+   "R_POX": [
+    "YPO1358"
+   ],
+   "R_2AGPGAT160": [
+    "YPO0793"
+   ],
+   "R_2AGPGAT161": [
+    "YPO0793"
+   ],
+   "R_TDPGDH": [
+    "YPO3862"
+   ],
+   "R_CYTD": [
+    "YPO1512"
+   ],
+   "R_MNLptspp": [
+    "YPO2993",
+    "YPO4068"
+   ],
+   "R_PGM": [
+    "YPO1133"
+   ],
+   "R_PE160abcpp": [
+    "YPO1395"
+   ],
+   "R_ALCD2x": [
+    "YPO1502",
+    "YPO2180"
+   ],
+   "R_MDH": [
+    "YPO3516"
+   ],
+   "R_IDONtex": [
+    "YPO1222"
+   ],
+   "R_DKGLCNR2y": [
+    "YPO4078"
+   ],
+   "R_DKGLCNR2x": [
+    "YPO4078"
+   ],
+   "R_3HAD121": [
+    "YPO1055",
+    "YPO1430"
+   ],
+   "R_VALTRS": [
+    "YPO3443"
+   ],
+   "R_LPLIPAL2A161": [
+    "YPO3830"
+   ],
+   "R_LPLIPAL2A160": [
+    "YPO3830"
+   ],
+   "R_CPGNtonex": [
+    "YPO0683",
+    "YPO0682",
+    "YPO2193"
+   ],
+   "R_ECAP1pp": [
+    "YPO3865",
+    "YPO3856"
+   ],
+   "R_OCTDPS": [
+    "YPO3513"
+   ],
+   "R_CMPtex": [
+    "YPO1222"
+   ],
+   "R_FACOAE161": [
+    "YPO3141"
+   ],
+   "R_DSBAO2": [
+    "YPO2141",
+    "YPO0015"
+   ],
+   "R_PGLYCP": [
+    "YPO0156"
+   ],
+   "R_3HAD60": [
+    "YPO1055",
+    "YPO1430"
+   ],
+   "R_UAAGDS": [
+    "YPO0550"
+   ],
+   "R_4PEPTtex": [
+    "YPO1222"
+   ],
+   "R_ICDHyr": [
+    "YPO1641"
+   ],
+   "R_PG141abcpp": [
+    "YPO1395"
+   ],
+   "R_PPALtex": [
+    "YPO1222"
+   ],
+   "R_NI2uabcpp": [
+    "YPO1661"
+   ],
+   "R_AM4PA": [
+    "YPO3423"
+   ],
+   "R_HDCAtexi": [
+    "YPO2744"
+   ],
+   "R_Kabcpp": [
+    "YPO2692",
+    "YPO2690",
+    "YPO2691"
+   ],
+   "R_ALLTNt2rpp": [
+    "YPO1083"
+   ],
+   "R_3OAS121": [
+    "YPO2757"
+   ],
+   "R_PDX5PS": [
+    "YPO2930",
+    "YPO0493"
+   ],
+   "R_TYRPtex": [
+    "YPO1222"
+   ],
+   "R_NMNtex": [
+    "YPO1222"
+   ],
+   "R_UAPGR": [
+    "YPO3760"
+   ],
+   "R_PSD120": [
+    "YPO0364"
+   ],
+   "R_QULNS": [
+    "YPO1127"
+   ],
+   "R_ARGabcpp": [
+    "YPO1349",
+    "YPO1352",
+    "YPO1350",
+    "YPO1351",
+    "YPO2775",
+    "YPO2777",
+    "YPO2776"
+   ],
+   "R_LPLIPAL2E161": [
+    "YPO3830"
+   ],
+   "R_MG2tpp": [
+    "YPO3837"
+   ],
+   "R_12PPDStex": [
+    "YPO1222"
+   ],
+   "R_PNTOtex": [
+    "YPO1222"
+   ],
+   "R_PIt2rpp": [
+    "YPO3967"
+   ],
+   "R_DKGLCNR1": [
+    "YPO0676",
+    "YPO1075"
+   ],
+   "R_SGDS": [
+    "YPO1966"
+   ],
+   "R_GMHEPK": [
+    "YPO0654"
+   ],
+   "R_PA141abcpp": [
+    "YPO1395"
+   ],
+   "R_MCTP1Bpp": [
+    "YPO0145",
+    "YPO3393"
+   ],
+   "R_GLYCLTt4pp": [
+    "YPO0251"
+   ],
+   "R_NO3tex": [
+    "YPO1222"
+   ],
+   "R_MALTPTtexi": [
+    "YPO3711"
+   ],
+   "R_THRt4pp": [
+    "YPO0584"
+   ],
+   "R_UM3PL": [
+    "YPO3519"
+   ],
+   "R_ADOCBLabcpp": [
+    "YPO2425",
+    "YPO3385",
+    "YPO2423"
+   ],
+   "R_3KGK_copy1": [
+    "YPO3334"
+   ],
+   "R_NMNPtpp": [
+    "YPO1128"
+   ],
+   "R_3KGK_copy2": [
+    "YPO3530"
+   ],
+   "R_PERD": [
+    "YPO2763"
+   ],
+   "R_XPPT": [
+    "YPO3225"
+   ],
+   "R_CRNabcpp": [
+    "YPO2645",
+    "YPO2647",
+    "YPO2646"
+   ],
+   "R_PGCD": [
+    "YPO0914"
+   ],
+   "R_GALCTtex": [
+    "YPO1222"
+   ],
+   "R_THRD_L": [
+    "YPO4089"
+   ],
+   "R_OMCDC": [
+    "YPO0532"
+   ],
+   "R_HDCEAtexi": [
+    "YPO2744"
+   ],
+   "R_OMMBLHX": [
+    "YPO2621"
+   ],
+   "R_PPPNtex": [
+    "YPO1222"
+   ],
+   "R_RNDR3b": [
+    "YPO2649",
+    "YPO0066",
+    "YPO2648",
+    "YPO2383",
+    "YPO1327"
+   ],
+   "R_ILEabcpp": [
+    "YPO3808",
+    "YPO3804",
+    "YPO3805",
+    "YPO3806",
+    "YPO3807"
+   ],
+   "R_BUTSO3tex": [
+    "YPO1222"
+   ],
+   "R_AP4AH": [
+    "YPO0490"
+   ],
+   "R_PGMT": [
+    "YPO2686"
+   ],
+   "R_ACMANAptspp": [
+    "YPO1758",
+    "YPO1756",
+    "YPO1757",
+    "YPO2993"
+   ],
+   "R_2AGPA161tipp": [
+    "YPO0792"
+   ],
+   "R_12PPDRtex": [
+    "YPO1222"
+   ],
+   "R_CPK1": [
+    "YPO3118"
+   ],
+   "R_Ktex": [
+    "YPO1222"
+   ],
+   "R_CYTBDpp": [
+    "YPO1117",
+    "YPO1118"
+   ],
+   "R_DPR": [
+    "YPO3888",
+    "YPO3171"
+   ],
+   "R_METAT": [
+    "YPO0931"
+   ],
+   "R_BUTSO3abcpp": [
+    "YPO3624",
+    "YPO3626",
+    "YPO3627"
+   ],
+   "R_SO3tex": [
+    "YPO1222"
+   ],
+   "R_FDMO6": [
+    "YPO3625"
+   ],
+   "R_FDMO4": [
+    "YPO3625"
+   ],
+   "R_FRUptspp": [
+    "YPO1300",
+    "YPO2993",
+    "YPO1298"
+   ],
+   "R_FDMO2": [
+    "YPO3625"
+   ],
+   "R_FDMO3": [
+    "YPO3625"
+   ],
+   "R_G3PItex": [
+    "YPO1222"
+   ],
+   "R_PSSA140": [
+    "YPO3273"
+   ],
+   "R_PSSA141": [
+    "YPO3273"
+   ],
+   "R_PLIPA2A181pp": [
+    "YPO3834"
+   ],
+   "R_DUMPtex": [
+    "YPO1222"
+   ],
+   "R_TYMtex": [
+    "YPO1222"
+   ],
+   "R_TYRt2rpp": [
+    "YPO1209"
+   ],
+   "R_ALTRH": [
+    "YPO0581"
+   ],
+   "R_DASYN120": [
+    "YPO1050",
+    "YPO2816"
+   ],
+   "R_G1PTT": [
+    "YPO3861"
+   ],
+   "R_GLCNt2rpp": [
+    "YPO3954",
+    "YPO0767"
+   ],
+   "R_NADK": [
+    "YPO1106"
+   ],
+   "R_RBK": [
+    "YPO0008"
+   ],
+   "R_GALabcpp": [
+    "YPO1507",
+    "YPO1509",
+    "YPO1508"
+   ],
+   "R_IPPMIa": [
+    "YPO0531",
+    "YPO0530"
+   ],
+   "R_IPPMIb": [
+    "YPO0531",
+    "YPO0530"
+   ],
+   "R_LPLIPAL2G120": [
+    "YPO3830"
+   ],
+   "R_UAGAAT": [
+    "YPO1056",
+    "YPO1600"
+   ],
+   "R_CUtex": [
+    "YPO1222"
+   ],
+   "R_NADH18pp": [
+    "YPO2548",
+    "YPO2549",
+    "YPO2546",
+    "YPO2554",
+    "YPO2544",
+    "YPO2545",
+    "YPO2543",
+    "YPO2550",
+    "YPO2553",
+    "YPO2552",
+    "YPO2555",
+    "YPO2547",
+    "YPO2551"
+   ],
+   "R_HACD4i": [
+    "YPO3766"
+   ],
+   "R_ASO3t8pp": [
+    "YPO3347"
+   ],
+   "R_FEENTERtonex": [
+    "YPO0683",
+    "YPO0682",
+    "YPO2193"
+   ],
+   "R_NADH16pp": [
+    "YPO2548",
+    "YPO2549",
+    "YPO2546",
+    "YPO2554",
+    "YPO2544",
+    "YPO2545",
+    "YPO2543",
+    "YPO2550",
+    "YPO2553",
+    "YPO2552",
+    "YPO2555",
+    "YPO2547",
+    "YPO2551"
+   ],
+   "R_FA120ACPHi": [
+    "YPO3193"
+   ],
+   "R_NTD11": [
+    "YPO3358"
+   ],
+   "R_NTD10": [
+    "YPO3358"
+   ],
+   "R_NTD12": [
+    "YPO3358",
+    "YPO2559"
+   ],
+   "R_LPLIPAL1A141pp": [
+    "YPO3080"
+   ],
+   "R_FUMtex": [
+    "YPO1222"
+   ],
+   "R_DAGK180": [
+    "YPO0313"
+   ],
+   "R_DAGK181": [
+    "YPO0313"
+   ],
+   "R_SELCYSS": [
+    "YPO4054"
+   ],
+   "R_PPPGO": [
+    "YPO3761"
+   ],
+   "R_OMPDC": [
+    "YPO2227"
+   ],
+   "R_PGP181abcpp": [
+    "YPO1395"
+   ],
+   "R_CD2t3pp": [
+    "YPO1129"
+   ],
+   "R_GLUabcpp": [
+    "YPO2612",
+    "YPO2613",
+    "YPO2614",
+    "YPO2615"
+   ],
+   "R_SHCHCS2": [
+    "YPO2527"
+   ],
+   "R_ADMDC": [
+    "YPO3412"
+   ],
+   "R_CYSS": [
+    "YPO3011"
+   ],
+   "R_MI1PP": [
+    "YPO2899"
+   ],
+   "R_PLIPA1A180pp": [
+    "YPO3834"
+   ],
+   "R_SERAT": [
+    "YPO0070"
+   ],
+   "R_3OAR80": [
+    "YPO1599"
+   ],
+   "R_ADK1": [
+    "YPO3118"
+   ],
+   "R_AGMHE": [
+    "YPO0058"
+   ],
+   "R_3NTD9pp": [
+    "YPO3530"
+   ],
+   "R_ADK4": [
+    "YPO3118"
+   ],
+   "R_MALTtexi": [
+    "YPO3711"
+   ],
+   "R_MALt2_3pp": [
+    "YPO0347"
+   ],
+   "R_GTHOXtex": [
+    "YPO1222"
+   ],
+   "R_ALLTNtex": [
+    "YPO1222"
+   ],
+   "R_ACGALtex": [
+    "YPO1222"
+   ],
+   "R_GLNTRS": [
+    "YPO2630"
+   ],
+   "R_PGP180abcpp": [
+    "YPO1395"
+   ],
+   "R_PPTtex": [
+    "YPO1222"
+   ],
+   "R_ASPabcpp": [
+    "YPO2612",
+    "YPO2613",
+    "YPO2614",
+    "YPO2615"
+   ],
+   "R_CYNTtex": [
+    "YPO1222"
+   ],
+   "R_PSSA160": [
+    "YPO3273"
+   ],
+   "R_MDDEP2pp": [
+    "YPO2752",
+    "YPO3506",
+    "YPO1176"
+   ],
+   "R_ACS": [
+    "YPO0253"
+   ],
+   "R_SHCHF": [
+    "YPO0158"
+   ],
+   "R_ANHMK": [
+    "YPO2372"
+   ],
+   "R_PLIPA2G141pp": [
+    "YPO3834"
+   ],
+   "R_23CUMPtex": [
+    "YPO1222"
+   ],
+   "R_DHDPS": [
+    "YPO3062"
+   ],
+   "R_NNAM": [
+    "YPO2160"
+   ],
+   "R_AGMtex": [
+    "YPO1222"
+   ],
+   "R_FUMt2_2pp": [
+    "YPO3992"
+   ],
+   "R_PLIPA2G160pp": [
+    "YPO3834"
+   ],
+   "R_HACD8i": [
+    "YPO3766"
+   ],
+   "R_UGLT": [
+    "YPO1138"
+   ],
+   "R_PGPP160pp": [
+    "YPO2223",
+    "YPO3179"
+   ],
+   "R_3PEPTtex": [
+    "YPO1222"
+   ],
+   "R_HYXNtex": [
+    "YPO1222"
+   ],
+   "R_DHFS": [
+    "YPO2769"
+   ],
+   "R_Kt2pp": [
+    "YPO2675",
+    "YPO0239",
+    "YPO3762",
+    "YPO0006"
+   ],
+   "R_DHFR": [
+    "YPO0486"
+   ],
+   "R_DALAt2pp": [
+    "YPO3854"
+   ],
+   "R_ISETACtex": [
+    "YPO1222"
+   ],
+   "R_CS": [
+    "YPO1108"
+   ],
+   "R_PLIPA2G120pp": [
+    "YPO3834"
+   ],
+   "R_CDAPPA160": [
+    "YPO3986"
+   ],
+   "R_CDAPPA161": [
+    "YPO3986"
+   ],
+   "R_PAPSR2": [
+    "YPO1327",
+    "YPO0066",
+    "YPO2383"
+   ],
+   "R_FACOAL60t2pp": [
+    "YPO2074"
+   ],
+   "R_G3PCtex": [
+    "YPO1222"
+   ],
+   "R_CYSTRS": [
+    "YPO3073"
+   ],
+   "R_GLUSy": [
+    "YPO3558",
+    "YPO3557"
+   ],
+   "R_ADPT": [
+    "YPO3123"
+   ],
+   "R_DHNAOT4": [
+    "YPO0104"
+   ],
+   "R_PGPP180": [
+    "YPO2223",
+    "YPO3179"
+   ],
+   "R_PGPP181": [
+    "YPO2223",
+    "YPO3179"
+   ],
+   "R_GLYK": [
+    "YPO3312"
+   ],
+   "R_HISTP": [
+    "YPO1546"
+   ],
+   "R_GALKr": [
+    "YPO1137"
+   ],
+   "R_TSULtex": [
+    "YPO1222"
+   ],
+   "R_DALAtex": [
+    "YPO1222"
+   ],
+   "R_FA80ACPHi": [
+    "YPO3193"
+   ],
+   "R_UDCPDPpp": [
+    "YPO2223",
+    "YPO1324"
+   ],
+   "R_FORtex": [
+    "YPO1222"
+   ],
+   "R_CITtex": [
+    "YPO1222"
+   ],
+   "R_HISTD": [
+    "YPO1548"
+   ],
+   "R_UDPGDC": [
+    "YPO2420"
+   ],
+   "R_LEUabcpp": [
+    "YPO3808",
+    "YPO3804",
+    "YPO3805",
+    "YPO3806",
+    "YPO3807"
+   ],
+   "R_GLBRAN2": [
+    "YPO3942"
+   ],
+   "R_HACD1i": [
+    "YPO3766"
+   ],
+   "R_UPLA4FNT": [
+    "YPO2421"
+   ],
+   "R_NI2t3pp": [
+    "YPO1129"
+   ],
+   "R_GLYCAtex": [
+    "YPO1222"
+   ],
+   "R_CD2tex": [
+    "YPO1222"
+   ],
+   "R_MDDCP3pp": [
+    "YPO2601",
+    "YPO3506"
+   ],
+   "R_LPS_YPpenta": [
+    "YPO0056",
+    "YPO0057",
+    "YPO0416"
+   ],
+   "R_DASYN180": [
+    "YPO1050",
+    "YPO2816"
+   ],
+   "R_AMALT1": [
+    "YPO0126"
+   ],
+   "R_AMALT2": [
+    "YPO0126"
+   ],
+   "R_GAMptspp": [
+    "YPO1758",
+    "YPO1756",
+    "YPO1757",
+    "YPO2993"
+   ],
+   "R_AMALT4": [
+    "YPO0126"
+   ],
+   "R_THRabcpp": [
+    "YPO3808",
+    "YPO3804",
+    "YPO3805",
+    "YPO3806",
+    "YPO3807"
+   ],
+   "R_SERtex": [
+    "YPO1222"
+   ],
+   "R_PG140abcpp": [
+    "YPO1395"
+   ],
+   "R_PGP120abcpp": [
+    "YPO1395"
+   ],
+   "R_GTPCII2": [
+    "YPO2222"
+   ],
+   "R_HSDy": [
+    "YPO0459"
+   ],
+   "R_3HAD120": [
+    "YPO1055",
+    "YPO1430"
+   ],
+   "R_HEMEOS": [
+    "YPO3168"
+   ],
+   "R_DAPtex": [
+    "YPO1222"
+   ],
+   "R_GALCTNtex": [
+    "YPO1222"
+   ],
+   "R_HPYRRx": [
+    "YPO4078"
+   ],
+   "R_HPYRRy": [
+    "YPO4078"
+   ],
+   "R_BSORx": [
+    "YPO0794"
+   ],
+   "R_CBIAT": [
+    "YPO2214"
+   ],
+   "R_3HAD141": [
+    "YPO1055",
+    "YPO1430"
+   ],
+   "R_3HAD140": [
+    "YPO1055",
+    "YPO1430"
+   ],
+   "R_METS": [
+    "YPO3722",
+    "YPO3788"
+   ],
+   "R_TRPt2rpp": [
+    "YPO1285"
+   ],
+   "R_XTSNtex": [
+    "YPO1222"
+   ],
+   "R_GLYOX_1": [
+    "YPO2381"
+   ],
+   "R_XYLI2": [
+    "YPO4038"
+   ],
+   "R_PPM2": [
+    "YPO0439"
+   ],
+   "R_AOXSr": [
+    "YPO1152"
+   ],
+   "R_G1PACT": [
+    "YPO4119"
+   ],
+   "R_GBBTNtex": [
+    "YPO1222"
+   ],
+   "R_FACOAL80t2pp": [
+    "YPO2074"
+   ],
+   "R_CRNDabcpp": [
+    "YPO2645",
+    "YPO2647",
+    "YPO2646"
+   ],
+   "R_LPLIPAL2ATG140": [
+    "YPO3830"
+   ],
+   "R_CDAPPA181": [
+    "YPO3986"
+   ],
+   "R_E4PD": [
+    "YPO0922"
+   ],
+   "R_PGSA180": [
+    "YPO1867"
+   ],
+   "R_PGSA181": [
+    "YPO1867"
+   ],
+   "R_OCDCAtexi": [
+    "YPO2744"
+   ],
+   "R_UAGDP": [
+    "YPO4119"
+   ],
+   "R_THRA2": [
+    "YPO2907",
+    "YPO1357"
+   ],
+   "R_MALt2_2pp": [
+    "YPO3992"
+   ],
+   "R_LPLIPAL1E180pp": [
+    "YPO3080"
+   ],
+   "R_AGPAT141": [
+    "YPO0672"
+   ],
+   "R_AGPAT140": [
+    "YPO0672"
+   ],
+   "R_NO2t2rpp": [
+    "YPO0159"
+   ],
+   "R_PSP_L": [
+    "YPO0442"
+   ],
+   "R_MCPST": [
+    "YPO1194"
+   ],
+   "R_FACOAE160": [
+    "YPO3141"
+   ],
+   "R_FACOAL180t2pp": [
+    "YPO2074"
+   ],
+   "R_SUCOAS": [
+    "YPO1115",
+    "YPO1116"
+   ],
+   "R_SPMDAT1": [
+    "YPO2830"
+   ],
+   "R_MDDEP3pp": [
+    "YPO2752",
+    "YPO3506",
+    "YPO1176"
+   ],
+   "R_SPMDAT2": [
+    "YPO2830"
+   ],
+   "R_RNDR2b": [
+    "YPO2649",
+    "YPO0066",
+    "YPO2648",
+    "YPO2383",
+    "YPO1327"
+   ],
+   "R_PPCK": [
+    "YPO0138"
+   ],
+   "R_AHCYSNS": [
+    "YPO3384"
+   ],
+   "R_THD2pp": [
+    "YPO2302",
+    "YPO2303"
+   ],
+   "R_MALTPTabcpp": [
+    "YPO3712",
+    "YPO3714",
+    "YPO3715",
+    "YPO3716"
+   ],
+   "R_MSO3abcpp": [
+    "YPO3624",
+    "YPO3626",
+    "YPO3627"
+   ],
+   "R_PLIPA1E161pp": [
+    "YPO3834"
+   ],
+   "R_PLIPA1G120pp": [
+    "YPO3834"
+   ],
+   "R_HISTRS": [
+    "YPO2878"
+   ],
+   "R_34dhpactex": [
+    "YPO1222"
+   ],
+   "R_PRATPP": [
+    "YPO1542"
+   ],
+   "R_14GLUCANtexi": [
+    "YPO3711"
+   ],
+   "R_UDPKAAT": [
+    "YPO2422"
+   ],
+   "R_ACSERtpp": [
+    "YPO0181"
+   ],
+   "R_ACOAD6f": [
+    "YPO3244"
+   ],
+   "R_SHCHD2": [
+    "YPO0158"
+   ],
+   "R_AP5AH": [
+    "YPO0490"
+   ],
+   "R_AMPTASEPG": [
+    "YPO1414",
+    "YPO3230",
+    "YPO2889",
+    "YPO3441"
+   ],
+   "R_PAPA120": [
+    "YPO2223"
+   ],
+   "R_MCTP1App": [
+    "YPO0549",
+    "YPO0145",
+    "YPO2604",
+    "YPO3393"
+   ],
+   "R_MLTGY3pp": [
+    "YPO0452",
+    "YPO2957",
+    "YPO1025",
+    "YPO2438",
+    "YPO0954"
+   ],
+   "R_G6PDH2r": [
+    "YPO2066"
+   ],
+   "R_ASPK": [
+    "YPO3719",
+    "YPO0459",
+    "YPO0116"
+   ],
+   "R_RNTR1c": [
+    "YPO0893",
+    "YPO3455",
+    "YPO3454",
+    "YPO0088",
+    "YPO2635"
+   ],
+   "R_MG2tex": [
+    "YPO1222"
+   ],
+   "R_ACALD": [
+    "YPO2180"
+   ],
+   "R_FACOAL181t2pp": [
+    "YPO2074"
+   ],
+   "R_ASPT": [
+    "YPO0348"
+   ],
+   "R_3OAS141": [
+    "YPO2757"
+   ],
+   "R_3OAS140": [
+    "YPO2757",
+    "YPO1601"
+   ],
+   "R_CBL1abcpp": [
+    "YPO2425",
+    "YPO3385",
+    "YPO2423"
+   ],
+   "R_RMK": [
+    "YPO0330"
+   ],
+   "R_RMI": [
+    "YPO0329"
+   ],
+   "R_MTRPOX": [
+    "YPO2448"
+   ],
+   "R_GARFT": [
+    "YPO2829"
+   ],
+   "R_G3PAT180": [
+    "YPO0312"
+   ],
+   "R_ARBabcpp": [
+    "YPO2256",
+    "YPO2257",
+    "YPO2255"
+   ],
+   "R_DCYTD": [
+    "YPO1512"
+   ],
+   "R_G3PD6": [
+    "YPO3824",
+    "YPO3825"
+   ],
+   "R_AGDC": [
+    "YPO2626"
+   ],
+   "R_PSD141": [
+    "YPO0364"
+   ],
+   "R_PSD140": [
+    "YPO0364"
+   ],
+   "R_GRXR": [
+    "YPO1327",
+    "YPO0066",
+    "YPO2383"
+   ]
+  }
+ }
+}

@@ -1,0 +1,103 @@
+{
+    "metadata": [
+        [
+            11,
+            "Formicicum_model",
+            "KBaseFBA.FBAModel-14.0",
+            "2022-05-16T16:36:52+0000",
+            1,
+            "mariana_coelho98",
+            117233,
+            "mariana_coelho98:narrative_1652717245570",
+            "fede20f5471b79600c1389402b155c10",
+            325889,
+            {
+                "Genome": "117233/8/1",
+                "Name": "Formicicum_model",
+                "Number biomasses": "1",
+                "Number compartments": "2",
+                "Number compounds": "343",
+                "Number gapfills": "2",
+                "Number gapgens": "0",
+                "Number reactions": "247",
+                "Source": "KBase",
+                "Source ID": "Formicicum_model",
+                "Type": "GenomeScale"
+            }
+        ]
+    ],
+    "provenance": [
+        {
+            "copy_source_inaccessible": 0,
+            "created": "2022-05-16T16:36:51+0000",
+            "creator": "mariana_coelho98",
+            "epoch": 1652719011944,
+            "extracted_ids": {},
+            "info": [
+                11,
+                "Formicicum_model",
+                "KBaseFBA.FBAModel-14.0",
+                "2022-05-16T16:36:52+0000",
+                1,
+                "mariana_coelho98",
+                117233,
+                "mariana_coelho98:narrative_1652717245570",
+                "fede20f5471b79600c1389402b155c10",
+                325889,
+                {
+                    "Genome": "117233/8/1",
+                    "Name": "Formicicum_model",
+                    "Number biomasses": "1",
+                    "Number compartments": "2",
+                    "Number compounds": "343",
+                    "Number gapfills": "2",
+                    "Number gapgens": "0",
+                    "Number reactions": "247",
+                    "Source": "KBase",
+                    "Source ID": "Formicicum_model",
+                    "Type": "GenomeScale"
+                }
+            ],
+            "orig_wsid": 117233,
+            "path": [
+                "117233/11/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "method": "build_metabolic_model",
+                    "method_params": [
+                        {
+                            "accept_charge_imbalanced": 0,
+                            "accept_mass_imbalanced": 0,
+                            "classic": 0,
+                            "custom_bound_list": [],
+                            "fbamodel_output_id": "Formicicum_model",
+                            "gapfill_model": 1,
+                            "genome_id": "117233/8/1",
+                            "media_id": null,
+                            "media_supplement_list": "",
+                            "merge_all_annotations": 0,
+                            "minimum_target_flux": 0.1,
+                            "source_ontology_list": "",
+                            "template_id": "auto",
+                            "use_annotated_functions": 1,
+                            "use_nontemplate_reactions": 0,
+                            "workspace": "mariana_coelho98:narrative_1652717245570"
+                        }
+                    ],
+                    "resolved_ws_objects": [],
+                    "service": "fba_tools",
+                    "subactions": []
+                }
+            ],
+            "refs": [
+                "262/535/3",
+                "117233/8/1",
+                "262/34/1"
+            ]
+        }
+    ]
+}

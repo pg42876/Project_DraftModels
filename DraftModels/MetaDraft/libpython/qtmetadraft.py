@@ -61,7 +61,7 @@ try:
 except ImportError:
     HAVE_DOCX = False
 
-metadraft_version = '0.9.6'
+metadraft_version = '0.9.4'
 
 HAVE_QT4 = False
 HAVE_QT5 = False
@@ -249,7 +249,7 @@ class StreamToLogger(object):
 
 
 ## Developer mode options
-DEBUG_MODE = True
+DEBUG_MODE = False
 DEL_BLAST_TMP = True
 
 
@@ -3361,12 +3361,11 @@ the template library submodule has been initialised (see readme.md) and correctl
 
         if True:
             TSTART = time.time()
-            # print(os_call)
             try:
                 if os.sys.platform in ['win32', 'windows'] or os.name == 'nt':
                     subprocess.STARTF_USESHOWWINDOW = subprocess.SW_HIDE
                 out = subprocess.check_call(
-                    os_call, stderr=subprocess.STDOUT, shell=True
+                    os_call, stderr=subprocess.STDOUT, shell=False
                 )
             except subprocess.CalledProcessError as err:
                 out = err.returncode

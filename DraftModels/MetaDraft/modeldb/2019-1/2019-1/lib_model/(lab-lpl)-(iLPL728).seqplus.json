@@ -1,0 +1,5262 @@
+{
+ "lab-lpl": {
+  "data_path": "e:\\cloud\\Dropbox\\projects\\sebastian_metadraft_templates\\metadraft_templates\\metadraft_template_data_2019-1\\data\\lab",
+  "genbank_in": "iLPL728.gb",
+  "gene2reaction": {
+   "lp_0263": [
+    "R_TRE6PH"
+   ],
+   "lp_0264": [
+    "R_TREpts"
+   ],
+   "lp_3567": [
+    "R_AMANK"
+   ],
+   "lp_0267": [
+    "R_G3PCT"
+   ],
+   "lp_0268": [
+    "R_CGPT"
+   ],
+   "lp_0269": [
+    "R_CGPT"
+   ],
+   "lp_3568": [
+    "R_ACNML"
+   ],
+   "lp_1479": [
+    "R_MPTS_LPL",
+    "R_MOADCST",
+    "R_THZPSN2"
+   ],
+   "lp_0852": [
+    "R_PYROX_1"
+   ],
+   "lp_0498": [
+    "R_FUCt",
+    "R_DRIBt2"
+   ],
+   "lp_2219": [
+    "R_PGL"
+   ],
+   "lp_0854": [
+    "R_ACCOAC"
+   ],
+   "lp_2600": [
+    "R_F6PA"
+   ],
+   "lp_2213": [
+    "R_ILEt2r",
+    "R_LEUt2r",
+    "R_VALt2r"
+   ],
+   "lp_3204": [
+    "R_THMDt2"
+   ],
+   "lp_2598": [
+    "R_PFL"
+   ],
+   "lp_2591": [
+    "R_INSH",
+    "R_GNNUC",
+    "R_XTSNH",
+    "R_ADNUC"
+   ],
+   "lp_2596": [
+    "R_PFL"
+   ],
+   "lp_0467": [
+    "R_UAGDP",
+    "R_G1PACT"
+   ],
+   "lp_2697": [
+    "R_ORPT"
+   ],
+   "lp_2776": [
+    "R_SERD_D"
+   ],
+   "lp_0460": [
+    "R_CDPMEK"
+   ],
+   "lp_2699": [
+    "R_DHORD6"
+   ],
+   "lp_0546": [
+    "R_GUAPRT",
+    "R_HXPRT"
+   ],
+   "lp_1222": [
+    "R_CPSS_LPL",
+    "R_CPSS_LPL2"
+   ],
+   "lp_1221": [
+    "R_CPSS_LPL",
+    "R_CPSS_LPL2"
+   ],
+   "lp_1220": [
+    "R_CPSS_LPL",
+    "R_CPSS_LPL2"
+   ],
+   "lp_1227": [
+    "R_CPSS_LPL",
+    "R_CPSS_LPL2"
+   ],
+   "lp_1226": [
+    "R_CPSS_LPL",
+    "R_CPSS_LPL2"
+   ],
+   "lp_1225": [
+    "R_CPSS_LPL",
+    "R_CPSS_LPL2"
+   ],
+   "lp_1224": [
+    "R_CPSS_LPL",
+    "R_CPSS_LPL2"
+   ],
+   "lp_1141": [
+    "R_AIRCr"
+   ],
+   "lp_1147": [
+    "R_GLNTAL"
+   ],
+   "lp_3517": [
+    "R_CYSTGL",
+    "R_CYSTL"
+   ],
+   "lp_2736": [
+    "R_HCO3E"
+   ],
+   "lp_0318": [
+    "R_PTRCabc",
+    "R_SPMDabc"
+   ],
+   "lp_0315": [
+    "R_PTRCabc",
+    "R_SPMDabc"
+   ],
+   "lp_0316": [
+    "R_PTRCabc",
+    "R_SPMDabc"
+   ],
+   "lp_0317": [
+    "R_PTRCabc",
+    "R_SPMDabc"
+   ],
+   "lp_0310": [
+    "R_ACKr"
+   ],
+   "lp_0313": [
+    "R_NADH4"
+   ],
+   "lp_1987": [
+    "R_GTPDPK"
+   ],
+   "lp_2322": [
+    "R_VALTRS_1"
+   ],
+   "lp_2321": [
+    "R_THFGLUS",
+    "R_DHFS"
+   ],
+   "lp_2326": [
+    "R_MOADCST"
+   ],
+   "lp_2325": [
+    "R_MOADCST"
+   ],
+   "lp_2324": [
+    "R_GLUCYS"
+   ],
+   "lp_0790": [
+    "R_PGK"
+   ],
+   "lp_0791": [
+    "R_TPI"
+   ],
+   "lp_0792": [
+    "R_ENO"
+   ],
+   "lp_0850": [
+    "R_FMNAT",
+    "R_RBFK"
+   ],
+   "lp_1681": [
+    "R_DEMAT4",
+    "R_HDMAT7",
+    "R_HEMAT2",
+    "R_OCMAT3",
+    "R_DDMAT5",
+    "R_BTMAT1",
+    "R_TDMAT6",
+    "R_OCDMAT8"
+   ],
+   "lp_1680": [
+    "R_ACCOAC"
+   ],
+   "lp_1139": [
+    "R_XPPT"
+   ],
+   "lp_1523": [
+    "R_ASPR"
+   ],
+   "lp_2037": [
+    "R_CHORS"
+   ],
+   "lp_2035": [
+    "R_PSCVT"
+   ],
+   "lp_2034": [
+    "R_PPND"
+   ],
+   "lp_2033": [
+    "R_SHKK"
+   ],
+   "lp_2032": [
+    "R_YUMPS"
+   ],
+   "lp_2031": [
+    "R_FMNAT",
+    "R_RBFK"
+   ],
+   "lp_2030": [
+    "R_ACLDC"
+   ],
+   "lp_2136": [
+    "R_PC"
+   ],
+   "lp_0497": [
+    "R_DRPA"
+   ],
+   "lp_2133": [
+    "R_PTPATi"
+   ],
+   "lp_0977": [
+    "R_UAAGDS"
+   ],
+   "lp_2384": [
+    "R_MAN6PI"
+   ],
+   "lp_0979": [
+    "R_ASPK"
+   ],
+   "lp_2818": [
+    "R_GLUt2r"
+   ],
+   "lp_3420": [
+    "R_GLUDC"
+   ],
+   "lp_1350": [
+    "R_NOX2",
+    "R_NOX"
+   ],
+   "lp_1898": [
+    "R_PFK"
+   ],
+   "lp_1897": [
+    "R_PYK"
+   ],
+   "lp_0518": [
+    "R_UGMDDS2_LPL"
+   ],
+   "lp_1280": [
+    "R_TYRTA",
+    "R_TRPTA",
+    "R_PHETA1"
+   ],
+   "lp_3637": [
+    "R_HEX7"
+   ],
+   "lp_2251": [
+    "R_DRBK",
+    "R_RBK"
+   ],
+   "lp_0109": [
+    "R_LacR"
+   ],
+   "lp_0105": [
+    "R_LacR"
+   ],
+   "lp_0104": [
+    "R_LacR"
+   ],
+   "lp_2390": [
+    "R_VALTA",
+    "R_ILETA",
+    "R_LEUTA"
+   ],
+   "lp_0454": [
+    "R_METTRS_1"
+   ],
+   "lp_2558": [
+    "R_IGPDH_1",
+    "R_HISTP"
+   ],
+   "lp_2559": [
+    "R_HISTD"
+   ],
+   "lp_0027": [
+    "R_PGMT_B"
+   ],
+   "lp_2554": [
+    "R_IG3PS_1"
+   ],
+   "lp_2556": [
+    "R_PRMICI"
+   ],
+   "lp_2557": [
+    "R_IG3PS_1"
+   ],
+   "lp_2550": [
+    "R_MALTATr"
+   ],
+   "lp_2498": [
+    "R_GLTAL"
+   ],
+   "lp_2552": [
+    "R_PRATPP"
+   ],
+   "lp_2553": [
+    "R_PRAMPC_1"
+   ],
+   "lp_0471": [
+    "R_PRPPS"
+   ],
+   "lp_1822": [
+    "R_GTHOr"
+   ],
+   "lp_0020": [
+    "R_GLCS1"
+   ],
+   "lp_1779": [
+    "R_FTHFLi"
+   ],
+   "lp_0748": [
+    "R_PIabc"
+   ],
+   "lp_0602": [
+    "R_RPI"
+   ],
+   "lp_0354": [
+    "R_RPI"
+   ],
+   "lp_0604": [
+    "R_DUTPDP"
+   ],
+   "lp_0609": [
+    "R_GLUTRS_2"
+   ],
+   "lp_2778": [
+    "R_BGLA1"
+   ],
+   "lp_2673": [
+    "R_RNTR3",
+    "R_RNTR2",
+    "R_RNTR4",
+    "R_RNTR1"
+   ],
+   "lp_3251": [
+    "R_PDE4",
+    "R_PDE2",
+    "R_PDE3",
+    "R_PDE1",
+    "R_PDE5"
+   ],
+   "lp_1499": [
+    "R_NTRARy",
+    "R_NITR"
+   ],
+   "lp_3553": [
+    "R_MALTATr"
+   ],
+   "lp_0210": [
+    "R_ACKr"
+   ],
+   "lp_3551": [
+    "R_PKETX"
+   ],
+   "lp_3557": [
+    "R_ARAB_Lt"
+   ],
+   "lp_3556": [
+    "R_RBLK2",
+    "R_RBK_L1"
+   ],
+   "lp_3555": [
+    "R_RBP4E"
+   ],
+   "lp_2777": [
+    "R_BGLA1"
+   ],
+   "lp_2698": [
+    "R_OMPDC"
+   ],
+   "lp_0807": [
+    "R_PTAr"
+   ],
+   "lp_0802": [
+    "R_GLNabc"
+   ],
+   "lp_0803": [
+    "R_GLNabc"
+   ],
+   "lp_0510": [
+    "R_UAGCVT"
+   ],
+   "lp_0696": [
+    "R_ADA",
+    "R_CSND"
+   ],
+   "lp_2086": [
+    "R_ADPT"
+   ],
+   "lp_0690": [
+    "R_LPGS_LPL"
+   ],
+   "lp_0693": [
+    "R_RNDR1",
+    "R_RNDR2",
+    "R_RNDR3",
+    "R_RNDR4"
+   ],
+   "lp_0692": [
+    "R_RNDR1",
+    "R_RNDR2",
+    "R_RNDR3",
+    "R_RNDR4"
+   ],
+   "lp_1173": [
+    "R_UAG2E"
+   ],
+   "lp_1177": [
+    "R_CPSS_LPL",
+    "R_CPSS_LPL2"
+   ],
+   "lp_0070": [
+    "R_HPA3MO"
+   ],
+   "lp_1175": [
+    "R_GLYCt"
+   ],
+   "lp_1072": [
+    "R_AHMMPS_1"
+   ],
+   "lp_1179": [
+    "R_CPSS_LPL",
+    "R_CPSS_LPL2"
+   ],
+   "lp_1178": [
+    "R_CPSS_LPL",
+    "R_CPSS_LPL2"
+   ],
+   "lp_1076": [
+    "R_YUMPS"
+   ],
+   "lp_1148": [
+    "R_GLNTAL"
+   ],
+   "lp_0776": [
+    "R_ARGSL"
+   ],
+   "lp_2170": [
+    "R_PGM"
+   ],
+   "lp_1149": [
+    "R_GLNTAL"
+   ],
+   "lp_1274": [
+    "R_CELBpts",
+    "R_GLCpts",
+    "R_ACGALpts",
+    "R_DHAPT",
+    "R_TREpts",
+    "R_GALTpts",
+    "R_FRUpts",
+    "R_ACGApts",
+    "R_MANpts",
+    "R_SUCpts",
+    "R_SBTpts",
+    "R_MNLpts"
+   ],
+   "lp_1275": [
+    "R_DAGGT_LPL"
+   ],
+   "lp_1276": [
+    "R_DAGGT_LPL"
+   ],
+   "lp_0775": [
+    "R_ARGSS"
+   ],
+   "lp_1273": [
+    "R_CELBpts",
+    "R_GLCpts",
+    "R_ACGALpts",
+    "R_DHAPT",
+    "R_TREpts",
+    "R_GALTpts",
+    "R_FRUpts",
+    "R_ACGApts",
+    "R_MANpts",
+    "R_SUCpts",
+    "R_SBTpts",
+    "R_MNLpts"
+   ],
+   "lp_2374": [
+    "R_UPPRT"
+   ],
+   "lp_2375": [
+    "R_GHMT2r"
+   ],
+   "lp_2179": [
+    "R_MOADCST"
+   ],
+   "lp_2370": [
+    "R_ATPS3r"
+   ],
+   "lp_2371": [
+    "R_URAt2"
+   ],
+   "lp_2077": [
+    "R_NO3abc"
+   ],
+   "lp_2076": [
+    "R_NO3abc"
+   ],
+   "lp_1670": [
+    "R_HBUHL1",
+    "R_HDDHL5",
+    "R_HHYHL2",
+    "R_HOCHL3",
+    "R_HODHL8",
+    "R_HDEHL4",
+    "R_HTDHL6",
+    "R_HHDHL7"
+   ],
+   "lp_1671": [
+    "R_kaasIII"
+   ],
+   "lp_1672": [
+    "R_ACPS2"
+   ],
+   "lp_1673": [
+    "R_MACPMT"
+   ],
+   "lp_1674": [
+    "R_HDDR5",
+    "R_HHDR7",
+    "R_HTDR6",
+    "R_HODR8",
+    "R_HOCR3",
+    "R_HDER4",
+    "R_HHYR2",
+    "R_HBUR1"
+   ],
+   "lp_1675": [
+    "R_MCMAT8",
+    "R_MCMAT7",
+    "R_MCMAT4",
+    "R_MCMAT6",
+    "R_MCMAT5",
+    "R_MCMAT3",
+    "R_MCMAT2"
+   ],
+   "lp_1676": [
+    "R_ACCOAC"
+   ],
+   "lp_1677": [
+    "R_HBUHL1",
+    "R_HDDHL5",
+    "R_HHYHL2",
+    "R_HOCHL3",
+    "R_HODHL8",
+    "R_HDEHL4",
+    "R_HTDHL6",
+    "R_HHDHL7"
+   ],
+   "lp_1678": [
+    "R_ACCOAC"
+   ],
+   "lp_1679": [
+    "R_ACCOAC"
+   ],
+   "lp_3170": [
+    "R_PGM"
+   ],
+   "lp_3174": [
+    "R_CFAS180"
+   ],
+   "lp_1391": [
+    "R_ARGTRS_1"
+   ],
+   "lp_1554": [
+    "R_ACYP_2"
+   ],
+   "lp_1008": [
+    "R_LYSt2r"
+   ],
+   "lp_1559": [
+    "R_PHETRS_1"
+   ],
+   "lp_1558": [
+    "R_PHETRS_1"
+   ],
+   "lp_1005": [
+    "R_ACHBS",
+    "R_ACLS"
+   ],
+   "lp_1413": [
+    "R_PGGT4"
+   ],
+   "lp_2107": [
+    "R_CPSS_LPL",
+    "R_CPSS_LPL2"
+   ],
+   "lp_2106": [
+    "R_CPSS_LPL",
+    "R_CPSS_LPL2"
+   ],
+   "lp_2105": [
+    "R_UDPG4E"
+   ],
+   "lp_2104": [
+    "R_CPSS_LPL",
+    "R_CPSS_LPL2"
+   ],
+   "lp_2103": [
+    "R_CPSS_LPL",
+    "R_CPSS_LPL2"
+   ],
+   "lp_2102": [
+    "R_CPSS_LPL",
+    "R_CPSS_LPL2"
+   ],
+   "lp_2101": [
+    "R_CPSS_LPL",
+    "R_CPSS_LPL2"
+   ],
+   "lp_2100": [
+    "R_CPSS_LPL",
+    "R_CPSS_LPL2"
+   ],
+   "lp_2108": [
+    "R_CPSS_LPL",
+    "R_CPSS_LPL2"
+   ],
+   "lp_1481": [
+    "R_NO2t3"
+   ],
+   "lp_1480": [
+    "R_PZS"
+   ],
+   "lp_2379": [
+    "R_TMDK1",
+    "R_DURIK1",
+    "R_TMDK2"
+   ],
+   "lp_1301": [
+    "R_METAT"
+   ],
+   "lp_0265": [
+    "R_TREpts"
+   ],
+   "lp_2048": [
+    "R_PROTRS_1"
+   ],
+   "lp_1095": [
+    "R_MNabc"
+   ],
+   "lp_1096": [
+    "R_MNabc"
+   ],
+   "lp_1097": [
+    "R_MNabc"
+   ],
+   "lp_1090": [
+    "R_TARTD"
+   ],
+   "lp_1216": [
+    "R_CPSS_LPL",
+    "R_CPSS_LPL2"
+   ],
+   "lp_1093": [
+    "R_CITL"
+   ],
+   "lp_2738": [
+    "R_ASNN"
+   ],
+   "lp_1869": [
+    "R_DHFR"
+   ],
+   "lp_2629": [
+    "R_PYROX_1"
+   ],
+   "lp_2855": [
+    "R_SDPDS"
+   ],
+   "lp_2852": [
+    "R_CMLDC"
+   ],
+   "lp_2634": [
+    "R_METB1"
+   ],
+   "lp_0529": [
+    "R_ORNTAC"
+   ],
+   "lp_0528": [
+    "R_AGPR"
+   ],
+   "lp_0255": [
+    "R_CYSTGL",
+    "R_CYSTL"
+   ],
+   "lp_0254": [
+    "R_SERAT"
+   ],
+   "lp_3595": [
+    "R_RMK"
+   ],
+   "lp_0256": [
+    "R_CYSS"
+   ],
+   "lp_3593": [
+    "R_RMI"
+   ],
+   "lp_0522": [
+    "R_ACPS2"
+   ],
+   "lp_0253": [
+    "R_DDGLK"
+   ],
+   "lp_0488": [
+    "R_ACGK",
+    "R_ACODA"
+   ],
+   "lp_3219": [
+    "R_SUCpts"
+   ],
+   "lp_0842": [
+    "R_PPK2"
+   ],
+   "lp_0843": [
+    "R_EPPP"
+   ],
+   "lp_3608": [
+    "R_INS2D"
+   ],
+   "lp_0848": [
+    "R_HXANt2r",
+    "R_GUAt2r"
+   ],
+   "lp_0481": [
+    "R_CTPS1",
+    "R_CTPS2"
+   ],
+   "lp_3605": [
+    "R_INS2D"
+   ],
+   "lp_2200": [
+    "R_PGGT4"
+   ],
+   "lp_3601": [
+    "R_GALTpts"
+   ],
+   "lp_0487": [
+    "R_AGPR"
+   ],
+   "lp_2099": [
+    "R_CPSS_LPL",
+    "R_CPSS_LPL2"
+   ],
+   "lp_2313": [
+    "R_GLNabc"
+   ],
+   "lp_2681": [
+    "R_G6PDH2r"
+   ],
+   "lp_2684": [
+    "R_TYRTA",
+    "R_TRPTA",
+    "R_PHETA1"
+   ],
+   "lp_2685": [
+    "R_DHDPS"
+   ],
+   "lp_0550": [
+    "R_LYSTRS_1"
+   ],
+   "lp_1609": [
+    "R_GLYBabc",
+    "R_CHLabc"
+   ],
+   "lp_1608": [
+    "R_GLYBabc",
+    "R_CHLabc"
+   ],
+   "lp_0730": [
+    "R_ACGAMT"
+   ],
+   "lp_1602": [
+    "R_DMATT",
+    "R_GRTT"
+   ],
+   "lp_1607": [
+    "R_GLYBabc",
+    "R_CHLabc"
+   ],
+   "lp_0329": [
+    "R_ACALD"
+   ],
+   "lp_2700": [
+    "R_CBPS"
+   ],
+   "lp_2703": [
+    "R_ASPCT"
+   ],
+   "lp_2702": [
+    "R_DHORTS"
+   ],
+   "lp_2762": [
+    "R_ADPRDP"
+   ],
+   "lp_0226": [
+    "R_G6PDA"
+   ],
+   "lp_2199": [
+    "R_PAPPT5"
+   ],
+   "lp_0220": [
+    "R_GTHPi"
+   ],
+   "lp_2336": [
+    "R_GLUCYS",
+    "R_GTHS"
+   ],
+   "lp_1739": [
+    "R_TYRTA",
+    "R_PHETA1",
+    "R_ASPTA",
+    "R_ASPTA4",
+    "R_ASPTA2"
+   ],
+   "lp_2097": [
+    "R_FRUpts"
+   ],
+   "lp_1735": [
+    "R_MEVK1"
+   ],
+   "lp_1734": [
+    "R_DPMVD"
+   ],
+   "lp_0591": [
+    "R_ACCOAC"
+   ],
+   "lp_1731": [
+    "R_GALM"
+   ],
+   "lp_0370": [
+    "R_GLYK"
+   ],
+   "lp_1733": [
+    "R_PMEVK"
+   ],
+   "lp_1732": [
+    "R_IPDDI"
+   ],
+   "lp_1514": [
+    "R_THRTRS_1"
+   ],
+   "lp_1510": [
+    "R_DPCOAK"
+   ],
+   "lp_2648": [
+    "R_ACGALpts"
+   ],
+   "lp_0747": [
+    "R_PIabc"
+   ],
+   "lp_0746": [
+    "R_PIabc"
+   ],
+   "lp_1128": [
+    "R_CYTB_B2"
+   ],
+   "lp_1129": [
+    "R_CYTB_B2"
+   ],
+   "lp_0028": [
+    "R_MPL"
+   ],
+   "lp_1696": [
+    "R_CFAS180"
+   ],
+   "lp_1125": [
+    "R_CYTB_B2"
+   ],
+   "lp_1126": [
+    "R_CYTB_B2"
+   ],
+   "lp_0025": [
+    "R_GLCP"
+   ],
+   "lp_0022": [
+    "R_GLGC"
+   ],
+   "lp_0023": [
+    "R_GLCS1"
+   ],
+   "lp_0749": [
+    "R_PIabc"
+   ],
+   "lp_0021": [
+    "R_GLGC"
+   ],
+   "lp_0863": [
+    "R_PYDAMK",
+    "R_PYDXK2"
+   ],
+   "lp_2147": [
+    "R_MI1PP"
+   ],
+   "lp_0822": [
+    "R_GF6PTA"
+   ],
+   "lp_3009": [
+    "R_CELBpts"
+   ],
+   "lp_3008": [
+    "R_CELBpts"
+   ],
+   "lp_3436": [
+    "R_GLYCt"
+   ],
+   "lp_1462": [
+    "R_UAMAS"
+   ],
+   "lp_0175": [
+    "R_MALTabc"
+   ],
+   "lp_1346": [
+    "R_ASAD"
+   ],
+   "lp_3589": [
+    "R_PYROX_1"
+   ],
+   "lp_1190": [
+    "R_TDPDRR"
+   ],
+   "lp_1941": [
+    "R_NOX2",
+    "R_NOX"
+   ],
+   "lp_1197": [
+    "R_CPSS_LPL",
+    "R_CPSS_LPL2"
+   ],
+   "lp_1199": [
+    "R_CPSS_LPL",
+    "R_CPSS_LPL2"
+   ],
+   "lp_1198": [
+    "R_CPSS_LPL",
+    "R_CPSS_LPL2"
+   ],
+   "lp_0980": [
+    "R_ASNS1"
+   ],
+   "lp_0242": [
+    "R_NDPK3",
+    "R_NDPK4",
+    "R_NDPK9",
+    "R_NDPK1",
+    "R_NDPK7",
+    "R_NDPK8",
+    "R_NDPK5",
+    "R_NDPK6",
+    "R_NDPK2"
+   ],
+   "lp_0733": [
+    "R_PIabc"
+   ],
+   "lp_3271": [
+    "R_GMPR"
+   ],
+   "lp_3220": [
+    "R_SUCR"
+   ],
+   "lp_3314": [
+    "R_PFL"
+   ],
+   "lp_2242": [
+    "R_ACKr"
+   ],
+   "lp_3587": [
+    "R_PYROX_1"
+   ],
+   "lp_3313": [
+    "R_PFL"
+   ],
+   "lp_2785": [
+    "R_PGM"
+   ],
+   "lp_0446": [
+    "R_EPPP"
+   ],
+   "lp_0447": [
+    "R_HMGCOAR"
+   ],
+   "lp_0440": [
+    "R_BGLA1"
+   ],
+   "lp_0114": [
+    "R_PMPK",
+    "R_HMPK1"
+   ],
+   "lp_0115": [
+    "R_TMPPP"
+   ],
+   "lp_3485": [
+    "R_RAFGH",
+    "R_GALS3"
+   ],
+   "lp_3135": [
+    "R_TKT1",
+    "R_TKT2"
+   ],
+   "lp_3487": [
+    "R_GALM"
+   ],
+   "lp_3486": [
+    "R_MELIBt2",
+    "R_LCTSt"
+   ],
+   "lp_3481": [
+    "R_UDPG4E"
+   ],
+   "lp_3480": [
+    "R_GALT"
+   ],
+   "lp_3483": [
+    "R_LACZ"
+   ],
+   "lp_3482": [
+    "R_GALK2"
+   ],
+   "lp_2561": [
+    "R_HISTRS_1"
+   ],
+   "lp_2560": [
+    "R_ATPPRT"
+   ],
+   "lp_2563": [
+    "R_HISTP"
+   ],
+   "lp_3092": [
+    "R_SSALy",
+    "R_SSALx"
+   ],
+   "lp_2610": [
+    "R_DXPS"
+   ],
+   "lp_2807": [
+    "R_TYRTRS_1"
+   ],
+   "lp_2969": [
+    "R_ACGApts"
+   ],
+   "lp_1932": [
+    "R_PGLYCP"
+   ],
+   "lp_1837": [
+    "R_PPA"
+   ],
+   "lp_3619": [
+    "R_SBTpts"
+   ],
+   "lp_3554": [
+    "R_ARAI"
+   ],
+   "lp_2747": [
+    "R_GRTAL"
+   ],
+   "lp_0205": [
+    "R_PGM"
+   ],
+   "lp_0369": [
+    "R_GTHOr"
+   ],
+   "lp_0203": [
+    "R_PGCD"
+   ],
+   "lp_1107": [
+    "R_CITL"
+   ],
+   "lp_0367": [
+    "R_GLYBabc",
+    "R_CHLabc"
+   ],
+   "lp_0363": [
+    "R_INSH",
+    "R_GNNUC",
+    "R_XTSNH",
+    "R_ADNUC"
+   ],
+   "lp_0362": [
+    "R_ACCOAC"
+   ],
+   "lp_3548": [
+    "R_GALTpts"
+   ],
+   "lp_2985": [
+    "R_LEUabc",
+    "R_VALabc",
+    "R_ILEabc"
+   ],
+   "lp_2984": [
+    "R_LEUabc",
+    "R_VALabc",
+    "R_ILEabc"
+   ],
+   "lp_2983": [
+    "R_LEUabc",
+    "R_VALabc",
+    "R_ILEabc"
+   ],
+   "lp_2982": [
+    "R_LEUabc",
+    "R_VALabc",
+    "R_ILEabc"
+   ],
+   "lp_2981": [
+    "R_LEUabc",
+    "R_VALabc",
+    "R_ILEabc"
+   ],
+   "lp_0168": [
+    "R_DHAPT"
+   ],
+   "lp_3269": [
+    "R_ADSL1r",
+    "R_ADSL2r"
+   ],
+   "lp_0166": [
+    "R_DHAPT"
+   ],
+   "lp_3544": [
+    "R_PGLYCP"
+   ],
+   "lp_3545": [
+    "R_SBTD",
+    "R_SBTD_L",
+    "R_SBTD_D2"
+   ],
+   "lp_2989": [
+    "R_GRTAL"
+   ],
+   "lp_3547": [
+    "R_GALTpts"
+   ],
+   "lp_1134": [
+    "R_UDCPDPS"
+   ],
+   "lp_0834": [
+    "R_GLYK"
+   ],
+   "lp_0562": [
+    "R_AGDC"
+   ],
+   "lp_0561": [
+    "R_P5CR"
+   ],
+   "lp_0566": [
+    "R_NADS1"
+   ],
+   "lp_0565": [
+    "R_NAPRT"
+   ],
+   "lp_0113": [
+    "R_HETZK"
+   ],
+   "lp_0066": [
+    "R_PGMT_B"
+   ],
+   "lp_1169": [
+    "R_GLUDy"
+   ],
+   "lp_1657": [
+    "R_TRPS1"
+   ],
+   "lp_1249": [
+    "R_GLCNt2r"
+   ],
+   "lp_1248": [
+    "R_G3PCT"
+   ],
+   "lp_0709": [
+    "R_UDPG4E"
+   ],
+   "lp_2187": [
+    "R_ILETRS_1"
+   ],
+   "lp_2185": [
+    "R_DAPE"
+   ],
+   "lp_1790": [
+    "R_ADPRDP"
+   ],
+   "lp_1245": [
+    "R_2HXICDH"
+   ],
+   "lp_2181": [
+    "R_AHCYSNS",
+    "R_MTAN"
+   ],
+   "lp_2180": [
+    "R_MOADCST"
+   ],
+   "lp_0901": [
+    "R_PGM"
+   ],
+   "lp_0900": [
+    "R_PGM"
+   ],
+   "lp_3484": [
+    "R_LACZ"
+   ],
+   "lp_2349": [
+    "R_2HXICDH"
+   ],
+   "lp_2067": [
+    "R_HMGCOAS"
+   ],
+   "lp_2344": [
+    "R_GPDDA4",
+    "R_GPDDA2",
+    "R_GPDDA5",
+    "R_GPDDA3",
+    "R_GPDDA1"
+   ],
+   "lp_1425": [
+    "R_SUCD3BC"
+   ],
+   "lp_3522": [
+    "R_GLCpts",
+    "R_SUCpts"
+   ],
+   "lp_0527": [
+    "R_CBPS"
+   ],
+   "lp_1385": [
+    "R_SO4NA1t"
+   ],
+   "lp_0017": [
+    "R_G5SD"
+   ],
+   "lp_0016": [
+    "R_GLU5K"
+   ],
+   "lp_1982": [
+    "R_AMAA"
+   ],
+   "lp_3606": [
+    "R_INS2D"
+   ],
+   "lp_1980": [
+    "R_ASPTRS_1"
+   ],
+   "lp_1981": [
+    "R_HISTRS_1"
+   ],
+   "lp_1011": [
+    "R_DADNK",
+    "R_DINSK",
+    "R_DGNSK"
+   ],
+   "lp_1012": [
+    "R_SERTRS_1"
+   ],
+   "lp_1541": [
+    "R_GND"
+   ],
+   "lp_2110": [
+    "R_GLNabc"
+   ],
+   "lp_2111": [
+    "R_GLNabc"
+   ],
+   "lp_0526": [
+    "R_CBPS"
+   ],
+   "lp_1491": [
+    "R_MGDS"
+   ],
+   "lp_1492": [
+    "R_PZS"
+   ],
+   "lp_1493": [
+    "R_MGDS"
+   ],
+   "lp_1494": [
+    "R_MOCOS_LPL"
+   ],
+   "lp_1495": [
+    "R_PZS"
+   ],
+   "lp_1496": [
+    "R_MOADCST"
+   ],
+   "lp_1497": [
+    "R_NTRARy",
+    "R_NITR"
+   ],
+   "lp_1498": [
+    "R_NTRARy",
+    "R_NITR"
+   ],
+   "lp_2932": [
+    "R_RNTR3",
+    "R_RNTR2",
+    "R_RNTR4",
+    "R_RNTR1"
+   ],
+   "lp_0703": [
+    "R_DTMPK"
+   ],
+   "lp_0291": [
+    "R_LOXD"
+   ],
+   "lp_3520": [
+    "R_GLCpts",
+    "R_SUCpts"
+   ],
+   "lp_2868": [
+    "R_PGM"
+   ],
+   "lp_0293": [
+    "R_GTPDPK"
+   ],
+   "lp_2830": [
+    "R_ASPT"
+   ],
+   "lp_3449": [
+    "R_NOX2",
+    "R_NOX"
+   ],
+   "lp_3194": [
+    "R_IMPD"
+   ],
+   "lp_1870": [
+    "R_TMDS"
+   ],
+   "lp_1874": [
+    "R_DHDPRy"
+   ],
+   "lp_2725": [
+    "R_PRFGS_1"
+   ],
+   "lp_2843": [
+    "R_GLTAL"
+   ],
+   "lp_1977": [
+    "R_CRPT_25"
+   ],
+   "lp_2844": [
+    "R_GLTAL"
+   ],
+   "lp_2722": [
+    "R_PRAIS_1"
+   ],
+   "lp_2788": [
+    "R_DPR"
+   ],
+   "lp_2053": [
+    "R_UMPK",
+    "R_URIDK2r"
+   ],
+   "lp_0125": [
+    "R_PUNP6",
+    "R_PUNP1",
+    "R_PUNP5",
+    "R_PUNP2",
+    "R_PUNP4",
+    "R_DURIPP",
+    "R_PUNP7",
+    "R_PUNP3"
+   ],
+   "lp_2781": [
+    "R_CELBpts"
+   ],
+   "lp_2780": [
+    "R_CELBpts"
+   ],
+   "lp_3586": [
+    "R_LOXL"
+   ],
+   "lp_0537": [
+    "R_LDH_L"
+   ],
+   "lp_0530": [
+    "R_ACGK"
+   ],
+   "lp_0531": [
+    "R_ACOTA"
+   ],
+   "lp_0532": [
+    "R_OCBT"
+   ],
+   "lp_3618": [
+    "R_SBTpts"
+   ],
+   "lp_0878": [
+    "R_GLNabc"
+   ],
+   "lp_0711": [
+    "R_PALDH"
+   ],
+   "lp_3615": [
+    "R_URIH"
+   ],
+   "lp_3617": [
+    "R_F6PA"
+   ],
+   "lp_0712": [
+    "R_AEPabc"
+   ],
+   "lp_3612": [
+    "R_INS2D"
+   ],
+   "lp_0872": [
+    "R_PGLYCP"
+   ],
+   "lp_0713": [
+    "R_AEPabc"
+   ],
+   "lp_0715": [
+    "R_AEPabc"
+   ],
+   "lp_2936": [
+    "R_AHMMPS_1"
+   ],
+   "lp_2935": [
+    "R_FMETDF"
+   ],
+   "lp_3294": [
+    "R_FOLD3"
+   ],
+   "lp_3295": [
+    "R_DNTPPA_1"
+   ],
+   "lp_3296": [
+    "R_THFGLUS",
+    "R_DHFS"
+   ],
+   "lp_3297": [
+    "R_GTPCI"
+   ],
+   "lp_3298": [
+    "R_HPPK"
+   ],
+   "lp_3299": [
+    "R_DHNPA_1"
+   ],
+   "lp_0337": [
+    "R_ACCOAC"
+   ],
+   "lp_0882": [
+    "R_GLNabc"
+   ],
+   "lp_0330": [
+    "R_FBA"
+   ],
+   "lp_1205": [
+    "R_CPSS_LPL",
+    "R_CPSS_LPL2"
+   ],
+   "lp_1204": [
+    "R_CPSS_LPL",
+    "R_CPSS_LPL2"
+   ],
+   "lp_1206": [
+    "R_CPSS_LPL",
+    "R_CPSS_LPL2"
+   ],
+   "lp_1201": [
+    "R_CPSS_LPL",
+    "R_CPSS_LPL2"
+   ],
+   "lp_1200": [
+    "R_UDPG4E"
+   ],
+   "lp_1203": [
+    "R_CPSS_LPL",
+    "R_CPSS_LPL2"
+   ],
+   "lp_1202": [
+    "R_CPSS_LPL",
+    "R_CPSS_LPL2"
+   ],
+   "lp_3530": [
+    "R_MPL"
+   ],
+   "lp_2653": [
+    "R_YUMPS"
+   ],
+   "lp_1751": [
+    "R_PGGT4"
+   ],
+   "lp_2303": [
+    "R_PGSA_LPL"
+   ],
+   "lp_2650": [
+    "R_ACGALpts"
+   ],
+   "lp_0589": [
+    "R_ACCOAC"
+   ],
+   "lp_0588": [
+    "R_kaasIII"
+   ],
+   "lp_0339": [
+    "R_SDPTA"
+   ],
+   "lp_0233": [
+    "R_M1PD"
+   ],
+   "lp_2308": [
+    "R_ASPK"
+   ],
+   "lp_2659": [
+    "R_PKETX"
+   ],
+   "lp_0230": [
+    "R_MNLpts"
+   ],
+   "lp_1729": [
+    "R_MALTt2"
+   ],
+   "lp_1721": [
+    "R_ABTA"
+   ],
+   "lp_1500": [
+    "R_NTRARy",
+    "R_NITR"
+   ],
+   "lp_0587": [
+    "R_MANpts"
+   ],
+   "lp_1058": [
+    "R_ADK2",
+    "R_ADK1"
+   ],
+   "lp_0586": [
+    "R_MANpts"
+   ],
+   "lp_0204": [
+    "R_PSERT"
+   ],
+   "lp_1119": [
+    "R_MALt2r"
+   ],
+   "lp_1118": [
+    "R_MALLAC"
+   ],
+   "lp_0756": [
+    "R_G3PD1ir"
+   ],
+   "lp_0757": [
+    "R_GALUi"
+   ],
+   "lp_0750": [
+    "R_PIabc"
+   ],
+   "lp_0751": [
+    "R_PIabc"
+   ],
+   "lp_3538": [
+    "R_TKT1",
+    "R_TKT2"
+   ],
+   "lp_1298": [
+    "R_HCYSMT"
+   ],
+   "lp_1112": [
+    "R_FUM"
+   ],
+   "lp_1114": [
+    "R_CITL"
+   ],
+   "lp_0055": [
+    "R_SUCD3BC"
+   ],
+   "lp_0368": [
+    "R_GLYBabc",
+    "R_CHLabc"
+   ],
+   "lp_2017": [
+    "R_DARTAL",
+    "R_DALTAL"
+   ],
+   "lp_2016": [
+    "R_DARTAL",
+    "R_DALTAL"
+   ],
+   "lp_2019": [
+    "R_DARTAL",
+    "R_DALTAL"
+   ],
+   "lp_2018": [
+    "R_DARTAL",
+    "R_DALTAL"
+   ],
+   "lp_2152": [
+    "R_PDH"
+   ],
+   "lp_2153": [
+    "R_PDH"
+   ],
+   "lp_2154": [
+    "R_PDH"
+   ],
+   "lp_2155": [
+    "R_FMETDF"
+   ],
+   "lp_0232": [
+    "R_MNLpts"
+   ],
+   "lp_1614": [
+    "R_PPNCL",
+    "R_PPCDC"
+   ],
+   "lp_1612": [
+    "R_GK2",
+    "R_GK1"
+   ],
+   "lp_2710": [
+    "R_XANt2"
+   ],
+   "lp_1610": [
+    "R_GLYBabc",
+    "R_CHLabc"
+   ],
+   "lp_0956": [
+    "R_ASNTRS_1"
+   ],
+   "lp_0957": [
+    "R_ASNS2"
+   ],
+   "lp_0952": [
+    "R_SUCD3BC"
+   ],
+   "lp_1375": [
+    "R_MTHPTGHM"
+   ],
+   "lp_1374": [
+    "R_METS"
+   ],
+   "lp_1372": [
+    "R_GRTAL"
+   ],
+   "lp_3407": [
+    "R_UDCPKr"
+   ],
+   "lp_1379": [
+    "R_ADSK"
+   ],
+   "lp_1378": [
+    "R_SADT"
+   ],
+   "lp_3150": [
+    "R_MDH"
+   ],
+   "lp_1573": [
+    "R_HEX1"
+   ],
+   "lp_1478": [
+    "R_MPTS_LPL"
+   ],
+   "lp_1570": [
+    "R_FTHFCL"
+   ],
+   "lp_3273": [
+    "R_CLPNS_LPL"
+   ],
+   "lp_2312": [
+    "R_GLNabc"
+   ],
+   "lp_1578": [
+    "R_GPDDA4",
+    "R_GPDDA2",
+    "R_GPDDA5",
+    "R_GPDDA3",
+    "R_GPDDA1"
+   ],
+   "lp_1188": [
+    "R_TDPDRE"
+   ],
+   "lp_1189": [
+    "R_TDPGDH_1"
+   ],
+   "lp_1186": [
+    "R_G1PTMT"
+   ],
+   "lp_1184": [
+    "R_CPSS_LPL",
+    "R_CPSS_LPL2"
+   ],
+   "lp_1185": [
+    "R_CPSS_LPL",
+    "R_CPSS_LPL2"
+   ],
+   "lp_1182": [
+    "R_CPSS_LPL",
+    "R_CPSS_LPL2"
+   ],
+   "lp_1183": [
+    "R_CPSS_LPL",
+    "R_CPSS_LPL2"
+   ],
+   "lp_1180": [
+    "R_CPSS_LPL",
+    "R_CPSS_LPL2"
+   ],
+   "lp_1181": [
+    "R_CPSS_LPL",
+    "R_CPSS_LPL2"
+   ],
+   "lp_3652": [
+    "R_SBTpts"
+   ],
+   "lp_3653": [
+    "R_SBTpts"
+   ],
+   "lp_3654": [
+    "R_SBTpts"
+   ],
+   "lp_0169": [
+    "R_DHAPT"
+   ],
+   "lp_2570": [
+    "R_ASAD"
+   ],
+   "lp_3657": [
+    "R_SBTPD"
+   ],
+   "lp_3658": [
+    "R_RIBt2"
+   ],
+   "lp_2277": [
+    "R_ALATRS_1"
+   ],
+   "lp_3266": [
+    "R_GLYCK"
+   ],
+   "lp_3492": [
+    "R_AHMMPS_1"
+   ],
+   "lp_3493": [
+    "R_DHQTi"
+   ],
+   "lp_3491": [
+    "R_SUCD3BC"
+   ],
+   "lp_3494": [
+    "R_SHK3Dr"
+   ],
+   "lp_3498": [
+    "R_SHK3Dr"
+   ],
+   "lp_3499": [
+    "R_SHK3Dr"
+   ],
+   "lp_3599": [
+    "R_GALTpts"
+   ],
+   "lp_2873": [
+    "R_ALCD2x",
+    "R_ALCD19"
+   ],
+   "lp_1925": [
+    "R_NOX2",
+    "R_NOX"
+   ],
+   "lp_1920": [
+    "R_ENO"
+   ],
+   "lp_3546": [
+    "R_GALTpts"
+   ],
+   "lp_3010": [
+    "R_CELBpts"
+   ],
+   "lp_1923": [
+    "R_SDPDS"
+   ],
+   "lp_2701": [
+    "R_CBPS"
+   ],
+   "lp_2878": [
+    "R_MALTATr"
+   ],
+   "lp_0271": [
+    "R_OPHBDC"
+   ],
+   "lp_3571": [
+    "R_AMANAPEr"
+   ],
+   "lp_0372": [
+    "R_GLYCt"
+   ],
+   "lp_0523": [
+    "R_ALAR"
+   ],
+   "lp_2758": [
+    "R_THRS"
+   ],
+   "lp_0371": [
+    "R_G3POc"
+   ],
+   "lp_3578": [
+    "R_CAT"
+   ],
+   "lp_3592": [
+    "R_RMPA"
+   ],
+   "lp_0826": [
+    "R_GALM"
+   ],
+   "lp_3374": [
+    "R_CSNt2",
+    "R_ADEt2",
+    "R_GUAt2r"
+   ],
+   "lp_0178": [
+    "R_MALTabc"
+   ],
+   "lp_0820": [
+    "R_PGAMT"
+   ],
+   "lp_0174": [
+    "R_MALT"
+   ],
+   "lp_2612": [
+    "R_NNAM"
+   ],
+   "lp_0176": [
+    "R_MALTabc"
+   ],
+   "lp_0177": [
+    "R_MALTabc"
+   ],
+   "lp_0170": [
+    "R_DHAPT"
+   ],
+   "lp_0171": [
+    "R_DHAt"
+   ],
+   "lp_3270": [
+    "R_ADSS"
+   ],
+   "lp_0829": [
+    "R_FLVR"
+   ],
+   "lp_0841": [
+    "R_EPPP"
+   ],
+   "lp_2582": [
+    "R_GPDDA4",
+    "R_GPDDA2",
+    "R_GPDDA5",
+    "R_GPDDA3",
+    "R_GPDDA1"
+   ],
+   "lp_2585": [
+    "R_TRDR"
+   ],
+   "lp_0571": [
+    "R_HSDy"
+   ],
+   "lp_0572": [
+    "R_HSK"
+   ],
+   "lp_0575": [
+    "R_MANpts"
+   ],
+   "lp_0576": [
+    "R_MANpts"
+   ],
+   "lp_0577": [
+    "R_MANpts"
+   ],
+   "lp_0579": [
+    "R_ASP1DC"
+   ],
+   "lp_3539": [
+    "R_TALA"
+   ],
+   "lp_1253": [
+    "R_GTHOr"
+   ],
+   "lp_1250": [
+    "R_GNK"
+   ],
+   "lp_1251": [
+    "R_GND"
+   ],
+   "lp_1622": [
+    "R_TMDPK"
+   ],
+   "lp_1621": [
+    "R_RPE"
+   ],
+   "lp_2727": [
+    "R_PRASCSi"
+   ],
+   "lp_2726": [
+    "R_PRFGS_1"
+   ],
+   "lp_2057": [
+    "R_LDH_D"
+   ],
+   "lp_2724": [
+    "R_PRFGS_1"
+   ],
+   "lp_2723": [
+    "R_GLUPRT"
+   ],
+   "lp_2050": [
+    "R_DASYN_LPL"
+   ],
+   "lp_2721": [
+    "R_GARFT"
+   ],
+   "lp_2720": [
+    "R_AICART",
+    "R_IMPC"
+   ],
+   "lp_0710": [
+    "R_AEPPT"
+   ],
+   "lp_1781": [
+    "R_YUMPS"
+   ],
+   "lp_2196": [
+    "R_UAGPT5"
+   ],
+   "lp_2197": [
+    "R_UAMAGS"
+   ],
+   "lp_0714": [
+    "R_AEPabc"
+   ],
+   "lp_1785": [
+    "R_PGM"
+   ],
+   "lp_2729": [
+    "R_AIRCr"
+   ],
+   "lp_2728": [
+    "R_AIRCr"
+   ],
+   "lp_0912": [
+    "R_NPPDO"
+   ],
+   "lp_0913": [
+    "R_PNTK"
+   ],
+   "lp_0914": [
+    "R_GMPS2"
+   ],
+   "lp_1713": [
+    "R_DAPDC"
+   ],
+   "lp_1658": [
+    "R_TRPS1"
+   ],
+   "lp_0785": [
+    "R_PGCD"
+   ],
+   "lp_1652": [
+    "R_ANS"
+   ],
+   "lp_1653": [
+    "R_ANS"
+   ],
+   "lp_0789": [
+    "R_GAPD"
+   ],
+   "lp_3600": [
+    "R_GALTpts"
+   ],
+   "lp_1656": [
+    "R_PRAIi"
+   ],
+   "lp_0107": [
+    "R_LacR"
+   ],
+   "lp_1654": [
+    "R_ANPRT"
+   ],
+   "lp_1655": [
+    "R_IGPS"
+   ],
+   "lp_0106": [
+    "R_LacR"
+   ],
+   "lp_1437": [
+    "R_DB4PS"
+   ],
+   "lp_0564": [
+    "R_UNAGAMAMT"
+   ],
+   "lp_1530": [
+    "R_NNATr"
+   ],
+   "lp_2123": [
+    "R_DHDPS"
+   ],
+   "lp_0399": [
+    "R_ILEt2r",
+    "R_LEUt2r",
+    "R_VALt2r"
+   ],
+   "lp_2719": [
+    "R_PRAGSr"
+   ],
+   "lp_0963": [
+    "R_YUMPS"
+   ],
+   "lp_3085": [
+    "R_ASNS1"
+   ],
+   "lp_2829": [
+    "R_MALt2r"
+   ],
+   "lp_2532": [
+    "R_DPR"
+   ],
+   "lp_2825": [
+    "R_INSH",
+    "R_GNNUC",
+    "R_XTSNH",
+    "R_ADNUC"
+   ],
+   "lp_2531": [
+    "R_GLCpts",
+    "R_ACGApts"
+   ],
+   "lp_2536": [
+    "R_AHSERL2"
+   ],
+   "lp_2537": [
+    "R_HSERTA"
+   ],
+   "lp_2535": [
+    "R_HSDy"
+   ],
+   "lp_1445": [
+    "R_NADHPO"
+   ],
+   "lp_1328": [
+    "R_GPDDA4",
+    "R_GPDDA2",
+    "R_GPDDA5",
+    "R_GPDDA3",
+    "R_GPDDA1"
+   ],
+   "lp_1329": [
+    "R_DADNK",
+    "R_DINSK",
+    "R_DGNSK"
+   ],
+   "lp_3469": [
+    "R_LACZ"
+   ],
+   "lp_3185": [
+    "R_ILEt2r",
+    "R_LEUt2r",
+    "R_VALt2r"
+   ],
+   "lp_1299": [
+    "R_GLTAL"
+   ],
+   "lp_1888": [
+    "R_YUMPS"
+   ],
+   "lp_0024": [
+    "R_GLCP"
+   ],
+   "lp_3324": [
+    "R_CHLt2",
+    "R_GLYBt2r"
+   ],
+   "lp_1629": [
+    "R_ACPS2"
+   ],
+   "lp_1883": [
+    "R_CYTK2",
+    "R_CYTK1"
+   ],
+   "lp_2551": [
+    "R_TYRTA",
+    "R_PHETA1",
+    "R_HSTPTr"
+   ],
+   "lp_1968": [
+    "R_DAGK_LPL"
+   ],
+   "lp_3051": [
+    "R_13PPDH"
+   ],
+   "lp_1964": [
+    "R_GLYTRS_1"
+   ],
+   "lp_1965": [
+    "R_GLYTRS_1"
+   ],
+   "lp_3054": [
+    "R_AALDH"
+   ],
+   "lp_2222": [
+    "R_NADK"
+   ],
+   "lp_2223": [
+    "R_GTPDPK"
+   ],
+   "lp_2221": [
+    "R_YUMPS"
+   ],
+   "lp_0501": [
+    "R_SERTRS_1"
+   ],
+   "lp_0500": [
+    "R_DRBK",
+    "R_RBK"
+   ],
+   "lp_0502": [
+    "R_SERt2r"
+   ],
+   "lp_0505": [
+    "R_SERD_L"
+   ],
+   "lp_2380": [
+    "R_UAAGLS1_1"
+   ],
+   "lp_0506": [
+    "R_SERD_L"
+   ],
+   "lp_2548": [
+    "R_HIBD"
+   ],
+   "lp_3620": [
+    "R_SBTpts"
+   ],
+   "lp_3623": [
+    "R_SBTPD"
+   ],
+   "lp_2544": [
+    "R_NADHPO"
+   ],
+   "lp_0866": [
+    "R_GK2",
+    "R_GK1"
+   ],
+   "lp_3334": [
+    "R_ADD"
+   ],
+   "lp_3011": [
+    "R_BGLA1"
+   ],
+   "lp_1814": [
+    "R_L_LACt2r",
+    "R_D_LACt2"
+   ],
+   "lp_1816": [
+    "R_CRCT"
+   ],
+   "lp_1817": [
+    "R_RBT5PDHy"
+   ],
+   "lp_3267": [
+    "R_GTHOr"
+   ],
+   "lp_2151": [
+    "R_PDH"
+   ],
+   "lp_0434": [
+    "R_TRPTRS_1"
+   ],
+   "lp_1818": [
+    "R_CRPT_25"
+   ],
+   "lp_1819": [
+    "R_CRPT_25"
+   ],
+   "lp_0343": [
+    "R_CRPT_25"
+   ],
+   "lp_1219": [
+    "R_UDPGALM"
+   ],
+   "lp_0610": [
+    "R_CYSTRS_1"
+   ],
+   "lp_0344": [
+    "R_CRPT_25"
+   ],
+   "lp_0349": [
+    "R_NH3t"
+   ],
+   "lp_1740": [
+    "R_ASNTRS_1"
+   ],
+   "lp_2051": [
+    "R_UDCPDPS"
+   ],
+   "lp_1215": [
+    "R_CPSS_LPL",
+    "R_CPSS_LPL2"
+   ],
+   "lp_0185": [
+    "R_SUCpts"
+   ],
+   "lp_0184": [
+    "R_HEX7"
+   ],
+   "lp_0187": [
+    "R_FFSD"
+   ],
+   "lp_2647": [
+    "R_ACGALpts"
+   ],
+   "lp_0181": [
+    "R_MPL"
+   ],
+   "lp_0180": [
+    "R_MALTabc"
+   ],
+   "lp_2314": [
+    "R_GLNabc"
+   ],
+   "lp_0597": [
+    "R_PGM"
+   ],
+   "lp_0594": [
+    "R_CITt2r",
+    "R_MALt2r"
+   ],
+   "lp_0592": [
+    "R_ACCOAC"
+   ],
+   "lp_2649": [
+    "R_ACGALpts"
+   ],
+   "lp_0590": [
+    "R_ACCOAC"
+   ],
+   "lp_2096": [
+    "R_FRUK"
+   ],
+   "lp_2183": [
+    "R_ADPRDP"
+   ],
+   "lp_0814": [
+    "R_UAPGR"
+   ],
+   "lp_2790": [
+    "R_PGCD"
+   ],
+   "lp_1599": [
+    "R_MTHFC",
+    "R_MTHFD"
+   ],
+   "lp_2798": [
+    "R_DHQTi"
+   ],
+   "lp_1106": [
+    "R_CITL"
+   ],
+   "lp_1730": [
+    "R_MPL"
+   ],
+   "lp_1105": [
+    "R_ME1"
+   ],
+   "lp_1069": [
+    "R_NADH4"
+   ],
+   "lp_1101": [
+    "R_LDH_L"
+   ],
+   "lp_1066": [
+    "R_UDCPDPS"
+   ],
+   "lp_1108": [
+    "R_CITL"
+   ],
+   "lp_1109": [
+    "R_CITL"
+   ],
+   "lp_0761": [
+    "R_TRDR"
+   ],
+   "lp_0760": [
+    "R_NOX2",
+    "R_NOX"
+   ],
+   "lp_2166": [
+    "R_PRPPS"
+   ],
+   "lp_0764": [
+    "R_PMANM",
+    "R_PGMT"
+   ],
+   "lp_0766": [
+    "R_NOX2",
+    "R_NOX"
+   ],
+   "lp_2345": [
+    "R_ALALAC"
+   ],
+   "lp_0047": [
+    "R_GLYALDDr",
+    "R_ALDD2x"
+   ],
+   "lp_2367": [
+    "R_ATPS3r"
+   ],
+   "lp_2366": [
+    "R_ATPS3r"
+   ],
+   "lp_2365": [
+    "R_ATPS3r"
+   ],
+   "lp_2364": [
+    "R_ATPS3r"
+   ],
+   "lp_2363": [
+    "R_ATPS3r"
+   ],
+   "lp_2361": [
+    "R_UAGCVT"
+   ],
+   "lp_1176": [
+    "R_UDPGALM"
+   ],
+   "lp_2369": [
+    "R_ATPS3r"
+   ],
+   "lp_2368": [
+    "R_ATPS3r"
+   ],
+   "lp_2060": [
+    "R_AGAT_LPL"
+   ],
+   "lp_0881": [
+    "R_GLNabc"
+   ],
+   "lp_1665": [
+    "R_ALCD2x",
+    "R_ALCD19"
+   ],
+   "lp_0883": [
+    "R_GLNabc"
+   ],
+   "lp_1581": [
+    "R_GLNS"
+   ],
+   "lp_2771": [
+    "R_NAPRT"
+   ],
+   "lp_0350": [
+    "R_2HXICDH"
+   ],
+   "lp_3418": [
+    "R_PPCK"
+   ],
+   "lp_1562": [
+    "R_URIK2",
+    "R_CYTDK1",
+    "R_URIK3",
+    "R_URIK1",
+    "R_CYTDK2",
+    "R_ITCY"
+   ],
+   "lp_1568": [
+    "R_PGGT4"
+   ],
+   "lp_1406": [
+    "R_DARTAL",
+    "R_DALTAL"
+   ],
+   "lp_2502": [
+    "R_G6PI",
+    "R_PGI"
+   ],
+   "lp_2268": [
+    "R_GLUR"
+   ],
+   "lp_0849": [
+    "R_PYROX_1"
+   ],
+   "lp_3665": [
+    "R_CMPDC"
+   ],
+   "lp_2263": [
+    "R_ADPDS"
+   ],
+   "lp_3660": [
+    "R_DRBK",
+    "R_RBK"
+   ],
+   "lp_2264": [
+    "R_APATi",
+    "R_THDPS"
+   ],
+   "lp_3662": [
+    "R_ACALD",
+    "R_ALCD2x"
+   ],
+   "lp_1316": [
+    "R_LEUTRS_1"
+   ],
+   "lp_1312": [
+    "R_GLTAL"
+   ],
+   "lp_1311": [
+    "R_GLTAL"
+   ],
+   "lp_3468": [
+    "R_LCTSt"
+   ],
+   "lp_3466": [
+    "R_ILEt2r",
+    "R_LEUt2r",
+    "R_VALt2r"
+   ],
+   "lp_3463": [
+    "R_GLYCt"
+   ],
+   "lp_1319": [
+    "R_YUMPS"
+   ],
+   "lp_1086": [
+    "R_DHQS"
+   ],
+   "lp_1085": [
+    "R_CHORM",
+    "R_DDPA"
+   ],
+   "lp_1084": [
+    "R_SHK3Dr"
+   ],
+   "lp_1083": [
+    "R_TKT1",
+    "R_TKT2"
+   ],
+   "lp_1089": [
+    "R_TARTD"
+   ],
+   "lp_1912": [
+    "R_PPS"
+   ],
+   "lp_1919": [
+    "R_MNabc"
+   ]
+  },
+  "sbml_in": "iLPL728.xml",
+  "taxon_id": "220668",
+  "sbml_out_generic": "e:\\cloud\\Dropbox\\projects\\sebastian_metadraft_templates\\metadraft_templates\\metadraft_template_data_2019-1\\lib_model\\(lab-lpl)-(iLPL728).seqplus.xml",
+  "sbml_out": "e:\\cloud\\Dropbox\\projects\\sebastian_metadraft_templates\\metadraft_templates\\metadraft_template_data_2019-1\\lib_model\\(lab-lpl)-(iLPL728).seqplus.xml",
+  "reaction2gene": {
+   "R_HSTPTr": [
+    "lp_2551"
+   ],
+   "R_GALT": [
+    "lp_3480"
+   ],
+   "R_UAAGLS1_1": [
+    "lp_2380"
+   ],
+   "R_PSCVT": [
+    "lp_2035"
+   ],
+   "R_ACNML": [
+    "lp_3568"
+   ],
+   "R_ADSK": [
+    "lp_1379"
+   ],
+   "R_CTPS1": [
+    "lp_0481"
+   ],
+   "R_ALDD2x": [
+    "lp_0047"
+   ],
+   "R_G6PI": [
+    "lp_2502"
+   ],
+   "R_GLCpts": [
+    "lp_1274",
+    "lp_1273",
+    "lp_2531",
+    "lp_3522",
+    "lp_3520"
+   ],
+   "R_NOX": [
+    "lp_1350",
+    "lp_3449",
+    "lp_1925",
+    "lp_1941",
+    "lp_0760",
+    "lp_0766"
+   ],
+   "R_NH3t": [
+    "lp_0349"
+   ],
+   "R_RMPA": [
+    "lp_3592"
+   ],
+   "R_ADSS": [
+    "lp_3270"
+   ],
+   "R_GLYCt": [
+    "lp_3463",
+    "lp_0372",
+    "lp_1175",
+    "lp_3436"
+   ],
+   "R_2HXICDH": [
+    "lp_2349",
+    "lp_1245",
+    "lp_0350"
+   ],
+   "R_PRPPS": [
+    "lp_2166",
+    "lp_0471"
+   ],
+   "R_kaasIII": [
+    "lp_0588",
+    "lp_1671"
+   ],
+   "R_DTMPK": [
+    "lp_0703"
+   ],
+   "R_TRPTA": [
+    "lp_1280",
+    "lp_2684"
+   ],
+   "R_DRIBt2": [
+    "lp_0498"
+   ],
+   "R_ACOTA": [
+    "lp_0531"
+   ],
+   "R_CRPT_25": [
+    "lp_0343",
+    "lp_1818",
+    "lp_0344",
+    "lp_1819",
+    "lp_1977"
+   ],
+   "R_FTHFLi": [
+    "lp_1779"
+   ],
+   "R_LYSt2r": [
+    "lp_1008"
+   ],
+   "R_G6PDA": [
+    "lp_0226"
+   ],
+   "R_MOADCST": [
+    "lp_1496",
+    "lp_2326",
+    "lp_2325",
+    "lp_1479",
+    "lp_2180",
+    "lp_2179"
+   ],
+   "R_VALTRS_1": [
+    "lp_2322"
+   ],
+   "R_ACLS": [
+    "lp_1005"
+   ],
+   "R_OCDMAT8": [
+    "lp_1681"
+   ],
+   "R_HISTRS_1": [
+    "lp_2561",
+    "lp_1981"
+   ],
+   "R_GLYCK": [
+    "lp_3266"
+   ],
+   "R_TRE6PH": [
+    "lp_0263"
+   ],
+   "R_DHQS": [
+    "lp_1086"
+   ],
+   "R_HTDR6": [
+    "lp_1674"
+   ],
+   "R_MCMAT7": [
+    "lp_1675"
+   ],
+   "R_MCMAT6": [
+    "lp_1675"
+   ],
+   "R_GALS3": [
+    "lp_3485"
+   ],
+   "R_PUNP7": [
+    "lp_0125"
+   ],
+   "R_GLYBt2r": [
+    "lp_3324"
+   ],
+   "R_URIH": [
+    "lp_3615"
+   ],
+   "R_ACGALpts": [
+    "lp_1274",
+    "lp_1273",
+    "lp_2647",
+    "lp_2650",
+    "lp_2648",
+    "lp_2649"
+   ],
+   "R_PUNP6": [
+    "lp_0125"
+   ],
+   "R_DHQTi": [
+    "lp_3493",
+    "lp_2798"
+   ],
+   "R_PRAIS_1": [
+    "lp_2722"
+   ],
+   "R_PPCDC": [
+    "lp_1614"
+   ],
+   "R_HEMAT2": [
+    "lp_1681"
+   ],
+   "R_ILEt2r": [
+    "lp_2213",
+    "lp_3185",
+    "lp_3466",
+    "lp_0399"
+   ],
+   "R_INSH": [
+    "lp_2825",
+    "lp_2591",
+    "lp_0363"
+   ],
+   "R_PAPPT5": [
+    "lp_2199"
+   ],
+   "R_ATPS3r": [
+    "lp_2370",
+    "lp_2369",
+    "lp_2368",
+    "lp_2367",
+    "lp_2366",
+    "lp_2365",
+    "lp_2364",
+    "lp_2363"
+   ],
+   "R_GLYTRS_1": [
+    "lp_1964",
+    "lp_1965"
+   ],
+   "R_SERt2r": [
+    "lp_0502"
+   ],
+   "R_DEMAT4": [
+    "lp_1681"
+   ],
+   "R_SPMDabc": [
+    "lp_0318",
+    "lp_0315",
+    "lp_0316",
+    "lp_0317"
+   ],
+   "R_CAT": [
+    "lp_3578"
+   ],
+   "R_CYTK1": [
+    "lp_1883"
+   ],
+   "R_RBFK": [
+    "lp_2031",
+    "lp_0850"
+   ],
+   "R_CYTK2": [
+    "lp_1883"
+   ],
+   "R_DASYN_LPL": [
+    "lp_2050"
+   ],
+   "R_HHYR2": [
+    "lp_1674"
+   ],
+   "R_UAGCVT": [
+    "lp_0510",
+    "lp_2361"
+   ],
+   "R_NNATr": [
+    "lp_1530"
+   ],
+   "R_CPSS_LPL": [
+    "lp_1181",
+    "lp_1177",
+    "lp_1182",
+    "lp_1183",
+    "lp_1179",
+    "lp_1178",
+    "lp_1180",
+    "lp_1184",
+    "lp_1185",
+    "lp_1199",
+    "lp_1198",
+    "lp_1201",
+    "lp_1203",
+    "lp_1202",
+    "lp_1205",
+    "lp_1204",
+    "lp_1197",
+    "lp_1206",
+    "lp_1215",
+    "lp_1227",
+    "lp_1226",
+    "lp_1225",
+    "lp_1224",
+    "lp_1216",
+    "lp_1222",
+    "lp_1221",
+    "lp_1220",
+    "lp_2099",
+    "lp_2107",
+    "lp_2106",
+    "lp_2104",
+    "lp_2103",
+    "lp_2102",
+    "lp_2101",
+    "lp_2100",
+    "lp_2108"
+   ],
+   "R_URAt2": [
+    "lp_2371"
+   ],
+   "R_CLPNS_LPL": [
+    "lp_3273"
+   ],
+   "R_GTPDPK": [
+    "lp_1987",
+    "lp_0293",
+    "lp_2223"
+   ],
+   "R_ITCY": [
+    "lp_1562"
+   ],
+   "R_ACGApts": [
+    "lp_1274",
+    "lp_1273",
+    "lp_2531",
+    "lp_2969"
+   ],
+   "R_CDPMEK": [
+    "lp_0460"
+   ],
+   "R_TYRTRS_1": [
+    "lp_2807"
+   ],
+   "R_THRS": [
+    "lp_2758"
+   ],
+   "R_SO4NA1t": [
+    "lp_1385"
+   ],
+   "R_P5CR": [
+    "lp_0561"
+   ],
+   "R_DHAPT": [
+    "lp_1274",
+    "lp_0170",
+    "lp_1273",
+    "lp_0169",
+    "lp_0166",
+    "lp_0168"
+   ],
+   "R_SBTD_D2": [
+    "lp_3545"
+   ],
+   "R_GTHOr": [
+    "lp_3267",
+    "lp_0369",
+    "lp_1253",
+    "lp_1822"
+   ],
+   "R_GLTAL": [
+    "lp_1299",
+    "lp_1311",
+    "lp_2498",
+    "lp_2843",
+    "lp_1312",
+    "lp_2844"
+   ],
+   "R_SERD_D": [
+    "lp_2776"
+   ],
+   "R_AALDH": [
+    "lp_3054"
+   ],
+   "R_MCMAT8": [
+    "lp_1675"
+   ],
+   "R_SHK3Dr": [
+    "lp_3498",
+    "lp_3499",
+    "lp_3494",
+    "lp_1084"
+   ],
+   "R_SERD_L": [
+    "lp_0505",
+    "lp_0506"
+   ],
+   "R_ASNS2": [
+    "lp_0957"
+   ],
+   "R_FLVR": [
+    "lp_0829"
+   ],
+   "R_NO2t3": [
+    "lp_1481"
+   ],
+   "R_DXPS": [
+    "lp_2610"
+   ],
+   "R_GUAt2r": [
+    "lp_0848",
+    "lp_3374"
+   ],
+   "R_DURIPP": [
+    "lp_0125"
+   ],
+   "R_SDPDS": [
+    "lp_1923",
+    "lp_2855"
+   ],
+   "R_TDPDRR": [
+    "lp_1190"
+   ],
+   "R_THRTRS_1": [
+    "lp_1514"
+   ],
+   "R_HCYSMT": [
+    "lp_1298"
+   ],
+   "R_GALM": [
+    "lp_0826",
+    "lp_1731",
+    "lp_3487"
+   ],
+   "R_ACGAMT": [
+    "lp_0730"
+   ],
+   "R_AHMMPS_1": [
+    "lp_3492",
+    "lp_1072",
+    "lp_2936"
+   ],
+   "R_SBTPD": [
+    "lp_3623",
+    "lp_3657"
+   ],
+   "R_TDPDRE": [
+    "lp_1188"
+   ],
+   "R_HDER4": [
+    "lp_1674"
+   ],
+   "R_DAPDC": [
+    "lp_1713"
+   ],
+   "R_UAGPT5": [
+    "lp_2196"
+   ],
+   "R_ASNS1": [
+    "lp_3085",
+    "lp_0980"
+   ],
+   "R_PIabc": [
+    "lp_0750",
+    "lp_0751",
+    "lp_0733",
+    "lp_0749",
+    "lp_0748",
+    "lp_0747",
+    "lp_0746"
+   ],
+   "R_PDH": [
+    "lp_2154",
+    "lp_2151",
+    "lp_2152",
+    "lp_2153"
+   ],
+   "R_GK1": [
+    "lp_1612",
+    "lp_0866"
+   ],
+   "R_GK2": [
+    "lp_1612",
+    "lp_0866"
+   ],
+   "R_TMPPP": [
+    "lp_0115"
+   ],
+   "R_GUAPRT": [
+    "lp_0546"
+   ],
+   "R_CPSS_LPL2": [
+    "lp_1181",
+    "lp_1177",
+    "lp_1182",
+    "lp_1183",
+    "lp_1179",
+    "lp_1178",
+    "lp_1180",
+    "lp_1184",
+    "lp_1185",
+    "lp_1199",
+    "lp_1198",
+    "lp_1201",
+    "lp_1203",
+    "lp_1202",
+    "lp_1205",
+    "lp_1204",
+    "lp_1197",
+    "lp_1206",
+    "lp_1215",
+    "lp_1227",
+    "lp_1226",
+    "lp_1225",
+    "lp_1224",
+    "lp_1216",
+    "lp_1222",
+    "lp_1221",
+    "lp_1220",
+    "lp_2099",
+    "lp_2107",
+    "lp_2106",
+    "lp_2104",
+    "lp_2103",
+    "lp_2102",
+    "lp_2101",
+    "lp_2100",
+    "lp_2108"
+   ],
+   "R_RBT5PDHy": [
+    "lp_1817"
+   ],
+   "R_ACODA": [
+    "lp_0488"
+   ],
+   "R_ASNN": [
+    "lp_2738"
+   ],
+   "R_AIRCr": [
+    "lp_2729",
+    "lp_2728",
+    "lp_1141"
+   ],
+   "R_GLUDC": [
+    "lp_3420"
+   ],
+   "R_GMPR": [
+    "lp_3271"
+   ],
+   "R_PKETX": [
+    "lp_3551",
+    "lp_2659"
+   ],
+   "R_HODHL8": [
+    "lp_1670",
+    "lp_1677"
+   ],
+   "R_CSND": [
+    "lp_0696"
+   ],
+   "R_GLUDy": [
+    "lp_1169"
+   ],
+   "R_DHAt": [
+    "lp_0171"
+   ],
+   "R_PDE1": [
+    "lp_3251"
+   ],
+   "R_PDE2": [
+    "lp_3251"
+   ],
+   "R_PDE3": [
+    "lp_3251"
+   ],
+   "R_PDE4": [
+    "lp_3251"
+   ],
+   "R_AICART": [
+    "lp_2720"
+   ],
+   "R_13PPDH": [
+    "lp_3051"
+   ],
+   "R_PGGT4": [
+    "lp_1413",
+    "lp_2200",
+    "lp_1751",
+    "lp_1568"
+   ],
+   "R_ALALAC": [
+    "lp_2345"
+   ],
+   "R_NAPRT": [
+    "lp_2771",
+    "lp_0565"
+   ],
+   "R_FFSD": [
+    "lp_0187"
+   ],
+   "R_CITL": [
+    "lp_1106",
+    "lp_1114",
+    "lp_1108",
+    "lp_1109",
+    "lp_1093",
+    "lp_1107"
+   ],
+   "R_HOCR3": [
+    "lp_1674"
+   ],
+   "R_HHDR7": [
+    "lp_1674"
+   ],
+   "R_GALTpts": [
+    "lp_1274",
+    "lp_3546",
+    "lp_3547",
+    "lp_3548",
+    "lp_3601",
+    "lp_3600",
+    "lp_3599",
+    "lp_1273"
+   ],
+   "R_GLUt2r": [
+    "lp_2818"
+   ],
+   "R_BTMAT1": [
+    "lp_1681"
+   ],
+   "R_DHDPRy": [
+    "lp_1874"
+   ],
+   "R_ADPT": [
+    "lp_2086"
+   ],
+   "R_VALabc": [
+    "lp_2985",
+    "lp_2984",
+    "lp_2983",
+    "lp_2982",
+    "lp_2981"
+   ],
+   "R_ASP1DC": [
+    "lp_0579"
+   ],
+   "R_PPNCL": [
+    "lp_1614"
+   ],
+   "R_ASPTA2": [
+    "lp_1739"
+   ],
+   "R_HXANt2r": [
+    "lp_0848"
+   ],
+   "R_HMPK1": [
+    "lp_0114"
+   ],
+   "R_ACYP_2": [
+    "lp_1554"
+   ],
+   "R_CFAS180": [
+    "lp_1696",
+    "lp_3174"
+   ],
+   "R_DHFR": [
+    "lp_1869"
+   ],
+   "R_UDPG4E": [
+    "lp_3481",
+    "lp_1200",
+    "lp_2105",
+    "lp_0709"
+   ],
+   "R_AGAT_LPL": [
+    "lp_2060"
+   ],
+   "R_LEUt2r": [
+    "lp_2213",
+    "lp_3185",
+    "lp_3466",
+    "lp_0399"
+   ],
+   "R_ALCD2x": [
+    "lp_1665",
+    "lp_3662",
+    "lp_2873"
+   ],
+   "R_RIBt2": [
+    "lp_3658"
+   ],
+   "R_ASPCT": [
+    "lp_2703"
+   ],
+   "R_G5SD": [
+    "lp_0017"
+   ],
+   "R_MELIBt2": [
+    "lp_3486"
+   ],
+   "R_ANS": [
+    "lp_1652",
+    "lp_1653"
+   ],
+   "R_MALTATr": [
+    "lp_3553",
+    "lp_2550",
+    "lp_2878"
+   ],
+   "R_TRDR": [
+    "lp_0761",
+    "lp_2585"
+   ],
+   "R_HOCHL3": [
+    "lp_1670",
+    "lp_1677"
+   ],
+   "R_MTHFD": [
+    "lp_1599"
+   ],
+   "R_URIDK2r": [
+    "lp_2053"
+   ],
+   "R_PGLYCP": [
+    "lp_3544",
+    "lp_0872",
+    "lp_1932"
+   ],
+   "R_ALAR": [
+    "lp_0523"
+   ],
+   "R_NNAM": [
+    "lp_2612"
+   ],
+   "R_GLU5K": [
+    "lp_0016"
+   ],
+   "R_ADNUC": [
+    "lp_2825",
+    "lp_2591",
+    "lp_0363"
+   ],
+   "R_RBP4E": [
+    "lp_3555"
+   ],
+   "R_MEVK1": [
+    "lp_1735"
+   ],
+   "R_MALt2r": [
+    "lp_1119",
+    "lp_2829",
+    "lp_0594"
+   ],
+   "R_HDMAT7": [
+    "lp_1681"
+   ],
+   "R_GLCP": [
+    "lp_0024",
+    "lp_0025"
+   ],
+   "R_TMDS": [
+    "lp_1870"
+   ],
+   "R_ASPTA4": [
+    "lp_1739"
+   ],
+   "R_DPCOAK": [
+    "lp_1510"
+   ],
+   "R_PFL": [
+    "lp_3314",
+    "lp_3313",
+    "lp_2596",
+    "lp_2598"
+   ],
+   "R_GLNTAL": [
+    "lp_1147",
+    "lp_1148",
+    "lp_1149"
+   ],
+   "R_HSK": [
+    "lp_0572"
+   ],
+   "R_FRUK": [
+    "lp_2096"
+   ],
+   "R_UDCPKr": [
+    "lp_3407"
+   ],
+   "R_DMATT": [
+    "lp_1602"
+   ],
+   "R_SERTRS_1": [
+    "lp_0501",
+    "lp_1012"
+   ],
+   "R_UAPGR": [
+    "lp_0814"
+   ],
+   "R_GALUi": [
+    "lp_0757"
+   ],
+   "R_SDPTA": [
+    "lp_0339"
+   ],
+   "R_PRASCSi": [
+    "lp_2727"
+   ],
+   "R_HDDR5": [
+    "lp_1674"
+   ],
+   "R_MALTt2": [
+    "lp_1729"
+   ],
+   "R_DDPA": [
+    "lp_1085"
+   ],
+   "R_TDMAT6": [
+    "lp_1681"
+   ],
+   "R_GNNUC": [
+    "lp_2825",
+    "lp_2591",
+    "lp_0363"
+   ],
+   "R_NTRARy": [
+    "lp_1498",
+    "lp_1499",
+    "lp_1500",
+    "lp_1497"
+   ],
+   "R_GLCS1": [
+    "lp_0023",
+    "lp_0020"
+   ],
+   "R_UAG2E": [
+    "lp_1173"
+   ],
+   "R_GF6PTA": [
+    "lp_0822"
+   ],
+   "R_FBA": [
+    "lp_0330"
+   ],
+   "R_PGSA_LPL": [
+    "lp_2303"
+   ],
+   "R_MANpts": [
+    "lp_1274",
+    "lp_0575",
+    "lp_0576",
+    "lp_0577",
+    "lp_0587",
+    "lp_0586",
+    "lp_1273"
+   ],
+   "R_METTRS_1": [
+    "lp_0454"
+   ],
+   "R_THFGLUS": [
+    "lp_2321",
+    "lp_3296"
+   ],
+   "R_PDE5": [
+    "lp_3251"
+   ],
+   "R_DRPA": [
+    "lp_0497"
+   ],
+   "R_ACCOAC": [
+    "lp_0592",
+    "lp_0590",
+    "lp_0591",
+    "lp_0854",
+    "lp_0337",
+    "lp_0589",
+    "lp_0362",
+    "lp_1678",
+    "lp_1679",
+    "lp_1680",
+    "lp_1676"
+   ],
+   "R_PRAMPC_1": [
+    "lp_2553"
+   ],
+   "R_METB1": [
+    "lp_2634"
+   ],
+   "R_RNTR1": [
+    "lp_2932",
+    "lp_2673"
+   ],
+   "R_ALCD19": [
+    "lp_1665",
+    "lp_2873"
+   ],
+   "R_TPI": [
+    "lp_0791"
+   ],
+   "R_DDMAT5": [
+    "lp_1681"
+   ],
+   "R_HDEHL4": [
+    "lp_1670",
+    "lp_1677"
+   ],
+   "R_GRTT": [
+    "lp_1602"
+   ],
+   "R_UDPGALM": [
+    "lp_1219",
+    "lp_1176"
+   ],
+   "R_UNAGAMAMT": [
+    "lp_0564"
+   ],
+   "R_ASPTA": [
+    "lp_1739"
+   ],
+   "R_NDPK9": [
+    "lp_0242"
+   ],
+   "R_SBTD_L": [
+    "lp_3545"
+   ],
+   "R_NDPK7": [
+    "lp_0242"
+   ],
+   "R_PMANM": [
+    "lp_0764"
+   ],
+   "R_NDPK5": [
+    "lp_0242"
+   ],
+   "R_NDPK4": [
+    "lp_0242"
+   ],
+   "R_NDPK3": [
+    "lp_0242"
+   ],
+   "R_GTHS": [
+    "lp_2336"
+   ],
+   "R_NDPK1": [
+    "lp_0242"
+   ],
+   "R_PPCK": [
+    "lp_3418"
+   ],
+   "R_G3PD1ir": [
+    "lp_0756"
+   ],
+   "R_PGCD": [
+    "lp_2790",
+    "lp_0203",
+    "lp_0785"
+   ],
+   "R_DHFS": [
+    "lp_2321",
+    "lp_3296"
+   ],
+   "R_DNTPPA_1": [
+    "lp_3295"
+   ],
+   "R_HBUHL1": [
+    "lp_1670",
+    "lp_1677"
+   ],
+   "R_GLNabc": [
+    "lp_0802",
+    "lp_0803",
+    "lp_2314",
+    "lp_2312",
+    "lp_2313",
+    "lp_2110",
+    "lp_2111",
+    "lp_0878",
+    "lp_0881",
+    "lp_0882",
+    "lp_0883"
+   ],
+   "R_GPDDA4": [
+    "lp_2582",
+    "lp_1328",
+    "lp_2344",
+    "lp_1578"
+   ],
+   "R_IMPD": [
+    "lp_3194"
+   ],
+   "R_HDDHL5": [
+    "lp_1670",
+    "lp_1677"
+   ],
+   "R_METS": [
+    "lp_1374"
+   ],
+   "R_HMGCOAS": [
+    "lp_2067"
+   ],
+   "R_HMGCOAR": [
+    "lp_0447"
+   ],
+   "R_PC": [
+    "lp_2136"
+   ],
+   "R_AHCYSNS": [
+    "lp_2181"
+   ],
+   "R_OPHBDC": [
+    "lp_0271"
+   ],
+   "R_PGMT": [
+    "lp_0764"
+   ],
+   "R_PMPK": [
+    "lp_0114"
+   ],
+   "R_LEUabc": [
+    "lp_2985",
+    "lp_2984",
+    "lp_2983",
+    "lp_2982",
+    "lp_2981"
+   ],
+   "R_VALt2r": [
+    "lp_2213",
+    "lp_3185",
+    "lp_3466",
+    "lp_0399"
+   ],
+   "R_DADNK": [
+    "lp_1329",
+    "lp_1011"
+   ],
+   "R_GPDDA3": [
+    "lp_2582",
+    "lp_1328",
+    "lp_2344",
+    "lp_1578"
+   ],
+   "R_PFK": [
+    "lp_1898"
+   ],
+   "R_PPK2": [
+    "lp_0842"
+   ],
+   "R_ASAD": [
+    "lp_1346",
+    "lp_2570"
+   ],
+   "R_GLCNt2r": [
+    "lp_1249"
+   ],
+   "R_GLUR": [
+    "lp_2268"
+   ],
+   "R_NO3abc": [
+    "lp_2077",
+    "lp_2076"
+   ],
+   "R_ASPTRS_1": [
+    "lp_1980"
+   ],
+   "R_GLNS": [
+    "lp_1581"
+   ],
+   "R_HPA3MO": [
+    "lp_0070"
+   ],
+   "R_RNTR4": [
+    "lp_2932",
+    "lp_2673"
+   ],
+   "R_NDPK8": [
+    "lp_0242"
+   ],
+   "R_RNTR2": [
+    "lp_2932",
+    "lp_2673"
+   ],
+   "R_RNTR3": [
+    "lp_2932",
+    "lp_2673"
+   ],
+   "R_IGPDH_1": [
+    "lp_2558"
+   ],
+   "R_GND": [
+    "lp_1541",
+    "lp_1251"
+   ],
+   "R_LOXD": [
+    "lp_0291"
+   ],
+   "R_PMEVK": [
+    "lp_1733"
+   ],
+   "R_ASNTRS_1": [
+    "lp_1740",
+    "lp_0956"
+   ],
+   "R_NDPK6": [
+    "lp_0242"
+   ],
+   "R_LOXL": [
+    "lp_3586"
+   ],
+   "R_ADEt2": [
+    "lp_3374"
+   ],
+   "R_HSDy": [
+    "lp_2535",
+    "lp_0571"
+   ],
+   "R_CRCT": [
+    "lp_1816"
+   ],
+   "R_ME1": [
+    "lp_1105"
+   ],
+   "R_SUCD3BC": [
+    "lp_0952",
+    "lp_0055",
+    "lp_3491",
+    "lp_1425"
+   ],
+   "R_PGMT_B": [
+    "lp_0027",
+    "lp_0066"
+   ],
+   "R_PZS": [
+    "lp_1492",
+    "lp_1495",
+    "lp_1480"
+   ],
+   "R_MTHFC": [
+    "lp_1599"
+   ],
+   "R_ADSL1r": [
+    "lp_3269"
+   ],
+   "R_NADK": [
+    "lp_2222"
+   ],
+   "R_RBK": [
+    "lp_0500",
+    "lp_2251",
+    "lp_3660"
+   ],
+   "R_PTAr": [
+    "lp_0807"
+   ],
+   "R_OCBT": [
+    "lp_0532"
+   ],
+   "R_CYTDK1": [
+    "lp_1562"
+   ],
+   "R_CYTDK2": [
+    "lp_1562"
+   ],
+   "R_DGNSK": [
+    "lp_1329",
+    "lp_1011"
+   ],
+   "R_GHMT2r": [
+    "lp_2375"
+   ],
+   "R_NDPK2": [
+    "lp_0242"
+   ],
+   "R_DAPE": [
+    "lp_2185"
+   ],
+   "R_IPDDI": [
+    "lp_1732"
+   ],
+   "R_HSERTA": [
+    "lp_2537"
+   ],
+   "R_CTPS2": [
+    "lp_0481"
+   ],
+   "R_DUTPDP": [
+    "lp_0604"
+   ],
+   "R_RNDR1": [
+    "lp_0693",
+    "lp_0692"
+   ],
+   "R_TKT1": [
+    "lp_3135",
+    "lp_3538",
+    "lp_1083"
+   ],
+   "R_TKT2": [
+    "lp_3135",
+    "lp_3538",
+    "lp_1083"
+   ],
+   "R_XTSNH": [
+    "lp_2825",
+    "lp_2591",
+    "lp_0363"
+   ],
+   "R_URIK3": [
+    "lp_1562"
+   ],
+   "R_URIK2": [
+    "lp_1562"
+   ],
+   "R_URIK1": [
+    "lp_1562"
+   ],
+   "R_SBTpts": [
+    "lp_1274",
+    "lp_3618",
+    "lp_3620",
+    "lp_3619",
+    "lp_3652",
+    "lp_3653",
+    "lp_3654",
+    "lp_1273"
+   ],
+   "R_ABTA": [
+    "lp_1721"
+   ],
+   "R_CITt2r": [
+    "lp_0594"
+   ],
+   "R_MCMAT3": [
+    "lp_1675"
+   ],
+   "R_SADT": [
+    "lp_1378"
+   ],
+   "R_CYSTGL": [
+    "lp_3517",
+    "lp_0255"
+   ],
+   "R_DRBK": [
+    "lp_0500",
+    "lp_2251",
+    "lp_3660"
+   ],
+   "R_OMPDC": [
+    "lp_2698"
+   ],
+   "R_PPND": [
+    "lp_2034"
+   ],
+   "R_CGPT": [
+    "lp_0268",
+    "lp_0269"
+   ],
+   "R_GLGC": [
+    "lp_0022",
+    "lp_0021"
+   ],
+   "R_XPPT": [
+    "lp_1139"
+   ],
+   "R_CYSTL": [
+    "lp_3517",
+    "lp_0255"
+   ],
+   "R_FOLD3": [
+    "lp_3294"
+   ],
+   "R_ARAI": [
+    "lp_3554"
+   ],
+   "R_NPPDO": [
+    "lp_0912"
+   ],
+   "R_HXPRT": [
+    "lp_0546"
+   ],
+   "R_HIBD": [
+    "lp_2548"
+   ],
+   "R_CYSS": [
+    "lp_0256"
+   ],
+   "R_NITR": [
+    "lp_1498",
+    "lp_1499",
+    "lp_1500",
+    "lp_1497"
+   ],
+   "R_MI1PP": [
+    "lp_2147"
+   ],
+   "R_SERAT": [
+    "lp_0254"
+   ],
+   "R_SSALy": [
+    "lp_3092"
+   ],
+   "R_SSALx": [
+    "lp_3092"
+   ],
+   "R_RNDR4": [
+    "lp_0693",
+    "lp_0692"
+   ],
+   "R_HHDHL7": [
+    "lp_1670",
+    "lp_1677"
+   ],
+   "R_CBPS": [
+    "lp_2701",
+    "lp_2700",
+    "lp_0527",
+    "lp_0526"
+   ],
+   "R_LPGS_LPL": [
+    "lp_0690"
+   ],
+   "R_PYDAMK": [
+    "lp_0863"
+   ],
+   "R_ADK1": [
+    "lp_1058"
+   ],
+   "R_ORPT": [
+    "lp_2697"
+   ],
+   "R_ADK2": [
+    "lp_1058"
+   ],
+   "R_VALTA": [
+    "lp_2390"
+   ],
+   "R_PYROX_1": [
+    "lp_3589",
+    "lp_0849",
+    "lp_2629",
+    "lp_0852",
+    "lp_3587"
+   ],
+   "R_PHETRS_1": [
+    "lp_1559",
+    "lp_1558"
+   ],
+   "R_PHETA1": [
+    "lp_2551",
+    "lp_1739",
+    "lp_1280",
+    "lp_2684"
+   ],
+   "R_MNLpts": [
+    "lp_1274",
+    "lp_0232",
+    "lp_0230",
+    "lp_1273"
+   ],
+   "R_FMETDF": [
+    "lp_2155",
+    "lp_2935"
+   ],
+   "R_IGPS": [
+    "lp_1655"
+   ],
+   "R_BGLA1": [
+    "lp_0440",
+    "lp_2777",
+    "lp_2778",
+    "lp_3011"
+   ],
+   "R_RPE": [
+    "lp_1621"
+   ],
+   "R_HETZK": [
+    "lp_0113"
+   ],
+   "R_MNabc": [
+    "lp_1919",
+    "lp_1095",
+    "lp_1096",
+    "lp_1097"
+   ],
+   "R_MDH": [
+    "lp_3150"
+   ],
+   "R_CYSTRS_1": [
+    "lp_0610"
+   ],
+   "R_SBTD": [
+    "lp_3545"
+   ],
+   "R_RPI": [
+    "lp_0602",
+    "lp_0354"
+   ],
+   "R_LCTSt": [
+    "lp_3468",
+    "lp_3486"
+   ],
+   "R_MCMAT2": [
+    "lp_1675"
+   ],
+   "R_GLUCYS": [
+    "lp_2336",
+    "lp_2324"
+   ],
+   "R_AGDC": [
+    "lp_0562"
+   ],
+   "R_GTHPi": [
+    "lp_0220"
+   ],
+   "R_DHDPS": [
+    "lp_2123",
+    "lp_2685"
+   ],
+   "R_M1PD": [
+    "lp_0233"
+   ],
+   "R_ILETA": [
+    "lp_2390"
+   ],
+   "R_PGM": [
+    "lp_0205",
+    "lp_0597",
+    "lp_3170",
+    "lp_2170",
+    "lp_0901",
+    "lp_0900",
+    "lp_1785",
+    "lp_2868",
+    "lp_2785"
+   ],
+   "R_PGL": [
+    "lp_2219"
+   ],
+   "R_PGK": [
+    "lp_0790"
+   ],
+   "R_FUCt": [
+    "lp_0498"
+   ],
+   "R_PGI": [
+    "lp_2502"
+   ],
+   "R_PTRCabc": [
+    "lp_0318",
+    "lp_0315",
+    "lp_0316",
+    "lp_0317"
+   ],
+   "R_FMNAT": [
+    "lp_2031",
+    "lp_0850"
+   ],
+   "R_GALK2": [
+    "lp_3482"
+   ],
+   "R_RMI": [
+    "lp_3593"
+   ],
+   "R_TRPS1": [
+    "lp_1658",
+    "lp_1657"
+   ],
+   "R_THZPSN2": [
+    "lp_1479"
+   ],
+   "R_LacR": [
+    "lp_0105",
+    "lp_0104",
+    "lp_0107",
+    "lp_0106",
+    "lp_0109"
+   ],
+   "R_AMANAPEr": [
+    "lp_3571"
+   ],
+   "R_DALTAL": [
+    "lp_2017",
+    "lp_2016",
+    "lp_2019",
+    "lp_2018",
+    "lp_1406"
+   ],
+   "R_NADHPO": [
+    "lp_2544",
+    "lp_1445"
+   ],
+   "R_G3PCT": [
+    "lp_1248",
+    "lp_0267"
+   ],
+   "R_SUCpts": [
+    "lp_1274",
+    "lp_0185",
+    "lp_3219",
+    "lp_1273",
+    "lp_3522",
+    "lp_3520"
+   ],
+   "R_DAGGT_LPL": [
+    "lp_1275",
+    "lp_1276"
+   ],
+   "R_ARGTRS_1": [
+    "lp_1391"
+   ],
+   "R_F6PA": [
+    "lp_2600",
+    "lp_3617"
+   ],
+   "R_FTHFCL": [
+    "lp_1570"
+   ],
+   "R_PRFGS_1": [
+    "lp_2726",
+    "lp_2725",
+    "lp_2724"
+   ],
+   "R_UDCPDPS": [
+    "lp_2051",
+    "lp_1134",
+    "lp_1066"
+   ],
+   "R_ILEabc": [
+    "lp_2985",
+    "lp_2984",
+    "lp_2983",
+    "lp_2982",
+    "lp_2981"
+   ],
+   "R_RBLK2": [
+    "lp_3556"
+   ],
+   "R_ACKr": [
+    "lp_0310",
+    "lp_2242",
+    "lp_0210"
+   ],
+   "R_LYSTRS_1": [
+    "lp_0550"
+   ],
+   "R_GMPS2": [
+    "lp_0914"
+   ],
+   "R_MGDS": [
+    "lp_1491",
+    "lp_1493"
+   ],
+   "R_AGPR": [
+    "lp_0528",
+    "lp_0487"
+   ],
+   "R_GLYBabc": [
+    "lp_0367",
+    "lp_0368",
+    "lp_1607",
+    "lp_1609",
+    "lp_1608",
+    "lp_1610"
+   ],
+   "R_DHORD6": [
+    "lp_2699"
+   ],
+   "R_PGAMT": [
+    "lp_0820"
+   ],
+   "R_SHKK": [
+    "lp_2033"
+   ],
+   "R_GLYK": [
+    "lp_0834",
+    "lp_0370"
+   ],
+   "R_CYTB_B2": [
+    "lp_1128",
+    "lp_1129",
+    "lp_1125",
+    "lp_1126"
+   ],
+   "R_HISTP": [
+    "lp_2558",
+    "lp_2563"
+   ],
+   "R_ALATRS_1": [
+    "lp_2277"
+   ],
+   "R_LACZ": [
+    "lp_3469",
+    "lp_3483",
+    "lp_3484"
+   ],
+   "R_DPMVD": [
+    "lp_1734"
+   ],
+   "R_RBK_L1": [
+    "lp_3556"
+   ],
+   "R_THMDt2": [
+    "lp_3204"
+   ],
+   "R_CSNt2": [
+    "lp_3374"
+   ],
+   "R_DURIK1": [
+    "lp_2379"
+   ],
+   "R_HISTD": [
+    "lp_2559"
+   ],
+   "R_PRMICI": [
+    "lp_2556"
+   ],
+   "R_ACPS2": [
+    "lp_1629",
+    "lp_0522",
+    "lp_1672"
+   ],
+   "R_PROTRS_1": [
+    "lp_2048"
+   ],
+   "R_TARTD": [
+    "lp_1089",
+    "lp_1090"
+   ],
+   "R_APATi": [
+    "lp_2264"
+   ],
+   "R_CMLDC": [
+    "lp_2852"
+   ],
+   "R_ENO": [
+    "lp_1920",
+    "lp_0792"
+   ],
+   "R_MAN6PI": [
+    "lp_2384"
+   ],
+   "R_PRAGSr": [
+    "lp_2719"
+   ],
+   "R_CHLabc": [
+    "lp_0367",
+    "lp_0368",
+    "lp_1607",
+    "lp_1609",
+    "lp_1608",
+    "lp_1610"
+   ],
+   "R_LDH_L": [
+    "lp_1101",
+    "lp_0537"
+   ],
+   "R_AEPabc": [
+    "lp_0714",
+    "lp_0715",
+    "lp_0713",
+    "lp_0712"
+   ],
+   "R_TDPGDH_1": [
+    "lp_1189"
+   ],
+   "R_LDH_D": [
+    "lp_2057"
+   ],
+   "R_IG3PS_1": [
+    "lp_2554",
+    "lp_2557"
+   ],
+   "R_MTAN": [
+    "lp_2181"
+   ],
+   "R_MALTabc": [
+    "lp_0178",
+    "lp_0175",
+    "lp_0176",
+    "lp_0177",
+    "lp_0180"
+   ],
+   "R_DINSK": [
+    "lp_1329",
+    "lp_1011"
+   ],
+   "R_ILETRS_1": [
+    "lp_2187"
+   ],
+   "R_TYRTA": [
+    "lp_2551",
+    "lp_1739",
+    "lp_1280",
+    "lp_2684"
+   ],
+   "R_CELBpts": [
+    "lp_1274",
+    "lp_3009",
+    "lp_3008",
+    "lp_3010",
+    "lp_2781",
+    "lp_2780",
+    "lp_1273"
+   ],
+   "R_NADS1": [
+    "lp_0566"
+   ],
+   "R_FRUpts": [
+    "lp_1274",
+    "lp_2097",
+    "lp_1273"
+   ],
+   "R_PSERT": [
+    "lp_0204"
+   ],
+   "R_DB4PS": [
+    "lp_1437"
+   ],
+   "R_MPTS_LPL": [
+    "lp_1478",
+    "lp_1479"
+   ],
+   "R_ADPRDP": [
+    "lp_2762",
+    "lp_1790",
+    "lp_2183"
+   ],
+   "R_MALT": [
+    "lp_0174"
+   ],
+   "R_HODR8": [
+    "lp_1674"
+   ],
+   "R_MOCOS_LPL": [
+    "lp_1494"
+   ],
+   "R_GNK": [
+    "lp_1250"
+   ],
+   "R_NADH4": [
+    "lp_1069",
+    "lp_0313"
+   ],
+   "R_IMPC": [
+    "lp_2720"
+   ],
+   "R_RAFGH": [
+    "lp_3485"
+   ],
+   "R_UPPRT": [
+    "lp_2374"
+   ],
+   "R_DHORTS": [
+    "lp_2702"
+   ],
+   "R_UMPK": [
+    "lp_2053"
+   ],
+   "R_DHNPA_1": [
+    "lp_3299"
+   ],
+   "R_YUMPS": [
+    "lp_2032",
+    "lp_2221",
+    "lp_0963",
+    "lp_1781",
+    "lp_2653",
+    "lp_1888",
+    "lp_1319",
+    "lp_1076"
+   ],
+   "R_HEX1": [
+    "lp_1573"
+   ],
+   "R_DDGLK": [
+    "lp_0253"
+   ],
+   "R_HEX7": [
+    "lp_0184",
+    "lp_3637"
+   ],
+   "R_TMDPK": [
+    "lp_1622"
+   ],
+   "R_G1PACT": [
+    "lp_0467"
+   ],
+   "R_UAMAS": [
+    "lp_1462"
+   ],
+   "R_UGMDDS2_LPL": [
+    "lp_0518"
+   ],
+   "R_MPL": [
+    "lp_3530",
+    "lp_0181",
+    "lp_1730",
+    "lp_0028"
+   ],
+   "R_PUNP5": [
+    "lp_0125"
+   ],
+   "R_PUNP4": [
+    "lp_0125"
+   ],
+   "R_MCMAT5": [
+    "lp_1675"
+   ],
+   "R_MCMAT4": [
+    "lp_1675"
+   ],
+   "R_PUNP1": [
+    "lp_0125"
+   ],
+   "R_CHLt2": [
+    "lp_3324"
+   ],
+   "R_PUNP3": [
+    "lp_0125"
+   ],
+   "R_PUNP2": [
+    "lp_0125"
+   ],
+   "R_GLUPRT": [
+    "lp_2723"
+   ],
+   "R_INS2D": [
+    "lp_3612",
+    "lp_3608",
+    "lp_3606",
+    "lp_3605"
+   ],
+   "R_LEUTA": [
+    "lp_2390"
+   ],
+   "R_OCMAT3": [
+    "lp_1681"
+   ],
+   "R_PALDH": [
+    "lp_0711"
+   ],
+   "R_MALLAC": [
+    "lp_1118"
+   ],
+   "R_UAGDP": [
+    "lp_0467"
+   ],
+   "R_DPR": [
+    "lp_2788",
+    "lp_2532"
+   ],
+   "R_AEPPT": [
+    "lp_0710"
+   ],
+   "R_TALA": [
+    "lp_3539"
+   ],
+   "R_ACHBS": [
+    "lp_1005"
+   ],
+   "R_AMAA": [
+    "lp_1982"
+   ],
+   "R_ARAB_Lt": [
+    "lp_3557"
+   ],
+   "R_UAMAGS": [
+    "lp_2197"
+   ],
+   "R_GLYALDDr": [
+    "lp_0047"
+   ],
+   "R_PYDXK2": [
+    "lp_0863"
+   ],
+   "R_MACPMT": [
+    "lp_1673"
+   ],
+   "R_ARGSS": [
+    "lp_0775"
+   ],
+   "R_D_LACt2": [
+    "lp_1814"
+   ],
+   "R_GRTAL": [
+    "lp_2747",
+    "lp_2989",
+    "lp_1372"
+   ],
+   "R_ADSL2r": [
+    "lp_3269"
+   ],
+   "R_ANPRT": [
+    "lp_1654"
+   ],
+   "R_SUCR": [
+    "lp_3220"
+   ],
+   "R_DAGK_LPL": [
+    "lp_1968"
+   ],
+   "R_MTHPTGHM": [
+    "lp_1375"
+   ],
+   "R_CMPDC": [
+    "lp_3665"
+   ],
+   "R_DARTAL": [
+    "lp_2017",
+    "lp_2016",
+    "lp_2019",
+    "lp_2018",
+    "lp_1406"
+   ],
+   "R_G1PTMT": [
+    "lp_1186"
+   ],
+   "R_TMDK2": [
+    "lp_2379"
+   ],
+   "R_GARFT": [
+    "lp_2721"
+   ],
+   "R_GPDDA5": [
+    "lp_2582",
+    "lp_1328",
+    "lp_2344",
+    "lp_1578"
+   ],
+   "R_TMDK1": [
+    "lp_2379"
+   ],
+   "R_G3POc": [
+    "lp_0371"
+   ],
+   "R_GPDDA2": [
+    "lp_2582",
+    "lp_1328",
+    "lp_2344",
+    "lp_1578"
+   ],
+   "R_GPDDA1": [
+    "lp_2582",
+    "lp_1328",
+    "lp_2344",
+    "lp_1578"
+   ],
+   "R_L_LACt2r": [
+    "lp_1814"
+   ],
+   "R_HBUR1": [
+    "lp_1674"
+   ],
+   "R_AMANK": [
+    "lp_3567"
+   ],
+   "R_GAPD": [
+    "lp_0789"
+   ],
+   "R_HHYHL2": [
+    "lp_1670",
+    "lp_1677"
+   ],
+   "R_UAAGDS": [
+    "lp_0977"
+   ],
+   "R_HTDHL6": [
+    "lp_1670",
+    "lp_1677"
+   ],
+   "R_METAT": [
+    "lp_1301"
+   ],
+   "R_XANt2": [
+    "lp_2710"
+   ],
+   "R_ARGSL": [
+    "lp_0776"
+   ],
+   "R_ADA": [
+    "lp_0696"
+   ],
+   "R_RNDR2": [
+    "lp_0693",
+    "lp_0692"
+   ],
+   "R_RNDR3": [
+    "lp_0693",
+    "lp_0692"
+   ],
+   "R_ADPDS": [
+    "lp_2263"
+   ],
+   "R_ADD": [
+    "lp_3334"
+   ],
+   "R_TRPTRS_1": [
+    "lp_0434"
+   ],
+   "R_PYK": [
+    "lp_1897"
+   ],
+   "R_THDPS": [
+    "lp_2264"
+   ],
+   "R_CHORS": [
+    "lp_2037"
+   ],
+   "R_PRAIi": [
+    "lp_1656"
+   ],
+   "R_PPA": [
+    "lp_1837"
+   ],
+   "R_NOX2": [
+    "lp_1350",
+    "lp_3449",
+    "lp_1925",
+    "lp_1941",
+    "lp_0760",
+    "lp_0766"
+   ],
+   "R_ACGK": [
+    "lp_0488",
+    "lp_0530"
+   ],
+   "R_G6PDH2r": [
+    "lp_2681"
+   ],
+   "R_HPPK": [
+    "lp_3298"
+   ],
+   "R_LEUTRS_1": [
+    "lp_1316"
+   ],
+   "R_HCO3E": [
+    "lp_2736"
+   ],
+   "R_CHORM": [
+    "lp_1085"
+   ],
+   "R_ATPPRT": [
+    "lp_2560"
+   ],
+   "R_ACALD": [
+    "lp_0329",
+    "lp_3662"
+   ],
+   "R_EPPP": [
+    "lp_0841",
+    "lp_0446",
+    "lp_0843"
+   ],
+   "R_ASPR": [
+    "lp_1523"
+   ],
+   "R_PNTK": [
+    "lp_0913"
+   ],
+   "R_PPS": [
+    "lp_1912"
+   ],
+   "R_ASPT": [
+    "lp_2830"
+   ],
+   "R_ACLDC": [
+    "lp_2030"
+   ],
+   "R_RMK": [
+    "lp_3595"
+   ],
+   "R_FUM": [
+    "lp_1112"
+   ],
+   "R_TREpts": [
+    "lp_1274",
+    "lp_0264",
+    "lp_0265",
+    "lp_1273"
+   ],
+   "R_ORNTAC": [
+    "lp_0529"
+   ],
+   "R_PTPATi": [
+    "lp_2133"
+   ],
+   "R_GLUTRS_2": [
+    "lp_0609"
+   ],
+   "R_PRATPP": [
+    "lp_2552"
+   ],
+   "R_GTPCI": [
+    "lp_3297"
+   ],
+   "R_ASPK": [
+    "lp_0979",
+    "lp_2308"
+   ],
+   "R_AHSERL2": [
+    "lp_2536"
+   ]
+  }
+ },
+ "__idx__": {
+  "lp_0263": "lab-lpl",
+  "lp_0264": "lab-lpl",
+  "lp_3567": "lab-lpl",
+  "lp_0267": "lab-lpl",
+  "lp_0268": "lab-lpl",
+  "lp_0269": "lab-lpl",
+  "lp_3568": "lab-lpl",
+  "lp_1570": "lab-lpl",
+  "lp_0852": "lab-lpl",
+  "lp_0498": "lab-lpl",
+  "lp_2219": "lab-lpl",
+  "lp_0854": "lab-lpl",
+  "lp_2600": "lab-lpl",
+  "lp_2213": "lab-lpl",
+  "lp_3204": "lab-lpl",
+  "lp_2598": "lab-lpl",
+  "lp_2591": "lab-lpl",
+  "lp_2596": "lab-lpl",
+  "lp_0467": "lab-lpl",
+  "lp_2697": "lab-lpl",
+  "lp_2776": "lab-lpl",
+  "lp_0460": "lab-lpl",
+  "lp_2699": "lab-lpl",
+  "lp_0546": "lab-lpl",
+  "lp_1222": "lab-lpl",
+  "lp_1221": "lab-lpl",
+  "lp_1220": "lab-lpl",
+  "lp_1227": "lab-lpl",
+  "lp_1226": "lab-lpl",
+  "lp_1225": "lab-lpl",
+  "lp_1224": "lab-lpl",
+  "lp_1141": "lab-lpl",
+  "lp_1147": "lab-lpl",
+  "lp_3517": "lab-lpl",
+  "lp_2736": "lab-lpl",
+  "lp_0318": "lab-lpl",
+  "lp_1311": "lab-lpl",
+  "lp_0315": "lab-lpl",
+  "lp_2048": "lab-lpl",
+  "lp_0317": "lab-lpl",
+  "lp_0310": "lab-lpl",
+  "lp_0313": "lab-lpl",
+  "lp_0016": "lab-lpl",
+  "lp_2322": "lab-lpl",
+  "lp_2321": "lab-lpl",
+  "lp_2326": "lab-lpl",
+  "lp_2325": "lab-lpl",
+  "lp_2324": "lab-lpl",
+  "lp_0790": "lab-lpl",
+  "lp_0791": "lab-lpl",
+  "lp_0792": "lab-lpl",
+  "lp_0850": "lab-lpl",
+  "lp_1681": "lab-lpl",
+  "lp_1680": "lab-lpl",
+  "lp_1740": "lab-lpl",
+  "lp_1139": "lab-lpl",
+  "lp_1523": "lab-lpl",
+  "lp_2037": "lab-lpl",
+  "lp_2035": "lab-lpl",
+  "lp_2034": "lab-lpl",
+  "lp_2033": "lab-lpl",
+  "lp_2032": "lab-lpl",
+  "lp_2031": "lab-lpl",
+  "lp_2030": "lab-lpl",
+  "lp_2136": "lab-lpl",
+  "lp_0497": "lab-lpl",
+  "lp_2133": "lab-lpl",
+  "lp_0977": "lab-lpl",
+  "lp_0500": "lab-lpl",
+  "lp_0979": "lab-lpl",
+  "lp_2818": "lab-lpl",
+  "lp_3420": "lab-lpl",
+  "lp_1350": "lab-lpl",
+  "lp_1898": "lab-lpl",
+  "lp_1923": "lab-lpl",
+  "lp_1897": "lab-lpl",
+  "lp_0518": "lab-lpl",
+  "lp_1129": "lab-lpl",
+  "lp_3637": "lab-lpl",
+  "lp_2251": "lab-lpl",
+  "lp_0109": "lab-lpl",
+  "lp_0105": "lab-lpl",
+  "lp_0104": "lab-lpl",
+  "lp_2390": "lab-lpl",
+  "lp_0454": "lab-lpl",
+  "lp_2558": "lab-lpl",
+  "lp_2559": "lab-lpl",
+  "lp_1125": "lab-lpl",
+  "lp_2554": "lab-lpl",
+  "lp_2556": "lab-lpl",
+  "lp_2557": "lab-lpl",
+  "lp_2550": "lab-lpl",
+  "lp_2498": "lab-lpl",
+  "lp_2552": "lab-lpl",
+  "lp_2553": "lab-lpl",
+  "lp_1730": "lab-lpl",
+  "lp_3658": "lab-lpl",
+  "lp_1822": "lab-lpl",
+  "lp_0749": "lab-lpl",
+  "lp_0021": "lab-lpl",
+  "lp_1779": "lab-lpl",
+  "lp_0354": "lab-lpl",
+  "lp_0604": "lab-lpl",
+  "lp_0609": "lab-lpl",
+  "lp_2778": "lab-lpl",
+  "lp_2673": "lab-lpl",
+  "lp_3251": "lab-lpl",
+  "lp_3553": "lab-lpl",
+  "lp_0210": "lab-lpl",
+  "lp_3551": "lab-lpl",
+  "lp_3557": "lab-lpl",
+  "lp_3556": "lab-lpl",
+  "lp_3555": "lab-lpl",
+  "lp_2777": "lab-lpl",
+  "lp_2698": "lab-lpl",
+  "lp_0807": "lab-lpl",
+  "lp_0802": "lab-lpl",
+  "lp_0803": "lab-lpl",
+  "lp_0510": "lab-lpl",
+  "lp_0107": "lab-lpl",
+  "lp_0696": "lab-lpl",
+  "lp_0690": "lab-lpl",
+  "lp_0693": "lab-lpl",
+  "lp_0692": "lab-lpl",
+  "lp_1173": "lab-lpl",
+  "lp_1177": "lab-lpl",
+  "lp_0070": "lab-lpl",
+  "lp_1175": "lab-lpl",
+  "lp_1072": "lab-lpl",
+  "lp_1179": "lab-lpl",
+  "lp_1178": "lab-lpl",
+  "lp_1076": "lab-lpl",
+  "lp_1148": "lab-lpl",
+  "lp_0776": "lab-lpl",
+  "lp_2170": "lab-lpl",
+  "lp_1149": "lab-lpl",
+  "lp_1274": "lab-lpl",
+  "lp_1275": "lab-lpl",
+  "lp_1276": "lab-lpl",
+  "lp_0775": "lab-lpl",
+  "lp_1273": "lab-lpl",
+  "lp_2374": "lab-lpl",
+  "lp_2375": "lab-lpl",
+  "lp_2179": "lab-lpl",
+  "lp_2370": "lab-lpl",
+  "lp_2371": "lab-lpl",
+  "lp_0350": "lab-lpl",
+  "lp_2077": "lab-lpl",
+  "lp_2379": "lab-lpl",
+  "lp_1670": "lab-lpl",
+  "lp_1671": "lab-lpl",
+  "lp_1672": "lab-lpl",
+  "lp_1673": "lab-lpl",
+  "lp_1674": "lab-lpl",
+  "lp_1675": "lab-lpl",
+  "lp_1676": "lab-lpl",
+  "lp_1677": "lab-lpl",
+  "lp_1678": "lab-lpl",
+  "lp_1679": "lab-lpl",
+  "lp_3170": "lab-lpl",
+  "lp_3174": "lab-lpl",
+  "lp_1391": "lab-lpl",
+  "lp_1554": "lab-lpl",
+  "lp_1008": "lab-lpl",
+  "lp_1559": "lab-lpl",
+  "lp_1558": "lab-lpl",
+  "lp_1005": "lab-lpl",
+  "lp_1413": "lab-lpl",
+  "lp_2107": "lab-lpl",
+  "lp_2106": "lab-lpl",
+  "lp_2105": "lab-lpl",
+  "lp_2104": "lab-lpl",
+  "lp_2103": "lab-lpl",
+  "lp_2102": "lab-lpl",
+  "lp_2101": "lab-lpl",
+  "lp_2100": "lab-lpl",
+  "lp_2108": "lab-lpl",
+  "lp_3554": "lab-lpl",
+  "lp_1480": "lab-lpl",
+  "lp_0537": "lab-lpl",
+  "lp_2076": "lab-lpl",
+  "lp_0530": "lab-lpl",
+  "lp_1301": "lab-lpl",
+  "lp_0265": "lab-lpl",
+  "lp_0316": "lab-lpl",
+  "lp_1095": "lab-lpl",
+  "lp_1096": "lab-lpl",
+  "lp_1097": "lab-lpl",
+  "lp_1090": "lab-lpl",
+  "lp_1093": "lab-lpl",
+  "lp_2738": "lab-lpl",
+  "lp_0344": "lab-lpl",
+  "lp_1869": "lab-lpl",
+  "lp_2855": "lab-lpl",
+  "lp_2852": "lab-lpl",
+  "lp_1105": "lab-lpl",
+  "lp_2634": "lab-lpl",
+  "lp_0529": "lab-lpl",
+  "lp_0528": "lab-lpl",
+  "lp_0255": "lab-lpl",
+  "lp_0254": "lab-lpl",
+  "lp_3595": "lab-lpl",
+  "lp_0256": "lab-lpl",
+  "lp_3593": "lab-lpl",
+  "lp_0522": "lab-lpl",
+  "lp_0253": "lab-lpl",
+  "lp_0488": "lab-lpl",
+  "lp_3219": "lab-lpl",
+  "lp_0842": "lab-lpl",
+  "lp_0843": "lab-lpl",
+  "lp_3608": "lab-lpl",
+  "lp_0848": "lab-lpl",
+  "lp_0481": "lab-lpl",
+  "lp_3605": "lab-lpl",
+  "lp_2200": "lab-lpl",
+  "lp_3601": "lab-lpl",
+  "lp_0487": "lab-lpl",
+  "lp_2312": "lab-lpl",
+  "lp_0184": "lab-lpl",
+  "lp_2681": "lab-lpl",
+  "lp_2684": "lab-lpl",
+  "lp_2685": "lab-lpl",
+  "lp_0550": "lab-lpl",
+  "lp_1609": "lab-lpl",
+  "lp_1608": "lab-lpl",
+  "lp_0730": "lab-lpl",
+  "lp_0592": "lab-lpl",
+  "lp_1602": "lab-lpl",
+  "lp_1607": "lab-lpl",
+  "lp_0329": "lab-lpl",
+  "lp_2700": "lab-lpl",
+  "lp_2703": "lab-lpl",
+  "lp_2702": "lab-lpl",
+  "lp_0597": "lab-lpl",
+  "lp_0594": "lab-lpl",
+  "lp_2648": "lab-lpl",
+  "lp_2336": "lab-lpl",
+  "lp_1739": "lab-lpl",
+  "lp_3520": "lab-lpl",
+  "lp_1735": "lab-lpl",
+  "lp_1734": "lab-lpl",
+  "lp_2096": "lab-lpl",
+  "lp_1731": "lab-lpl",
+  "lp_2758": "lab-lpl",
+  "lp_1733": "lab-lpl",
+  "lp_1732": "lab-lpl",
+  "lp_1514": "lab-lpl",
+  "lp_0590": "lab-lpl",
+  "lp_1510": "lab-lpl",
+  "lp_0747": "lab-lpl",
+  "lp_0746": "lab-lpl",
+  "lp_1128": "lab-lpl",
+  "lp_1280": "lab-lpl",
+  "lp_0028": "lab-lpl",
+  "lp_1696": "lab-lpl",
+  "lp_0027": "lab-lpl",
+  "lp_1126": "lab-lpl",
+  "lp_0025": "lab-lpl",
+  "lp_0022": "lab-lpl",
+  "lp_0023": "lab-lpl",
+  "lp_0020": "lab-lpl",
+  "lp_0748": "lab-lpl",
+  "lp_2147": "lab-lpl",
+  "lp_0178": "lab-lpl",
+  "lp_3009": "lab-lpl",
+  "lp_3008": "lab-lpl",
+  "lp_3436": "lab-lpl",
+  "lp_1462": "lab-lpl",
+  "lp_2612": "lab-lpl",
+  "lp_1346": "lab-lpl",
+  "lp_3220": "lab-lpl",
+  "lp_1190": "lab-lpl",
+  "lp_1941": "lab-lpl",
+  "lp_1197": "lab-lpl",
+  "lp_1199": "lab-lpl",
+  "lp_1198": "lab-lpl",
+  "lp_3273": "lab-lpl",
+  "lp_2781": "lab-lpl",
+  "lp_3135": "lab-lpl",
+  "lp_0829": "lab-lpl",
+  "lp_3314": "lab-lpl",
+  "lp_2242": "lab-lpl",
+  "lp_3587": "lab-lpl",
+  "lp_3313": "lab-lpl",
+  "lp_0113": "lab-lpl",
+  "lp_0446": "lab-lpl",
+  "lp_0447": "lab-lpl",
+  "lp_0440": "lab-lpl",
+  "lp_0114": "lab-lpl",
+  "lp_0115": "lab-lpl",
+  "lp_3485": "lab-lpl",
+  "lp_3484": "lab-lpl",
+  "lp_3487": "lab-lpl",
+  "lp_3486": "lab-lpl",
+  "lp_3481": "lab-lpl",
+  "lp_3480": "lab-lpl",
+  "lp_3483": "lab-lpl",
+  "lp_3482": "lab-lpl",
+  "lp_2561": "lab-lpl",
+  "lp_2560": "lab-lpl",
+  "lp_2563": "lab-lpl",
+  "lp_3092": "lab-lpl",
+  "lp_2720": "lab-lpl",
+  "lp_2807": "lab-lpl",
+  "lp_2969": "lab-lpl",
+  "lp_1932": "lab-lpl",
+  "lp_1837": "lab-lpl",
+  "lp_0878": "lab-lpl",
+  "lp_2747": "lab-lpl",
+  "lp_0205": "lab-lpl",
+  "lp_0369": "lab-lpl",
+  "lp_0203": "lab-lpl",
+  "lp_0367": "lab-lpl",
+  "lp_0363": "lab-lpl",
+  "lp_0362": "lab-lpl",
+  "lp_3548": "lab-lpl",
+  "lp_2985": "lab-lpl",
+  "lp_2984": "lab-lpl",
+  "lp_2983": "lab-lpl",
+  "lp_2982": "lab-lpl",
+  "lp_2981": "lab-lpl",
+  "lp_0168": "lab-lpl",
+  "lp_3269": "lab-lpl",
+  "lp_0166": "lab-lpl",
+  "lp_3544": "lab-lpl",
+  "lp_3545": "lab-lpl",
+  "lp_2989": "lab-lpl",
+  "lp_3547": "lab-lpl",
+  "lp_1134": "lab-lpl",
+  "lp_0834": "lab-lpl",
+  "lp_0562": "lab-lpl",
+  "lp_0561": "lab-lpl",
+  "lp_0566": "lab-lpl",
+  "lp_0565": "lab-lpl",
+  "lp_0564": "lab-lpl",
+  "lp_0066": "lab-lpl",
+  "lp_1599": "lab-lpl",
+  "lp_1169": "lab-lpl",
+  "lp_1249": "lab-lpl",
+  "lp_1248": "lab-lpl",
+  "lp_0709": "lab-lpl",
+  "lp_2187": "lab-lpl",
+  "lp_2185": "lab-lpl",
+  "lp_1790": "lab-lpl",
+  "lp_1245": "lab-lpl",
+  "lp_2181": "lab-lpl",
+  "lp_2180": "lab-lpl",
+  "lp_0901": "lab-lpl",
+  "lp_0900": "lab-lpl",
+  "lp_2349": "lab-lpl",
+  "lp_2067": "lab-lpl",
+  "lp_1425": "lab-lpl",
+  "lp_3522": "lab-lpl",
+  "lp_1385": "lab-lpl",
+  "lp_0017": "lab-lpl",
+  "lp_1987": "lab-lpl",
+  "lp_1982": "lab-lpl",
+  "lp_1980": "lab-lpl",
+  "lp_1981": "lab-lpl",
+  "lp_1011": "lab-lpl",
+  "lp_1012": "lab-lpl",
+  "lp_1541": "lab-lpl",
+  "lp_1925": "lab-lpl",
+  "lp_2110": "lab-lpl",
+  "lp_2111": "lab-lpl",
+  "lp_1491": "lab-lpl",
+  "lp_1492": "lab-lpl",
+  "lp_1493": "lab-lpl",
+  "lp_1494": "lab-lpl",
+  "lp_1495": "lab-lpl",
+  "lp_1496": "lab-lpl",
+  "lp_1497": "lab-lpl",
+  "lp_1498": "lab-lpl",
+  "lp_1499": "lab-lpl",
+  "lp_0047": "lab-lpl",
+  "lp_2367": "lab-lpl",
+  "lp_2366": "lab-lpl",
+  "lp_2365": "lab-lpl",
+  "lp_2830": "lab-lpl",
+  "lp_0602": "lab-lpl",
+  "lp_3194": "lab-lpl",
+  "lp_1870": "lab-lpl",
+  "lp_1874": "lab-lpl",
+  "lp_2057": "lab-lpl",
+  "lp_2843": "lab-lpl",
+  "lp_1977": "lab-lpl",
+  "lp_2844": "lab-lpl",
+  "lp_2722": "lab-lpl",
+  "lp_2788": "lab-lpl",
+  "lp_3589": "lab-lpl",
+  "lp_0125": "lab-lpl",
+  "lp_0242": "lab-lpl",
+  "lp_2780": "lab-lpl",
+  "lp_3586": "lab-lpl",
+  "lp_2629": "lab-lpl",
+  "lp_2785": "lab-lpl",
+  "lp_0531": "lab-lpl",
+  "lp_0532": "lab-lpl",
+  "lp_3618": "lab-lpl",
+  "lp_3619": "lab-lpl",
+  "lp_1781": "lab-lpl",
+  "lp_3615": "lab-lpl",
+  "lp_3617": "lab-lpl",
+  "lp_2196": "lab-lpl",
+  "lp_3612": "lab-lpl",
+  "lp_0872": "lab-lpl",
+  "lp_2197": "lab-lpl",
+  "lp_1785": "lab-lpl",
+  "lp_2936": "lab-lpl",
+  "lp_2935": "lab-lpl",
+  "lp_2932": "lab-lpl",
+  "lp_3295": "lab-lpl",
+  "lp_3296": "lab-lpl",
+  "lp_3297": "lab-lpl",
+  "lp_3298": "lab-lpl",
+  "lp_3299": "lab-lpl",
+  "lp_0337": "lab-lpl",
+  "lp_1665": "lab-lpl",
+  "lp_0330": "lab-lpl",
+  "lp_1205": "lab-lpl",
+  "lp_1204": "lab-lpl",
+  "lp_1206": "lab-lpl",
+  "lp_1201": "lab-lpl",
+  "lp_1200": "lab-lpl",
+  "lp_1203": "lab-lpl",
+  "lp_1202": "lab-lpl",
+  "lp_3530": "lab-lpl",
+  "lp_2653": "lab-lpl",
+  "lp_1751": "lab-lpl",
+  "lp_2303": "lab-lpl",
+  "lp_2650": "lab-lpl",
+  "lp_0589": "lab-lpl",
+  "lp_0588": "lab-lpl",
+  "lp_0339": "lab-lpl",
+  "lp_0233": "lab-lpl",
+  "lp_2308": "lab-lpl",
+  "lp_2659": "lab-lpl",
+  "lp_0230": "lab-lpl",
+  "lp_0914": "lab-lpl",
+  "lp_1729": "lab-lpl",
+  "lp_1721": "lab-lpl",
+  "lp_1500": "lab-lpl",
+  "lp_0587": "lab-lpl",
+  "lp_1058": "lab-lpl",
+  "lp_0586": "lab-lpl",
+  "lp_0204": "lab-lpl",
+  "lp_1119": "lab-lpl",
+  "lp_1118": "lab-lpl",
+  "lp_0756": "lab-lpl",
+  "lp_0757": "lab-lpl",
+  "lp_0750": "lab-lpl",
+  "lp_0751": "lab-lpl",
+  "lp_3538": "lab-lpl",
+  "lp_1298": "lab-lpl",
+  "lp_1112": "lab-lpl",
+  "lp_1114": "lab-lpl",
+  "lp_0055": "lab-lpl",
+  "lp_0368": "lab-lpl",
+  "lp_2017": "lab-lpl",
+  "lp_2016": "lab-lpl",
+  "lp_2019": "lab-lpl",
+  "lp_2018": "lab-lpl",
+  "lp_2152": "lab-lpl",
+  "lp_2153": "lab-lpl",
+  "lp_2154": "lab-lpl",
+  "lp_2155": "lab-lpl",
+  "lp_0232": "lab-lpl",
+  "lp_1614": "lab-lpl",
+  "lp_0703": "lab-lpl",
+  "lp_2710": "lab-lpl",
+  "lp_1610": "lab-lpl",
+  "lp_0956": "lab-lpl",
+  "lp_0957": "lab-lpl",
+  "lp_0952": "lab-lpl",
+  "lp_1375": "lab-lpl",
+  "lp_1374": "lab-lpl",
+  "lp_1372": "lab-lpl",
+  "lp_3407": "lab-lpl",
+  "lp_1379": "lab-lpl",
+  "lp_1378": "lab-lpl",
+  "lp_3150": "lab-lpl",
+  "lp_1573": "lab-lpl",
+  "lp_1478": "lab-lpl",
+  "lp_1479": "lab-lpl",
+  "lp_1578": "lab-lpl",
+  "lp_1188": "lab-lpl",
+  "lp_1189": "lab-lpl",
+  "lp_1186": "lab-lpl",
+  "lp_1184": "lab-lpl",
+  "lp_1185": "lab-lpl",
+  "lp_1182": "lab-lpl",
+  "lp_1183": "lab-lpl",
+  "lp_1180": "lab-lpl",
+  "lp_1181": "lab-lpl",
+  "lp_3652": "lab-lpl",
+  "lp_3653": "lab-lpl",
+  "lp_3654": "lab-lpl",
+  "lp_0169": "lab-lpl",
+  "lp_2570": "lab-lpl",
+  "lp_3657": "lab-lpl",
+  "lp_0471": "lab-lpl",
+  "lp_2277": "lab-lpl",
+  "lp_3266": "lab-lpl",
+  "lp_3492": "lab-lpl",
+  "lp_3493": "lab-lpl",
+  "lp_3491": "lab-lpl",
+  "lp_3494": "lab-lpl",
+  "lp_3498": "lab-lpl",
+  "lp_3499": "lab-lpl",
+  "lp_0185": "lab-lpl",
+  "lp_3599": "lab-lpl",
+  "lp_2873": "lab-lpl",
+  "lp_0527": "lab-lpl",
+  "lp_1920": "lab-lpl",
+  "lp_3546": "lab-lpl",
+  "lp_3010": "lab-lpl",
+  "lp_0526": "lab-lpl",
+  "lp_2878": "lab-lpl",
+  "lp_0271": "lab-lpl",
+  "lp_3571": "lab-lpl",
+  "lp_0372": "lab-lpl",
+  "lp_0523": "lab-lpl",
+  "lp_0370": "lab-lpl",
+  "lp_0371": "lab-lpl",
+  "lp_3578": "lab-lpl",
+  "lp_3592": "lab-lpl",
+  "lp_0826": "lab-lpl",
+  "lp_3374": "lab-lpl",
+  "lp_0822": "lab-lpl",
+  "lp_0820": "lab-lpl",
+  "lp_0174": "lab-lpl",
+  "lp_0175": "lab-lpl",
+  "lp_0176": "lab-lpl",
+  "lp_2610": "lab-lpl",
+  "lp_0170": "lab-lpl",
+  "lp_0980": "lab-lpl",
+  "lp_3270": "lab-lpl",
+  "lp_3271": "lab-lpl",
+  "lp_0841": "lab-lpl",
+  "lp_2582": "lab-lpl",
+  "lp_2585": "lab-lpl",
+  "lp_0571": "lab-lpl",
+  "lp_0572": "lab-lpl",
+  "lp_0575": "lab-lpl",
+  "lp_0576": "lab-lpl",
+  "lp_0577": "lab-lpl",
+  "lp_0579": "lab-lpl",
+  "lp_3539": "lab-lpl",
+  "lp_1253": "lab-lpl",
+  "lp_1250": "lab-lpl",
+  "lp_1251": "lab-lpl",
+  "lp_1622": "lab-lpl",
+  "lp_1621": "lab-lpl",
+  "lp_2727": "lab-lpl",
+  "lp_2726": "lab-lpl",
+  "lp_2725": "lab-lpl",
+  "lp_2724": "lab-lpl",
+  "lp_2723": "lab-lpl",
+  "lp_2199": "lab-lpl",
+  "lp_2053": "lab-lpl",
+  "lp_3606": "lab-lpl",
+  "lp_0710": "lab-lpl",
+  "lp_0711": "lab-lpl",
+  "lp_0712": "lab-lpl",
+  "lp_0713": "lab-lpl",
+  "lp_0714": "lab-lpl",
+  "lp_0715": "lab-lpl",
+  "lp_2729": "lab-lpl",
+  "lp_2728": "lab-lpl",
+  "lp_0912": "lab-lpl",
+  "lp_0913": "lab-lpl",
+  "lp_3449": "lab-lpl",
+  "lp_1713": "lab-lpl",
+  "lp_1658": "lab-lpl",
+  "lp_0785": "lab-lpl",
+  "lp_1652": "lab-lpl",
+  "lp_1653": "lab-lpl",
+  "lp_0789": "lab-lpl",
+  "lp_3600": "lab-lpl",
+  "lp_1656": "lab-lpl",
+  "lp_1657": "lab-lpl",
+  "lp_1654": "lab-lpl",
+  "lp_1655": "lab-lpl",
+  "lp_0106": "lab-lpl",
+  "lp_1437": "lab-lpl",
+  "lp_1530": "lab-lpl",
+  "lp_2123": "lab-lpl",
+  "lp_0399": "lab-lpl",
+  "lp_2719": "lab-lpl",
+  "lp_0963": "lab-lpl",
+  "lp_3085": "lab-lpl",
+  "lp_2829": "lab-lpl",
+  "lp_2532": "lab-lpl",
+  "lp_2825": "lab-lpl",
+  "lp_2531": "lab-lpl",
+  "lp_2536": "lab-lpl",
+  "lp_2537": "lab-lpl",
+  "lp_2535": "lab-lpl",
+  "lp_1445": "lab-lpl",
+  "lp_1919": "lab-lpl",
+  "lp_1328": "lab-lpl",
+  "lp_1329": "lab-lpl",
+  "lp_3185": "lab-lpl",
+  "lp_1299": "lab-lpl",
+  "lp_1888": "lab-lpl",
+  "lp_0024": "lab-lpl",
+  "lp_3324": "lab-lpl",
+  "lp_1629": "lab-lpl",
+  "lp_1883": "lab-lpl",
+  "lp_2551": "lab-lpl",
+  "lp_1968": "lab-lpl",
+  "lp_3051": "lab-lpl",
+  "lp_1964": "lab-lpl",
+  "lp_1965": "lab-lpl",
+  "lp_3054": "lab-lpl",
+  "lp_2222": "lab-lpl",
+  "lp_2223": "lab-lpl",
+  "lp_2221": "lab-lpl",
+  "lp_0501": "lab-lpl",
+  "lp_2384": "lab-lpl",
+  "lp_0502": "lab-lpl",
+  "lp_0505": "lab-lpl",
+  "lp_2380": "lab-lpl",
+  "lp_0506": "lab-lpl",
+  "lp_2548": "lab-lpl",
+  "lp_2721": "lab-lpl",
+  "lp_0863": "lab-lpl",
+  "lp_3623": "lab-lpl",
+  "lp_2544": "lab-lpl",
+  "lp_0866": "lab-lpl",
+  "lp_3334": "lab-lpl",
+  "lp_3011": "lab-lpl",
+  "lp_1814": "lab-lpl",
+  "lp_1816": "lab-lpl",
+  "lp_1817": "lab-lpl",
+  "lp_3267": "lab-lpl",
+  "lp_2151": "lab-lpl",
+  "lp_0434": "lab-lpl",
+  "lp_1818": "lab-lpl",
+  "lp_1819": "lab-lpl",
+  "lp_0343": "lab-lpl",
+  "lp_1219": "lab-lpl",
+  "lp_0610": "lab-lpl",
+  "lp_0733": "lab-lpl",
+  "lp_0349": "lab-lpl",
+  "lp_1216": "lab-lpl",
+  "lp_2051": "lab-lpl",
+  "lp_1215": "lab-lpl",
+  "lp_2099": "lab-lpl",
+  "lp_2313": "lab-lpl",
+  "lp_0187": "lab-lpl",
+  "lp_2647": "lab-lpl",
+  "lp_0181": "lab-lpl",
+  "lp_0180": "lab-lpl",
+  "lp_2314": "lab-lpl",
+  "lp_2762": "lab-lpl",
+  "lp_0226": "lab-lpl",
+  "lp_0220": "lab-lpl",
+  "lp_2649": "lab-lpl",
+  "lp_2097": "lab-lpl",
+  "lp_0591": "lab-lpl",
+  "lp_2183": "lab-lpl",
+  "lp_0814": "lab-lpl",
+  "lp_2050": "lab-lpl",
+  "lp_1481": "lab-lpl",
+  "lp_2790": "lab-lpl",
+  "lp_1612": "lab-lpl",
+  "lp_2798": "lab-lpl",
+  "lp_1106": "lab-lpl",
+  "lp_1107": "lab-lpl",
+  "lp_3294": "lab-lpl",
+  "lp_1069": "lab-lpl",
+  "lp_1101": "lab-lpl",
+  "lp_1066": "lab-lpl",
+  "lp_1108": "lab-lpl",
+  "lp_1109": "lab-lpl",
+  "lp_0761": "lab-lpl",
+  "lp_0760": "lab-lpl",
+  "lp_2166": "lab-lpl",
+  "lp_0764": "lab-lpl",
+  "lp_0766": "lab-lpl",
+  "lp_2345": "lab-lpl",
+  "lp_2344": "lab-lpl",
+  "lp_0291": "lab-lpl",
+  "lp_2701": "lab-lpl",
+  "lp_0293": "lab-lpl",
+  "lp_2364": "lab-lpl",
+  "lp_2363": "lab-lpl",
+  "lp_2361": "lab-lpl",
+  "lp_1176": "lab-lpl",
+  "lp_2369": "lab-lpl",
+  "lp_2368": "lab-lpl",
+  "lp_2060": "lab-lpl",
+  "lp_0881": "lab-lpl",
+  "lp_0882": "lab-lpl",
+  "lp_0883": "lab-lpl",
+  "lp_1581": "lab-lpl",
+  "lp_2771": "lab-lpl",
+  "lp_2086": "lab-lpl",
+  "lp_3418": "lab-lpl",
+  "lp_1562": "lab-lpl",
+  "lp_1568": "lab-lpl",
+  "lp_1406": "lab-lpl",
+  "lp_0177": "lab-lpl",
+  "lp_3620": "lab-lpl",
+  "lp_2502": "lab-lpl",
+  "lp_2268": "lab-lpl",
+  "lp_0849": "lab-lpl",
+  "lp_3665": "lab-lpl",
+  "lp_2263": "lab-lpl",
+  "lp_3660": "lab-lpl",
+  "lp_2264": "lab-lpl",
+  "lp_3662": "lab-lpl",
+  "lp_1316": "lab-lpl",
+  "lp_1312": "lab-lpl",
+  "lp_3469": "lab-lpl",
+  "lp_3468": "lab-lpl",
+  "lp_3466": "lab-lpl",
+  "lp_0171": "lab-lpl",
+  "lp_3463": "lab-lpl",
+  "lp_1319": "lab-lpl",
+  "lp_1086": "lab-lpl",
+  "lp_1085": "lab-lpl",
+  "lp_1084": "lab-lpl",
+  "lp_1083": "lab-lpl",
+  "lp_1089": "lab-lpl",
+  "lp_1912": "lab-lpl",
+  "lp_2868": "lab-lpl"
+ }
+}

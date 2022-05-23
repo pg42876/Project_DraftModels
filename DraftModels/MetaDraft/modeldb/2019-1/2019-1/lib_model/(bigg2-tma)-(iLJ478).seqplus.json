@@ -1,0 +1,4360 @@
+{
+ "__idx__": {
+  "TM0061": "bigg2-tma",
+  "TM0060": "bigg2-tma",
+  "TM0064": "bigg2-tma",
+  "TM0067": "bigg2-tma",
+  "TM0066": "bigg2-tma",
+  "TM0069": "bigg2-tma",
+  "TM0068": "bigg2-tma",
+  "TM0348": "bigg2-tma",
+  "TM0349": "bigg2-tma",
+  "TM0692": "bigg2-tma",
+  "TM0343": "bigg2-tma",
+  "TM0344": "bigg2-tma",
+  "TM0345": "bigg2-tma",
+  "TM0346": "bigg2-tma",
+  "TM0347": "bigg2-tma",
+  "TM0666": "bigg2-tma",
+  "TM0665": "bigg2-tma",
+  "TM0740": "bigg2-tma",
+  "TM0741": "bigg2-tma",
+  "TM1839": "bigg2-tma",
+  "TM1835": "bigg2-tma",
+  "TM1834": "bigg2-tma",
+  "TM1836": "bigg2-tma",
+  "TM0528": "bigg2-tma",
+  "TM0283": "bigg2-tma",
+  "TM0282": "bigg2-tma",
+  "TM1273": "bigg2-tma",
+  "TM0118": "bigg2-tma",
+  "TM0881": "bigg2-tma",
+  "TM1270": "bigg2-tma",
+  "TM0115": "bigg2-tma",
+  "TM0446": "bigg2-tma",
+  "TM0116": "bigg2-tma",
+  "TM0111": "bigg2-tma",
+  "TM0889": "bigg2-tma",
+  "TM0112": "bigg2-tma",
+  "TM1378": "bigg2-tma",
+  "TM1379": "bigg2-tma",
+  "TM1376": "bigg2-tma",
+  "TM1377": "bigg2-tma",
+  "TM1374": "bigg2-tma",
+  "TM1375": "bigg2-tma",
+  "TM0211": "bigg2-tma",
+  "TM0231": "bigg2-tma",
+  "TM0232": "bigg2-tma",
+  "TM0234": "bigg2-tma",
+  "TM0235": "bigg2-tma",
+  "TM0236": "bigg2-tma",
+  "TM0237": "bigg2-tma",
+  "TM0239": "bigg2-tma",
+  "TM1281": "bigg2-tma",
+  "TM1286": "bigg2-tma",
+  "TM1287": "bigg2-tma",
+  "TM1088": "bigg2-tma",
+  "TM1122": "bigg2-tma",
+  "TM1121": "bigg2-tma",
+  "TM1120": "bigg2-tma",
+  "TM1080": "bigg2-tma",
+  "TM1129": "bigg2-tma",
+  "TM1085": "bigg2-tma",
+  "TM1754": "bigg2-tma",
+  "TM1755": "bigg2-tma",
+  "TM1756": "bigg2-tma",
+  "TM1750": "bigg2-tma",
+  "TM1698": "bigg2-tma",
+  "TM1752": "bigg2-tma",
+  "TM1693": "bigg2-tma",
+  "TM1596": "bigg2-tma",
+  "TM0492": "bigg2-tma",
+  "TM0304": "bigg2-tma",
+  "TM0305": "bigg2-tma",
+  "TM0654": "bigg2-tma",
+  "TM0655": "bigg2-tma",
+  "TM0300": "bigg2-tma",
+  "TM0301": "bigg2-tma",
+  "TM0302": "bigg2-tma",
+  "TM0303": "bigg2-tma",
+  "TM1154": "bigg2-tma",
+  "TM1155": "bigg2-tma",
+  "TM1015": "bigg2-tma",
+  "TM1621": "bigg2-tma",
+  "TM1624": "bigg2-tma",
+  "TM1628": "bigg2-tma",
+  "TM1629": "bigg2-tma",
+  "TM0402": "bigg2-tma",
+  "TM0401": "bigg2-tma",
+  "TM0155": "bigg2-tma",
+  "TM0406": "bigg2-tma",
+  "TM0405": "bigg2-tma",
+  "TM0156": "bigg2-tma",
+  "TM0018": "bigg2-tma",
+  "TM0397": "bigg2-tma",
+  "TM0010": "bigg2-tma",
+  "TM0012": "bigg2-tma",
+  "TM0015": "bigg2-tma",
+  "TM0016": "bigg2-tma",
+  "TM0017": "bigg2-tma",
+  "TM0717": "bigg2-tma",
+  "TM0716": "bigg2-tma",
+  "TM0475": "bigg2-tma",
+  "TM0472": "bigg2-tma",
+  "TM1219": "bigg2-tma",
+  "TM0719": "bigg2-tma",
+  "TM1522": "bigg2-tma",
+  "TM0274": "bigg2-tma",
+  "TM0276": "bigg2-tma",
+  "TM0270": "bigg2-tma",
+  "TM0272": "bigg2-tma",
+  "TM0273": "bigg2-tma",
+  "TM0578": "bigg2-tma",
+  "TM1525": "bigg2-tma",
+  "TM1524": "bigg2-tma",
+  "TM1523": "bigg2-tma",
+  "TM0473": "bigg2-tma",
+  "TM1521": "bigg2-tma",
+  "TM1520": "bigg2-tma",
+  "TM0289": "bigg2-tma",
+  "TM0478": "bigg2-tma",
+  "TM1248": "bigg2-tma",
+  "TM1249": "bigg2-tma",
+  "TM1246": "bigg2-tma",
+  "TM1247": "bigg2-tma",
+  "TM1244": "bigg2-tma",
+  "TM1245": "bigg2-tma",
+  "TM1243": "bigg2-tma",
+  "TM0080": "bigg2-tma",
+  "TM1873": "bigg2-tma",
+  "TM1875": "bigg2-tma",
+  "TM0284": "bigg2-tma",
+  "TM1878": "bigg2-tma",
+  "TM0421": "bigg2-tma",
+  "TM1410": "bigg2-tma",
+  "TM1415": "bigg2-tma",
+  "TM1414": "bigg2-tma",
+  "TM1419": "bigg2-tma",
+  "TM0821": "bigg2-tma",
+  "TM0822": "bigg2-tma",
+  "TM0943": "bigg2-tma",
+  "TM0828": "bigg2-tma",
+  "TM0882": "bigg2-tma",
+  "TM0449": "bigg2-tma",
+  "TM_1438": "bigg2-tma",
+  "TM0880": "bigg2-tma",
+  "TM0447": "bigg2-tma",
+  "TM0114": "bigg2-tma",
+  "TM1667": "bigg2-tma",
+  "TM1662": "bigg2-tma",
+  "TM0443": "bigg2-tma",
+  "TM1705": "bigg2-tma",
+  "TM1469": "bigg2-tma",
+  "TM0356": "bigg2-tma",
+  "TM0058": "bigg2-tma",
+  "TM0059": "bigg2-tma",
+  "TM0055": "bigg2-tma",
+  "TM0056": "bigg2-tma",
+  "TM0057": "bigg2-tma",
+  "TM0720": "bigg2-tma",
+  "TM0721": "bigg2-tma",
+  "TM0689": "bigg2-tma",
+  "TM0688": "bigg2-tma",
+  "TM0752": "bigg2-tma",
+  "TM0751": "bigg2-tma",
+  "TM0539": "bigg2-tma",
+  "TM1202": "bigg2-tma",
+  "TM1203": "bigg2-tma",
+  "TM0438": "bigg2-tma",
+  "TM1204": "bigg2-tma",
+  "TM1560": "bigg2-tma",
+  "TM0124": "bigg2-tma",
+  "TM0027": "bigg2-tma",
+  "TM0434": "bigg2-tma",
+  "TM1564": "bigg2-tma",
+  "TM1361": "bigg2-tma",
+  "TM1223": "bigg2-tma",
+  "TM0546": "bigg2-tma",
+  "TM0547": "bigg2-tma",
+  "TM0545": "bigg2-tma",
+  "TM0542": "bigg2-tma",
+  "TM0540": "bigg2-tma",
+  "TM0228": "bigg2-tma",
+  "TM0224": "bigg2-tma",
+  "TM0548": "bigg2-tma",
+  "TM0549": "bigg2-tma",
+  "TM1518": "bigg2-tma",
+  "TM1519": "bigg2-tma",
+  "TM1516": "bigg2-tma",
+  "TM1517": "bigg2-tma",
+  "TM0869": "bigg2-tma",
+  "TM0862": "bigg2-tma",
+  "TM1097": "bigg2-tma",
+  "TM1096": "bigg2-tma",
+  "TM1095": "bigg2-tma",
+  "TM1093": "bigg2-tma",
+  "TM1090": "bigg2-tma",
+  "TM1099": "bigg2-tma",
+  "TM1747": "bigg2-tma",
+  "TM1746": "bigg2-tma",
+  "TM1744": "bigg2-tma",
+  "TM1749": "bigg2-tma",
+  "TM1748": "bigg2-tma",
+  "TM1585": "bigg2-tma",
+  "TM0917": "bigg2-tma",
+  "TM1429": "bigg2-tma",
+  "TM0911": "bigg2-tma",
+  "TM0913": "bigg2-tma",
+  "TM1426": "bigg2-tma",
+  "TM1424": "bigg2-tma",
+  "TM1425": "bigg2-tma",
+  "TM0736": "bigg2-tma",
+  "TM0645": "bigg2-tma",
+  "TM0647": "bigg2-tma",
+  "TM0317": "bigg2-tma",
+  "TM1068": "bigg2-tma",
+  "TM1062": "bigg2-tma",
+  "TM1063": "bigg2-tma",
+  "TM1066": "bigg2-tma",
+  "TM1067": "bigg2-tma",
+  "TM1064": "bigg2-tma",
+  "TM1065": "bigg2-tma",
+  "TM1737": "bigg2-tma",
+  "TM1733": "bigg2-tma",
+  "TM0168": "bigg2-tma",
+  "TM0166": "bigg2-tma",
+  "TM0167": "bigg2-tma",
+  "TM0161": "bigg2-tma",
+  "TM0261": "bigg2-tma",
+  "TM0269": "bigg2-tma",
+  "TM0268": "bigg2-tma",
+  "TM0509": "bigg2-tma",
+  "TM1559": "bigg2-tma",
+  "TM1396": "bigg2-tma",
+  "TM1397": "bigg2-tma",
+  "TM1393": "bigg2-tma",
+  "TM1255": "bigg2-tma",
+  "TM1398": "bigg2-tma",
+  "TM1250": "bigg2-tma",
+  "TM1253": "bigg2-tma",
+  "TM1848": "bigg2-tma",
+  "TM1845": "bigg2-tma",
+  "TM1840": "bigg2-tma",
+  "TM1192": "bigg2-tma",
+  "TM1193": "bigg2-tma",
+  "TM1190": "bigg2-tma",
+  "TM1191": "bigg2-tma",
+  "TM1196": "bigg2-tma",
+  "TM1197": "bigg2-tma",
+  "TM1194": "bigg2-tma",
+  "TM1195": "bigg2-tma",
+  "TM1198": "bigg2-tma",
+  "TM1199": "bigg2-tma",
+  "TM0216": "bigg2-tma",
+  "TM0217": "bigg2-tma",
+  "TM1785": "bigg2-tma",
+  "TM1784": "bigg2-tma",
+  "TM1783": "bigg2-tma",
+  "TM1782": "bigg2-tma",
+  "TM1781": "bigg2-tma",
+  "TM1780": "bigg2-tma",
+  "TM0184": "bigg2-tma",
+  "TM1828": "bigg2-tma",
+  "TM0189": "bigg2-tma",
+  "TM0959": "bigg2-tma",
+  "TM0958": "bigg2-tma",
+  "TM0813": "bigg2-tma",
+  "TM0814": "bigg2-tma",
+  "TM0819": "bigg2-tma",
+  "TM0953": "bigg2-tma",
+  "TM0952": "bigg2-tma",
+  "TM0955": "bigg2-tma",
+  "TM0954": "bigg2-tma",
+  "TM0956": "bigg2-tma",
+  "TM0843": "bigg2-tma",
+  "TM_1837": "bigg2-tma",
+  "TM1825": "bigg2-tma",
+  "TM0290": "bigg2-tma",
+  "TM1105": "bigg2-tma",
+  "TM0877": "bigg2-tma",
+  "TM1770": "bigg2-tma",
+  "TM1479": "bigg2-tma",
+  "TM1774": "bigg2-tma",
+  "TM0327": "bigg2-tma",
+  "TM0041": "bigg2-tma",
+  "TM0040": "bigg2-tma",
+  "TM0541": "bigg2-tma",
+  "TM1148": "bigg2-tma",
+  "TM1035": "bigg2-tma",
+  "TM1037": "bigg2-tma",
+  "TM1036": "bigg2-tma",
+  "TM1826": "bigg2-tma",
+  "TM1039": "bigg2-tma",
+  "TM1038": "bigg2-tma",
+  "TM1609": "bigg2-tma",
+  "TM0137": "bigg2-tma",
+  "TM0134": "bigg2-tma",
+  "TM0139": "bigg2-tma",
+  "TM0138": "bigg2-tma",
+  "TM1211": "bigg2-tma",
+  "TM0428": "bigg2-tma",
+  "TM1213": "bigg2-tma",
+  "TM1212": "bigg2-tma",
+  "TM1215": "bigg2-tma",
+  "TM1214": "bigg2-tma",
+  "TM0038": "bigg2-tma",
+  "TM0039": "bigg2-tma",
+  "TM0788": "bigg2-tma",
+  "TM0420": "bigg2-tma",
+  "TM0423": "bigg2-tma",
+  "TM0427": "bigg2-tma",
+  "TM0031": "bigg2-tma",
+  "TM1089": "bigg2-tma",
+  "TM1351": "bigg2-tma",
+  "TM0891": "bigg2-tma",
+  "TM1217": "bigg2-tma",
+  "TM1216": "bigg2-tma",
+  "TM0555": "bigg2-tma",
+  "TM0554": "bigg2-tma",
+  "TM0557": "bigg2-tma",
+  "TM0556": "bigg2-tma",
+  "TM0551": "bigg2-tma",
+  "TM0550": "bigg2-tma",
+  "TM0553": "bigg2-tma",
+  "TM0552": "bigg2-tma",
+  "TM0252": "bigg2-tma",
+  "TM0558": "bigg2-tma",
+  "TM0857": "bigg2-tma",
+  "TM1817": "bigg2-tma",
+  "TM0030": "bigg2-tma",
+  "TM1751": "bigg2-tma",
+  "TM0920": "bigg2-tma",
+  "TM1430": "bigg2-tma",
+  "TM1433": "bigg2-tma",
+  "TM1432": "bigg2-tma",
+  "TM_1418": "bigg2-tma",
+  "TM1071": "bigg2-tma",
+  "TM1073": "bigg2-tma",
+  "TM1072": "bigg2-tma",
+  "TM1077": "bigg2-tma",
+  "TM1724": "bigg2-tma",
+  "TM1642": "bigg2-tma",
+  "TM1643": "bigg2-tma",
+  "TM1640": "bigg2-tma",
+  "TM1641": "bigg2-tma",
+  "TM1728": "bigg2-tma",
+  "TM1644": "bigg2-tma",
+  "TM1645": "bigg2-tma",
+  "TM0072": "bigg2-tma",
+  "TM0073": "bigg2-tma",
+  "TM0070": "bigg2-tma",
+  "TM0071": "bigg2-tma",
+  "TM0076": "bigg2-tma",
+  "TM0074": "bigg2-tma",
+  "TM0075": "bigg2-tma",
+  "TM0172": "bigg2-tma",
+  "TM0078": "bigg2-tma",
+  "TM0079": "bigg2-tma",
+  "TM0174": "bigg2-tma",
+  "TM0378": "bigg2-tma",
+  "TM1272": "bigg2-tma",
+  "TM0298": "bigg2-tma",
+  "TM0296": "bigg2-tma",
+  "TM1827": "bigg2-tma",
+  "TM0294": "bigg2-tma",
+  "TM0295": "bigg2-tma",
+  "TM0292": "bigg2-tma",
+  "TM0293": "bigg2-tma",
+  "TM1820": "bigg2-tma",
+  "TM0291": "bigg2-tma",
+  "TM0108": "bigg2-tma",
+  "TM0514": "bigg2-tma",
+  "TM1383": "bigg2-tma",
+  "TM1269": "bigg2-tma",
+  "TM1387": "bigg2-tma",
+  "TM1385": "bigg2-tma",
+  "TM1384": "bigg2-tma",
+  "TM1261": "bigg2-tma",
+  "TM1262": "bigg2-tma",
+  "TM1263": "bigg2-tma",
+  "TM1264": "bigg2-tma",
+  "TM0895": "bigg2-tma",
+  "TM0896": "bigg2-tma",
+  "TM1267": "bigg2-tma",
+  "TM0583": "bigg2-tma",
+  "TM0587": "bigg2-tma",
+  "TM0306": "bigg2-tma",
+  "TM0307": "bigg2-tma",
+  "TM1185": "bigg2-tma",
+  "TM0204": "bigg2-tma",
+  "TM0206": "bigg2-tma",
+  "TM0201": "bigg2-tma",
+  "TM0203": "bigg2-tma",
+  "TM0202": "bigg2-tma",
+  "TM0191": "bigg2-tma",
+  "TM0209": "bigg2-tma",
+  "TM0208": "bigg2-tma",
+  "TM0960": "bigg2-tma",
+  "TM0190": "bigg2-tma",
+  "TM0259": "bigg2-tma",
+  "TM0809": "bigg2-tma",
+  "TM0804": "bigg2-tma",
+  "TM0803": "bigg2-tma",
+  "TM0802": "bigg2-tma",
+  "TM0801": "bigg2-tma",
+  "TM0800": "bigg2-tma",
+  "TM1135": "bigg2-tma",
+  "TM1136": "bigg2-tma",
+  "TM1137": "bigg2-tma",
+  "TM1130": "bigg2-tma",
+  "TM1138": "bigg2-tma",
+  "TM1139": "bigg2-tma",
+  "TM1689": "bigg2-tma",
+  "TM1687": "bigg2-tma",
+  "TM1441": "bigg2-tma",
+  "TM1443": "bigg2-tma",
+  "TM1444": "bigg2-tma",
+  "TM1762": "bigg2-tma",
+  "TM1767": "bigg2-tma",
+  "TM1766": "bigg2-tma",
+  "TM0331": "bigg2-tma",
+  "TM0333": "bigg2-tma",
+  "TM0332": "bigg2-tma",
+  "TM0335": "bigg2-tma",
+  "TM0334": "bigg2-tma",
+  "TM1615": "bigg2-tma",
+  "TM1614": "bigg2-tma",
+  "TM0444": "bigg2-tma",
+  "TM1616": "bigg2-tma",
+  "TM1611": "bigg2-tma",
+  "TM1610": "bigg2-tma",
+  "TM1613": "bigg2-tma",
+  "TM1612": "bigg2-tma",
+  "TM0142": "bigg2-tma",
+  "TM0140": "bigg2-tma",
+  "TM0141": "bigg2-tma",
+  "TM0412": "bigg2-tma",
+  "TM0413": "bigg2-tma",
+  "TM0148": "bigg2-tma",
+  "TM0418": "bigg2-tma",
+  "TM0419": "bigg2-tma",
+  "TM1347": "bigg2-tma",
+  "TM0385": "bigg2-tma",
+  "TM0029": "bigg2-tma",
+  "TM0028": "bigg2-tma",
+  "TM0798": "bigg2-tma",
+  "TM0025": "bigg2-tma",
+  "TM0024": "bigg2-tma",
+  "TM1226": "bigg2-tma",
+  "TM1227": "bigg2-tma",
+  "TM1220": "bigg2-tma",
+  "TM1221": "bigg2-tma",
+  "TM1222": "bigg2-tma",
+  "TM0790": "bigg2-tma",
+  "TM0561": "bigg2-tma",
+  "TM0240": "bigg2-tma",
+  "TM0883": "bigg2-tma",
+  "TM0128": "bigg2-tma",
+  "TM0846": "bigg2-tma",
+  "TM0097": "bigg2-tma",
+  "TM1535": "bigg2-tma",
+  "TM1861": "bigg2-tma",
+  "TM1867": "bigg2-tma",
+  "S_0001": "bigg2-tma",
+  "TM1251": "bigg2-tma",
+  "TM0123": "bigg2-tma",
+  "TM1400": "bigg2-tma",
+  "TM1401": "bigg2-tma",
+  "TM0404": "bigg2-tma",
+  "TM0125": "bigg2-tma",
+  "TM0939": "bigg2-tma",
+  "TM0831": "bigg2-tma",
+  "TM0936": "bigg2-tma",
+  "TM1040": "bigg2-tma",
+  "TM1041": "bigg2-tma",
+  "TM1042": "bigg2-tma",
+  "TM1043": "bigg2-tma",
+  "TM1169": "bigg2-tma",
+  "TM1165": "bigg2-tma",
+  "TM1164": "bigg2-tma",
+  "TM1161": "bigg2-tma",
+  "TM1658": "bigg2-tma",
+  "TM1714": "bigg2-tma",
+  "TM1718": "bigg2-tma",
+  "TM1653": "bigg2-tma"
+ },
+ "bigg2-tma": {
+  "data_path": "e:\\cloud\\Dropbox\\projects\\sebastian_metadraft_templates\\metadraft_templates\\metadraft_template_data_2019-1\\data\\bigg2",
+  "genbank_in": "iLJ478.gb",
+  "gene2reaction": {
+   "TM0061": [
+    "R_XYLe",
+    "R_XYL2e"
+   ],
+   "TM0060": [
+    "R_XYLabc",
+    "R_XYLANabc"
+   ],
+   "TM1190": [
+    "R_GALKr"
+   ],
+   "TM1191": [
+    "R_GALT"
+   ],
+   "TM1196": [
+    "R_LCTSabc"
+   ],
+   "TM1197": [
+    "R_LCTSabc"
+   ],
+   "TM1194": [
+    "R_LCTSabc"
+   ],
+   "TM0066": [
+    "R_EDA",
+    "R_DDPGA"
+   ],
+   "TM0069": [
+    "R_MNNH"
+   ],
+   "TM0068": [
+    "R_MANAO"
+   ],
+   "TM1198": [
+    "R_LCTSabc"
+   ],
+   "TM1199": [
+    "R_LCTSabc"
+   ],
+   "TM0228": [
+    "R_NADHDH"
+   ],
+   "TM0348": [
+    "R_DHQS",
+    "R_SHKK"
+   ],
+   "TM0217": [
+    "R_GLYTRS"
+   ],
+   "TM1785": [
+    "R_ACOTA",
+    "R_ORNTA",
+    "R_ADAPAT"
+   ],
+   "TM1784": [
+    "R_ACGK"
+   ],
+   "TM1783": [
+    "R_ORNTAC",
+    "R_ACGS"
+   ],
+   "TM1782": [
+    "R_AGPR"
+   ],
+   "TM1781": [
+    "R_ARGSL"
+   ],
+   "TM1780": [
+    "R_ARGSS"
+   ],
+   "TM0692": [
+    "R_ACPS1"
+   ],
+   "TM0343": [
+    "R_DDPA"
+   ],
+   "TM0344": [
+    "R_PPND"
+   ],
+   "TM0345": [
+    "R_PSCVT"
+   ],
+   "TM0346": [
+    "R_SHK3Dr"
+   ],
+   "TM0347": [
+    "R_CHORS"
+   ],
+   "TM0184": [
+    "R_PGAMT"
+   ],
+   "TM0298": [
+    "R_MNLDH2",
+    "R_MNLDHr"
+   ],
+   "TM1195": [
+    "R_LACZ"
+   ],
+   "TM0189": [
+    "R_FE3abc"
+   ],
+   "TM0959": [
+    "R_RIBabc"
+   ],
+   "TM0958": [
+    "R_RIBabc"
+   ],
+   "TM0665": [
+    "R_CYSS"
+   ],
+   "TM0813": [
+    "R_G6PDA"
+   ],
+   "TM0814": [
+    "R_AGDC"
+   ],
+   "TM0204": [
+    "R_HCO3abc"
+   ],
+   "TM_1438": [
+    "R_MLTG1"
+   ],
+   "TM0819": [
+    "R_URAt"
+   ],
+   "TM0953": [
+    "R_TKT1",
+    "R_TKT2"
+   ],
+   "TM0952": [
+    "R_GLYK"
+   ],
+   "TM0955": [
+    "R_RIBabc"
+   ],
+   "TM0954": [
+    "R_TKT1",
+    "R_TKT2"
+   ],
+   "TM0956": [
+    "R_RIBabc"
+   ],
+   "TM_1837": [
+    "R_TREabc",
+    "R_MALTabc",
+    "R_MALTTRabc"
+   ],
+   "TM0295": [
+    "R_TALA"
+   ],
+   "TM1839": [
+    "R_TREabc",
+    "R_MALTabc",
+    "R_MALTTRabc"
+   ],
+   "TM1835": [
+    "R_MLTG2",
+    "R_MLTG1"
+   ],
+   "TM1834": [
+    "R_MALT"
+   ],
+   "TM1122": [
+    "R_GLYC3Pabc"
+   ],
+   "TM1836": [
+    "R_TREabc",
+    "R_MALTabc",
+    "R_MALTTRabc"
+   ],
+   "TM0528": [
+    "R_FMETTRS"
+   ],
+   "TM0283": [
+    "R_RBP4E"
+   ],
+   "TM0282": [
+    "R_GalMr",
+    "R_GALM1",
+    "R_GALM2"
+   ],
+   "TM1273": [
+    "R_GLNTRAT",
+    "R_ASNTRAT"
+   ],
+   "TM0882": [
+    "R_AHSERL2",
+    "R_SHSL1",
+    "R_CYSS"
+   ],
+   "TM0881": [
+    "R_HSERTA"
+   ],
+   "TM1270": [
+    "R_SHSL2r",
+    "R_SHSL1",
+    "R_METB1",
+    "R_SHSL4r"
+   ],
+   "TM0115": [
+    "R_XYLabc"
+   ],
+   "TM0446": [
+    "R_AIRCr"
+   ],
+   "TM0116": [
+    "R_XYLK"
+   ],
+   "TM0111": [
+    "R_ACALD",
+    "R_ALCD19"
+   ],
+   "TM0889": [
+    "R_DXPRIi"
+   ],
+   "TM0112": [
+    "R_XYLabc"
+   ],
+   "TM0216": [
+    "R_GLYTRS"
+   ],
+   "TM1193": [
+    "R_LACZ"
+   ],
+   "TM0349": [
+    "R_DHQTi"
+   ],
+   "TM1376": [
+    "R_PTRCabc",
+    "R_SPMDabc"
+   ],
+   "TM1377": [
+    "R_PTRCabc",
+    "R_SPMDabc"
+   ],
+   "TM1374": [
+    "R_PGM"
+   ],
+   "TM0097": [
+    "R_NNATr",
+    "R_NMNAT"
+   ],
+   "TM1105": [
+    "R_NADHDH"
+   ],
+   "TM0877": [
+    "R_ENO"
+   ],
+   "TM1063": [
+    "R_RMNabc"
+   ],
+   "TM1770": [
+    "R_DXPS"
+   ],
+   "TM1479": [
+    "R_ADK1"
+   ],
+   "TM1774": [
+    "R_PGM"
+   ],
+   "TM0327": [
+    "R_PGCD"
+   ],
+   "TM0041": [
+    "R_HPPK"
+   ],
+   "TM0040": [
+    "R_FOLD3"
+   ],
+   "TM1211": [
+    "R_NADHDH"
+   ],
+   "TM1535": [
+    "R_OCTDPS"
+   ],
+   "TM0231": [
+    "R_UAMAS"
+   ],
+   "TM0232": [
+    "R_UAGPT2"
+   ],
+   "TM0234": [
+    "R_UAMAGS"
+   ],
+   "TM0235": [
+    "R_PAPPT2"
+   ],
+   "TM0236": [
+    "R_UGLDDS2"
+   ],
+   "TM0237": [
+    "R_UAAGLS2"
+   ],
+   "TM0239": [
+    "R_GLGC"
+   ],
+   "TM1035": [
+    "R_PRAMPC",
+    "R_PRATPP"
+   ],
+   "TM0920": [
+    "R_ACALD",
+    "R_ALCD19"
+   ],
+   "TM1037": [
+    "R_PRMICI"
+   ],
+   "TM1036": [
+    "R_IG3PS"
+   ],
+   "TM1039": [
+    "R_IGPDH"
+   ],
+   "TM1038": [
+    "R_IG3PS"
+   ],
+   "TM0790": [
+    "R_PMPK",
+    "R_HMPK1"
+   ],
+   "TM0140": [
+    "R_IGPS"
+   ],
+   "TM1281": [
+    "R_BGLA1"
+   ],
+   "TM1286": [
+    "R_METS",
+    "R_MHPGLUT"
+   ],
+   "TM1287": [
+    "R_OXADC"
+   ],
+   "TM1609": [
+    "R_ATPS10_3",
+    "R_ATPS4r",
+    "R_ATPS1"
+   ],
+   "TM0137": [
+    "R_TRPS3",
+    "R_TRPS1"
+   ],
+   "TM0134": [
+    "R_TRDR"
+   ],
+   "TM0139": [
+    "R_PRAIi"
+   ],
+   "TM0138": [
+    "R_TRPS1",
+    "R_TRPS2"
+   ],
+   "TM1088": [
+    "R_Kt1"
+   ],
+   "TM1089": [
+    "R_Kt1"
+   ],
+   "TM1121": [
+    "R_GLYC3Pabc"
+   ],
+   "TM1120": [
+    "R_GLYC3Pabc"
+   ],
+   "TM1215": [
+    "R_NADHDH"
+   ],
+   "TM1214": [
+    "R_NADHDH"
+   ],
+   "TM0038": [
+    "R_PTHPS"
+   ],
+   "TM0039": [
+    "R_GTPCI"
+   ],
+   "TM1080": [
+    "R_RPI"
+   ],
+   "TM0420": [
+    "R_INSTabc"
+   ],
+   "TM1129": [
+    "R_MTAN",
+    "R_AHCYSNS"
+   ],
+   "TM1085": [
+    "R_METTRS"
+   ],
+   "TM0427": [
+    "R_SUCD3",
+    "R_SUCD1"
+   ],
+   "TM0031": [
+    "R_LMN2abc",
+    "R_CELLBabc"
+   ],
+   "TM1754": [
+    "R_BUTKr"
+   ],
+   "TM1755": [
+    "R_PBUTT"
+   ],
+   "TM1756": [
+    "R_BUTKr"
+   ],
+   "TM1750": [
+    "R_GALMAN6abc",
+    "R_GLCMAN4abc",
+    "R_GLCMAN6abc",
+    "R_GALMAN4abc"
+   ],
+   "TM1698": [
+    "R_TYRTA",
+    "R_PHETA1",
+    "R_CYSTA",
+    "R_EHGLAT",
+    "R_LCYSTAT",
+    "R_ASPTA",
+    "R_3SALATAi"
+   ],
+   "TM1752": [
+    "R_GALMAN6",
+    "R_GALMAN4",
+    "R_GLCMAN6",
+    "R_GLCMAN4"
+   ],
+   "TM0428": [
+    "R_EDD",
+    "R_SUCD3",
+    "R_SUCD1"
+   ],
+   "TM1351": [
+    "R_GLUTRS_Gln",
+    "R_GLUTRS"
+   ],
+   "TM1213": [
+    "R_NADHDH"
+   ],
+   "TM1693": [
+    "R_AGPAT160"
+   ],
+   "TM1596": [
+    "R_NP1",
+    "R_PUNP1",
+    "R_PUNP5",
+    "R_PUNP2",
+    "R_PUNP4",
+    "R_PNP",
+    "R_PUNP3"
+   ],
+   "TM1212": [
+    "R_NADHDH"
+   ],
+   "TM0492": [
+    "R_TRPTRS"
+   ],
+   "TM1261": [
+    "R_PIabc"
+   ],
+   "TM1263": [
+    "R_PIabc"
+   ],
+   "TM1217": [
+    "R_GLUSy"
+   ],
+   "TM0304": [
+    "R_GLUCAN2abc",
+    "R_GLUCANabc"
+   ],
+   "TM0305": [
+    "R_GLCMAN600a_e",
+    "R_GLSe",
+    "R_GLS3e",
+    "R_GLS2e",
+    "R_GLCMAN600c_e",
+    "R_GLCMAN600b_e",
+    "R_EGLUCe"
+   ],
+   "TM0654": [
+    "R_SPMS"
+   ],
+   "TM0307": [
+    "R_FCI"
+   ],
+   "TM0300": [
+    "R_GLUCAN2abc",
+    "R_GLUCANabc"
+   ],
+   "TM0301": [
+    "R_GLUCAN2abc",
+    "R_GLUCANabc"
+   ],
+   "TM0302": [
+    "R_GLUCAN2abc",
+    "R_GLUCANabc"
+   ],
+   "TM0303": [
+    "R_GLUCAN2abc",
+    "R_GLUCANabc"
+   ],
+   "TM0555": [
+    "R_IPPMIb",
+    "R_IPPMIa"
+   ],
+   "TM0554": [
+    "R_IPPMIb",
+    "R_IPPMIa"
+   ],
+   "TM0557": [
+    "R_CBPS"
+   ],
+   "TM0259": [
+    "R_ALAALAr"
+   ],
+   "TM0551": [
+    "R_DHAD1",
+    "R_DHAD2"
+   ],
+   "TM0550": [
+    "R_DPR",
+    "R_KARA2",
+    "R_KARA1"
+   ],
+   "TM0553": [
+    "R_IPPS"
+   ],
+   "TM0552": [
+    "R_IPPS"
+   ],
+   "TM0252": [
+    "R_GLNTRAT",
+    "R_ASNTRAT"
+   ],
+   "TM0558": [
+    "R_CBPS"
+   ],
+   "TM1154": [
+    "R_PGL"
+   ],
+   "TM0857": [
+    "R_FMNAT"
+   ],
+   "TM0666": [
+    "R_SERAT"
+   ],
+   "TM1015": [
+    "R_GLUDxi"
+   ],
+   "TM1817": [
+    "R_VALTRS"
+   ],
+   "TM1621": [
+    "R_GPDDA2",
+    "R_GPDDA1"
+   ],
+   "TM1624": [
+    "R_MANA2",
+    "R_MANA3",
+    "R_GALMAN6",
+    "R_GALMAN4",
+    "R_MANA1",
+    "R_GLCMAN6",
+    "R_GLCMAN4"
+   ],
+   "TM0030": [
+    "R_LMN2abc",
+    "R_CELLBabc"
+   ],
+   "TM1628": [
+    "R_PRPPS"
+   ],
+   "TM1629": [
+    "R_UAGDP",
+    "R_G1PACT"
+   ],
+   "TM0402": [
+    "R_NH4t"
+   ],
+   "TM0401": [
+    "R_TMDK1",
+    "R_DURIK1"
+   ],
+   "TM0155": [
+    "R_PPNDH",
+    "R_CHORM",
+    "R_AROH"
+   ],
+   "TM0406": [
+    "R_OOR2r"
+   ],
+   "TM0405": [
+    "R_OOR2r"
+   ],
+   "TM0156": [
+    "R_ALKP",
+    "R_AKP1"
+   ],
+   "TM0296": [
+    "R_HEX7"
+   ],
+   "TM0058": [
+    "R_XYLabc",
+    "R_XYLANabc"
+   ],
+   "TM0397": [
+    "R_GLUSy"
+   ],
+   "TM0010": [
+    "R_NADHDH"
+   ],
+   "TM0012": [
+    "R_NADHDH"
+   ],
+   "TM0015": [
+    "R_POR"
+   ],
+   "TM0016": [
+    "R_POR"
+   ],
+   "TM1751": [
+    "R_GALMAN6",
+    "R_GALMAN4",
+    "R_GLCMAN6",
+    "R_GLCMAN4"
+   ],
+   "TM0740": [
+    "R_THRTRS"
+   ],
+   "TM0472": [
+    "R_PLPS"
+   ],
+   "TM0741": [
+    "R_PTPATi"
+   ],
+   "TM0717": [
+    "R_PPCOAC",
+    "R_ACCOAC"
+   ],
+   "TM0716": [
+    "R_PPCOAC",
+    "R_ACCOAC"
+   ],
+   "TM0475": [
+    "R_NNAM"
+   ],
+   "TM1430": [
+    "R_GLYK"
+   ],
+   "TM1433": [
+    "R_NOX"
+   ],
+   "TM1432": [
+    "R_G3PD1ir",
+    "R_NOX"
+   ],
+   "TM1219": [
+    "R_MANTTRabc",
+    "R_MANBabc",
+    "R_MANTRabc",
+    "R_CELLBabc",
+    "R_CELabc",
+    "R_CEL6abc"
+   ],
+   "TM0719": [
+    "R_CYSTRS"
+   ],
+   "TM1522": [
+    "R_DAPE"
+   ],
+   "TM0274": [
+    "R_ACKr"
+   ],
+   "TM0276": [
+    "R_ARAI"
+   ],
+   "TM0270": [
+    "R_MTHFR2"
+   ],
+   "TM0272": [
+    "R_PPDK"
+   ],
+   "TM0273": [
+    "R_FBA2",
+    "R_FBA3",
+    "R_FBA"
+   ],
+   "TM0578": [
+    "R_HPROb",
+    "R_P5CR"
+   ],
+   "TM0883": [
+    "R_PNTK"
+   ],
+   "TM_1418": [
+    "R_PDIPS",
+    "R_IMPCT2"
+   ],
+   "TM1525": [
+    "R_GLSe",
+    "R_GLS3e",
+    "R_GLS2e",
+    "R_EGLUCe"
+   ],
+   "TM1524": [
+    "R_CELASE2",
+    "R_GLS",
+    "R_CELASE1",
+    "R_GLS2"
+   ],
+   "TM1523": [
+    "R_ASAD"
+   ],
+   "TM0473": [
+    "R_PLPS"
+   ],
+   "TM1521": [
+    "R_DHDPS"
+   ],
+   "TM1520": [
+    "R_DHDPRx_r"
+   ],
+   "TM0289": [
+    "R_PFK_ppi"
+   ],
+   "TM0478": [
+    "R_TYRTRS"
+   ],
+   "TM0869": [
+    "R_TRDR"
+   ],
+   "TM1248": [
+    "R_GARFT"
+   ],
+   "TM1249": [
+    "R_AICART",
+    "R_IMPC"
+   ],
+   "TM1246": [
+    "R_PRFGS"
+   ],
+   "TM1247": [
+    "R_GLUPRT"
+   ],
+   "TM1073": [
+    "R_RMK"
+   ],
+   "TM1245": [
+    "R_PRFGS"
+   ],
+   "TM1347": [
+    "R_IMPD"
+   ],
+   "TM1243": [
+    "R_PRASCSi"
+   ],
+   "TM1077": [
+    "R_PANTS"
+   ],
+   "TM0080": [
+    "R_FE3abc"
+   ],
+   "TM0067": [
+    "R_DDGLK"
+   ],
+   "TM1724": [
+    "R_FASC182ACP",
+    "R_FASC201ACP",
+    "R_FASC200ACP",
+    "R_FASC240ACP",
+    "R_FASC161ACP",
+    "R_FASC120ACP",
+    "R_C100SN",
+    "R_FASC220ACP",
+    "R_FASC140ACP",
+    "R_KAS_HP2",
+    "R_FASC160ACP",
+    "R_FASC221ACP",
+    "R_FASC181ACP",
+    "R_FASC180ACP",
+    "R_KAS_HP",
+    "R_FASC141ACP"
+   ],
+   "TM1873": [
+    "R_ORNDC"
+   ],
+   "TM1875": [
+    "R_GLUTRS_Gln",
+    "R_GLUTRS"
+   ],
+   "TM0284": [
+    "R_RBK_L1"
+   ],
+   "TM1642": [
+    "R_ASPCT"
+   ],
+   "TM1878": [
+    "R_NTD10",
+    "R_NTD2",
+    "R_NTD11",
+    "R_NMNHYD",
+    "R_NTD9",
+    "R_NTD7",
+    "R_NT5C",
+    "R_NTD4"
+   ],
+   "TM1640": [
+    "R_GLUSy"
+   ],
+   "TM1641": [
+    "R_DHFR"
+   ],
+   "TM0421": [
+    "R_INSTabc"
+   ],
+   "TM1728": [
+    "R_MOHMT"
+   ],
+   "TM1644": [
+    "R_QULNS"
+   ],
+   "TM0831": [
+    "R_ILETA",
+    "R_VALTA",
+    "R_LEUTA"
+   ],
+   "TM0072": [
+    "R_XYLBabc",
+    "R_XYLabc",
+    "R_XYL3abc",
+    "R_XYLANabc"
+   ],
+   "TM0073": [
+    "R_XYLBabc",
+    "R_XYLabc",
+    "R_XYL3abc",
+    "R_XYLANabc"
+   ],
+   "TM0070": [
+    "R_XYLe",
+    "R_XYL2e"
+   ],
+   "TM0071": [
+    "R_XYLBabc",
+    "R_XYLabc",
+    "R_XYL3abc",
+    "R_XYLANabc"
+   ],
+   "TM0076": [
+    "R_GLS",
+    "R_XYLOS1",
+    "R_BGLA",
+    "R_LMN2",
+    "R_GLS2",
+    "R_XYLOS3",
+    "R_XYLOS2"
+   ],
+   "TM0074": [
+    "R_XYLBabc",
+    "R_XYLabc",
+    "R_XYL3abc",
+    "R_XYLANabc"
+   ],
+   "TM0075": [
+    "R_XYLBabc",
+    "R_XYLabc",
+    "R_XYL3abc",
+    "R_XYLANabc"
+   ],
+   "TM0172": [
+    "R_AHCi"
+   ],
+   "TM0078": [
+    "R_FE3abc"
+   ],
+   "TM0079": [
+    "R_FE3abc"
+   ],
+   "TM0174": [
+    "R_PPANA"
+   ],
+   "TM0378": [
+    "R_G3PD1ir"
+   ],
+   "TM1410": [
+    "R_CYSTRS"
+   ],
+   "TM1415": [
+    "R_FBP",
+    "R_IMP"
+   ],
+   "TM1414": [
+    "R_RAFH",
+    "R_SUCR"
+   ],
+   "TM1419": [
+    "R_MI1PS2"
+   ],
+   "TM1071": [
+    "R_RMI"
+   ],
+   "TM0821": [
+    "R_PHETRS"
+   ],
+   "TM0822": [
+    "R_PHETRS"
+   ],
+   "TM0423": [
+    "R_GLYCDx"
+   ],
+   "TM0943": [
+    "R_GLNS",
+    "R_GLNSP2"
+   ],
+   "TM0828": [
+    "R_FRUK"
+   ],
+   "TM1272": [
+    "R_GLNTRAT",
+    "R_ASNTRAT"
+   ],
+   "TM0118": [
+    "R_RNDR1",
+    "R_RNDR4",
+    "R_RNDR3",
+    "R_RNDR2"
+   ],
+   "TM1097": [
+    "R_OCBT"
+   ],
+   "TM1072": [
+    "R_RMPA"
+   ],
+   "TM0449": [
+    "R_TMDS3"
+   ],
+   "TM1828": [
+    "R_APRAUR",
+    "R_DHPPDA"
+   ],
+   "TM1826": [
+    "R_GTPCII",
+    "R_DB4PS"
+   ],
+   "TM1827": [
+    "R_RBFSb",
+    "R_RBFSa"
+   ],
+   "TM0294": [
+    "R_GLU5K"
+   ],
+   "TM1825": [
+    "R_RBFSb",
+    "R_RBFSa"
+   ],
+   "TM0292": [
+    "R_ACONT"
+   ],
+   "TM0293": [
+    "R_G5SD"
+   ],
+   "TM1820": [
+    "R_GMPS2"
+   ],
+   "TM0291": [
+    "R_ACONT"
+   ],
+   "TM0447": [
+    "R_AIRCr"
+   ],
+   "TM0108": [
+    "R_UAGCVT"
+   ],
+   "TM0114": [
+    "R_XYLabc"
+   ],
+   "TM1067": [
+    "R_RMNabc"
+   ],
+   "TM0514": [
+    "R_PROTRS"
+   ],
+   "TM1383": [
+    "R_CDPMEK"
+   ],
+   "TM1269": [
+    "R_BTS3r"
+   ],
+   "TM1667": [
+    "R_XYLI1",
+    "R_XYLI2"
+   ],
+   "TM1387": [
+    "R_DPCOAK"
+   ],
+   "TM1662": [
+    "R_NTD10",
+    "R_NTD1",
+    "R_NTD6",
+    "R_NTD2",
+    "R_NTD3",
+    "R_NTD11",
+    "R_NMNHYD",
+    "R_NTD9",
+    "R_NTD7",
+    "R_NT5C",
+    "R_NTD5",
+    "R_NTD4",
+    "R_NTD8"
+   ],
+   "TM1384": [
+    "R_GUAPRT",
+    "R_ADPT"
+   ],
+   "TM0891": [
+    "R_MECDPDH2"
+   ],
+   "TM1262": [
+    "R_PIabc"
+   ],
+   "TM0413": [
+    "R_CRTNh"
+   ],
+   "TM1264": [
+    "R_PIabc"
+   ],
+   "TM0895": [
+    "R_GLCS1"
+   ],
+   "TM0896": [
+    "R_GALT"
+   ],
+   "TM1267": [
+    "R_THZPSN"
+   ],
+   "TM0583": [
+    "R_UDPGD"
+   ],
+   "TM0017": [
+    "R_POR"
+   ],
+   "TM0587": [
+    "R_PPA"
+   ],
+   "TM1705": [
+    "R_LYSTRS"
+   ],
+   "TM0788": [
+    "R_AHMMPS"
+   ],
+   "TM0306": [
+    "R_FUCASE2",
+    "R_FUCASE"
+   ],
+   "TM1469": [
+    "R_HEX1"
+   ],
+   "TM0356": [
+    "R_SERD_L",
+    "R_THRD_L"
+   ],
+   "TM0655": [
+    "R_ADMDC"
+   ],
+   "TM1185": [
+    "R_MGSA"
+   ],
+   "TM0059": [
+    "R_XYLabc",
+    "R_XYLANabc"
+   ],
+   "TM0055": [
+    "R_GLCURS1"
+   ],
+   "TM0056": [
+    "R_XYLabc",
+    "R_XYLANabc"
+   ],
+   "TM0057": [
+    "R_XYLabc",
+    "R_XYLANabc"
+   ],
+   "TM0720": [
+    "R_GHMT2r"
+   ],
+   "TM0721": [
+    "R_UPPRT"
+   ],
+   "TM0689": [
+    "R_TPI",
+    "R_PGK"
+   ],
+   "TM0688": [
+    "R_GAPD"
+   ],
+   "TM0206": [
+    "R_XPPT",
+    "R_HXPRT"
+   ],
+   "TM0201": [
+    "R_NADHDH"
+   ],
+   "TM0203": [
+    "R_HCO3abc"
+   ],
+   "TM0202": [
+    "R_HCO3abc"
+   ],
+   "TM1216": [
+    "R_NADHDH"
+   ],
+   "TM0960": [
+    "R_DRBK",
+    "R_RBK"
+   ],
+   "TM0209": [
+    "R_PFK"
+   ],
+   "TM0208": [
+    "R_PYK"
+   ],
+   "TM0190": [
+    "R_FE3abc"
+   ],
+   "TM1643": [
+    "R_ASPO2"
+   ],
+   "TM0191": [
+    "R_FE3abc"
+   ],
+   "TM1378": [
+    "R_PTRCabc",
+    "R_SPMDabc"
+   ],
+   "TM1379": [
+    "R_SERTRS"
+   ],
+   "TM0556": [
+    "R_IPMD"
+   ],
+   "TM0809": [
+    "R_AHEXASE3"
+   ],
+   "TM0752": [
+    "R_SUCR"
+   ],
+   "TM0751": [
+    "R_URIK2",
+    "R_URIK1",
+    "R_CYTDK2"
+   ],
+   "TM1645": [
+    "R_NNDPR"
+   ],
+   "TM0803": [
+    "R_CTPS2"
+   ],
+   "TM0802": [
+    "R_FASC182ACP",
+    "R_FASC201ACP",
+    "R_FASC200ACP",
+    "R_FASC240ACP",
+    "R_FASC161ACP",
+    "R_FASC120ACP",
+    "R_C100SN",
+    "R_FASC220ACP",
+    "R_FASC140ACP",
+    "R_KAS_HP2",
+    "R_FASC160ACP",
+    "R_KAS14",
+    "R_FASC221ACP",
+    "R_ACOATA",
+    "R_FASC181ACP",
+    "R_FASC180ACP",
+    "R_KAS_HP",
+    "R_FASC141ACP"
+   ],
+   "TM0801": [
+    "R_FASC182ACP",
+    "R_FASC201ACP",
+    "R_FASC200ACP",
+    "R_FASC240ACP",
+    "R_FASC161ACP",
+    "R_FASC120ACP",
+    "R_C100SN",
+    "R_FASC220ACP",
+    "R_FASC140ACP",
+    "R_KAS_HP2",
+    "R_FASC160ACP",
+    "R_FASC221ACP",
+    "R_FASC181ACP",
+    "R_FASC180ACP",
+    "R_KAS_HP",
+    "R_FASC141ACP"
+   ],
+   "TM0800": [
+    "R_FASC182ACP",
+    "R_FASC201ACP",
+    "R_FASC200ACP",
+    "R_FASC240ACP",
+    "R_FASC161ACP",
+    "R_FASC120ACP",
+    "R_C100SN",
+    "R_FASC220ACP",
+    "R_FASC140ACP",
+    "R_KAS_HP2",
+    "R_FASC160ACP",
+    "R_FASC221ACP",
+    "R_FASC181ACP",
+    "R_FASC180ACP",
+    "R_KAS_HP",
+    "R_FASC141ACP"
+   ],
+   "TM1375": [
+    "R_PTRCabc",
+    "R_SPMDabc"
+   ],
+   "TM0539": [
+    "R_TRPS1",
+    "R_TRPS2"
+   ],
+   "TM1202": [
+    "R_MELIBabc",
+    "R_LMN2abc",
+    "R_MALTabc",
+    "R_RAFFabc",
+    "R_MALTTRabc",
+    "R_GALabc",
+    "R_GLCabc",
+    "R_MALTTTRabc"
+   ],
+   "TM1203": [
+    "R_MELIBabc",
+    "R_LMN2abc",
+    "R_MALTabc",
+    "R_RAFFabc",
+    "R_MALTTRabc",
+    "R_GALabc",
+    "R_GLCabc",
+    "R_MALTTTRabc"
+   ],
+   "TM0438": [
+    "R_GND"
+   ],
+   "TM1137": [
+    "R_THRabc",
+    "R_ALAabc",
+    "R_VALabc",
+    "R_LEUabc",
+    "R_ILEabc"
+   ],
+   "TM1130": [
+    "R_PTAr"
+   ],
+   "TM1204": [
+    "R_MELIBabc",
+    "R_LMN2abc",
+    "R_MALTabc",
+    "R_RAFFabc",
+    "R_MALTTRabc",
+    "R_GALabc",
+    "R_GLCabc",
+    "R_MALTTTRabc"
+   ],
+   "TM1560": [
+    "R_FTCD"
+   ],
+   "TM1138": [
+    "R_THRabc",
+    "R_ALAabc",
+    "R_VALabc",
+    "R_LEUabc",
+    "R_ILEabc"
+   ],
+   "TM1226": [
+    "R_MANTTRabc",
+    "R_MANBabc",
+    "R_MANTRabc",
+    "R_CELLBabc",
+    "R_CELabc",
+    "R_CEL6abc"
+   ],
+   "TM0434": [
+    "R_GLCURS1"
+   ],
+   "TM1564": [
+    "R_ACYP_2"
+   ],
+   "TM1689": [
+    "R_GK1",
+    "R_ADK3"
+   ],
+   "TM1687": [
+    "R_PPNCL2",
+    "R_PPCDC"
+   ],
+   "TM1361": [
+    "R_ILETRS"
+   ],
+   "TM1441": [
+    "R_ASPTRS_Asn",
+    "R_ASPTRS"
+   ],
+   "TM1443": [
+    "R_CYTK2",
+    "R_CYTK1",
+    "R_URIDK2r",
+    "R_UMPK"
+   ],
+   "TM1444": [
+    "R_IPDPS"
+   ],
+   "TM1222": [
+    "R_MANTTRabc",
+    "R_MANBabc",
+    "R_MANTRabc",
+    "R_CELLBabc",
+    "R_CELabc",
+    "R_CEL6abc"
+   ],
+   "TM1762": [
+    "R_TKT1",
+    "R_TKT2"
+   ],
+   "TM1848": [
+    "R_CEPA"
+   ],
+   "TM1767": [
+    "R_MTHFC",
+    "R_MTHFD"
+   ],
+   "TM1766": [
+    "R_FTHFLi"
+   ],
+   "TM0331": [
+    "R_ORPT"
+   ],
+   "TM0333": [
+    "R_DHORD_NAD"
+   ],
+   "TM0332": [
+    "R_OMPDC"
+   ],
+   "TM0335": [
+    "R_DHORTS"
+   ],
+   "TM0334": [
+    "R_DHORD_NAD"
+   ],
+   "TM0546": [
+    "R_THRS"
+   ],
+   "TM0547": [
+    "R_ASPK",
+    "R_HSDy"
+   ],
+   "TM0545": [
+    "R_HSK"
+   ],
+   "TM0542": [
+    "R_ME1"
+   ],
+   "TM0540": [
+    "R_FUM"
+   ],
+   "TM0541": [
+    "R_FUM"
+   ],
+   "TM0290": [
+    "R_CS"
+   ],
+   "TM0224": [
+    "R_BACCL"
+   ],
+   "TM0548": [
+    "R_ACHBS",
+    "R_ACLS"
+   ],
+   "TM0549": [
+    "R_ACHBS",
+    "R_ACLS"
+   ],
+   "TM0804": [
+    "R_HISTP"
+   ],
+   "TM1518": [
+    "R_ASPK"
+   ],
+   "TM1519": [
+    "R_THPAT"
+   ],
+   "TM1516": [
+    "R_DAPDA"
+   ],
+   "TM1517": [
+    "R_DAPDC"
+   ],
+   "TM1385": [
+    "R_PGI"
+   ],
+   "TM1615": [
+    "R_ATPS10_3",
+    "R_ATPS4r",
+    "R_ATPS1"
+   ],
+   "TM1614": [
+    "R_ATPS10_3",
+    "R_ATPS4r",
+    "R_ATPS1"
+   ],
+   "TM0444": [
+    "R_ASPT"
+   ],
+   "TM1616": [
+    "R_ATPS10_3",
+    "R_ATPS4r",
+    "R_ATPS1"
+   ],
+   "TM1611": [
+    "R_ATPS10_3",
+    "R_ATPS4r",
+    "R_ATPS1"
+   ],
+   "TM1610": [
+    "R_ATPS10_3",
+    "R_ATPS4r",
+    "R_ATPS1"
+   ],
+   "TM1613": [
+    "R_ATPS10_3",
+    "R_ATPS4r",
+    "R_ATPS1"
+   ],
+   "TM1612": [
+    "R_ATPS10_3",
+    "R_ATPS4r",
+    "R_ATPS1"
+   ],
+   "TM0862": [
+    "R_GALUi"
+   ],
+   "TM0142": [
+    "R_ANS",
+    "R_ANPRT"
+   ],
+   "TM1096": [
+    "R_ADSS"
+   ],
+   "TM1095": [
+    "R_ADSL1r",
+    "R_ADSL2r"
+   ],
+   "TM0141": [
+    "R_ANS",
+    "R_ANPRT"
+   ],
+   "TM1093": [
+    "R_ARGTRS"
+   ],
+   "TM0412": [
+    "R_ALR2"
+   ],
+   "TM1090": [
+    "R_HISTRS"
+   ],
+   "TM0148": [
+    "R_GF6PTA"
+   ],
+   "TM0418": [
+    "R_INSTabc"
+   ],
+   "TM0419": [
+    "R_INSTabc"
+   ],
+   "TM1099": [
+    "R_DTMPK"
+   ],
+   "TM0443": [
+    "R_GNK"
+   ],
+   "TM0385": [
+    "R_RNTR1",
+    "R_RNTR2",
+    "R_RNTR4",
+    "R_RNTR3"
+   ],
+   "TM0029": [
+    "R_LMN2abc",
+    "R_CELLBabc"
+   ],
+   "TM0028": [
+    "R_LMN2abc",
+    "R_CELLBabc"
+   ],
+   "TM0798": [
+    "R_FASC182ACP",
+    "R_FASC201ACP",
+    "R_FASC200ACP",
+    "R_FASC240ACP",
+    "R_FASC161ACP",
+    "R_FASC120ACP",
+    "R_C100SN",
+    "R_FASC220ACP",
+    "R_FASC140ACP",
+    "R_KAS_HP2",
+    "R_FASC160ACP",
+    "R_FASC221ACP",
+    "R_MCOATA",
+    "R_FASC181ACP",
+    "R_FASC180ACP",
+    "R_KAS_HP",
+    "R_FASC141ACP"
+   ],
+   "TM0025": [
+    "R_GLS",
+    "R_XYLOS1",
+    "R_BGLA",
+    "R_LMN2",
+    "R_GLS2",
+    "R_XYLOS3",
+    "R_XYLOS2"
+   ],
+   "TM0024": [
+    "R_GLS",
+    "R_GLS2",
+    "R_LMNe"
+   ],
+   "TM0027": [
+    "R_LMN2abc",
+    "R_CELLBabc"
+   ],
+   "TM1227": [
+    "R_GLCMAN600a_e",
+    "R_GLCMAN600c_e",
+    "R_GLCMAN600b_e",
+    "R_GALMAN600a_e",
+    "R_GALMAN600b_e",
+    "R_GALMAN600c_e"
+   ],
+   "TM1220": [
+    "R_MANTTRabc",
+    "R_MANBabc",
+    "R_MANTRabc",
+    "R_CELLBabc",
+    "R_CELabc",
+    "R_CEL6abc"
+   ],
+   "TM1221": [
+    "R_MANTTRabc",
+    "R_MANBabc",
+    "R_MANTRabc",
+    "R_CELLBabc",
+    "R_CELabc",
+    "R_CEL6abc"
+   ],
+   "TM1136": [
+    "R_THRabc",
+    "R_ALAabc",
+    "R_VALabc",
+    "R_LEUabc",
+    "R_ILEabc"
+   ],
+   "TM1223": [
+    "R_MANBabc"
+   ],
+   "TM1747": [
+    "R_GALMAN6abc",
+    "R_GLCMAN4abc",
+    "R_GLCMAN6abc",
+    "R_GALMAN4abc"
+   ],
+   "TM1746": [
+    "R_GALMAN6abc",
+    "R_GLCMAN4abc",
+    "R_GLCMAN6abc",
+    "R_GALMAN4abc"
+   ],
+   "TM1744": [
+    "R_THRA",
+    "R_THRA2"
+   ],
+   "TM0125": [
+    "R_ZNabc"
+   ],
+   "TM1749": [
+    "R_GALMAN6abc",
+    "R_GLCMAN4abc",
+    "R_GLCMAN6abc",
+    "R_GALMAN4abc"
+   ],
+   "TM1748": [
+    "R_GALMAN6abc",
+    "R_GLCMAN4abc",
+    "R_GLCMAN6abc",
+    "R_GALMAN4abc"
+   ],
+   "TM1585": [
+    "R_GLYCK2"
+   ],
+   "TM0917": [
+    "R_PIt2r"
+   ],
+   "TM1429": [
+    "R_GLYCt"
+   ],
+   "TM0911": [
+    "R_MTRI"
+   ],
+   "TM0913": [
+    "R_NTPP1",
+    "R_PPA",
+    "R_NTPP2",
+    "R_NTPP5",
+    "R_NTPP7",
+    "R_NTPP3",
+    "R_NTPP8",
+    "R_NTPP4",
+    "R_NTPP6",
+    "R_DUTPDP"
+   ],
+   "TM1426": [
+    "R_HYDFDN"
+   ],
+   "TM1424": [
+    "R_HYDFDN"
+   ],
+   "TM1425": [
+    "R_HYDFDN"
+   ],
+   "TM0736": [
+    "R_MAN6PI"
+   ],
+   "TM0645": [
+    "R_NADS1"
+   ],
+   "TM0647": [
+    "R_MECDPS"
+   ],
+   "TM0317": [
+    "R_DNTPPA",
+    "R_DNMPPA"
+   ],
+   "TM0561": [
+    "R_MGt5"
+   ],
+   "TM0211": [
+    "R_GLYCL_2"
+   ],
+   "TM0240": [
+    "R_GLGC"
+   ],
+   "TM0843": [
+    "R_GluForTx",
+    "R_GLUFT"
+   ],
+   "TM0128": [
+    "R_OAADC",
+    "R_DDPGA"
+   ],
+   "TM1068": [
+    "R_SUCR"
+   ],
+   "TM0846": [
+    "R_DCYTD",
+    "R_CYTD"
+   ],
+   "TM1135": [
+    "R_THRabc",
+    "R_ALAabc",
+    "R_VALabc",
+    "R_LEUabc",
+    "R_ILEabc"
+   ],
+   "TM1062": [
+    "R_GLCAASE3"
+   ],
+   "TM1155": [
+    "R_G6PDH2r"
+   ],
+   "TM1066": [
+    "R_RMNabc"
+   ],
+   "TM1148": [
+    "R_ICDHyr"
+   ],
+   "TM1064": [
+    "R_RMNabc"
+   ],
+   "TM1065": [
+    "R_RMNabc"
+   ],
+   "TM1737": [
+    "R_NP1",
+    "R_PUNP1",
+    "R_PUNP5",
+    "R_PUNP2",
+    "R_PUNP4",
+    "R_PNP",
+    "R_PUNP3"
+   ],
+   "TM1861": [
+    "R_PGSA160"
+   ],
+   "TM1733": [
+    "R_NADK"
+   ],
+   "S_0001": [
+    "R_OMCDC",
+    "R_CO2t",
+    "R_H2St1",
+    "R_CRTNsyn",
+    "R_HCO3E",
+    "R_NH3c",
+    "R_H2Ot",
+    "R_St",
+    "R_G5SADs"
+   ],
+   "TM0168": [
+    "R_LEUTRS"
+   ],
+   "TM1398": [
+    "R_UDCPDPS"
+   ],
+   "TM0166": [
+    "R_FPGS_tm",
+    "R_DHFS"
+   ],
+   "TM0167": [
+    "R_PPM",
+    "R_PPM2"
+   ],
+   "TM0161": [
+    "R_DMATT",
+    "R_GRTT"
+   ],
+   "TM1253": [
+    "R_NADS1"
+   ],
+   "TM0123": [
+    "R_ZNabc"
+   ],
+   "TM1400": [
+    "R_SPTc",
+    "R_ASPTA6"
+   ],
+   "TM1401": [
+    "R_HPYRRx"
+   ],
+   "TM0124": [
+    "R_ZNabc"
+   ],
+   "TM0404": [
+    "R_DCMPDA"
+   ],
+   "TM1139": [
+    "R_THRabc",
+    "R_ALAabc",
+    "R_VALabc",
+    "R_LEUabc",
+    "R_ILEabc"
+   ],
+   "TM0939": [
+    "R_ASP1DC"
+   ],
+   "TM1867": [
+    "R_LDH_L",
+    "R_MCLORi",
+    "R_MDH"
+   ],
+   "TM0936": [
+    "R_ADA"
+   ],
+   "TM0880": [
+    "R_OAADC",
+    "R_DDPGA"
+   ],
+   "TM1244": [
+    "R_PRFGS"
+   ],
+   "TM0261": [
+    "R_PIt2r"
+   ],
+   "TM0269": [
+    "R_METS"
+   ],
+   "TM0268": [
+    "R_METS"
+   ],
+   "TM1192": [
+    "R_GALS3",
+    "R_GALMAN6",
+    "R_GALMAN4"
+   ],
+   "TM0509": [
+    "R_UDPG4E"
+   ],
+   "TM1040": [
+    "R_TYRTA",
+    "R_HSTPT",
+    "R_PHETA1"
+   ],
+   "TM1041": [
+    "R_HISTD"
+   ],
+   "TM1042": [
+    "R_ATPPRT"
+   ],
+   "TM1043": [
+    "R_ATPPRT"
+   ],
+   "TM1559": [
+    "R_DRPA"
+   ],
+   "TM0064": [
+    "R_GUI1",
+    "R_GUI2"
+   ],
+   "TM0018": [
+    "R_POR"
+   ],
+   "TM1396": [
+    "R_ALATRS"
+   ],
+   "TM1397": [
+    "R_DASYN160"
+   ],
+   "TM1169": [
+    "R_FASC182ACP",
+    "R_FASC201ACP",
+    "R_FASC200ACP",
+    "R_FASC240ACP",
+    "R_FASC161ACP",
+    "R_FASC120ACP",
+    "R_C100SN",
+    "R_FASC220ACP",
+    "R_FASC140ACP",
+    "R_KAS_HP2",
+    "R_FASC160ACP",
+    "R_FASC221ACP",
+    "R_FASC181ACP",
+    "R_FASC180ACP",
+    "R_KAS_HP",
+    "R_FASC141ACP"
+   ],
+   "TM1393": [
+    "R_MEPCT"
+   ],
+   "TM1255": [
+    "R_TYRTA",
+    "R_PHETA1",
+    "R_CYSTA",
+    "R_EHGLAT",
+    "R_LCYSTAT",
+    "R_ASPTA",
+    "R_3SALATAi"
+   ],
+   "TM1165": [
+    "R_OOR2r"
+   ],
+   "TM1164": [
+    "R_OOR2r"
+   ],
+   "TM1251": [
+    "R_PRAIS"
+   ],
+   "TM1250": [
+    "R_PRAGSr"
+   ],
+   "TM1161": [
+    "R_MGt5"
+   ],
+   "TM1658": [
+    "R_METAT"
+   ],
+   "TM1714": [
+    "R_UAPGR"
+   ],
+   "TM1718": [
+    "R_RPE"
+   ],
+   "TM1845": [
+    "R_AMYe",
+    "R_PULLe"
+   ],
+   "TM1653": [
+    "R_TMDPP",
+    "R_PYNP1"
+   ],
+   "TM1840": [
+    "R_AMYLe",
+    "R_AMYe",
+    "R_GLYCOe"
+   ]
+  },
+  "sbml_in": "iLJ478.xml",
+  "taxon_id": "243274",
+  "sbml_out_generic": "e:\\cloud\\Dropbox\\projects\\sebastian_metadraft_templates\\metadraft_templates\\metadraft_template_data_2019-1\\lib_model\\(bigg2-tma)-(iLJ478).seqplus.xml",
+  "sbml_out": "e:\\cloud\\Dropbox\\projects\\sebastian_metadraft_templates\\metadraft_templates\\metadraft_template_data_2019-1\\lib_model\\(bigg2-tma)-(iLJ478).seqplus.xml",
+  "reaction2gene": {
+   "R_NTPP4": [
+    "TM0913"
+   ],
+   "R_LMNe": [
+    "TM0024"
+   ],
+   "R_GLYCt": [
+    "TM1429"
+   ],
+   "R_NH3c": [
+    "S_0001"
+   ],
+   "R_LYSTRS": [
+    "TM1705"
+   ],
+   "R_FCI": [
+    "TM0307"
+   ],
+   "R_RMPA": [
+    "TM1072"
+   ],
+   "R_ADSS": [
+    "TM1096"
+   ],
+   "R_GALMAN600b_e": [
+    "TM1227"
+   ],
+   "R_PRPPS": [
+    "TM1628"
+   ],
+   "R_BACCL": [
+    "TM0224"
+   ],
+   "R_HPROb": [
+    "TM0578"
+   ],
+   "R_DTMPK": [
+    "TM1099"
+   ],
+   "R_IPMD": [
+    "TM0556"
+   ],
+   "R_GLYC3Pabc": [
+    "TM1122",
+    "TM1121",
+    "TM1120"
+   ],
+   "R_ACOTA": [
+    "TM1785"
+   ],
+   "R_PFK": [
+    "TM0209"
+   ],
+   "R_CELabc": [
+    "TM1219",
+    "TM1226",
+    "TM1220",
+    "TM1221",
+    "TM1222"
+   ],
+   "R_MANA3": [
+    "TM1624"
+   ],
+   "R_MANA2": [
+    "TM1624"
+   ],
+   "R_MANA1": [
+    "TM1624"
+   ],
+   "R_PANTS": [
+    "TM1077"
+   ],
+   "R_FBA2": [
+    "TM0273"
+   ],
+   "R_FBA3": [
+    "TM0273"
+   ],
+   "R_ALATRS": [
+    "TM1396"
+   ],
+   "R_MOHMT": [
+    "TM1728"
+   ],
+   "R_ACLS": [
+    "TM0548",
+    "TM0549"
+   ],
+   "R_DNMPPA": [
+    "TM0317"
+   ],
+   "R_SPTc": [
+    "TM1400"
+   ],
+   "R_FASC220ACP": [
+    "TM0802",
+    "TM0801",
+    "TM0800",
+    "TM1724",
+    "TM1169",
+    "TM0798"
+   ],
+   "R_DHQS": [
+    "TM0348"
+   ],
+   "R_GLUFT": [
+    "TM0843"
+   ],
+   "R_ASNTRAT": [
+    "TM1273",
+    "TM1272",
+    "TM0252"
+   ],
+   "R_ARGTRS": [
+    "TM1093"
+   ],
+   "R_NH4t": [
+    "TM0402"
+   ],
+   "R_SPMS": [
+    "TM0654"
+   ],
+   "R_PTHPS": [
+    "TM0038"
+   ],
+   "R_ATPS1": [
+    "TM1611",
+    "TM1610",
+    "TM1613",
+    "TM1612",
+    "TM1615",
+    "TM1614",
+    "TM1616",
+    "TM1609"
+   ],
+   "R_UAAGLS2": [
+    "TM0237"
+   ],
+   "R_DHQTi": [
+    "TM0349"
+   ],
+   "R_PTAr": [
+    "TM1130"
+   ],
+   "R_LMN2": [
+    "TM0076",
+    "TM0025"
+   ],
+   "R_PPCDC": [
+    "TM1687"
+   ],
+   "R_THZPSN": [
+    "TM1267"
+   ],
+   "R_PRFGS": [
+    "TM1246",
+    "TM1244",
+    "TM1245"
+   ],
+   "R_GLCMAN4": [
+    "TM1751",
+    "TM1752",
+    "TM1624"
+   ],
+   "R_AHCYSNS": [
+    "TM1129"
+   ],
+   "R_PAPPT2": [
+    "TM0235"
+   ],
+   "R_FUCASE2": [
+    "TM0306"
+   ],
+   "R_FPGS_tm": [
+    "TM0166"
+   ],
+   "R_ILETRS": [
+    "TM1361"
+   ],
+   "R_CYTK1": [
+    "TM1443"
+   ],
+   "R_CYTDK2": [
+    "TM0751"
+   ],
+   "R_CYTK2": [
+    "TM1443"
+   ],
+   "R_FMNAT": [
+    "TM0857"
+   ],
+   "R_SERTRS": [
+    "TM1379"
+   ],
+   "R_NNATr": [
+    "TM0097"
+   ],
+   "R_EDD": [
+    "TM0428"
+   ],
+   "R_THRTRS": [
+    "TM0740"
+   ],
+   "R_EDA": [
+    "TM0066"
+   ],
+   "R_PGSA160": [
+    "TM1861"
+   ],
+   "R_MALTTTRabc": [
+    "TM1202",
+    "TM1203",
+    "TM1204"
+   ],
+   "R_THRS": [
+    "TM0546"
+   ],
+   "R_ATPS10_3": [
+    "TM1611",
+    "TM1610",
+    "TM1613",
+    "TM1612",
+    "TM1615",
+    "TM1614",
+    "TM1616",
+    "TM1609"
+   ],
+   "R_GLCMAN6abc": [
+    "TM1750",
+    "TM1749",
+    "TM1748",
+    "TM1747",
+    "TM1746"
+   ],
+   "R_P5CR": [
+    "TM0578"
+   ],
+   "R_AKP1": [
+    "TM0156"
+   ],
+   "R_THRA": [
+    "TM1744"
+   ],
+   "R_MANTTRabc": [
+    "TM1219",
+    "TM1226",
+    "TM1220",
+    "TM1221",
+    "TM1222"
+   ],
+   "R_FASC240ACP": [
+    "TM0802",
+    "TM0801",
+    "TM0800",
+    "TM1724",
+    "TM1169",
+    "TM0798"
+   ],
+   "R_KARA2": [
+    "TM0550"
+   ],
+   "R_LMN2abc": [
+    "TM1202",
+    "TM1203",
+    "TM1204",
+    "TM0029",
+    "TM0028",
+    "TM0027",
+    "TM0030",
+    "TM0031"
+   ],
+   "R_SHK3Dr": [
+    "TM0346"
+   ],
+   "R_SERD_L": [
+    "TM0356"
+   ],
+   "R_PRAGSr": [
+    "TM1250"
+   ],
+   "R_DXPS": [
+    "TM1770"
+   ],
+   "R_GALT": [
+    "TM0896",
+    "TM1191"
+   ],
+   "R_SUCD3": [
+    "TM0427",
+    "TM0428"
+   ],
+   "R_NOX": [
+    "TM1433",
+    "TM1432"
+   ],
+   "R_SUCD1": [
+    "TM0427",
+    "TM0428"
+   ],
+   "R_ALAabc": [
+    "TM1138",
+    "TM1139",
+    "TM1135",
+    "TM1136",
+    "TM1137"
+   ],
+   "R_MGSA": [
+    "TM1185"
+   ],
+   "R_PRAIS": [
+    "TM1251"
+   ],
+   "R_TRPTRS": [
+    "TM0492"
+   ],
+   "R_FASC221ACP": [
+    "TM0802",
+    "TM0801",
+    "TM0800",
+    "TM1724",
+    "TM1169",
+    "TM0798"
+   ],
+   "R_DAPDC": [
+    "TM1517"
+   ],
+   "R_NNDPR": [
+    "TM1645"
+   ],
+   "R_DAPDA": [
+    "TM1516"
+   ],
+   "R_PROTRS": [
+    "TM0514"
+   ],
+   "R_LEUTRS": [
+    "TM0168"
+   ],
+   "R_IGPDH": [
+    "TM1039"
+   ],
+   "R_GK1": [
+    "TM1689"
+   ],
+   "R_GUAPRT": [
+    "TM1384"
+   ],
+   "R_GLYTRS": [
+    "TM0216",
+    "TM0217"
+   ],
+   "R_NTD9": [
+    "TM1878",
+    "TM1662"
+   ],
+   "R_NTD8": [
+    "TM1662"
+   ],
+   "R_AIRCr": [
+    "TM0447",
+    "TM0446"
+   ],
+   "R_NTD1": [
+    "TM1662"
+   ],
+   "R_XYLK": [
+    "TM0116"
+   ],
+   "R_GLUTRS_Gln": [
+    "TM1875",
+    "TM1351"
+   ],
+   "R_NTD2": [
+    "TM1878",
+    "TM1662"
+   ],
+   "R_XYLabc": [
+    "TM0115",
+    "TM0114",
+    "TM0112",
+    "TM0072",
+    "TM0073",
+    "TM0071",
+    "TM0074",
+    "TM0075",
+    "TM0056",
+    "TM0057",
+    "TM0058",
+    "TM0060",
+    "TM0059"
+   ],
+   "R_MCLORi": [
+    "TM1867"
+   ],
+   "R_NTD7": [
+    "TM1878",
+    "TM1662"
+   ],
+   "R_NTD6": [
+    "TM1662"
+   ],
+   "R_GALMAN600c_e": [
+    "TM1227"
+   ],
+   "R_CRTNsyn": [
+    "S_0001"
+   ],
+   "R_LCYSTAT": [
+    "TM1698",
+    "TM1255"
+   ],
+   "R_KAS_HP": [
+    "TM0802",
+    "TM0801",
+    "TM0800",
+    "TM1724",
+    "TM1169",
+    "TM0798"
+   ],
+   "R_AICART": [
+    "TM1249"
+   ],
+   "R_FASC200ACP": [
+    "TM0802",
+    "TM0801",
+    "TM0800",
+    "TM1724",
+    "TM1169",
+    "TM0798"
+   ],
+   "R_PLPS": [
+    "TM0472",
+    "TM0473"
+   ],
+   "R_DUTPDP": [
+    "TM0913"
+   ],
+   "R_MANTRabc": [
+    "TM1219",
+    "TM1226",
+    "TM1220",
+    "TM1221",
+    "TM1222"
+   ],
+   "R_RAFH": [
+    "TM1414"
+   ],
+   "R_XYLe": [
+    "TM0070",
+    "TM0061"
+   ],
+   "R_G5SADs": [
+    "S_0001"
+   ],
+   "R_GLS2": [
+    "TM0076",
+    "TM1524",
+    "TM0025",
+    "TM0024"
+   ],
+   "R_CDPMEK": [
+    "TM1383"
+   ],
+   "R_NTD11": [
+    "TM1878",
+    "TM1662"
+   ],
+   "R_KARA1": [
+    "TM0550"
+   ],
+   "R_DASYN160": [
+    "TM1397"
+   ],
+   "R_PIabc": [
+    "TM1261",
+    "TM1262",
+    "TM1263",
+    "TM1264"
+   ],
+   "R_URIK2": [
+    "TM0751"
+   ],
+   "R_GLCMAN6": [
+    "TM1751",
+    "TM1752",
+    "TM1624"
+   ],
+   "R_ADPT": [
+    "TM1384"
+   ],
+   "R_VALabc": [
+    "TM1138",
+    "TM1139",
+    "TM1135",
+    "TM1136",
+    "TM1137"
+   ],
+   "R_ASP1DC": [
+    "TM0939"
+   ],
+   "R_GALabc": [
+    "TM1202",
+    "TM1203",
+    "TM1204"
+   ],
+   "R_PSCVT": [
+    "TM0345"
+   ],
+   "R_ACHBS": [
+    "TM0548",
+    "TM0549"
+   ],
+   "R_HMPK1": [
+    "TM0790"
+   ],
+   "R_GALS3": [
+    "TM1192"
+   ],
+   "R_NTD3": [
+    "TM1662"
+   ],
+   "R_DHFS": [
+    "TM0166"
+   ],
+   "R_MTRI": [
+    "TM0911"
+   ],
+   "R_UDPG4E": [
+    "TM0509"
+   ],
+   "R_IPDPS": [
+    "TM1444"
+   ],
+   "R_FMETTRS": [
+    "TM0528"
+   ],
+   "R_GLCAASE3": [
+    "TM1062"
+   ],
+   "R_NTD5": [
+    "TM1662"
+   ],
+   "R_GLUTRS": [
+    "TM1875",
+    "TM1351"
+   ],
+   "R_GLCabc": [
+    "TM1202",
+    "TM1203",
+    "TM1204"
+   ],
+   "R_ORNTA": [
+    "TM1785"
+   ],
+   "R_NTD4": [
+    "TM1878",
+    "TM1662"
+   ],
+   "R_ASPCT": [
+    "TM1642"
+   ],
+   "R_G5SD": [
+    "TM0293"
+   ],
+   "R_AMYe": [
+    "TM1845",
+    "TM1840"
+   ],
+   "R_ACPS1": [
+    "TM0692"
+   ],
+   "R_ANS": [
+    "TM0142",
+    "TM0141"
+   ],
+   "R_HSTPT": [
+    "TM1040"
+   ],
+   "R_OCTDPS": [
+    "TM1535"
+   ],
+   "R_GLNTRAT": [
+    "TM1273",
+    "TM1272",
+    "TM0252"
+   ],
+   "R_URIDK2r": [
+    "TM1443"
+   ],
+   "R_GLU5K": [
+    "TM0294"
+   ],
+   "R_GLYCK2": [
+    "TM1585"
+   ],
+   "R_ICDHyr": [
+    "TM1148"
+   ],
+   "R_RBP4E": [
+    "TM0283"
+   ],
+   "R_GLSe": [
+    "TM1525",
+    "TM0305"
+   ],
+   "R_ASPTA6": [
+    "TM1400"
+   ],
+   "R_DPCOAK": [
+    "TM1387"
+   ],
+   "R_BTS3r": [
+    "TM1269"
+   ],
+   "R_DRPA": [
+    "TM1559"
+   ],
+   "R_FRUK": [
+    "TM0828"
+   ],
+   "R_PNTK": [
+    "TM0883"
+   ],
+   "R_UAPGR": [
+    "TM1714"
+   ],
+   "R_GALUi": [
+    "TM0862"
+   ],
+   "R_GLCMAN600b_e": [
+    "TM1227",
+    "TM0305"
+   ],
+   "R_PRASCSi": [
+    "TM1243"
+   ],
+   "R_RAFFabc": [
+    "TM1202",
+    "TM1203",
+    "TM1204"
+   ],
+   "R_PPND": [
+    "TM0344"
+   ],
+   "R_DDPA": [
+    "TM0343"
+   ],
+   "R_QULNS": [
+    "TM1644"
+   ],
+   "R_ORNDC": [
+    "TM1873"
+   ],
+   "R_GLS": [
+    "TM0076",
+    "TM1524",
+    "TM0025",
+    "TM0024"
+   ],
+   "R_ARGSL": [
+    "TM1781"
+   ],
+   "R_MANAO": [
+    "TM0068"
+   ],
+   "R_GLCS1": [
+    "TM0895"
+   ],
+   "R_UMPK": [
+    "TM1443"
+   ],
+   "R_MI1PS2": [
+    "TM1419"
+   ],
+   "R_GF6PTA": [
+    "TM0148"
+   ],
+   "R_IMPCT2": [
+    "TM_1418"
+   ],
+   "R_HYDFDN": [
+    "TM1426",
+    "TM1424",
+    "TM1425"
+   ],
+   "R_ATPS4r": [
+    "TM1611",
+    "TM1610",
+    "TM1613",
+    "TM1612",
+    "TM1615",
+    "TM1614",
+    "TM1616",
+    "TM1609"
+   ],
+   "R_HSK": [
+    "TM0545"
+   ],
+   "R_ACCOAC": [
+    "TM0717",
+    "TM0716"
+   ],
+   "R_MCOATA": [
+    "TM0798"
+   ],
+   "R_METB1": [
+    "TM1270"
+   ],
+   "R_CYTD": [
+    "TM0846"
+   ],
+   "R_IMP": [
+    "TM1415"
+   ],
+   "R_TPI": [
+    "TM0689"
+   ],
+   "R_FASC181ACP": [
+    "TM0802",
+    "TM0801",
+    "TM0800",
+    "TM1724",
+    "TM1169",
+    "TM0798"
+   ],
+   "R_GRTT": [
+    "TM0161"
+   ],
+   "R_XPPT": [
+    "TM0206"
+   ],
+   "R_DDPGA": [
+    "TM0066",
+    "TM0880",
+    "TM0128"
+   ],
+   "R_ASPTA": [
+    "TM1698",
+    "TM1255"
+   ],
+   "R_NMNAT": [
+    "TM0097"
+   ],
+   "R_MTHFD": [
+    "TM1767"
+   ],
+   "R_MTHFC": [
+    "TM1767"
+   ],
+   "R_UGLDDS2": [
+    "TM0236"
+   ],
+   "R_XYL3abc": [
+    "TM0072",
+    "TM0073",
+    "TM0071",
+    "TM0074",
+    "TM0075"
+   ],
+   "R_PGCD": [
+    "TM0327"
+   ],
+   "R_GALMAN6": [
+    "TM1751",
+    "TM1752",
+    "TM1624",
+    "TM1192"
+   ],
+   "R_GALMAN4": [
+    "TM1751",
+    "TM1752",
+    "TM1624",
+    "TM1192"
+   ],
+   "R_OMCDC": [
+    "S_0001"
+   ],
+   "R_ACYP_2": [
+    "TM1564"
+   ],
+   "R_ASPO2": [
+    "TM1643"
+   ],
+   "R_XYLOS2": [
+    "TM0076",
+    "TM0025"
+   ],
+   "R_MECDPS": [
+    "TM0647"
+   ],
+   "R_XYLOS1": [
+    "TM0076",
+    "TM0025"
+   ],
+   "R_CEL6abc": [
+    "TM1219",
+    "TM1226",
+    "TM1220",
+    "TM1221",
+    "TM1222"
+   ],
+   "R_PRAMPC": [
+    "TM1035"
+   ],
+   "R_PFK_ppi": [
+    "TM0289"
+   ],
+   "R_CEPA": [
+    "TM1848"
+   ],
+   "R_GALMAN4abc": [
+    "TM1750",
+    "TM1749",
+    "TM1748",
+    "TM1747",
+    "TM1746"
+   ],
+   "R_PMPK": [
+    "TM0790"
+   ],
+   "R_LEUabc": [
+    "TM1138",
+    "TM1139",
+    "TM1135",
+    "TM1136",
+    "TM1137"
+   ],
+   "R_G6PDA": [
+    "TM0813"
+   ],
+   "R_KAS_HP2": [
+    "TM0802",
+    "TM0801",
+    "TM0800",
+    "TM1724",
+    "TM1169",
+    "TM0798"
+   ],
+   "R_MEPCT": [
+    "TM1393"
+   ],
+   "R_TYRTA": [
+    "TM1255",
+    "TM1040",
+    "TM1698"
+   ],
+   "R_PPCOAC": [
+    "TM0717",
+    "TM0716"
+   ],
+   "R_ASAD": [
+    "TM1523"
+   ],
+   "R_DPR": [
+    "TM0550"
+   ],
+   "R_MLTG2": [
+    "TM1835"
+   ],
+   "R_GLNSP2": [
+    "TM0943"
+   ],
+   "R_GLNS": [
+    "TM0943"
+   ],
+   "R_TMDS3": [
+    "TM0449"
+   ],
+   "R_RNTR4": [
+    "TM0385"
+   ],
+   "R_RNTR2": [
+    "TM0385"
+   ],
+   "R_RNTR3": [
+    "TM0385"
+   ],
+   "R_RNTR1": [
+    "TM0385"
+   ],
+   "R_GLCURS1": [
+    "TM0055",
+    "TM0434"
+   ],
+   "R_C100SN": [
+    "TM0802",
+    "TM0801",
+    "TM0800",
+    "TM1724",
+    "TM1169",
+    "TM0798"
+   ],
+   "R_FASC140ACP": [
+    "TM0802",
+    "TM0801",
+    "TM0800",
+    "TM1724",
+    "TM1169",
+    "TM0798"
+   ],
+   "R_HCO3abc": [
+    "TM0203",
+    "TM0202",
+    "TM0204"
+   ],
+   "R_FASC161ACP": [
+    "TM0802",
+    "TM0801",
+    "TM0800",
+    "TM1724",
+    "TM1169",
+    "TM0798"
+   ],
+   "R_ME1": [
+    "TM0542"
+   ],
+   "R_GLS2e": [
+    "TM1525",
+    "TM0305"
+   ],
+   "R_DNTPPA": [
+    "TM0317"
+   ],
+   "R_THPAT": [
+    "TM1519"
+   ],
+   "R_UAGPT2": [
+    "TM0232"
+   ],
+   "R_ADSL1r": [
+    "TM1095"
+   ],
+   "R_FASC182ACP": [
+    "TM0802",
+    "TM0801",
+    "TM0800",
+    "TM1724",
+    "TM1169",
+    "TM0798"
+   ],
+   "R_PPANA": [
+    "TM0174"
+   ],
+   "R_OCBT": [
+    "TM1097"
+   ],
+   "R_GLYCOe": [
+    "TM1840"
+   ],
+   "R_ALKP": [
+    "TM0156"
+   ],
+   "R_IPPMIb": [
+    "TM0555",
+    "TM0554"
+   ],
+   "R_DCMPDA": [
+    "TM0404"
+   ],
+   "R_GHMT2r": [
+    "TM0720"
+   ],
+   "R_GAPD": [
+    "TM0688"
+   ],
+   "R_HSERTA": [
+    "TM0881"
+   ],
+   "R_CTPS2": [
+    "TM0803"
+   ],
+   "R_MANBabc": [
+    "TM1219",
+    "TM1226",
+    "TM1220",
+    "TM1221",
+    "TM1222",
+    "TM1223"
+   ],
+   "R_MHPGLUT": [
+    "TM1286"
+   ],
+   "R_GLUCAN2abc": [
+    "TM0300",
+    "TM0301",
+    "TM0302",
+    "TM0303",
+    "TM0304"
+   ],
+   "R_TKT1": [
+    "TM1762",
+    "TM0953",
+    "TM0954"
+   ],
+   "R_TKT2": [
+    "TM1762",
+    "TM0953",
+    "TM0954"
+   ],
+   "R_CO2t": [
+    "S_0001"
+   ],
+   "R_ALR2": [
+    "TM0412"
+   ],
+   "R_URAt": [
+    "TM0819"
+   ],
+   "R_DHAD1": [
+    "TM0551"
+   ],
+   "R_NTD10": [
+    "TM1878",
+    "TM1662"
+   ],
+   "R_URIK1": [
+    "TM0751"
+   ],
+   "R_DHAD2": [
+    "TM0551"
+   ],
+   "R_PYNP1": [
+    "TM1653"
+   ],
+   "R_AMYLe": [
+    "TM1840"
+   ],
+   "R_PIt2r": [
+    "TM0917",
+    "TM0261"
+   ],
+   "R_AHCi": [
+    "TM0172"
+   ],
+   "R_MAN6PI": [
+    "TM0736"
+   ],
+   "R_OMPDC": [
+    "TM0332"
+   ],
+   "R_THRD_L": [
+    "TM0356"
+   ],
+   "R_LCTSabc": [
+    "TM1196",
+    "TM1197",
+    "TM1194",
+    "TM1198",
+    "TM1199"
+   ],
+   "R_GLGC": [
+    "TM0239",
+    "TM0240"
+   ],
+   "R_FOLD3": [
+    "TM0040"
+   ],
+   "R_DHPPDA": [
+    "TM1828"
+   ],
+   "R_CELLBabc": [
+    "TM1219",
+    "TM1226",
+    "TM1220",
+    "TM1221",
+    "TM1222",
+    "TM0029",
+    "TM0028",
+    "TM0027",
+    "TM0030",
+    "TM0031"
+   ],
+   "R_HXPRT": [
+    "TM0206"
+   ],
+   "R_ADMDC": [
+    "TM0655"
+   ],
+   "R_CYSS": [
+    "TM0882",
+    "TM0665"
+   ],
+   "R_NADHDH": [
+    "TM0010",
+    "TM0012",
+    "TM0228",
+    "TM1215",
+    "TM1214",
+    "TM1216",
+    "TM1211",
+    "TM1213",
+    "TM1212",
+    "TM0201",
+    "TM1105"
+   ],
+   "R_NADK": [
+    "TM1733"
+   ],
+   "R_H2Ot": [
+    "S_0001"
+   ],
+   "R_SERAT": [
+    "TM0666"
+   ],
+   "R_CRTNh": [
+    "TM0413"
+   ],
+   "R_RNDR4": [
+    "TM0118"
+   ],
+   "R_CBPS": [
+    "TM0557",
+    "TM0558"
+   ],
+   "R_DRBK": [
+    "TM0960"
+   ],
+   "R_MGt5": [
+    "TM0561",
+    "TM1161"
+   ],
+   "R_MELIBabc": [
+    "TM1202",
+    "TM1203",
+    "TM1204"
+   ],
+   "R_NMNHYD": [
+    "TM1878",
+    "TM1662"
+   ],
+   "R_ADK1": [
+    "TM1479"
+   ],
+   "R_NTPP2": [
+    "TM0913"
+   ],
+   "R_ADK3": [
+    "TM1689"
+   ],
+   "R_OOR2r": [
+    "TM0406",
+    "TM0405",
+    "TM1165",
+    "TM1164"
+   ],
+   "R_XYLOS3": [
+    "TM0076",
+    "TM0025"
+   ],
+   "R_H2St1": [
+    "S_0001"
+   ],
+   "R_GNK": [
+    "TM0443"
+   ],
+   "R_RIBabc": [
+    "TM0959",
+    "TM0958",
+    "TM0955",
+    "TM0956"
+   ],
+   "R_XYLANabc": [
+    "TM0056",
+    "TM0057",
+    "TM0058",
+    "TM0060",
+    "TM0059",
+    "TM0072",
+    "TM0073",
+    "TM0071",
+    "TM0074",
+    "TM0075"
+   ],
+   "R_PHETA1": [
+    "TM1255",
+    "TM1040",
+    "TM1698"
+   ],
+   "R_NTPP1": [
+    "TM0913"
+   ],
+   "R_IGPS": [
+    "TM0140"
+   ],
+   "R_BGLA1": [
+    "TM1281"
+   ],
+   "R_KAS14": [
+    "TM0802"
+   ],
+   "R_RPE": [
+    "TM1718"
+   ],
+   "R_ORPT": [
+    "TM0331"
+   ],
+   "R_MDH": [
+    "TM1867"
+   ],
+   "R_GUI1": [
+    "TM0064"
+   ],
+   "R_GUI2": [
+    "TM0064"
+   ],
+   "R_AHMMPS": [
+    "TM0788"
+   ],
+   "R_RPI": [
+    "TM1080"
+   ],
+   "R_GALMAN6abc": [
+    "TM1750",
+    "TM1749",
+    "TM1748",
+    "TM1747",
+    "TM1746"
+   ],
+   "R_IPPS": [
+    "TM0553",
+    "TM0552"
+   ],
+   "R_GLYCL_2": [
+    "TM0211"
+   ],
+   "R_DHDPS": [
+    "TM1521"
+   ],
+   "R_NP1": [
+    "TM1596",
+    "TM1737"
+   ],
+   "R_PGM": [
+    "TM1774",
+    "TM1374"
+   ],
+   "R_PGL": [
+    "TM1154"
+   ],
+   "R_PGK": [
+    "TM0689"
+   ],
+   "R_NNAM": [
+    "TM0475"
+   ],
+   "R_PGI": [
+    "TM1385"
+   ],
+   "R_PTRCabc": [
+    "TM1378",
+    "TM1376",
+    "TM1377",
+    "TM1375"
+   ],
+   "R_TREabc": [
+    "TM1839",
+    "TM_1837",
+    "TM1836"
+   ],
+   "R_ALCD19": [
+    "TM0920",
+    "TM0111"
+   ],
+   "R_TRPS3": [
+    "TM0137"
+   ],
+   "R_TRPS2": [
+    "TM0539",
+    "TM0138"
+   ],
+   "R_TRPS1": [
+    "TM0137",
+    "TM0539",
+    "TM0138"
+   ],
+   "R_RBK": [
+    "TM0960"
+   ],
+   "R_ARAI": [
+    "TM0276"
+   ],
+   "R_GALMAN600a_e": [
+    "TM1227"
+   ],
+   "R_DHFR": [
+    "TM1641"
+   ],
+   "R_GLUCANabc": [
+    "TM0300",
+    "TM0301",
+    "TM0302",
+    "TM0303",
+    "TM0304"
+   ],
+   "R_CS": [
+    "TM0290"
+   ],
+   "R_FBA": [
+    "TM0273"
+   ],
+   "R_SPMDabc": [
+    "TM1378",
+    "TM1376",
+    "TM1377",
+    "TM1375"
+   ],
+   "R_UAGCVT": [
+    "TM0108"
+   ],
+   "R_UDCPDPS": [
+    "TM1398"
+   ],
+   "R_St": [
+    "S_0001"
+   ],
+   "R_NTPP3": [
+    "TM0913"
+   ],
+   "R_FBP": [
+    "TM1415"
+   ],
+   "R_ILEabc": [
+    "TM1138",
+    "TM1139",
+    "TM1135",
+    "TM1136",
+    "TM1137"
+   ],
+   "R_ADAPAT": [
+    "TM1785"
+   ],
+   "R_SHSL2r": [
+    "TM1270"
+   ],
+   "R_ACKr": [
+    "TM0274"
+   ],
+   "R_CYSTRS": [
+    "TM0719",
+    "TM1410"
+   ],
+   "R_GLUSy": [
+    "TM0397",
+    "TM1217",
+    "TM1640"
+   ],
+   "R_GMPS2": [
+    "TM1820"
+   ],
+   "R_ACOATA": [
+    "TM0802"
+   ],
+   "R_AGPR": [
+    "TM1782"
+   ],
+   "R_ASPTRS_Asn": [
+    "TM1441"
+   ],
+   "R_Kt1": [
+    "TM1088",
+    "TM1089"
+   ],
+   "R_G6PDH2r": [
+    "TM1155"
+   ],
+   "R_SHKK": [
+    "TM0348"
+   ],
+   "R_FASC201ACP": [
+    "TM0802",
+    "TM0801",
+    "TM0800",
+    "TM1724",
+    "TM1169",
+    "TM0798"
+   ],
+   "R_GLYK": [
+    "TM0952",
+    "TM1430"
+   ],
+   "R_TRDR": [
+    "TM0134",
+    "TM0869"
+   ],
+   "R_HISTP": [
+    "TM0804"
+   ],
+   "R_GLCMAN600c_e": [
+    "TM1227",
+    "TM0305"
+   ],
+   "R_GALKr": [
+    "TM1190"
+   ],
+   "R_IG3PS": [
+    "TM1038",
+    "TM1036"
+   ],
+   "R_DMATT": [
+    "TM0161"
+   ],
+   "R_LACZ": [
+    "TM1195",
+    "TM1193"
+   ],
+   "R_GalMr": [
+    "TM0282"
+   ],
+   "R_RBK_L1": [
+    "TM0284"
+   ],
+   "R_CELASE1": [
+    "TM1524"
+   ],
+   "R_FASC120ACP": [
+    "TM0802",
+    "TM0801",
+    "TM0800",
+    "TM1724",
+    "TM1169",
+    "TM0798"
+   ],
+   "R_CELASE2": [
+    "TM1524"
+   ],
+   "R_DURIK1": [
+    "TM0401"
+   ],
+   "R_HISTD": [
+    "TM1041"
+   ],
+   "R_PRMICI": [
+    "TM1037"
+   ],
+   "R_BUTKr": [
+    "TM1754",
+    "TM1756"
+   ],
+   "R_GALM2": [
+    "TM0282"
+   ],
+   "R_UDPGD": [
+    "TM0583"
+   ],
+   "R_ZNabc": [
+    "TM0124",
+    "TM0125",
+    "TM0123"
+   ],
+   "R_METTRS": [
+    "TM1085"
+   ],
+   "R_TYRTRS": [
+    "TM0478"
+   ],
+   "R_DHORD_NAD": [
+    "TM0333",
+    "TM0334"
+   ],
+   "R_FASC180ACP": [
+    "TM0802",
+    "TM0801",
+    "TM0800",
+    "TM1724",
+    "TM1169",
+    "TM0798"
+   ],
+   "R_ASPTRS": [
+    "TM1441"
+   ],
+   "R_AGPAT160": [
+    "TM1693"
+   ],
+   "R_PPNCL2": [
+    "TM1687"
+   ],
+   "R_XYLBabc": [
+    "TM0072",
+    "TM0073",
+    "TM0071",
+    "TM0074",
+    "TM0075"
+   ],
+   "R_GLUDxi": [
+    "TM1015"
+   ],
+   "R_NADS1": [
+    "TM1253",
+    "TM0645"
+   ],
+   "R_XYL2e": [
+    "TM0070",
+    "TM0061"
+   ],
+   "R_LDH_L": [
+    "TM1867"
+   ],
+   "R_ACALD": [
+    "TM0920",
+    "TM0111"
+   ],
+   "R_MALTabc": [
+    "TM1839",
+    "TM_1837",
+    "TM1836",
+    "TM1202",
+    "TM1203",
+    "TM1204"
+   ],
+   "R_POR": [
+    "TM0018",
+    "TM0015",
+    "TM0016",
+    "TM0017"
+   ],
+   "R_APRAUR": [
+    "TM1828"
+   ],
+   "R_AROH": [
+    "TM0155"
+   ],
+   "R_EHGLAT": [
+    "TM1698",
+    "TM1255"
+   ],
+   "R_FASC160ACP": [
+    "TM0802",
+    "TM0801",
+    "TM0800",
+    "TM1724",
+    "TM1169",
+    "TM0798"
+   ],
+   "R_GALM1": [
+    "TM0282"
+   ],
+   "R_THRabc": [
+    "TM1138",
+    "TM1139",
+    "TM1135",
+    "TM1136",
+    "TM1137"
+   ],
+   "R_3SALATAi": [
+    "TM1698",
+    "TM1255"
+   ],
+   "R_OXADC": [
+    "TM1287"
+   ],
+   "R_MNLDHr": [
+    "TM0298"
+   ],
+   "R_ENO": [
+    "TM0877"
+   ],
+   "R_HSDy": [
+    "TM0547"
+   ],
+   "R_MECDPDH2": [
+    "TM0891"
+   ],
+   "R_VALTRS": [
+    "TM1817"
+   ],
+   "R_DB4PS": [
+    "TM1826"
+   ],
+   "R_HPYRRx": [
+    "TM1401"
+   ],
+   "R_AHEXASE3": [
+    "TM0809"
+   ],
+   "R_FTCD": [
+    "TM1560"
+   ],
+   "R_MALT": [
+    "TM1834"
+   ],
+   "R_TALA": [
+    "TM0295"
+   ],
+   "R_GluForTx": [
+    "TM0843"
+   ],
+   "R_DHDPRx_r": [
+    "TM1520"
+   ],
+   "R_TMDPP": [
+    "TM1653"
+   ],
+   "R_METS": [
+    "TM1286",
+    "TM0269",
+    "TM0268"
+   ],
+   "R_IMPC": [
+    "TM1249"
+   ],
+   "R_MLTG1": [
+    "TM1835",
+    "TM_1438"
+   ],
+   "R_RMI": [
+    "TM1071"
+   ],
+   "R_UPPRT": [
+    "TM0721"
+   ],
+   "R_RMNabc": [
+    "TM1063",
+    "TM1066",
+    "TM1067",
+    "TM1064",
+    "TM1065"
+   ],
+   "R_DHORTS": [
+    "TM0335"
+   ],
+   "R_PPM2": [
+    "TM0167"
+   ],
+   "R_ACONT": [
+    "TM0292",
+    "TM0291"
+   ],
+   "R_PDIPS": [
+    "TM_1418"
+   ],
+   "R_HEX1": [
+    "TM1469"
+   ],
+   "R_DDGLK": [
+    "TM0067"
+   ],
+   "R_HEX7": [
+    "TM0296"
+   ],
+   "R_PPNDH": [
+    "TM0155"
+   ],
+   "R_GARFT": [
+    "TM1248"
+   ],
+   "R_UAMAS": [
+    "TM0231"
+   ],
+   "R_GLCMAN600a_e": [
+    "TM1227",
+    "TM0305"
+   ],
+   "R_BGLA": [
+    "TM0076",
+    "TM0025"
+   ],
+   "R_PUNP5": [
+    "TM1596",
+    "TM1737"
+   ],
+   "R_PUNP4": [
+    "TM1596",
+    "TM1737"
+   ],
+   "R_PUNP1": [
+    "TM1596",
+    "TM1737"
+   ],
+   "R_PUNP3": [
+    "TM1596",
+    "TM1737"
+   ],
+   "R_PUNP2": [
+    "TM1596",
+    "TM1737"
+   ],
+   "R_ALAALAr": [
+    "TM0259"
+   ],
+   "R_GLUPRT": [
+    "TM1247"
+   ],
+   "R_LEUTA": [
+    "TM0831"
+   ],
+   "R_MNLDH2": [
+    "TM0298"
+   ],
+   "R_PBUTT": [
+    "TM1755"
+   ],
+   "R_UAGDP": [
+    "TM1629"
+   ],
+   "R_THRA2": [
+    "TM1744"
+   ],
+   "R_PNP": [
+    "TM1596",
+    "TM1737"
+   ],
+   "R_SHSL1": [
+    "TM0882",
+    "TM1270"
+   ],
+   "R_FASC141ACP": [
+    "TM0802",
+    "TM0801",
+    "TM0800",
+    "TM1724",
+    "TM1169",
+    "TM0798"
+   ],
+   "R_VALTA": [
+    "TM0831"
+   ],
+   "R_UAMAGS": [
+    "TM0234"
+   ],
+   "R_FUCASE": [
+    "TM0306"
+   ],
+   "R_IMPD": [
+    "TM1347"
+   ],
+   "R_GLYCDx": [
+    "TM0423"
+   ],
+   "R_ARGSS": [
+    "TM1780"
+   ],
+   "R_ACGK": [
+    "TM1784"
+   ],
+   "R_MNNH": [
+    "TM0069"
+   ],
+   "R_GTPCII": [
+    "TM1826"
+   ],
+   "R_INSTabc": [
+    "TM0421",
+    "TM0418",
+    "TM0420",
+    "TM0419"
+   ],
+   "R_ADSL2r": [
+    "TM1095"
+   ],
+   "R_MTHFR2": [
+    "TM0270"
+   ],
+   "R_ANPRT": [
+    "TM0142",
+    "TM0141"
+   ],
+   "R_OAADC": [
+    "TM0880",
+    "TM0128"
+   ],
+   "R_ILETA": [
+    "TM0831"
+   ],
+   "R_SUCR": [
+    "TM0752",
+    "TM1068",
+    "TM1414"
+   ],
+   "R_GND": [
+    "TM0438"
+   ],
+   "R_PRATPP": [
+    "TM1035"
+   ],
+   "R_GLCMAN4abc": [
+    "TM1750",
+    "TM1749",
+    "TM1748",
+    "TM1747",
+    "TM1746"
+   ],
+   "R_MTAN": [
+    "TM1129"
+   ],
+   "R_TMDK1": [
+    "TM0401"
+   ],
+   "R_GPDDA2": [
+    "TM1621"
+   ],
+   "R_GPDDA1": [
+    "TM1621"
+   ],
+   "R_IPPMIa": [
+    "TM0555",
+    "TM0554"
+   ],
+   "R_DAPE": [
+    "TM1522"
+   ],
+   "R_FE3abc": [
+    "TM0079",
+    "TM0078",
+    "TM0080",
+    "TM0189",
+    "TM0191",
+    "TM0190"
+   ],
+   "R_HISTRS": [
+    "TM1090"
+   ],
+   "R_METAT": [
+    "TM1658"
+   ],
+   "R_NTPP8": [
+    "TM0913"
+   ],
+   "R_NTPP6": [
+    "TM0913"
+   ],
+   "R_NTPP7": [
+    "TM0913"
+   ],
+   "R_CYSTA": [
+    "TM1698",
+    "TM1255"
+   ],
+   "R_NTPP5": [
+    "TM0913"
+   ],
+   "R_RNDR2": [
+    "TM0118"
+   ],
+   "R_RNDR3": [
+    "TM0118"
+   ],
+   "R_RNDR1": [
+    "TM0118"
+   ],
+   "R_EGLUCe": [
+    "TM1525",
+    "TM0305"
+   ],
+   "R_SHSL4r": [
+    "TM1270"
+   ],
+   "R_PYK": [
+    "TM0208"
+   ],
+   "R_MALTTRabc": [
+    "TM1202",
+    "TM1203",
+    "TM1204",
+    "TM1839",
+    "TM_1837",
+    "TM1836"
+   ],
+   "R_CHORS": [
+    "TM0347"
+   ],
+   "R_PPA": [
+    "TM0587",
+    "TM0913"
+   ],
+   "R_G1PACT": [
+    "TM1629"
+   ],
+   "R_PRAIi": [
+    "TM0139"
+   ],
+   "R_PGAMT": [
+    "TM0184"
+   ],
+   "R_HPPK": [
+    "TM0041"
+   ],
+   "R_AGDC": [
+    "TM0814"
+   ],
+   "R_HCO3E": [
+    "S_0001"
+   ],
+   "R_G3PD1ir": [
+    "TM0378",
+    "TM1432"
+   ],
+   "R_ACGS": [
+    "TM1783"
+   ],
+   "R_CHORM": [
+    "TM0155"
+   ],
+   "R_ATPPRT": [
+    "TM1042",
+    "TM1043"
+   ],
+   "R_RBFSb": [
+    "TM1827",
+    "TM1825"
+   ],
+   "R_RBFSa": [
+    "TM1827",
+    "TM1825"
+   ],
+   "R_FTHFLi": [
+    "TM1766"
+   ],
+   "R_NT5C": [
+    "TM1878",
+    "TM1662"
+   ],
+   "R_XYLI1": [
+    "TM1667"
+   ],
+   "R_XYLI2": [
+    "TM1667"
+   ],
+   "R_GLS3e": [
+    "TM1525",
+    "TM0305"
+   ],
+   "R_ASPT": [
+    "TM0444"
+   ],
+   "R_PPDK": [
+    "TM0272"
+   ],
+   "R_RMK": [
+    "TM1073"
+   ],
+   "R_DXPRIi": [
+    "TM0889"
+   ],
+   "R_FUM": [
+    "TM0540",
+    "TM0541"
+   ],
+   "R_ORNTAC": [
+    "TM1783"
+   ],
+   "R_PTPATi": [
+    "TM0741"
+   ],
+   "R_PHETRS": [
+    "TM0821",
+    "TM0822"
+   ],
+   "R_DCYTD": [
+    "TM0846"
+   ],
+   "R_ADA": [
+    "TM0936"
+   ],
+   "R_PULLe": [
+    "TM1845"
+   ],
+   "R_GTPCI": [
+    "TM0039"
+   ],
+   "R_ASPK": [
+    "TM1518",
+    "TM0547"
+   ],
+   "R_PPM": [
+    "TM0167"
+   ],
+   "R_AHSERL2": [
+    "TM0882"
+   ]
+  }
+ }
+}

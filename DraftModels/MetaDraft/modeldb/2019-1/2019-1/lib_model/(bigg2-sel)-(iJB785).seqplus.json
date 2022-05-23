@@ -1,0 +1,6003 @@
+{
+ "__idx__": {
+  "SYNPCC7942_RS06320": "bigg2-sel",
+  "SYNPCC7942_RS12575": "bigg2-sel",
+  "SYNPCC7942_RS00635": "bigg2-sel",
+  "SYNPCC7942_RS13085": "bigg2-sel",
+  "SYNPCC7942_RS06735": "bigg2-sel",
+  "SYNPCC7942_RS12670": "bigg2-sel",
+  "SYNPCC7942_RS04440": "bigg2-sel",
+  "SYNPCC7942_RS12070": "bigg2-sel",
+  "SYNPCC7942_RS01655": "bigg2-sel",
+  "SYNPCC7942_RS01125": "bigg2-sel",
+  "SYNPCC7942_RS00700": "bigg2-sel",
+  "SYNPCC7942_RS00705": "bigg2-sel",
+  "SYNPCC7942_RS10825": "bigg2-sel",
+  "SYNPCC7942_RS11110": "bigg2-sel",
+  "SYNPCC7942_RS13075": "bigg2-sel",
+  "SYNPCC7942_RS07820": "bigg2-sel",
+  "SYNPCC7942_RS07535": "bigg2-sel",
+  "SYNPCC7942_RS07825": "bigg2-sel",
+  "SYNPCC7942_RS03505": "bigg2-sel",
+  "SYNPCC7942_RS04920": "bigg2-sel",
+  "SYNPCC7942_RS04925": "bigg2-sel",
+  "SYNPCC7942_RS12700": "bigg2-sel",
+  "SYNPCC7942_RS11500": "bigg2-sel",
+  "SYNPCC7942_RS13795": "bigg2-sel",
+  "SYNPCC7942_RS12100": "bigg2-sel",
+  "SYNPCC7942_RS00200": "bigg2-sel",
+  "SYNPCC7942_RS10895": "bigg2-sel",
+  "SYNPCC7942_RS07540": "bigg2-sel",
+  "SYNPCC7942_RS06335": "bigg2-sel",
+  "SYNPCC7942_RS10955": "bigg2-sel",
+  "SYNPCC7942_RS06330": "bigg2-sel",
+  "SYNPCC7942_RS02140": "bigg2-sel",
+  "SYNPCC7942_RS05135": "bigg2-sel",
+  "SYNPCC7942_RS00970": "bigg2-sel",
+  "SYNPCC7942_RS07220": "bigg2-sel",
+  "SYNPCC7942_RS03380": "bigg2-sel",
+  "SYNPCC7942_RS13250": "bigg2-sel",
+  "SYNPCC7942_RS10295": "bigg2-sel",
+  "SYNPCC7942_RS05500": "bigg2-sel",
+  "SYNPCC7942_RS07385": "bigg2-sel",
+  "SYNPCC7942_RS10290": "bigg2-sel",
+  "SYNPCC7942_RS09280": "bigg2-sel",
+  "SYNPCC7942_RS04585": "bigg2-sel",
+  "SYNPCC7942_RS13425": "bigg2-sel",
+  "SYNPCC7942_RS07360": "bigg2-sel",
+  "SYNPCC7942_RS05290": "bigg2-sel",
+  "SYNPCC7942_RS07365": "bigg2-sel",
+  "SYNPCC7942_RS09600": "bigg2-sel",
+  "SYNPCC7942_RS07645": "bigg2-sel",
+  "SYNPCC7942_RS09605": "bigg2-sel",
+  "SYNPCC7942_RS07095": "bigg2-sel",
+  "SYNPCC7942_RS02250": "bigg2-sel",
+  "SYNPCC7942_RS07765": "bigg2-sel",
+  "SYNPCC7942_RS05610": "bigg2-sel",
+  "SYNPCC7942_RS08360": "bigg2-sel",
+  "SYNPCC7942_RS13080": "bigg2-sel",
+  "SYNPCC7942_RS01335": "bigg2-sel",
+  "SYNPCC7942_RS03655": "bigg2-sel",
+  "SYNPCC7942_RS09780": "bigg2-sel",
+  "SYNPCC7942_RS06500": "bigg2-sel",
+  "SYNPCC7942_RS09865": "bigg2-sel",
+  "SYNPCC7942_RS12855": "bigg2-sel",
+  "SYNPCC7942_RS09940": "bigg2-sel",
+  "SYNPCC7942_RS11990": "bigg2-sel",
+  "SYNPCC7942_RS08800": "bigg2-sel",
+  "SYNPCC7942_RS11995": "bigg2-sel",
+  "SYNPCC7942_RS11850": "bigg2-sel",
+  "SYNPCC7942_RS13760": "bigg2-sel",
+  "SYNPCC7942_RS11855": "bigg2-sel",
+  "SYNPCC7942_RS08565": "bigg2-sel",
+  "SYNPCC7942_RS05765": "bigg2-sel",
+  "SYNPCC7942_RS09465": "bigg2-sel",
+  "SYNPCC7942_RS08560": "bigg2-sel",
+  "SYNPCC7942_RS01345": "bigg2-sel",
+  "SYNPCC7942_RS10635": "bigg2-sel",
+  "SYNPCC7942_RS01420": "bigg2-sel",
+  "SYNPCC7942_RS01425": "bigg2-sel",
+  "SYNPCC7942_RS01255": "bigg2-sel",
+  "SYNPCC7942_RS00110": "bigg2-sel",
+  "SYNPCC7942_RS02670": "bigg2-sel",
+  "SYNPCC7942_RS10735": "bigg2-sel",
+  "SYNPCC7942_RS06065": "bigg2-sel",
+  "SYNPCC7942_RS03275": "bigg2-sel",
+  "SYNPCC7942_RS06385": "bigg2-sel",
+  "SYNPCC7942_RS02010": "bigg2-sel",
+  "SYNPCC7942_RS08735": "bigg2-sel",
+  "SYNPCC7942_RS01565": "bigg2-sel",
+  "SYNPCC7942_RS10225": "bigg2-sel",
+  "SYNPCC7942_RS01600": "bigg2-sel",
+  "SYNPCC7942_RS01605": "bigg2-sel",
+  "SYNPCC7942_RS08020": "bigg2-sel",
+  "SYNPCC7942_RS01040": "bigg2-sel",
+  "SYNPCC7942_RS13430": "bigg2-sel",
+  "SYNPCC7942_RS01045": "bigg2-sel",
+  "SYNPCC7942_RS10060": "bigg2-sel",
+  "SYNPCC7942_RS01695": "bigg2-sel",
+  "SYNPCC7942_RS07195": "bigg2-sel",
+  "SYNPCC7942_RS12405": "bigg2-sel",
+  "SYNPCC7942_RS04400": "bigg2-sel",
+  "SYNPCC7942_RS10835": "bigg2-sel",
+  "SYNPCC7942_RS11515": "bigg2-sel",
+  "SYNPCC7942_RS04050": "bigg2-sel",
+  "SYNPCC7942_RS05285": "bigg2-sel",
+  "SYNPCC7942_RS11985": "bigg2-sel",
+  "SYNPCC7942_RS11425": "bigg2-sel",
+  "SYNPCC7942_RS13030": "bigg2-sel",
+  "SYNPCC7942_RS02300": "bigg2-sel",
+  "SYNPCC7942_RS07690": "bigg2-sel",
+  "SYNPCC7942_RS02260": "bigg2-sel",
+  "SYNPCC7942_RS02390": "bigg2-sel",
+  "SYNPCC7942_RS04960": "bigg2-sel",
+  "SYNPCC7942_RS12620": "bigg2-sel",
+  "SYNPCC7942_RS00640": "bigg2-sel",
+  "SYNPCC7942_RS02455": "bigg2-sel",
+  "Synpcc7942_2010": "bigg2-sel",
+  "SYNPCC7942_RS12205": "bigg2-sel",
+  "SYNPCC7942_RS00195": "bigg2-sel",
+  "SYNPCC7942_RS01760": "bigg2-sel",
+  "SYNPCC7942_RS12105": "bigg2-sel",
+  "SYNPCC7942_RS03490": "bigg2-sel",
+  "SYNPCC7942_RS09185": "bigg2-sel",
+  "SYNPCC7942_RS06460": "bigg2-sel",
+  "SYNPCC7942_RS00360": "bigg2-sel",
+  "SYNPCC7942_RS13045": "bigg2-sel",
+  "SYNPCC7942_RS07500": "bigg2-sel",
+  "SYNPCC7942_RS06885": "bigg2-sel",
+  "SYNPCC7942_RS07265": "bigg2-sel",
+  "SYNPCC7942_RS06025": "bigg2-sel",
+  "SYNPCC7942_RS07915": "bigg2-sel",
+  "SYNPCC7942_RS07260": "bigg2-sel",
+  "SYNPCC7942_RS04705": "bigg2-sel",
+  "SYNPCC7942_RS10005": "bigg2-sel",
+  "SYNPCC7942_RS05790": "bigg2-sel",
+  "SYNPCC7942_RS11240": "bigg2-sel",
+  "SYNPCC7942_RS02420": "bigg2-sel",
+  "SYNPCC7942_RS03695": "bigg2-sel",
+  "SYNPCC7942_RS11475": "bigg2-sel",
+  "SYNPCC7942_RS07280": "bigg2-sel",
+  "SYNPCC7942_RS00155": "bigg2-sel",
+  "SYNPCC7942_RS07285": "bigg2-sel",
+  "SYNPCC7942_RS07325": "bigg2-sel",
+  "SYNPCC7942_RS09635": "bigg2-sel",
+  "SYNPCC7942_RS07605": "bigg2-sel",
+  "SYNPCC7942_RS07530": "bigg2-sel",
+  "SYNPCC7942_RS09645": "bigg2-sel",
+  "SYNPCC7942_RS13265": "bigg2-sel",
+  "SYNPCC7942_RS05140": "bigg2-sel",
+  "SYNPCC7942_RS13260": "bigg2-sel",
+  "SYNPCC7942_RS07215": "bigg2-sel",
+  "SYNPCC7942_RS02945": "bigg2-sel",
+  "SYNPCC7942_RS03055": "bigg2-sel",
+  "SYNPCC7942_RS00840": "bigg2-sel",
+  "SYNPCC7942_RS07080": "bigg2-sel",
+  "SYNPCC7942_RS02940": "bigg2-sel",
+  "SYNPCC7942_RS08865": "bigg2-sel",
+  "SYNPCC7942_RS05350": "bigg2-sel",
+  "SYNPCC7942_RS10670": "bigg2-sel",
+  "SYNPCC7942_RS10675": "bigg2-sel",
+  "SYNPCC7942_RS11185": "bigg2-sel",
+  "SYNPCC7942_RS09355": "bigg2-sel",
+  "SYNPCC7942_RS10020": "bigg2-sel",
+  "SYNPCC7942_RS08515": "bigg2-sel",
+  "SYNPCC7942_RS05810": "bigg2-sel",
+  "SYNPCC7942_RS09980": "bigg2-sel",
+  "SYNPCC7942_RS01390": "bigg2-sel",
+  "SYNPCC7942_RS02065": "bigg2-sel",
+  "SYNPCC7942_RS05815": "bigg2-sel",
+  "SYNPCC7942_RS07730": "bigg2-sel",
+  "SYNPCC7942_RS11120": "bigg2-sel",
+  "SYNPCC7942_RS07735": "bigg2-sel",
+  "SYNPCC7942_RS09735": "bigg2-sel",
+  "SYNPCC7942_RS11870": "bigg2-sel",
+  "SYNPCC7942_RS08600": "bigg2-sel",
+  "SYNPCC7942_RS01260": "bigg2-sel",
+  "SYNPCC7942_RS08350": "bigg2-sel",
+  "SYNPCC7942_RS01265": "bigg2-sel",
+  "SYNPCC7942_RS07110": "bigg2-sel",
+  "SYNPCC7942_RS05720": "bigg2-sel",
+  "SYNPCC7942_RS08210": "bigg2-sel",
+  "SYNPCC7942_RS08215": "bigg2-sel",
+  "SYNPCC7942_RS05145": "bigg2-sel",
+  "SYNPCC7942_RS01465": "bigg2-sel",
+  "SYNPCC7942_RS02735": "bigg2-sel",
+  "SYNPCC7942_RS11885": "bigg2-sel",
+  "SYNPCC7942_RS02730": "bigg2-sel",
+  "SYNPCC7942_RS05575": "bigg2-sel",
+  "SYNPCC7942_RS05885": "bigg2-sel",
+  "SYNPCC7942_RS06100": "bigg2-sel",
+  "SYNPCC7942_RS05420": "bigg2-sel",
+  "SYNPCC7942_RS08855": "bigg2-sel",
+  "SYNPCC7942_RS09915": "bigg2-sel",
+  "SYNPCC7942_RS10710": "bigg2-sel",
+  "SYNPCC7942_RS11865": "bigg2-sel",
+  "SYNPCC7942_RS00985": "bigg2-sel",
+  "SYNPCC7942_RS09640": "bigg2-sel",
+  "SYNPCC7942_RS08075": "bigg2-sel",
+  "SYNPCC7942_RS04205": "bigg2-sel",
+  "SYNPCC7942_RS11815": "bigg2-sel",
+  "SYNPCC7942_RS01005": "bigg2-sel",
+  "SYNPCC7942_RS12365": "bigg2-sel",
+  "SYNPCC7942_RS01415": "bigg2-sel",
+  "SYNPCC7942_RS11755": "bigg2-sel",
+  "SYNPCC7942_RS04030": "bigg2-sel",
+  "SYNPCC7942_RS08000": "bigg2-sel",
+  "SYNPCC7942_RS00145": "bigg2-sel",
+  "SYNPCC7942_RS00020": "bigg2-sel",
+  "SYNPCC7942_RS02025": "bigg2-sel",
+  "SYNPCC7942_RS02020": "bigg2-sel",
+  "SYNPCC7942_RS05425": "bigg2-sel",
+  "SYNPCC7942_RS10565": "bigg2-sel",
+  "SYNPCC7942_RS02340": "bigg2-sel",
+  "SYNPCC7942_RS01630": "bigg2-sel",
+  "SYNPCC7942_RS12540": "bigg2-sel",
+  "SYNPCC7942_RS10355": "bigg2-sel",
+  "SYNPCC7942_RS08770": "bigg2-sel",
+  "SYNPCC7942_RS01645": "bigg2-sel",
+  "SYNPCC7942_RS01640": "bigg2-sel",
+  "SYNPCC7942_RS12060": "bigg2-sel",
+  "SYNPCC7942_RS12145": "bigg2-sel",
+  "SYNPCC7942_RS06030": "bigg2-sel",
+  "SYNPCC7942_RS10760": "bigg2-sel",
+  "SYNPCC7942_RS10815": "bigg2-sel",
+  "SYNPCC7942_RS06740": "bigg2-sel",
+  "SYNPCC7942_RS03010": "bigg2-sel",
+  "SYNPCC7942_RS13255": "bigg2-sel",
+  "SYNPCC7942_RS05020": "bigg2-sel",
+  "SYNPCC7942_RS03015": "bigg2-sel",
+  "SYNPCC7942_RS08845": "bigg2-sel",
+  "SYNPCC7942_RS04855": "bigg2-sel",
+  "SYNPCC7942_RS06620": "bigg2-sel",
+  "SYNPCC7942_RS04850": "bigg2-sel",
+  "SYNPCC7942_RS00515": "bigg2-sel",
+  "SYNPCC7942_RS12715": "bigg2-sel",
+  "SYNPCC7942_RS13310": "bigg2-sel",
+  "SYNPCC7942_RS09570": "bigg2-sel",
+  "SYNPCC7942_RS02780": "bigg2-sel",
+  "SYNPCC7942_RS07585": "bigg2-sel",
+  "SYNPCC7942_RS10880": "bigg2-sel",
+  "SYNPCC7942_RS13305": "bigg2-sel",
+  "SYNPCC7942_RS06730": "bigg2-sel",
+  "SYNPCC7942_RS13300": "bigg2-sel",
+  "SYNPCC7942_RS12785": "bigg2-sel",
+  "SYNPCC7942_RS00960": "bigg2-sel",
+  "SYNPCC7942_RS00965": "bigg2-sel",
+  "SYNPCC7942_RS06635": "bigg2-sel",
+  "SYNPCC7942_RS10285": "bigg2-sel",
+  "SYNPCC7942_RS10280": "bigg2-sel",
+  "SYNPCC7942_RS00800": "bigg2-sel",
+  "SYNPCC7942_RS02335": "bigg2-sel",
+  "SYNPCC7942_RS10615": "bigg2-sel",
+  "SYNPCC7942_RS11400": "bigg2-sel",
+  "SYNPCC7942_RS07370": "bigg2-sel",
+  "SYNPCC7942_RS06950": "bigg2-sel",
+  "SYNPCC7942_RS06810": "bigg2-sel",
+  "SYNPCC7942_RS06815": "bigg2-sel",
+  "SYNPCC7942_RS09705": "bigg2-sel",
+  "SYNPCC7942_RS10580": "bigg2-sel",
+  "SYNPCC7942_RS09675": "bigg2-sel",
+  "SYNPCC7942_RS07670": "bigg2-sel",
+  "SYNPCC7942_RS09670": "bigg2-sel",
+  "SYNPCC7942_RS01710": "bigg2-sel",
+  "SYNPCC7942_RS02935": "bigg2-sel",
+  "SYNPCC7942_RS06880": "bigg2-sel",
+  "SYNPCC7942_RS05355": "bigg2-sel",
+  "SYNPCC7942_RS09385": "bigg2-sel",
+  "SYNPCC7942_RS01220": "bigg2-sel",
+  "SYNPCC7942_RS06715": "bigg2-sel",
+  "SYNPCC7942_RS03645": "bigg2-sel",
+  "SYNPCC7942_RS10035": "bigg2-sel",
+  "SYNPCC7942_RS04770": "bigg2-sel",
+  "SYNPCC7942_RS05995": "bigg2-sel",
+  "SYNPCC7942_RS11710": "bigg2-sel",
+  "SYNPCC7942_RS09790": "bigg2-sel",
+  "SYNPCC7942_RS02165": "bigg2-sel",
+  "SYNPCC7942_RS10180": "bigg2-sel",
+  "SYNPCC7942_RS09815": "bigg2-sel",
+  "SYNPCC7942_RS09810": "bigg2-sel",
+  "SYNPCC7942_RS09400": "bigg2-sel",
+  "SYNPCC7942_RS09955": "bigg2-sel",
+  "SYNPCC7942_RS09405": "bigg2-sel",
+  "SYNPCC7942_RS08135": "bigg2-sel",
+  "SYNPCC7942_RS08420": "bigg2-sel",
+  "SYNPCC7942_RS05670": "bigg2-sel",
+  "SYNPCC7942_RS08655": "bigg2-sel",
+  "SYNPCC7942_RS08550": "bigg2-sel",
+  "SYNPCC7942_RS08510": "bigg2-sel",
+  "SYNPCC7942_RS08220": "bigg2-sel",
+  "SYNPCC7942_RS04275": "bigg2-sel",
+  "SYNPCC7942_RS08555": "bigg2-sel",
+  "SYNPCC7942_RS08225": "bigg2-sel",
+  "SYNPCC7942_RS02760": "bigg2-sel",
+  "SYNPCC7942_RS10140": "bigg2-sel",
+  "SYNPCC7942_RS02765": "bigg2-sel",
+  "SYNPCC7942_RS12245": "bigg2-sel",
+  "SYNPCC7942_RS12325": "bigg2-sel",
+  "SYNPCC7942_RS01890": "bigg2-sel",
+  "SYNPCC7942_RS00100": "bigg2-sel",
+  "SYNPCC7942_RS06075": "bigg2-sel",
+  "SYNPCC7942_RS09920": "bigg2-sel",
+  "SYNPCC7942_RS01450": "bigg2-sel",
+  "SYNPCC7942_RS11395": "bigg2-sel",
+  "SYNPCC7942_RS10440": "bigg2-sel",
+  "SYNPCC7942_RS01570": "bigg2-sel",
+  "SYNPCC7942_RS01575": "bigg2-sel",
+  "SYNPCC7942_RS08720": "bigg2-sel",
+  "SYNPCC7942_RS01670": "bigg2-sel",
+  "SYNPCC7942_RS01075": "bigg2-sel",
+  "SYNPCC7942_RS01070": "bigg2-sel",
+  "SYNPCC7942_RS09260": "bigg2-sel",
+  "SYNPCC7942_RS01680": "bigg2-sel",
+  "SYNPCC7942_RS13120": "bigg2-sel",
+  "SYNPCC7942_RS01685": "bigg2-sel",
+  "SYNPCC7942_RS00770": "bigg2-sel",
+  "SYNPCC7942_RS02040": "bigg2-sel",
+  "SYNPCC7942_RS04395": "bigg2-sel",
+  "SYNPCC7942_RS02375": "bigg2-sel",
+  "SYNPCC7942_RS10535": "bigg2-sel",
+  "SYNPCC7942_RS11000": "bigg2-sel",
+  "SYNPCC7942_RS13060": "bigg2-sel",
+  "SYNPCC7942_RS05555": "bigg2-sel",
+  "SYNPCC7942_RS05550": "bigg2-sel",
+  "SYNPCC7942_RS03195": "bigg2-sel",
+  "SYNPCC7942_RS00790": "bigg2-sel",
+  "SYNPCC7942_RS10365": "bigg2-sel",
+  "SYNPCC7942_RS01705": "bigg2-sel",
+  "SYNPCC7942_RS12755": "bigg2-sel",
+  "SYNPCC7942_RS04890": "bigg2-sel",
+  "SYNPCC7942_RS12050": "bigg2-sel",
+  "SYNPCC7942_RS12505": "bigg2-sel",
+  "SYNPCC7942_RS07455": "bigg2-sel",
+  "SYNPCC7942_RS09925": "bigg2-sel",
+  "SYNPCC7942_RS07450": "bigg2-sel",
+  "SYNPCC7942_RS00310": "bigg2-sel",
+  "SYNPCC7942_RS07515": "bigg2-sel",
+  "SYNPCC7942_RS01305": "bigg2-sel",
+  "SYNPCC7942_RS12525": "bigg2-sel",
+  "SYNPCC7942_RS07510": "bigg2-sel",
+  "SYNPCC7942_RS06675": "bigg2-sel",
+  "SYNPCC7942_RS02075": "bigg2-sel",
+  "SYNPCC7942_RS03290": "bigg2-sel",
+  "SYNPCC7942_RS10435": "bigg2-sel",
+  "SYNPCC7942_RS03120": "bigg2-sel",
+  "SYNPCC7942_RS04820": "bigg2-sel",
+  "SYNPCC7942_RS03125": "bigg2-sel",
+  "SYNPCC7942_RS00695": "bigg2-sel",
+  "SYNPCC7942_RS04735": "bigg2-sel",
+  "SYNPCC7942_RS09580": "bigg2-sel",
+  "SYNPCC7942_RS00425": "bigg2-sel",
+  "SYNPCC7942_RS13675": "bigg2-sel",
+  "SYNPCC7942_RS09190": "bigg2-sel",
+  "SYNPCC7942_RS00870": "bigg2-sel",
+  "SYNPCC7942_RS07330": "bigg2-sel",
+  "SYNPCC7942_RS06910": "bigg2-sel",
+  "SYNPCC7942_RS06355": "bigg2-sel",
+  "SYNPCC7942_RS06350": "bigg2-sel",
+  "SYNPCC7942_RS06375": "bigg2-sel",
+  "SYNPCC7942_RS13275": "bigg2-sel",
+  "SYNPCC7942_RS07200": "bigg2-sel",
+  "SYNPCC7942_RS00495": "bigg2-sel",
+  "SYNPCC7942_RS05480": "bigg2-sel",
+  "SYNPCC7942_RS03280": "bigg2-sel",
+  "SYNPCC7942_RS07630": "bigg2-sel",
+  "SYNPCC7942_RS05155": "bigg2-sel",
+  "SYNPCC7942_RS02900": "bigg2-sel",
+  "SYNPCC7942_RS05250": "bigg2-sel",
+  "SYNPCC7942_RS10930": "bigg2-sel",
+  "SYNPCC7942_RS01800": "bigg2-sel",
+  "SYNPCC7942_RS10665": "bigg2-sel",
+  "SYNPCC7942_RS03430": "bigg2-sel",
+  "Synpcc7942_0413": "bigg2-sel",
+  "SYNPCC7942_RS00405": "bigg2-sel",
+  "SYNPCC7942_RS12805": "bigg2-sel",
+  "SYNPCC7942_RS07020": "bigg2-sel",
+  "SYNPCC7942_RS06820": "bigg2-sel",
+  "SYNPCC7942_RS07025": "bigg2-sel",
+  "SYNPCC7942_RS06825": "bigg2-sel",
+  "SYNPCC7942_RS02850": "bigg2-sel",
+  "SYNPCC7942_RS09440": "bigg2-sel",
+  "SYNPCC7942_RS09420": "bigg2-sel",
+  "SYNPCC7942_RS07705": "bigg2-sel",
+  "SYNPCC7942_RS09745": "bigg2-sel",
+  "SYNPCC7942_RS02295": "bigg2-sel",
+  "SYNPCC7942_RS05325": "bigg2-sel",
+  "SYNPCC7942_RS05635": "bigg2-sel",
+  "SYNPCC7942_RS01250": "bigg2-sel",
+  "SYNPCC7942_RS11385": "bigg2-sel",
+  "SYNPCC7942_RS04235": "bigg2-sel",
+  "SYNPCC7942_RS02485": "bigg2-sel",
+  "SYNPCC7942_RS11955": "bigg2-sel",
+  "SYNPCC7942_RS04230": "bigg2-sel",
+  "SYNPCC7942_RS04605": "bigg2-sel",
+  "SYNPCC7942_RS11895": "bigg2-sel",
+  "SYNPCC7942_RS10105": "bigg2-sel",
+  "SYNPCC7942_RS04600": "bigg2-sel",
+  "SYNPCC7942_RS02720": "bigg2-sel",
+  "SYNPCC7942_RS10100": "bigg2-sel",
+  "SYNPCC7942_RS11620": "bigg2-sel",
+  "SYNPCC7942_RS09840": "bigg2-sel",
+  "SYNPCC7942_RS11625": "bigg2-sel",
+  "SYNPCC7942_RS08980": "bigg2-sel",
+  "SYNPCC7942_RS06130": "bigg2-sel",
+  "SYNPCC7942_RS12930": "bigg2-sel",
+  "SYNPCC7942_RS09965": "bigg2-sel",
+  "SYNPCC7942_RS08860": "bigg2-sel",
+  "SYNPCC7942_RS06135": "bigg2-sel",
+  "SYNPCC7942_RS09960": "bigg2-sel",
+  "SYNPCC7942_RS04195": "bigg2-sel",
+  "SYNPCC7942_RS08585": "bigg2-sel",
+  "SYNPCC7942_RS03225": "bigg2-sel",
+  "SYNPCC7942_RS04215": "bigg2-sel",
+  "SYNPCC7942_RS12380": "bigg2-sel",
+  "SYNPCC7942_RS08500": "bigg2-sel",
+  "SYNPCC7942_RS08505": "bigg2-sel",
+  "SYNPCC7942_RS05745": "bigg2-sel",
+  "SYNPCC7942_RS08460": "bigg2-sel",
+  "SYNPCC7942_RS12270": "bigg2-sel",
+  "SYNPCC7942_RS04690": "bigg2-sel",
+  "SYNPCC7942_RS01405": "bigg2-sel",
+  "SYNPCC7942_RS07415": "bigg2-sel",
+  "SYNPCC7942_RS01030": "bigg2-sel",
+  "SYNPCC7942_RS10610": "bigg2-sel",
+  "SYNPCC7942_RS04045": "bigg2-sel",
+  "SYNPCC7942_RS04515": "bigg2-sel",
+  "Synpcc7942_2454": "bigg2-sel",
+  "Synpcc7942_1478": "bigg2-sel",
+  "SYNPCC7942_RS11740": "bigg2-sel",
+  "SYNPCC7942_RS01665": "bigg2-sel",
+  "SYNPCC7942_RS00290": "bigg2-sel",
+  "SYNPCC7942_RS13380": "bigg2-sel",
+  "SYNPCC7942_RS10470": "bigg2-sel",
+  "SYNPCC7942_RS03310": "bigg2-sel",
+  "SYNPCC7942_RS06275": "bigg2-sel",
+  "SYNPCC7942_RS00880": "bigg2-sel",
+  "SYNPCC7942_RS03095": "bigg2-sel",
+  "SYNPCC7942_RS08765": "bigg2-sel",
+  "SYNPCC7942_RS11055": "bigg2-sel",
+  "SYNPCC7942_RS13150": "bigg2-sel",
+  "SYNPCC7942_RS00045": "bigg2-sel",
+  "SYNPCC7942_RS13015": "bigg2-sel",
+  "SYNPCC7942_RS12985": "bigg2-sel",
+  "SYNPCC7942_RS12980": "bigg2-sel",
+  "SYNPCC7942_RS00725": "bigg2-sel",
+  "SYNPCC7942_RS07410": "bigg2-sel",
+  "SYNPCC7942_RS06000": "bigg2-sel",
+  "SYNPCC7942_RS00685": "bigg2-sel",
+  "SYNPCC7942_RS02245": "bigg2-sel",
+  "SYNPCC7942_RS05560": "bigg2-sel",
+  "SYNPCC7942_RS05685": "bigg2-sel",
+  "SYNPCC7942_RS02570": "bigg2-sel",
+  "SYNPCC7942_RS11355": "bigg2-sel",
+  "SYNPCC7942_RS02475": "bigg2-sel",
+  "SYNPCC7942_RS12725": "bigg2-sel",
+  "SYNPCC7942_RS04865": "bigg2-sel",
+  "SYNPCC7942_RS09545": "bigg2-sel",
+  "SYNPCC7942_RS11525": "bigg2-sel",
+  "SYNPCC7942_RS00500": "bigg2-sel",
+  "SYNPCC7942_RS09540": "bigg2-sel",
+  "SYNPCC7942_RS01490": "bigg2-sel",
+  "SYNPCC7942_RS08595": "bigg2-sel",
+  "SYNPCC7942_RS02595": "bigg2-sel",
+  "SYNPCC7942_RS00345": "bigg2-sel",
+  "SYNPCC7942_RS00540": "bigg2-sel",
+  "SYNPCC7942_RS00590": "bigg2-sel",
+  "SYNPCC7942_RS09410": "bigg2-sel",
+  "SYNPCC7942_RS06095": "bigg2-sel",
+  "SYNPCC7942_RS02080": "bigg2-sel",
+  "SYNPCC7942_RS06315": "bigg2-sel",
+  "SYNPCC7942_RS10975": "bigg2-sel",
+  "SYNPCC7942_RS02320": "bigg2-sel",
+  "SYNPCC7942_RS05115": "bigg2-sel",
+  "SYNPCC7942_RS02325": "bigg2-sel",
+  "SYNPCC7942_RS02470": "bigg2-sel",
+  "SYNPCC7942_RS03670": "bigg2-sel",
+  "SYNPCC7942_RS04760": "bigg2-sel",
+  "SYNPCC7942_RS11555": "bigg2-sel",
+  "SYNPCC7942_RS07340": "bigg2-sel",
+  "SYNPCC7942_RS06865": "bigg2-sel",
+  "SYNPCC7942_RS07060": "bigg2-sel",
+  "SYNPCC7942_RS06860": "bigg2-sel",
+  "SYNPCC7942_RS00460": "bigg2-sel",
+  "SYNPCC7942_RS08140": "bigg2-sel",
+  "SYNPCC7942_RS13200": "bigg2-sel",
+  "SYNPCC7942_RS05410": "bigg2-sel",
+  "SYNPCC7942_RS09395": "bigg2-sel",
+  "SYNPCC7942_RS10385": "bigg2-sel",
+  "SYNPCC7942_RS00140": "bigg2-sel",
+  "SYNPCC7942_RS10380": "bigg2-sel",
+  "SYNPCC7942_RS08145": "bigg2-sel",
+  "SYNPCC7942_RS10025": "bigg2-sel",
+  "SYNPCC7942_RS03170": "bigg2-sel",
+  "SYNPCC7942_RS02275": "bigg2-sel",
+  "SYNPCC7942_RS13875": "bigg2-sel",
+  "SYNPCC7942_RS11705": "bigg2-sel",
+  "SYNPCC7942_RS06990": "bigg2-sel",
+  "SYNPCC7942_RS02195": "bigg2-sel",
+  "SYNPCC7942_RS12975": "bigg2-sel",
+  "SYNPCC7942_RS11615": "bigg2-sel",
+  "SYNPCC7942_RS05380": "bigg2-sel",
+  "SYNPCC7942_RS12970": "bigg2-sel",
+  "SYNPCC7942_RS08945": "bigg2-sel",
+  "SYNPCC7942_RS05385": "bigg2-sel",
+  "SYNPCC7942_RS11805": "bigg2-sel",
+  "SYNPCC7942_RS08825": "bigg2-sel",
+  "SYNPCC7942_RS05845": "bigg2-sel",
+  "SYNPCC7942_RS02505": "bigg2-sel",
+  "SYNPCC7942_RS09325": "bigg2-sel",
+  "SYNPCC7942_RS12990": "bigg2-sel",
+  "SYNPCC7942_RS04245": "bigg2-sel",
+  "SYNPCC7942_RS07180": "bigg2-sel",
+  "SYNPCC7942_RS04795": "bigg2-sel",
+  "SYNPCC7942_RS11905": "bigg2-sel",
+  "SYNPCC7942_RS01700": "bigg2-sel",
+  "SYNPCC7942_RS04790": "bigg2-sel",
+  "SYNPCC7942_RS01445": "bigg2-sel",
+  "SYNPCC7942_RS05065": "bigg2-sel",
+  "SYNPCC7942_RS04160": "bigg2-sel",
+  "SYNPCC7942_RS12230": "bigg2-sel",
+  "SYNPCC7942_RS01885": "bigg2-sel",
+  "SYNPCC7942_RS05240": "bigg2-sel",
+  "SYNPCC7942_RS01880": "bigg2-sel",
+  "SYNPCC7942_RS10650": "bigg2-sel",
+  "SYNPCC7942_RS11170": "bigg2-sel",
+  "SYNPCC7942_RS07560": "bigg2-sel",
+  "SYNPCC7942_RS06045": "bigg2-sel",
+  "SYNPCC7942_RS08050": "bigg2-sel",
+  "SYNPCC7942_RS08055": "bigg2-sel",
+  "SYNPCC7942_RS03210": "bigg2-sel",
+  "SYNPCC7942_RS00095": "bigg2-sel",
+  "SYNPCC7942_RS03355": "bigg2-sel",
+  "Synpcc7942_1971": "bigg2-sel",
+  "SYNPCC7942_RS01660": "bigg2-sel",
+  "SYNPCC7942_RS03350": "bigg2-sel",
+  "SYNPCC7942_RS06310": "bigg2-sel",
+  "SYNPCC7942_RS08430": "bigg2-sel",
+  "SYNPCC7942_RS05015": "bigg2-sel",
+  "SYNPCC7942_RS00160": "bigg2-sel",
+  "SYNPCC7942_RS04540": "bigg2-sel",
+  "SYNPCC7942_RS04015": "bigg2-sel",
+  "SYNPCC7942_RS01140": "bigg2-sel",
+  "SYNPCC7942_RS11770": "bigg2-sel",
+  "SYNPCC7942_RS00005": "bigg2-sel",
+  "SYNPCC7942_RS01145": "bigg2-sel",
+  "SYNPCC7942_RS12425": "bigg2-sel",
+  "SYNPCC7942_RS11775": "bigg2-sel",
+  "SYNPCC7942_RS11670": "bigg2-sel",
+  "SYNPCC7942_RS04385": "bigg2-sel",
+  "SYNPCC7942_RS11675": "bigg2-sel",
+  "SYNPCC7942_RS07240": "bigg2-sel",
+  "SYNPCC7942_RS10545": "bigg2-sel",
+  "SYNPCC7942_RS05400": "bigg2-sel",
+  "SYNPCC7942_RS10540": "bigg2-sel",
+  "SYNPCC7942_RS10275": "bigg2-sel",
+  "SYNPCC7942_RS01580": "bigg2-sel",
+  "SYNPCC7942_RS01715": "bigg2-sel",
+  "SYNPCC7942_RS05545": "bigg2-sel",
+  "SYNPCC7942_RS12600": "bigg2-sel",
+  "SYNPCC7942_RS09425": "bigg2-sel",
+  "SYNPCC7942_RS13180": "bigg2-sel",
+  "SYNPCC7942_RS00305": "bigg2-sel",
+  "SYNPCC7942_RS12165": "bigg2-sel",
+  "SYNPCC7942_RS06440": "bigg2-sel",
+  "SYNPCC7942_RS12160": "bigg2-sel",
+  "Synpcc7942_0034": "bigg2-sel",
+  "SYNPCC7942_RS13745": "bigg2-sel",
+  "SYNPCC7942_RS07440": "bigg2-sel",
+  "SYNPCC7942_RS06760": "bigg2-sel",
+  "SYNPCC7942_RS07445": "bigg2-sel",
+  "SYNPCC7942_RS07520": "bigg2-sel",
+  "SYNPCC7942_RS02045": "bigg2-sel",
+  "SYNPCC7942_RS07830": "bigg2-sel",
+  "SYNPCC7942_RS10425": "bigg2-sel",
+  "SYNPCC7942_RS07525": "bigg2-sel",
+  "SYNPCC7942_RS07835": "bigg2-sel",
+  "SYNPCC7942_RS13830": "bigg2-sel",
+  "SYNPCC7942_RS06475": "bigg2-sel",
+  "SYNPCC7942_RS04725": "bigg2-sel",
+  "SYNPCC7942_RS04830": "bigg2-sel",
+  "SYNPCC7942_RS07155": "bigg2-sel",
+  "SYNPCC7942_RS10185": "bigg2-sel",
+  "SYNPCC7942_RS12115": "bigg2-sel",
+  "SYNPCC7942_RS11510": "bigg2-sel",
+  "SYNPCC7942_RS00535": "bigg2-sel",
+  "SYNPCC7942_RS09615": "bigg2-sel",
+  "SYNPCC7942_RS11455": "bigg2-sel",
+  "SYNPCC7942_RS12690": "bigg2-sel",
+  "SYNPCC7942_RS11450": "bigg2-sel",
+  "SYNPCC7942_RS12760": "bigg2-sel",
+  "SYNPCC7942_RS04145": "bigg2-sel",
+  "Synpcc7942_2107": "bigg2-sel",
+  "SYNPCC7942_RS03585": "bigg2-sel",
+  "SYNPCC7942_RS06340": "bigg2-sel",
+  "SYNPCC7942_RS06615": "bigg2-sel",
+  "SYNPCC7942_RS06345": "bigg2-sel",
+  "SYNPCC7942_RS09055": "bigg2-sel",
+  "SYNPCC7942_RS06220": "bigg2-sel",
+  "SYNPCC7942_RS10840": "bigg2-sel",
+  "SYNPCC7942_RS00860": "bigg2-sel",
+  "SYNPCC7942_RS13245": "bigg2-sel",
+  "SYNPCC7942_RS09115": "bigg2-sel",
+  "SYNPCC7942_RS07620": "bigg2-sel",
+  "SYNPCC7942_RS09290": "bigg2-sel",
+  "SYNPCC7942_RS02810": "bigg2-sel",
+  "SYNPCC7942_RS05245": "bigg2-sel",
+  "SYNPCC7942_RS03035": "bigg2-sel",
+  "SYNPCC7942_RS11065": "bigg2-sel",
+  "SYNPCC7942_RS02715": "bigg2-sel",
+  "SYNPCC7942_RS10695": "bigg2-sel",
+  "SYNPCC7942_RS07015": "bigg2-sel",
+  "SYNPCC7942_RS01965": "bigg2-sel",
+  "SYNPCC7942_RS12830": "bigg2-sel",
+  "SYNPCC7942_RS09370": "bigg2-sel",
+  "SYNPCC7942_RS09375": "bigg2-sel",
+  "SYNPCC7942_RS07300": "bigg2-sel",
+  "SYNPCC7942_RS07305": "bigg2-sel",
+  "SYNPCC7942_RS05625": "bigg2-sel",
+  "SYNPCC7942_RS01475": "bigg2-sel",
+  "Synpcc7942_0491": "bigg2-sel",
+  "SYNPCC7942_RS10055": "bigg2-sel",
+  "SYNPCC7942_RS03140": "bigg2-sel",
+  "SYNPCC7942_RS05330": "bigg2-sel",
+  "SYNPCC7942_RS10050": "bigg2-sel",
+  "SYNPCC7942_RS01245": "bigg2-sel",
+  "SYNPCC7942_RS10115": "bigg2-sel",
+  "SYNPCC7942_RS04750": "bigg2-sel",
+  "SYNPCC7942_RS02490": "bigg2-sel",
+  "SYNPCC7942_RS10110": "bigg2-sel",
+  "SYNPCC7942_RS03625": "bigg2-sel",
+  "SYNPCC7942_RS11635": "bigg2-sel",
+  "SYNPCC7942_RS04355": "bigg2-sel",
+  "SYNPCC7942_RS12090": "bigg2-sel",
+  "SYNPCC7942_RS11630": "bigg2-sel",
+  "SYNPCC7942_RS08975": "bigg2-sel",
+  "SYNPCC7942_RS05900": "bigg2-sel",
+  "SYNPCC7942_RS08155": "bigg2-sel",
+  "SYNPCC7942_RS08870": "bigg2-sel",
+  "SYNPCC7942_RS08150": "bigg2-sel",
+  "SYNPCC7942_RS08875": "bigg2-sel",
+  "SYNPCC7942_RS12395": "bigg2-sel",
+  "SYNPCC7942_RS04180": "bigg2-sel",
+  "SYNPCC7942_RS08570": "bigg2-sel",
+  "SYNPCC7942_RS04290": "bigg2-sel",
+  "SYNPCC7942_RS01435": "bigg2-sel",
+  "SYNPCC7942_RS08475": "bigg2-sel",
+  "SYNPCC7942_RS01430": "bigg2-sel",
+  "SYNPCC7942_RS10600": "bigg2-sel",
+  "SYNPCC7942_RS10605": "bigg2-sel",
+  "SYNPCC7942_RS00120": "bigg2-sel",
+  "SYNPCC7942_RS01180": "bigg2-sel",
+  "SYNPCC7942_RS08840": "bigg2-sel",
+  "SYNPCC7942_RS11730": "bigg2-sel",
+  "SYNPCC7942_RS10465": "bigg2-sel",
+  "SYNPCC7942_RS10460": "bigg2-sel",
+  "SYNPCC7942_RS03485": "bigg2-sel",
+  "SYNPCC7942_RS02000": "bigg2-sel",
+  "SYNPCC7942_RS11585": "bigg2-sel",
+  "SYNPCC7942_RS06020": "bigg2-sel",
+  "SYNPCC7942_RS12485": "bigg2-sel",
+  "SYNPCC7942_RS03360": "bigg2-sel",
+  "SYNPCC7942_RS01755": "bigg2-sel",
+  "SYNPCC7942_RS10595": "bigg2-sel",
+  "SYNPCC7942_RS06050": "bigg2-sel",
+  "SYNPCC7942_RS01750": "bigg2-sel",
+  "SYNPCC7942_RS12520": "bigg2-sel",
+  "SYNPCC7942_RS03080": "bigg2-sel",
+  "SYNPCC7942_RS01500": "bigg2-sel",
+  "SYNPCC7942_RS01505": "bigg2-sel",
+  "SYNPCC7942_RS06690": "bigg2-sel",
+  "SYNPCC7942_RS12410": "bigg2-sel",
+  "SYNPCC7942_RS12000": "bigg2-sel",
+  "SYNPCC7942_RS12415": "bigg2-sel",
+  "SYNPCC7942_RS11640": "bigg2-sel",
+  "SYNPCC7942_RS11645": "bigg2-sel",
+  "SYNPCC7942_RS06400": "bigg2-sel",
+  "SYNPCC7942_RS06695": "bigg2-sel",
+  "SYNPCC7942_RS07405": "bigg2-sel",
+  "SYNPCC7942_RS10765": "bigg2-sel",
+  "SYNPCC7942_RS06405": "bigg2-sel",
+  "SYNPCC7942_RS12995": "bigg2-sel",
+  "SYNPCC7942_RS07210": "bigg2-sel",
+  "SYNPCC7942_RS02255": "bigg2-sel",
+  "SYNPCC7942_RS05570": "bigg2-sel",
+  "SYNPCC7942_RS01690": "bigg2-sel",
+  "SYNPCC7942_RS11345": "bigg2-sel",
+  "SYNPCC7942_RS13055": "bigg2-sel",
+  "SYNPCC7942_RS10300": "bigg2-sel",
+  "SYNPCC7942_RS04970": "bigg2-sel",
+  "SYNPCC7942_RS02560": "bigg2-sel",
+  "SYNPCC7942_RS02565": "bigg2-sel",
+  "SYNPCC7942_RS00575": "bigg2-sel",
+  "SYNPCC7942_RS04060": "bigg2-sel",
+  "SYNPCC7942_RS12130": "bigg2-sel",
+  "SYNPCC7942_RS06495": "bigg2-sel",
+  "SYNPCC7942_RS12135": "bigg2-sel",
+  "SYNPCC7942_RS04985": "bigg2-sel",
+  "SYNPCC7942_RS09625": "bigg2-sel",
+  "Synpcc7942_0668": "bigg2-sel",
+  "SYNPCC7942_RS02095": "bigg2-sel",
+  "SYNPCC7942_RS07570": "bigg2-sel",
+  "SYNPCC7942_RS09195": "bigg2-sel",
+  "SYNPCC7942_RS00585": "bigg2-sel",
+  "SYNPCC7942_RS06300": "bigg2-sel",
+  "SYNPCC7942_RS07270": "bigg2-sel",
+  "SYNPCC7942_RS00940": "bigg2-sel",
+  "SYNPCC7942_RS07275": "bigg2-sel",
+  "SYNPCC7942_RS09390": "bigg2-sel",
+  "SYNPCC7942_RS11800": "bigg2-sel",
+  "SYNPCC7942_RS02965": "bigg2-sel",
+  "SYNPCC7942_RS03100": "bigg2-sel",
+  "SYNPCC7942_RS13375": "bigg2-sel",
+  "SYNPCC7942_RS11540": "bigg2-sel",
+  "SYNPCC7942_RS04655": "bigg2-sel",
+  "SYNPCC7942_RS11545": "bigg2-sel",
+  "SYNPCC7942_RS05695": "bigg2-sel",
+  "SYNPCC7942_RS02695": "bigg2-sel",
+  "SYNPCC7942_RS07290": "bigg2-sel",
+  "SYNPCC7942_RS02690": "bigg2-sel",
+  "SYNPCC7942_RS07295": "bigg2-sel",
+  "SYNPCC7942_RS06875": "bigg2-sel",
+  "SYNPCC7942_RS09235": "bigg2-sel",
+  "SYNPCC7942_RS09720": "bigg2-sel",
+  "SYNPCC7942_RS06870": "bigg2-sel",
+  "SYNPCC7942_RS11780": "bigg2-sel",
+  "SYNPCC7942_RS00475": "bigg2-sel",
+  "SYNPCC7942_RS09555": "bigg2-sel",
+  "SYNPCC7942_RS00470": "bigg2-sel",
+  "SYNPCC7942_RS09650": "bigg2-sel",
+  "SYNPCC7942_RS05170": "bigg2-sel",
+  "SYNPCC7942_RS07615": "bigg2-sel",
+  "SYNPCC7942_RS05175": "bigg2-sel",
+  "SYNPCC7942_RS07610": "bigg2-sel",
+  "SYNPCC7942_RS02885": "bigg2-sel",
+  "SYNPCC7942_RS03060": "bigg2-sel",
+  "SYNPCC7942_RS02950": "bigg2-sel",
+  "SYNPCC7942_RS09105": "bigg2-sel",
+  "SYNPCC7942_RS05375": "bigg2-sel",
+  "SYNPCC7942_RS10390": "bigg2-sel",
+  "SYNPCC7942_RS10395": "bigg2-sel",
+  "SYNPCC7942_RS05370": "bigg2-sel",
+  "SYNPCC7942_RS03575": "bigg2-sel",
+  "SYNPCC7942_RS00150": "bigg2-sel",
+  "SYNPCC7942_RS02185": "bigg2-sel",
+  "SYNPCC7942_RS05390": "bigg2-sel",
+  "SYNPCC7942_RS09340": "bigg2-sel",
+  "SYNPCC7942_RS05395": "bigg2-sel",
+  "SYNPCC7942_RS03450": "bigg2-sel",
+  "SYNPCC7942_RS08520": "bigg2-sel",
+  "SYNPCC7942_RS08835": "bigg2-sel",
+  "SYNPCC7942_RS01385": "bigg2-sel",
+  "SYNPCC7942_RS12945": "bigg2-sel",
+  "SYNPCC7942_RS01380": "bigg2-sel",
+  "SYNPCC7942_RS08830": "bigg2-sel",
+  "SYNPCC7942_RS05655": "bigg2-sel",
+  "SYNPCC7942_RS08725": "bigg2-sel",
+  "SYNPCC7942_RS13295": "bigg2-sel",
+  "SYNPCC7942_RS04785": "bigg2-sel",
+  "SYNPCC7942_RS08205": "bigg2-sel",
+  "SYNPCC7942_RS01270": "bigg2-sel",
+  "SYNPCC7942_RS11930": "bigg2-sel",
+  "SYNPCC7942_RS04780": "bigg2-sel",
+  "SYNPCC7942_RS04250": "bigg2-sel",
+  "SYNPCC7942_RS10645": "bigg2-sel",
+  "SYNPCC7942_RS05090": "bigg2-sel",
+  "SYNPCC7942_RS10640": "bigg2-sel",
+  "SYNPCC7942_RS11900": "bigg2-sel",
+  "SYNPCC7942_RS12420": "bigg2-sel",
+  "SYNPCC7942_RS06115": "bigg2-sel",
+  "SYNPCC7942_RS08590": "bigg2-sel",
+  "SYNPCC7942_RS11160": "bigg2-sel",
+  "SYNPCC7942_RS10700": "bigg2-sel",
+  "SYNPCC7942_RS06055": "bigg2-sel",
+  "SYNPCC7942_RS03570": "bigg2-sel",
+  "SYNPCC7942_RS02970": "bigg2-sel",
+  "SYNPCC7942_RS00090": "bigg2-sel",
+  "SYNPCC7942_RS08745": "bigg2-sel",
+  "SYNPCC7942_RS08740": "bigg2-sel",
+  "SYNPCC7942_RS08110": "bigg2-sel",
+  "SYNPCC7942_RS05000": "bigg2-sel",
+  "SYNPCC7942_RS08445": "bigg2-sel",
+  "SYNPCC7942_RS12295": "bigg2-sel",
+  "SYNPCC7942_RS08285": "bigg2-sel",
+  "SYNPCC7942_RS04025": "bigg2-sel",
+  "SYNPCC7942_RS04020": "bigg2-sel",
+  "SYNPCC7942_RS00015": "bigg2-sel",
+  "SYNPCC7942_RS02205": "bigg2-sel",
+  "SYNPCC7942_RS12590": "bigg2-sel"
+ },
+ "bigg2-sel": {
+  "data_path": "e:\\cloud\\Dropbox\\projects\\sebastian_metadraft_templates\\metadraft_templates\\metadraft_template_data_2019-1\\data\\bigg2",
+  "genbank_in": "iJB785.gb",
+  "gene2reaction": {
+   "SYNPCC7942_RS10395": [
+    "R_PSIum",
+    "R_PSICSum"
+   ],
+   "SYNPCC7942_RS13300": [
+    "R_SHS1"
+   ],
+   "SYNPCC7942_RS12575": [
+    "R_ARGSL"
+   ],
+   "SYNPCC7942_RS00635": [
+    "R_IGPDH"
+   ],
+   "SYNPCC7942_RS13085": [
+    "R_ZNabcpp",
+    "R_MNabc_1"
+   ],
+   "SYNPCC7942_RS06735": [
+    "R_ZNabcpp",
+    "R_MNabc_1"
+   ],
+   "SYNPCC7942_RS12670": [
+    "R_NDPK3",
+    "R_NDPK4",
+    "R_NDPK1",
+    "R_NDPK7",
+    "R_NDPK8",
+    "R_NDPK5",
+    "R_NDPK2",
+    "R_NDPK6"
+   ],
+   "SYNPCC7942_RS04440": [
+    "R_GLUDGE_OLE_HDE",
+    "R_GLUDGE_HDE_PALM",
+    "R_GLUDGE_OLE_PALM",
+    "R_GLUDGE_HDE_HDE"
+   ],
+   "SYNPCC7942_RS12070": [
+    "R_ALAALAr"
+   ],
+   "SYNPCC7942_RS01655": [
+    "R_ETCPC"
+   ],
+   "SYNPCC7942_RS01125": [
+    "R_HEX1"
+   ],
+   "SYNPCC7942_RS00700": [
+    "R_MDDEP2pp",
+    "R_MDDEP1pp",
+    "R_MDDEP4pp",
+    "R_MDDEP3pp"
+   ],
+   "SYNPCC7942_RS00705": [
+    "R_ACLSa",
+    "R_ACHBSb",
+    "R_ACLSb"
+   ],
+   "SYNPCC7942_RS10825": [
+    "R_AGM4PApp",
+    "R_AGM3PApp"
+   ],
+   "SYNPCC7942_RS11110": [
+    "R_NAt3pp"
+   ],
+   "SYNPCC7942_RS13075": [
+    "R_ZNabcpp",
+    "R_MNabc_1"
+   ],
+   "SYNPCC7942_RS07820": [
+    "R_MOBDabcpp"
+   ],
+   "SYNPCC7942_RS07535": [
+    "R_MNHNAtpp"
+   ],
+   "SYNPCC7942_RS07825": [
+    "R_MOBDabcpp"
+   ],
+   "SYNPCC7942_RS03505": [
+    "R_3OAR100",
+    "R_3OAR60",
+    "R_3OAR80",
+    "R_3OAR120",
+    "R_3OAR180",
+    "R_3OAR160",
+    "R_OGMEACPR",
+    "R_OPMEACPR",
+    "R_3OAR40_2",
+    "R_3OAR140"
+   ],
+   "SYNPCC7942_RS04920": [
+    "R_CYRDAAT"
+   ],
+   "SYNPCC7942_RS04925": [
+    "R_GARFT"
+   ],
+   "SYNPCC7942_RS12700": [
+    "R_PCHLDA650",
+    "R_LPOR",
+    "R_PCHLDA430"
+   ],
+   "SYNPCC7942_RS11500": [
+    "R_HISTRS"
+   ],
+   "SYNPCC7942_RS13795": [
+    "R_PSIIum",
+    "R_PSIICSum"
+   ],
+   "SYNPCC7942_RS12100": [
+    "R_MOHMT"
+   ],
+   "SYNPCC7942_RS00200": [
+    "R_DHNPA_1"
+   ],
+   "SYNPCC7942_RS10895": [
+    "R_CMPA_1"
+   ],
+   "SYNPCC7942_RS00020": [
+    "R_GLUPRT"
+   ],
+   "SYNPCC7942_RS07540": [
+    "R_H2CO3_NAt_syn"
+   ],
+   "SYNPCC7942_RS06335": [
+    "R_NO3abcpp"
+   ],
+   "SYNPCC7942_RS10955": [
+    "R_GLNS"
+   ],
+   "SYNPCC7942_RS06330": [
+    "R_NTRARf2"
+   ],
+   "SYNPCC7942_RS05135": [
+    "R_ASPK"
+   ],
+   "SYNPCC7942_RS00970": [
+    "R_PSERT"
+   ],
+   "SYNPCC7942_RS07220": [
+    "R_LIPATPT_1",
+    "R_LIPAMPL_1"
+   ],
+   "SYNPCC7942_RS03380": [
+    "R_PPND"
+   ],
+   "SYNPCC7942_RS04245": [
+    "R_DALAabcpp",
+    "R_ALAALAabcpp",
+    "R_4PEPTabcpp"
+   ],
+   "SYNPCC7942_RS10295": [
+    "R_PGI"
+   ],
+   "SYNPCC7942_RS05500": [
+    "R_CYRDAAT"
+   ],
+   "SYNPCC7942_RS07385": [
+    "R_FBA3",
+    "R_FBA"
+   ],
+   "SYNPCC7942_RS10290": [
+    "R_ICLIPAS"
+   ],
+   "SYNPCC7942_RS09280": [
+    "R_PRMICI"
+   ],
+   "SYNPCC7942_RS04585": [
+    "R_GLUSfx"
+   ],
+   "SYNPCC7942_RS13425": [
+    "R_CYSS_2"
+   ],
+   "SYNPCC7942_RS07360": [
+    "R_NDH_1_1_um_copy1"
+   ],
+   "SYNPCC7942_RS05290": [
+    "R_HSTPT",
+    "R_PHETA1"
+   ],
+   "SYNPCC7942_RS07365": [
+    "R_HSK"
+   ],
+   "SYNPCC7942_RS09600": [
+    "R_LEUabcpp"
+   ],
+   "SYNPCC7942_RS07645": [
+    "R_ACGK"
+   ],
+   "SYNPCC7942_RS09605": [
+    "R_LEUabcpp"
+   ],
+   "SYNPCC7942_RS07095": [
+    "R_CYRDAAT"
+   ],
+   "SYNPCC7942_RS07765": [
+    "R_HISTDa",
+    "R_HISTDb"
+   ],
+   "SYNPCC7942_RS05610": [
+    "R_ANHMK"
+   ],
+   "SYNPCC7942_RS08360": [
+    "R_Cobalt2abcppI"
+   ],
+   "SYNPCC7942_RS13080": [
+    "R_ZNabcpp",
+    "R_MNabc_1"
+   ],
+   "SYNPCC7942_RS01335": [
+    "R_DAPDC"
+   ],
+   "SYNPCC7942_RS03655": [
+    "R_MECDPDHf"
+   ],
+   "SYNPCC7942_RS09780": [
+    "R_DAPE"
+   ],
+   "SYNPCC7942_RS06050": [
+    "R_NDH_1_1_um_copy1",
+    "R_NDH_1_4_um_copy1",
+    "R_NDH_1_1_um_copy2",
+    "R_NDH_1_4_um_copy2"
+   ],
+   "SYNPCC7942_RS07705": [
+    "R_LIPOCT"
+   ],
+   "SYNPCC7942_RS09865": [
+    "R_PDH"
+   ],
+   "SYNPCC7942_RS12855": [
+    "R_PHEOASE"
+   ],
+   "SYNPCC7942_RS09940": [
+    "R_PROTRS"
+   ],
+   "SYNPCC7942_RS11990": [
+    "R_AGM4PA",
+    "R_AM4PA",
+    "R_AM3PA"
+   ],
+   "SYNPCC7942_RS08800": [
+    "R_Kabcpp"
+   ],
+   "SYNPCC7942_RS11995": [
+    "R_GLUR"
+   ],
+   "SYNPCC7942_RS11395": [
+    "R_RBFSa"
+   ],
+   "SYNPCC7942_RS11850": [
+    "R_CBFCum"
+   ],
+   "SYNPCC7942_RS11855": [
+    "R_CBFCum"
+   ],
+   "SYNPCC7942_RS08565": [
+    "R_SULabcpp"
+   ],
+   "SYNPCC7942_RS05765": [
+    "R_OANTIabcpp",
+    "R_OANTILpp"
+   ],
+   "SYNPCC7942_RS09465": [
+    "R_NADK"
+   ],
+   "SYNPCC7942_RS08560": [
+    "R_SULabcpp"
+   ],
+   "SYNPCC7942_RS01345": [
+    "R_UDCPDPS"
+   ],
+   "SYNPCC7942_RS10635": [
+    "R_TDPDRE"
+   ],
+   "SYNPCC7942_RS01420": [
+    "R_NAD_H2"
+   ],
+   "SYNPCC7942_RS01425": [
+    "R_NMNDA"
+   ],
+   "SYNPCC7942_RS05325": [
+    "R_ARGDC"
+   ],
+   "SYNPCC7942_RS00110": [
+    "R_PC6AR_1"
+   ],
+   "SYNPCC7942_RS02670": [
+    "R_DHQS"
+   ],
+   "SYNPCC7942_RS11170": [
+    "R_BIOMASS_DNA"
+   ],
+   "SYNPCC7942_RS06065": [
+    "R_PTHPS"
+   ],
+   "SYNPCC7942_RS03275": [
+    "R_GLYOX_1"
+   ],
+   "SYNPCC7942_RS06385": [
+    "R_ZCAROTDH2",
+    "R_PLYCOI"
+   ],
+   "SYNPCC7942_RS02010": [
+    "R_CDPDAGS_OLE_PALM"
+   ],
+   "SYNPCC7942_RS08735": [
+    "R_GLYCLTDx"
+   ],
+   "SYNPCC7942_RS01565": [
+    "R_NAt3pp"
+   ],
+   "SYNPCC7942_RS12000": [
+    "R_NPDPS"
+   ],
+   "SYNPCC7942_RS10225": [
+    "R_PSIIum",
+    "R_PSIICSum"
+   ],
+   "SYNPCC7942_RS01600": [
+    "R_SUCDum"
+   ],
+   "SYNPCC7942_RS01605": [
+    "R_ADSL1r",
+    "R_ADSL2r"
+   ],
+   "SYNPCC7942_RS08020": [
+    "R_NI2uabcpp",
+    "R_CUabcpp"
+   ],
+   "SYNPCC7942_RS01040": [
+    "R_NNATr",
+    "R_NADDP",
+    "R_NMNAT"
+   ],
+   "SYNPCC7942_RS13430": [
+    "R_GTHRDH_syn"
+   ],
+   "SYNPCC7942_RS01045": [
+    "R_NAMNPP",
+    "R_NMNS"
+   ],
+   "SYNPCC7942_RS02485": [
+    "R_DHORTS"
+   ],
+   "SYNPCC7942_RS01695": [
+    "R_ATPSum"
+   ],
+   "SYNPCC7942_RS12405": [
+    "R_PIuabcpp"
+   ],
+   "SYNPCC7942_RS04400": [
+    "R_LDAPAT"
+   ],
+   "SYNPCC7942_RS06815": [
+    "R_CCGS"
+   ],
+   "SYNPCC7942_RS11985": [
+    "R_NAt3pp"
+   ],
+   "SYNPCC7942_RS13030": [
+    "R_ACCOAC"
+   ],
+   "SYNPCC7942_RS02300": [
+    "R_LIPOS2",
+    "R_CYSDES",
+    "R_BTS6"
+   ],
+   "SYNPCC7942_RS07690": [
+    "R_ERTHMMOR",
+    "R_IPMD"
+   ],
+   "SYNPCC7942_RS02260": [
+    "R_NH4tpp"
+   ],
+   "SYNPCC7942_RS04960": [
+    "R_BPNT2",
+    "R_BPNT"
+   ],
+   "SYNPCC7942_RS12620": [
+    "R_NDH_1_1_um_copy1",
+    "R_NDH_1_4_um_copy1",
+    "R_NDH_1_1_um_copy2",
+    "R_NDH_1_4_um_copy2"
+   ],
+   "SYNPCC7942_RS00640": [
+    "R_EPMEACPR",
+    "R_EAR120y",
+    "R_EAR60y",
+    "R_EAR160y",
+    "R_EAR80y",
+    "R_EAR140y",
+    "R_EGMEACPR",
+    "R_EAR100y",
+    "R_EAR180y",
+    "R_EAR40y"
+   ],
+   "Synpcc7942_2454": [
+    "R_ADPT"
+   ],
+   "SYNPCC7942_RS02455": [
+    "R_MCTP2App",
+    "R_MCTP1Bpp",
+    "R_MCTP1App"
+   ],
+   "Synpcc7942_2010": [
+    "R_PSIIum",
+    "R_PSIICSum"
+   ],
+   "SYNPCC7942_RS11895": [
+    "R_Cobalt2abcppI"
+   ],
+   "SYNPCC7942_RS01505": [
+    "R_SADT"
+   ],
+   "SYNPCC7942_RS01760": [
+    "R_BTNPL2",
+    "R_BACCL"
+   ],
+   "SYNPCC7942_RS12105": [
+    "R_CPPPGO2"
+   ],
+   "SYNPCC7942_RS03490": [
+    "R_MEPCT"
+   ],
+   "SYNPCC7942_RS09185": [
+    "R_PNTK"
+   ],
+   "SYNPCC7942_RS06460": [
+    "R_TPI"
+   ],
+   "SYNPCC7942_RS00360": [
+    "R_IPDPS_syn",
+    "R_DMPPS_syn"
+   ],
+   "SYNPCC7942_RS13045": [
+    "R_TMPK"
+   ],
+   "SYNPCC7942_RS07500": [
+    "R_CYSS_2"
+   ],
+   "SYNPCC7942_RS02935": [
+    "R_DXYTST"
+   ],
+   "SYNPCC7942_RS07265": [
+    "R_DPOR"
+   ],
+   "SYNPCC7942_RS06025": [
+    "R_PSIIum",
+    "R_PSIICSum"
+   ],
+   "SYNPCC7942_RS07915": [
+    "R_DPR",
+    "R_KARI_1",
+    "R_KARA1",
+    "R_KARI_23dhmp_1"
+   ],
+   "SYNPCC7942_RS07260": [
+    "R_DPOR"
+   ],
+   "SYNPCC7942_RS04705": [
+    "R_DHQTi"
+   ],
+   "SYNPCC7942_RS10005": [
+    "R_GALUi"
+   ],
+   "SYNPCC7942_RS05790": [
+    "R_TRDRf"
+   ],
+   "SYNPCC7942_RS11240": [
+    "R_DADK",
+    "R_ADK1"
+   ],
+   "SYNPCC7942_RS02420": [
+    "R_CBFCum"
+   ],
+   "SYNPCC7942_RS03695": [
+    "R_DCTPD"
+   ],
+   "SYNPCC7942_RS11475": [
+    "R_VPAMTr"
+   ],
+   "SYNPCC7942_RS07280": [
+    "R_HCO3E_1_cx",
+    "R_RBPCcx"
+   ],
+   "SYNPCC7942_RS07285": [
+    "R_RBPCcx"
+   ],
+   "SYNPCC7942_RS07325": [
+    "R_GTPCII",
+    "R_DB4PS"
+   ],
+   "SYNPCC7942_RS09635": [
+    "R_DCTPD2"
+   ],
+   "SYNPCC7942_RS07605": [
+    "R_BCT1_syn"
+   ],
+   "SYNPCC7942_RS07530": [
+    "R_MNHNAtpp"
+   ],
+   "SYNPCC7942_RS09645": [
+    "R_OANTS"
+   ],
+   "SYNPCC7942_RS13265": [
+    "R_CYOOum"
+   ],
+   "SYNPCC7942_RS05140": [
+    "R_PSIum",
+    "R_PSICSum"
+   ],
+   "SYNPCC7942_RS13260": [
+    "R_CYOOum"
+   ],
+   "SYNPCC7942_RS09640": [
+    "R_OANTS"
+   ],
+   "SYNPCC7942_RS02945": [
+    "R_SQDGS_PALM_PALM",
+    "R_SQDGS_HDE_PALM"
+   ],
+   "SYNPCC7942_RS03055": [
+    "R_MSBENZMT"
+   ],
+   "SYNPCC7942_RS00840": [
+    "R_ASNN"
+   ],
+   "SYNPCC7942_RS07080": [
+    "R_PPA"
+   ],
+   "SYNPCC7942_RS02940": [
+    "R_SQD1"
+   ],
+   "SYNPCC7942_RS08140": [
+    "R_ALDR18"
+   ],
+   "SYNPCC7942_RS12930": [
+    "R_TYRTA",
+    "R_EHGLAT",
+    "R_ASPTA"
+   ],
+   "SYNPCC7942_RS10765": [
+    "R_ANPRT"
+   ],
+   "SYNPCC7942_RS01220": [
+    "R_STACPSI"
+   ],
+   "SYNPCC7942_RS10670": [
+    "R_NO2tabcpp",
+    "R_CYNTtabcpp"
+   ],
+   "SYNPCC7942_RS10675": [
+    "R_NO2tabcpp",
+    "R_CYNTtabcpp"
+   ],
+   "SYNPCC7942_RS08860": [
+    "R_UM4PL",
+    "R_UM3PL",
+    "R_UAMAS"
+   ],
+   "SYNPCC7942_RS01305": [
+    "R_ACODA"
+   ],
+   "SYNPCC7942_RS09355": [
+    "R_CDGR"
+   ],
+   "SYNPCC7942_RS08515": [
+    "R_Kabcpp"
+   ],
+   "SYNPCC7942_RS05810": [
+    "R_GGCLUT2"
+   ],
+   "SYNPCC7942_RS08510": [
+    "R_Kabcpp"
+   ],
+   "SYNPCC7942_RS01390": [
+    "R_DPCOAK"
+   ],
+   "SYNPCC7942_RS02065": [
+    "R_BIOMASS_DNA"
+   ],
+   "SYNPCC7942_RS05815": [
+    "R_AMPTASECG"
+   ],
+   "SYNPCC7942_RS07730": [
+    "R_ZCARDS",
+    "R_ZCAROTDH1",
+    "R_ZCAROTDH2"
+   ],
+   "SYNPCC7942_RS11120": [
+    "R_ICHORS"
+   ],
+   "SYNPCC7942_RS07735": [
+    "R_DXPRIi"
+   ],
+   "SYNPCC7942_RS09735": [
+    "R_THBTGT"
+   ],
+   "SYNPCC7942_RS04195": [
+    "R_NAt3pp"
+   ],
+   "SYNPCC7942_RS08600": [
+    "R_SULabcpp"
+   ],
+   "SYNPCC7942_RS01260": [
+    "R_ARGabcpp",
+    "R_GLNabcpp"
+   ],
+   "SYNPCC7942_RS08350": [
+    "R_PSIIum",
+    "R_PSIICSum"
+   ],
+   "SYNPCC7942_RS01265": [
+    "R_ARGabcpp",
+    "R_GLNabcpp"
+   ],
+   "SYNPCC7942_RS08840": [
+    "R_BTS6"
+   ],
+   "SYNPCC7942_RS08210": [
+    "R_RNDR1",
+    "R_RNDR2",
+    "R_RNDR3",
+    "R_RNDR4"
+   ],
+   "SYNPCC7942_RS08215": [
+    "R_NADTRHD"
+   ],
+   "SYNPCC7942_RS05145": [
+    "R_ANS",
+    "R_ANS2"
+   ],
+   "SYNPCC7942_RS01465": [
+    "R_UAGDP",
+    "R_G1PACT"
+   ],
+   "SYNPCC7942_RS02735": [
+    "R_TKT1",
+    "R_TKT2"
+   ],
+   "SYNPCC7942_RS11885": [
+    "R_ICLIPAS"
+   ],
+   "SYNPCC7942_RS02730": [
+    "R_3OAS140",
+    "R_OPMEACPS",
+    "R_3OAS100",
+    "R_3OAS180",
+    "R_3OAS120",
+    "R_OGMEACPS",
+    "R_3OAS60",
+    "R_3OAS160",
+    "R_KAS14",
+    "R_3OAS80"
+   ],
+   "SYNPCC7942_RS02255": [
+    "R_AIRC3"
+   ],
+   "SYNPCC7942_RS05885": [
+    "R_UDPGLDC"
+   ],
+   "SYNPCC7942_RS06100": [
+    "R_GK1"
+   ],
+   "SYNPCC7942_RS08855": [
+    "R_UAPGR"
+   ],
+   "SYNPCC7942_RS09915": [
+    "R_CPH4S"
+   ],
+   "SYNPCC7942_RS10710": [
+    "R_PRPPS"
+   ],
+   "SYNPCC7942_RS11865": [
+    "R_G6PDH2r"
+   ],
+   "SYNPCC7942_RS00985": [
+    "R_BIOMASS_DNA"
+   ],
+   "SYNPCC7942_RS07215": [
+    "R_CITMS"
+   ],
+   "SYNPCC7942_RS08075": [
+    "R_LADGMDH"
+   ],
+   "SYNPCC7942_RS05570": [
+    "R_GLCBRAN3"
+   ],
+   "SYNPCC7942_RS11815": [
+    "R_GTHS"
+   ],
+   "SYNPCC7942_RS01005": [
+    "R_NDHPQRcm",
+    "R_NDHPQRum"
+   ],
+   "SYNPCC7942_RS12365": [
+    "R_ACLSa",
+    "R_ACHBSb",
+    "R_ACLSb"
+   ],
+   "SYNPCC7942_RS01415": [
+    "R_NAD_H2"
+   ],
+   "SYNPCC7942_RS11755": [
+    "R_UAGPT3"
+   ],
+   "SYNPCC7942_RS04030": [
+    "R_MTHFC",
+    "R_MTHFD"
+   ],
+   "SYNPCC7942_RS12380": [
+    "R_ILETRS"
+   ],
+   "SYNPCC7942_RS00145": [
+    "R_PMEACPE"
+   ],
+   "SYNPCC7942_RS11615": [
+    "R_ALCD1",
+    "R_ALCD19"
+   ],
+   "SYNPCC7942_RS01145": [
+    "R_PSIIum",
+    "R_PSIICSum"
+   ],
+   "SYNPCC7942_RS02025": [
+    "R_SUCR"
+   ],
+   "SYNPCC7942_RS02020": [
+    "R_AICART",
+    "R_IMPC"
+   ],
+   "SYNPCC7942_RS07405": [
+    "R_HCO3E_1_cx"
+   ],
+   "SYNPCC7942_RS05425": [
+    "R_THII",
+    "R_THISAT"
+   ],
+   "SYNPCC7942_RS10565": [
+    "R_CHPHYS"
+   ],
+   "SYNPCC7942_RS02340": [
+    "R_FALDH2"
+   ],
+   "SYNPCC7942_RS01630": [
+    "R_UDPG4E"
+   ],
+   "SYNPCC7942_RS12540": [
+    "R_SHK3Dr"
+   ],
+   "SYNPCC7942_RS10355": [
+    "R_MPTG",
+    "R_MPTG2"
+   ],
+   "SYNPCC7942_RS08770": [
+    "R_PLYCOI"
+   ],
+   "SYNPCC7942_RS01645": [
+    "R_CBFCum"
+   ],
+   "SYNPCC7942_RS01640": [
+    "R_CBFCum"
+   ],
+   "SYNPCC7942_RS12060": [
+    "R_ALAGLUE"
+   ],
+   "SYNPCC7942_RS03570": [
+    "R_PSIIum",
+    "R_PSIICSum"
+   ],
+   "SYNPCC7942_RS12145": [
+    "R_OPAH"
+   ],
+   "SYNPCC7942_RS06030": [
+    "R_PSIIum",
+    "R_PSIICSum"
+   ],
+   "SYNPCC7942_RS10760": [
+    "R_CBPS"
+   ],
+   "SYNPCC7942_RS10815": [
+    "R_PGAMT"
+   ],
+   "SYNPCC7942_RS06740": [
+    "R_ZNabcpp",
+    "R_MNabc_1"
+   ],
+   "SYNPCC7942_RS03010": [
+    "R_VALTRS"
+   ],
+   "SYNPCC7942_RS04690": [
+    "R_BIOMASS_DNA"
+   ],
+   "SYNPCC7942_RS03015": [
+    "R_GART"
+   ],
+   "SYNPCC7942_RS04855": [
+    "R_DHFS"
+   ],
+   "SYNPCC7942_RS06620": [
+    "R_LTHRK"
+   ],
+   "SYNPCC7942_RS04850": [
+    "R_ACOTA"
+   ],
+   "SYNPCC7942_RS00515": [
+    "R_NDHPQRcm",
+    "R_NDHPQRum"
+   ],
+   "SYNPCC7942_RS06130": [
+    "R_IGPS"
+   ],
+   "SYNPCC7942_RS12715": [
+    "R_PAPSR"
+   ],
+   "SYNPCC7942_RS13310": [
+    "R_PGLYCP"
+   ],
+   "SYNPCC7942_RS09570": [
+    "R_OANTS"
+   ],
+   "SYNPCC7942_RS02780": [
+    "R_NAt3pp"
+   ],
+   "SYNPCC7942_RS00575": [
+    "R_CBFCum"
+   ],
+   "SYNPCC7942_RS10880": [
+    "R_TRPS3",
+    "R_TRPS1",
+    "R_TRPS2"
+   ],
+   "SYNPCC7942_RS13305": [
+    "R_THRS"
+   ],
+   "SYNPCC7942_RS06730": [
+    "R_ZNabcpp",
+    "R_MNabc_1"
+   ],
+   "SYNPCC7942_RS06320": [
+    "R_Ktu"
+   ],
+   "SYNPCC7942_RS12785": [
+    "R_GLCS3"
+   ],
+   "SYNPCC7942_RS10185": [
+    "R_DMBZIDS2"
+   ],
+   "SYNPCC7942_RS00960": [
+    "R_GMPS2"
+   ],
+   "SYNPCC7942_RS00965": [
+    "R_R05219"
+   ],
+   "SYNPCC7942_RS06635": [
+    "R_ME2"
+   ],
+   "SYNPCC7942_RS10285": [
+    "R_ICLIPAS"
+   ],
+   "SYNPCC7942_RS10695": [
+    "R_FMETTRS"
+   ],
+   "SYNPCC7942_RS10280": [
+    "R_ICLIPAS"
+   ],
+   "SYNPCC7942_RS00800": [
+    "R_THII",
+    "R_THISAT"
+   ],
+   "SYNPCC7942_RS02335": [
+    "R_SFGTHi"
+   ],
+   "SYNPCC7942_RS11510": [
+    "R_G5SD"
+   ],
+   "SYNPCC7942_RS13250": [
+    "R_HEMEAS_1"
+   ],
+   "SYNPCC7942_RS11400": [
+    "R_PSIIum",
+    "R_PSIICSum"
+   ],
+   "SYNPCC7942_RS07370": [
+    "R_ADCPS2"
+   ],
+   "SYNPCC7942_RS06950": [
+    "R_DVOCHR_1"
+   ],
+   "SYNPCC7942_RS06810": [
+    "R_CDGS"
+   ],
+   "SYNPCC7942_RS05285": [
+    "R_ILETA",
+    "R_VALTA",
+    "R_LEUTA"
+   ],
+   "SYNPCC7942_RS09705": [
+    "R_PSIum",
+    "R_PSICSum"
+   ],
+   "SYNPCC7942_RS10580": [
+    "R_IG3PS"
+   ],
+   "SYNPCC7942_RS09675": [
+    "R_NDH_1_1_um_copy1",
+    "R_NDH_1_4_um_copy1",
+    "R_NDH_1_1_um_copy2",
+    "R_NDH_1_4_um_copy2"
+   ],
+   "SYNPCC7942_RS07670": [
+    "R_PGCD"
+   ],
+   "SYNPCC7942_RS09670": [
+    "R_MPOMMM",
+    "R_MPOMOR_1",
+    "R_MPOMC1_1"
+   ],
+   "SYNPCC7942_RS01710": [
+    "R_ATPSum"
+   ],
+   "SYNPCC7942_RS06885": [
+    "R_LDH_D"
+   ],
+   "SYNPCC7942_RS06880": [
+    "R_NDH_1_1_um_copy1",
+    "R_NDH_1_4_um_copy1",
+    "R_NDH_1_1_um_copy2",
+    "R_NDH_1_4_um_copy2"
+   ],
+   "SYNPCC7942_RS02275": [
+    "R_DALAabcpp",
+    "R_ALAALAabcpp",
+    "R_4PEPTabcpp"
+   ],
+   "SYNPCC7942_RS05355": [
+    "R_TMDS3"
+   ],
+   "SYNPCC7942_RS09385": [
+    "R_PC6YM_1"
+   ],
+   "SYNPCC7942_RS05350": [
+    "R_PHYTK"
+   ],
+   "SYNPCC7942_RS03645": [
+    "R_CBPS"
+   ],
+   "SYNPCC7942_RS10035": [
+    "R_ZISO"
+   ],
+   "SYNPCC7942_RS04770": [
+    "R_PRASCSi"
+   ],
+   "SYNPCC7942_RS05995": [
+    "R_DALAabcpp",
+    "R_ALAALAabcpp",
+    "R_4PEPTabcpp"
+   ],
+   "SYNPCC7942_RS11710": [
+    "R_NADK"
+   ],
+   "SYNPCC7942_RS09790": [
+    "R_LIPOS2",
+    "R_CYSDES"
+   ],
+   "SYNPCC7942_RS02165": [
+    "R_PSIIum",
+    "R_PSIICSum"
+   ],
+   "SYNPCC7942_RS09815": [
+    "R_MDDEP2pp",
+    "R_MDDCP1pp",
+    "R_MDDCP3pp",
+    "R_MDDCP5pp",
+    "R_MDDEP1pp",
+    "R_MDDCP2pp",
+    "R_MDDEP4pp",
+    "R_MDDEP3pp",
+    "R_MDDCP4pp"
+   ],
+   "SYNPCC7942_RS09810": [
+    "R_IPDDI"
+   ],
+   "SYNPCC7942_RS09400": [
+    "R_PC20M"
+   ],
+   "SYNPCC7942_RS09955": [
+    "R_PSIIum",
+    "R_PSIICSum"
+   ],
+   "SYNPCC7942_RS09405": [
+    "R_PC17M_1"
+   ],
+   "SYNPCC7942_RS08135": [
+    "R_ALDDC17"
+   ],
+   "SYNPCC7942_RS08420": [
+    "R_ACMAMT"
+   ],
+   "SYNPCC7942_RS01580": [
+    "R_CDPMEK"
+   ],
+   "SYNPCC7942_RS05020": [
+    "R_FNOR_1"
+   ],
+   "SYNPCC7942_RS05670": [
+    "R_NDH_1_1_um_copy1",
+    "R_NDH_1_4_um_copy1",
+    "R_NDH_1_1_um_copy2",
+    "R_NDH_1_4_um_copy2"
+   ],
+   "SYNPCC7942_RS12600": [
+    "R_PROAKGOX1"
+   ],
+   "SYNPCC7942_RS08655": [
+    "R_GFUCS"
+   ],
+   "SYNPCC7942_RS08550": [
+    "R_PSIIum",
+    "R_PSIICSum"
+   ],
+   "SYNPCC7942_RS09980": [
+    "R_UDCPDP"
+   ],
+   "SYNPCC7942_RS08220": [
+    "R_NADTRHD"
+   ],
+   "SYNPCC7942_RS04275": [
+    "R_COCHL_1"
+   ],
+   "SYNPCC7942_RS08555": [
+    "R_PSIIum",
+    "R_PSIICSum"
+   ],
+   "SYNPCC7942_RS08225": [
+    "R_NADTRHD"
+   ],
+   "SYNPCC7942_RS02760": [
+    "R_LIPOCT"
+   ],
+   "SYNPCC7942_RS10140": [
+    "R_MPTG",
+    "R_MPTG2"
+   ],
+   "SYNPCC7942_RS02765": [
+    "R_FMNRy_1"
+   ],
+   "SYNPCC7942_RS12245": [
+    "R_ADSS"
+   ],
+   "SYNPCC7942_RS12325": [
+    "R_CBFCum"
+   ],
+   "SYNPCC7942_RS01890": [
+    "R_HSERTA"
+   ],
+   "SYNPCC7942_RS00100": [
+    "R_SULR_2"
+   ],
+   "SYNPCC7942_RS06075": [
+    "R_DHFR"
+   ],
+   "SYNPCC7942_RS09920": [
+    "R_CTPS2"
+   ],
+   "SYNPCC7942_RS05245": [
+    "R_SUCBZS"
+   ],
+   "SYNPCC7942_RS01450": [
+    "R_RBPCcx"
+   ],
+   "SYNPCC7942_RS09925": [
+    "R_ACCOAC"
+   ],
+   "SYNPCC7942_RS10440": [
+    "R_HPROb",
+    "R_P5CR"
+   ],
+   "SYNPCC7942_RS01570": [
+    "R_NDH_1_4_um_copy2"
+   ],
+   "SYNPCC7942_RS01575": [
+    "R_NDH_1_4_um_copy2"
+   ],
+   "SYNPCC7942_RS08720": [
+    "R_HSERTA"
+   ],
+   "SYNPCC7942_RS01670": [
+    "R_ETCPC"
+   ],
+   "SYNPCC7942_RS01075": [
+    "R_CHORS"
+   ],
+   "SYNPCC7942_RS01070": [
+    "R_ADCYRS"
+   ],
+   "SYNPCC7942_RS09260": [
+    "R_PGPS_OLE_PALM"
+   ],
+   "SYNPCC7942_RS01680": [
+    "R_ATPSum"
+   ],
+   "SYNPCC7942_RS06055": [
+    "R_NDH_1_1_um_copy1",
+    "R_NDH_1_4_um_copy1",
+    "R_NDH_1_1_um_copy2",
+    "R_NDH_1_4_um_copy2"
+   ],
+   "SYNPCC7942_RS13120": [
+    "R_ACM6PH"
+   ],
+   "SYNPCC7942_RS01685": [
+    "R_ATPSum"
+   ],
+   "SYNPCC7942_RS00770": [
+    "R_PAPPT3"
+   ],
+   "SYNPCC7942_RS04395": [
+    "R_PRAIS"
+   ],
+   "SYNPCC7942_RS02375": [
+    "R_CELLSYN"
+   ],
+   "SYNPCC7942_RS10535": [
+    "R_PGM"
+   ],
+   "SYNPCC7942_RS11000": [
+    "R_PHEOX_1"
+   ],
+   "SYNPCC7942_RS06440": [
+    "R_CLt3_1pp"
+   ],
+   "SYNPCC7942_RS05555": [
+    "R_CA2abcpp"
+   ],
+   "SYNPCC7942_RS05550": [
+    "R_Nat_Kpp"
+   ],
+   "SYNPCC7942_RS03195": [
+    "R_TRDR"
+   ],
+   "SYNPCC7942_RS00790": [
+    "R_PGMT"
+   ],
+   "SYNPCC7942_RS10365": [
+    "R_ADMDC"
+   ],
+   "SYNPCC7942_RS01705": [
+    "R_ATPSum"
+   ],
+   "SYNPCC7942_RS12755": [
+    "R_PSIum",
+    "R_PSICSum"
+   ],
+   "SYNPCC7942_RS04890": [
+    "R_NNDPR"
+   ],
+   "SYNPCC7942_RS05720": [
+    "R_PGK"
+   ],
+   "SYNPCC7942_RS12050": [
+    "R_UAGAAT2"
+   ],
+   "SYNPCC7942_RS12505": [
+    "R_DNAMTn2r"
+   ],
+   "SYNPCC7942_RS07455": [
+    "R_AGPATACP_OLE_HDE",
+    "R_AGPATACP_HDE_PALM",
+    "R_AGPAT161",
+    "R_AGPAT160",
+    "R_AGPATACP_OLE_PALM"
+   ],
+   "SYNPCC7942_RS07450": [
+    "R_MCOATA"
+   ],
+   "SYNPCC7942_RS00310": [
+    "R_G1PCTYT"
+   ],
+   "SYNPCC7942_RS07515": [
+    "R_MNHNAtpp"
+   ],
+   "SYNPCC7942_RS00120": [
+    "R_CA2t2pp"
+   ],
+   "SYNPCC7942_RS07440": [
+    "R_G3PAT1819Z_1",
+    "R_G3PAT160",
+    "R_G3PAT161"
+   ],
+   "SYNPCC7942_RS07510": [
+    "R_MNHNAtpp"
+   ],
+   "SYNPCC7942_RS06675": [
+    "R_DALAabcpp",
+    "R_ALAALAabcpp",
+    "R_4PEPTabcpp"
+   ],
+   "SYNPCC7942_RS02075": [
+    "R_PSIum",
+    "R_PSICSum"
+   ],
+   "SYNPCC7942_RS03290": [
+    "R_SUCDum"
+   ],
+   "SYNPCC7942_RS10435": [
+    "R_G3PAT1819Z_1",
+    "R_G3PAT160",
+    "R_G3PAT161"
+   ],
+   "SYNPCC7942_RS03120": [
+    "R_ARD"
+   ],
+   "SYNPCC7942_RS04820": [
+    "R_GLYOX"
+   ],
+   "SYNPCC7942_RS03125": [
+    "R_NDH_1_4_um_copy2"
+   ],
+   "SYNPCC7942_RS00695": [
+    "R_FCLT"
+   ],
+   "SYNPCC7942_RS04735": [
+    "R_PSIum",
+    "R_PSICSum"
+   ],
+   "SYNPCC7942_RS09580": [
+    "R_GLCBRAN3"
+   ],
+   "SYNPCC7942_RS00425": [
+    "R_GLCDBRAN3"
+   ],
+   "SYNPCC7942_RS13675": [
+    "R_PSIIum",
+    "R_PSIICSum"
+   ],
+   "SYNPCC7942_RS12295": [
+    "R_SERAT"
+   ],
+   "SYNPCC7942_RS00870": [
+    "R_CYSS_2"
+   ],
+   "SYNPCC7942_RS07330": [
+    "R_AGPR"
+   ],
+   "SYNPCC7942_RS06910": [
+    "R_ACS"
+   ],
+   "SYNPCC7942_RS06355": [
+    "R_NTRIRfx"
+   ],
+   "SYNPCC7942_RS06350": [
+    "R_NO3abcpp"
+   ],
+   "SYNPCC7942_RS13275": [
+    "R_THRTRS"
+   ],
+   "SYNPCC7942_RS07200": [
+    "R_FE3abcpp"
+   ],
+   "SYNPCC7942_RS00495": [
+    "R_COCHL_1"
+   ],
+   "SYNPCC7942_RS05480": [
+    "R_PDH"
+   ],
+   "SYNPCC7942_RS07525": [
+    "R_MNHNAtpp"
+   ],
+   "SYNPCC7942_RS07630": [
+    "R_NTPP2",
+    "R_NTPP8"
+   ],
+   "SYNPCC7942_RS05155": [
+    "R_PMDPHT"
+   ],
+   "SYNPCC7942_RS02900": [
+    "R_BIOMASS_DNA"
+   ],
+   "SYNPCC7942_RS05250": [
+    "R_SUCBZL"
+   ],
+   "SYNPCC7942_RS07835": [
+    "R_SUCDum"
+   ],
+   "SYNPCC7942_RS02690": [
+    "R_PGL"
+   ],
+   "SYNPCC7942_RS10665": [
+    "R_CYNL"
+   ],
+   "Synpcc7942_0413": [
+    "R_NDH_1_1_um_copy1",
+    "R_NDH_1_4_um_copy1",
+    "R_NDH_1_1_um_copy2",
+    "R_NDH_1_4_um_copy2"
+   ],
+   "SYNPCC7942_RS07295": [
+    "R_RBPCcx"
+   ],
+   "SYNPCC7942_RS12805": [
+    "R_G3PD2"
+   ],
+   "SYNPCC7942_RS07020": [
+    "R_METS_1"
+   ],
+   "SYNPCC7942_RS06820": [
+    "R_ADCS"
+   ],
+   "SYNPCC7942_RS07025": [
+    "R_NAD_H2"
+   ],
+   "SYNPCC7942_RS06825": [
+    "R_ADCL"
+   ],
+   "SYNPCC7942_RS02850": [
+    "R_Cobalt2abcppI"
+   ],
+   "SYNPCC7942_RS09440": [
+    "R_LEUabcpp"
+   ],
+   "SYNPCC7942_RS06500": [
+    "R_MG2uabcpp"
+   ],
+   "SYNPCC7942_RS09745": [
+    "R_LEUTRS"
+   ],
+   "SYNPCC7942_RS02295": [
+    "R_SERTRS"
+   ],
+   "SYNPCC7942_RS01255": [
+    "R_ARGabcpp",
+    "R_GLNabcpp"
+   ],
+   "SYNPCC7942_RS05635": [
+    "R_DMTPHT"
+   ],
+   "SYNPCC7942_RS09625": [
+    "R_CITCIb",
+    "R_IPPMIb",
+    "R_IPPMIa",
+    "R_CITCIa"
+   ],
+   "SYNPCC7942_RS11385": [
+    "R_G5SD"
+   ],
+   "SYNPCC7942_RS04235": [
+    "R_PRFGS"
+   ],
+   "SYNPCC7942_RS10060": [
+    "R_PHYTES2_1",
+    "R_PHYTES"
+   ],
+   "SYNPCC7942_RS11955": [
+    "R_LIPOS2"
+   ],
+   "SYNPCC7942_RS04230": [
+    "R_PRFGS"
+   ],
+   "SYNPCC7942_RS04605": [
+    "R_SHKK"
+   ],
+   "SYNPCC7942_RS12205": [
+    "R_AGDI_1"
+   ],
+   "SYNPCC7942_RS10105": [
+    "R_MDRPD"
+   ],
+   "SYNPCC7942_RS04600": [
+    "R_PSIIum",
+    "R_PSIICSum"
+   ],
+   "SYNPCC7942_RS02720": [
+    "R_PSIum",
+    "R_PSICSum"
+   ],
+   "SYNPCC7942_RS10100": [
+    "R_MTRI"
+   ],
+   "SYNPCC7942_RS11620": [
+    "R_MOAT_1"
+   ],
+   "SYNPCC7942_RS09840": [
+    "R_GAPD",
+    "R_E4PD"
+   ],
+   "SYNPCC7942_RS11625": [
+    "R_MOAT_1"
+   ],
+   "SYNPCC7942_RS08980": [
+    "R_CYTBD4cm",
+    "R_CYTBD4um"
+   ],
+   "SYNPCC7942_RS03450": [
+    "R_CPPPGO"
+   ],
+   "SYNPCC7942_RS08865": [
+    "R_GAPDi_nadp"
+   ],
+   "SYNPCC7942_RS09965": [
+    "R_HBZNPT"
+   ],
+   "SYNPCC7942_RS11185": [
+    "R_ALAR"
+   ],
+   "SYNPCC7942_RS06135": [
+    "R_PDH"
+   ],
+   "SYNPCC7942_RS09960": [
+    "R_AGM4PCP",
+    "R_UM4PCP",
+    "R_4PCP",
+    "R_AM4PCP"
+   ],
+   "SYNPCC7942_RS11870": [
+    "R_FBP"
+   ],
+   "SYNPCC7942_RS08585": [
+    "R_SULabcpp"
+   ],
+   "SYNPCC7942_RS03225": [
+    "R_SPMS",
+    "R_SPRMS"
+   ],
+   "SYNPCC7942_RS04215": [
+    "R_LEUabcpp"
+   ],
+   "SYNPCC7942_RS08000": [
+    "R_PPK2",
+    "R_PPK"
+   ],
+   "SYNPCC7942_RS08500": [
+    "R_UAMAGS"
+   ],
+   "SYNPCC7942_RS08505": [
+    "R_Kabcpp"
+   ],
+   "SYNPCC7942_RS05745": [
+    "R_LTHRK"
+   ],
+   "SYNPCC7942_RS08460": [
+    "R_DMBZIDS2"
+   ],
+   "SYNPCC7942_RS12270": [
+    "R_LYSTRS"
+   ],
+   "SYNPCC7942_RS00470": [
+    "R_DTMPK",
+    "R_URIDK2r"
+   ],
+   "SYNPCC7942_RS01405": [
+    "R_GLYCLTDx"
+   ],
+   "SYNPCC7942_RS00685": [
+    "R_NPHBDC"
+   ],
+   "SYNPCC7942_RS01030": [
+    "R_DHPPDA"
+   ],
+   "SYNPCC7942_RS10610": [
+    "R_NDH_1_4_um_copy1"
+   ],
+   "SYNPCC7942_RS04045": [
+    "R_LTHRK"
+   ],
+   "SYNPCC7942_RS04515": [
+    "R_ALATRS"
+   ],
+   "SYNPCC7942_RS10615": [
+    "R_NDH_1_4_um_copy1"
+   ],
+   "Synpcc7942_1478": [
+    "R_CBFCum"
+   ],
+   "SYNPCC7942_RS11740": [
+    "R_ASP1DC"
+   ],
+   "SYNPCC7942_RS00290": [
+    "R_TDPDRE"
+   ],
+   "SYNPCC7942_RS13380": [
+    "R_CYSS_2"
+   ],
+   "SYNPCC7942_RS10470": [
+    "R_PHETRS"
+   ],
+   "SYNPCC7942_RS03310": [
+    "R_G1SAT"
+   ],
+   "SYNPCC7942_RS07610": [
+    "R_BCT1_syn"
+   ],
+   "SYNPCC7942_RS00880": [
+    "R_BPNT2",
+    "R_BPNT"
+   ],
+   "SYNPCC7942_RS03095": [
+    "R_GLGC"
+   ],
+   "SYNPCC7942_RS08765": [
+    "R_SULabcpp"
+   ],
+   "SYNPCC7942_RS05560": [
+    "R_GLUDGS_HDE_PALM",
+    "R_GLUDGS_HDE_HDE",
+    "R_GLUDGS_OLE_PALM",
+    "R_GLUDGS_OLE_HDE"
+   ],
+   "SYNPCC7942_RS13150": [
+    "R_MI3PP"
+   ],
+   "SYNPCC7942_RS00005": [
+    "R_BIOMASS_DNA"
+   ],
+   "SYNPCC7942_RS00045": [
+    "R_ARGSS"
+   ],
+   "SYNPCC7942_RS13015": [
+    "R_DESAT16a",
+    "R_DESAT18a"
+   ],
+   "SYNPCC7942_RS12985": [
+    "R_NAD_H2"
+   ],
+   "SYNPCC7942_RS12980": [
+    "R_NAD_H2"
+   ],
+   "SYNPCC7942_RS00725": [
+    "R_PDH"
+   ],
+   "SYNPCC7942_RS07410": [
+    "R_QULNS"
+   ],
+   "SYNPCC7942_RS06000": [
+    "R_MECDPS"
+   ],
+   "SYNPCC7942_RS07415": [
+    "R_U23GAAT2"
+   ],
+   "SYNPCC7942_RS02245": [
+    "R_MPOMT_1"
+   ],
+   "SYNPCC7942_RS11055": [
+    "R_FE3abcpp"
+   ],
+   "SYNPCC7942_RS05685": [
+    "R_THRPDC"
+   ],
+   "SYNPCC7942_RS02570": [
+    "R_UMPK"
+   ],
+   "SYNPCC7942_RS11355": [
+    "R_DALAabcpp",
+    "R_ALAALAabcpp",
+    "R_4PEPTabcpp"
+   ],
+   "SYNPCC7942_RS02475": [
+    "R_ASPCT"
+   ],
+   "SYNPCC7942_RS12725": [
+    "R_DHNANT"
+   ],
+   "SYNPCC7942_RS04865": [
+    "R_ARGDHpp"
+   ],
+   "SYNPCC7942_RS09545": [
+    "R_PSIIum",
+    "R_PSIICSum"
+   ],
+   "SYNPCC7942_RS11525": [
+    "R_NNDMBRT"
+   ],
+   "SYNPCC7942_RS00500": [
+    "R_PYK"
+   ],
+   "SYNPCC7942_RS09540": [
+    "R_ASPO5",
+    "R_ASPOb",
+    "R_ASPO6"
+   ],
+   "SYNPCC7942_RS10390": [
+    "R_PSIum",
+    "R_PSICSum"
+   ],
+   "SYNPCC7942_RS00345": [
+    "R_PDX5POi"
+   ],
+   "SYNPCC7942_RS03585": [
+    "R_PSIIum",
+    "R_PSIICSum"
+   ],
+   "SYNPCC7942_RS00590": [
+    "R_GLNTRS",
+    "R_ASNS1"
+   ],
+   "SYNPCC7942_RS09410": [
+    "R_HGYDAS"
+   ],
+   "SYNPCC7942_RS06095": [
+    "R_AMPTASECG"
+   ],
+   "SYNPCC7942_RS02080": [
+    "R_PRAIi"
+   ],
+   "SYNPCC7942_RS06315": [
+    "R_CBFCum"
+   ],
+   "SYNPCC7942_RS10975": [
+    "R_AGTi",
+    "R_OHPBAT",
+    "R_SPTc"
+   ],
+   "SYNPCC7942_RS02320": [
+    "R_ADOCBLS"
+   ],
+   "SYNPCC7942_RS05115": [
+    "R_GLYCK"
+   ],
+   "SYNPCC7942_RS02325": [
+    "R_QUERT"
+   ],
+   "SYNPCC7942_RS02470": [
+    "R_PSP_L"
+   ],
+   "SYNPCC7942_RS03670": [
+    "R_UAGCVT"
+   ],
+   "SYNPCC7942_RS04760": [
+    "R_PRAGSr"
+   ],
+   "SYNPCC7942_RS07615": [
+    "R_BCT1_syn"
+   ],
+   "SYNPCC7942_RS11555": [
+    "R_MPML"
+   ],
+   "SYNPCC7942_RS07340": [
+    "R_SEPHCHCS"
+   ],
+   "SYNPCC7942_RS06865": [
+    "R_NDH_1_1_um_copy1",
+    "R_NDH_1_4_um_copy1",
+    "R_NDH_1_1_um_copy2",
+    "R_NDH_1_4_um_copy2"
+   ],
+   "SYNPCC7942_RS07060": [
+    "R_ACCOAC"
+   ],
+   "SYNPCC7942_RS06860": [
+    "R_GMAND"
+   ],
+   "SYNPCC7942_RS00460": [
+    "R_CHRPL"
+   ],
+   "SYNPCC7942_RS00095": [
+    "R_GLYTRS"
+   ],
+   "SYNPCC7942_RS13200": [
+    "R_ORPT"
+   ],
+   "SYNPCC7942_RS05410": [
+    "R_ETCPC"
+   ],
+   "SYNPCC7942_RS13060": [
+    "R_TYRTRS"
+   ],
+   "SYNPCC7942_RS10595": [
+    "R_HSDy"
+   ],
+   "SYNPCC7942_RS09395": [
+    "R_PC8XM"
+   ],
+   "SYNPCC7942_RS10385": [
+    "R_GLYCL"
+   ],
+   "SYNPCC7942_RS00140": [
+    "R_AOXSr2"
+   ],
+   "SYNPCC7942_RS10380": [
+    "R_GLYCL"
+   ],
+   "SYNPCC7942_RS08145": [
+    "R_ACCOAC"
+   ],
+   "SYNPCC7942_RS10025": [
+    "R_NDH_1_1_um_copy1",
+    "R_NDH_1_1_um_copy2"
+   ],
+   "SYNPCC7942_RS03170": [
+    "R_AHCi"
+   ],
+   "SYNPCC7942_RS02885": [
+    "R_GLYCLTDx"
+   ],
+   "SYNPCC7942_RS13875": [
+    "R_ACBIPGT"
+   ],
+   "SYNPCC7942_RS11705": [
+    "R_FOLD3"
+   ],
+   "SYNPCC7942_RS09115": [
+    "R_UNK3"
+   ],
+   "SYNPCC7942_RS02195": [
+    "R_DXPS"
+   ],
+   "SYNPCC7942_RS12975": [
+    "R_NAD_H2"
+   ],
+   "SYNPCC7942_RS08285": [
+    "R_RBFSb_1"
+   ],
+   "SYNPCC7942_RS05380": [
+    "R_ETCPC"
+   ],
+   "SYNPCC7942_RS12970": [
+    "R_NAD_H2"
+   ],
+   "SYNPCC7942_RS08945": [
+    "R_GLYDHDA",
+    "R_ALAD_L"
+   ],
+   "SYNPCC7942_RS05385": [
+    "R_ETCPC"
+   ],
+   "SYNPCC7942_RS08825": [
+    "R_TRDRf",
+    "R_BTS6"
+   ],
+   "SYNPCC7942_RS05845": [
+    "R_METTRS"
+   ],
+   "SYNPCC7942_RS02505": [
+    "R_AFAT",
+    "R_RBFK"
+   ],
+   "SYNPCC7942_RS09325": [
+    "R_DPOR"
+   ],
+   "SYNPCC7942_RS12990": [
+    "R_NAD_H2"
+   ],
+   "SYNPCC7942_RS11900": [
+    "R_PSIum",
+    "R_PSICSum"
+   ],
+   "SYNPCC7942_RS07180": [
+    "R_GLYOX"
+   ],
+   "SYNPCC7942_RS04795": [
+    "R_LPADSS2"
+   ],
+   "SYNPCC7942_RS11905": [
+    "R_PSIum",
+    "R_PSICSum"
+   ],
+   "SYNPCC7942_RS01700": [
+    "R_ATPSum"
+   ],
+   "SYNPCC7942_RS04790": [
+    "R_UAGAAT2"
+   ],
+   "SYNPCC7942_RS01445": [
+    "R_RBPCcx"
+   ],
+   "SYNPCC7942_RS05065": [
+    "R_DGDGS_OLE_HDE",
+    "R_DGDGS_HDE_PALM",
+    "R_DGDGS_HDE_HDE",
+    "R_DGDGS_OLE_PALM"
+   ],
+   "SYNPCC7942_RS04160": [
+    "R_HTHRPDH"
+   ],
+   "SYNPCC7942_RS12230": [
+    "R_GLYCOX2",
+    "R_GLYCOX1"
+   ],
+   "SYNPCC7942_RS01885": [
+    "R_AHSERL2_1"
+   ],
+   "SYNPCC7942_RS11065": [
+    "R_LEUabcpp"
+   ],
+   "SYNPCC7942_RS01880": [
+    "R_ARGOXRum"
+   ],
+   "SYNPCC7942_RS10650": [
+    "R_G1PTT"
+   ],
+   "SYNPCC7942_RS10735": [
+    "R_GLNTRS",
+    "R_ASNS1"
+   ],
+   "SYNPCC7942_RS07560": [
+    "R_CBFCum"
+   ],
+   "SYNPCC7942_RS06045": [
+    "R_NDH_1_1_um_copy1",
+    "R_NDH_1_4_um_copy1",
+    "R_NDH_1_1_um_copy2",
+    "R_NDH_1_4_um_copy2"
+   ],
+   "SYNPCC7942_RS08050": [
+    "R_CLt3_1pp"
+   ],
+   "SYNPCC7942_RS08055": [
+    "R_ARGTRS"
+   ],
+   "SYNPCC7942_RS03210": [
+    "R_DHAD1",
+    "R_DHAD2"
+   ],
+   "SYNPCC7942_RS01665": [
+    "R_ETCPC"
+   ],
+   "SYNPCC7942_RS03355": [
+    "R_PSIIum",
+    "R_PSIICSum"
+   ],
+   "Synpcc7942_1971": [
+    "R_LALGP",
+    "R_ACODA"
+   ],
+   "SYNPCC7942_RS01660": [
+    "R_ETCPC"
+   ],
+   "SYNPCC7942_RS03350": [
+    "R_PSIum",
+    "R_PSICSum"
+   ],
+   "SYNPCC7942_RS06310": [
+    "R_CBFCum"
+   ],
+   "SYNPCC7942_RS08430": [
+    "R_ALCD1",
+    "R_ALCD19"
+   ],
+   "SYNPCC7942_RS05015": [
+    "R_PRUK"
+   ],
+   "SYNPCC7942_RS00160": [
+    "R_AMAOTr"
+   ],
+   "SYNPCC7942_RS04540": [
+    "R_PPNDH"
+   ],
+   "SYNPCC7942_RS04015": [
+    "R_SHCHCS3"
+   ],
+   "SYNPCC7942_RS01140": [
+    "R_PSIIum",
+    "R_PSIICSum"
+   ],
+   "SYNPCC7942_RS11770": [
+    "R_ATPSum"
+   ],
+   "SYNPCC7942_RS12420": [
+    "R_PIuabcpp"
+   ],
+   "SYNPCC7942_RS01380": [
+    "R_UPP3MT"
+   ],
+   "SYNPCC7942_RS12425": [
+    "R_PIuabcpp"
+   ],
+   "SYNPCC7942_RS11775": [
+    "R_ATPSum"
+   ],
+   "SYNPCC7942_RS11670": [
+    "R_GLNS"
+   ],
+   "SYNPCC7942_RS04385": [
+    "R_PPPGO2_1"
+   ],
+   "SYNPCC7942_RS10425": [
+    "R_NPHBDC"
+   ],
+   "SYNPCC7942_RS11675": [
+    "R_TALA"
+   ],
+   "SYNPCC7942_RS07240": [
+    "R_NDH_1_1_um_copy1",
+    "R_NDH_1_4_um_copy1",
+    "R_NDH_1_1_um_copy2",
+    "R_NDH_1_4_um_copy2"
+   ],
+   "SYNPCC7942_RS10545": [
+    "R_PKETF",
+    "R_PKETX"
+   ],
+   "SYNPCC7942_RS05400": [
+    "R_ETCPC"
+   ],
+   "SYNPCC7942_RS10540": [
+    "R_ACKr"
+   ],
+   "SYNPCC7942_RS10275": [
+    "R_ICLIPAS"
+   ],
+   "SYNPCC7942_RS04060": [
+    "R_ATPPRT"
+   ],
+   "SYNPCC7942_RS01715": [
+    "R_ATPSum"
+   ],
+   "SYNPCC7942_RS05545": [
+    "R_Nat_Kpp"
+   ],
+   "SYNPCC7942_RS05420": [
+    "R_THZT",
+    "R_TMPPP_1"
+   ],
+   "SYNPCC7942_RS13180": [
+    "R_NPHBDC"
+   ],
+   "SYNPCC7942_RS00305": [
+    "R_CDPGLC46DH"
+   ],
+   "SYNPCC7942_RS12165": [
+    "R_NAt3pp"
+   ],
+   "SYNPCC7942_RS12690": [
+    "R_DDPA"
+   ],
+   "SYNPCC7942_RS12160": [
+    "R_GLNTRS",
+    "R_GLUTRS"
+   ],
+   "Synpcc7942_0034": [
+    "R_ORNTA"
+   ],
+   "SYNPCC7942_RS13745": [
+    "R_PSIIum",
+    "R_PSIICSum"
+   ],
+   "SYNPCC7942_RS10835": [
+    "R_H4THDPR"
+   ],
+   "SYNPCC7942_RS06760": [
+    "R_PSIum",
+    "R_PSICSum"
+   ],
+   "SYNPCC7942_RS07445": [
+    "R_ACOATA",
+    "R_KAS15"
+   ],
+   "SYNPCC7942_RS07520": [
+    "R_MNHNAtpp"
+   ],
+   "SYNPCC7942_RS02045": [
+    "R_DAGK_HDE_PALM",
+    "R_DAGK_OLE_HDE",
+    "R_DAGK160",
+    "R_DAGK161",
+    "R_DAGK_OLE_PALM"
+   ],
+   "SYNPCC7942_RS07830": [
+    "R_MOBDabcpp"
+   ],
+   "SYNPCC7942_RS02040": [
+    "R_ANS",
+    "R_ANS2"
+   ],
+   "SYNPCC7942_RS03280": [
+    "R_ENO"
+   ],
+   "SYNPCC7942_RS10930": [
+    "R_CELLSYN"
+   ],
+   "SYNPCC7942_RS01385": [
+    "R_UPP3S"
+   ],
+   "SYNPCC7942_RS13830": [
+    "R_NDH_1_1_um_copy1",
+    "R_NDH_1_4_um_copy1",
+    "R_NDH_1_1_um_copy2",
+    "R_NDH_1_4_um_copy2"
+   ],
+   "SYNPCC7942_RS11930": [
+    "R_SAMTRI"
+   ],
+   "SYNPCC7942_RS04725": [
+    "R_AACPS6"
+   ],
+   "SYNPCC7942_RS04830": [
+    "R_ADSK"
+   ],
+   "SYNPCC7942_RS12830": [
+    "R_SHCHCS3"
+   ],
+   "SYNPCC7942_RS11515": [
+    "R_PTRCabcpp",
+    "R_SPMDabcpp"
+   ],
+   "SYNPCC7942_RS12115": [
+    "R_PFOR"
+   ],
+   "SYNPCC7942_RS10180": [
+    "R_PTPATi"
+   ],
+   "SYNPCC7942_RS00535": [
+    "R_NADS2"
+   ],
+   "SYNPCC7942_RS09615": [
+    "R_ORNTAC",
+    "R_ACGS"
+   ],
+   "SYNPCC7942_RS11455": [
+    "R_GLUCYS"
+   ],
+   "SYNPCC7942_RS04025": [
+    "R_FRTT",
+    "R_DMATT",
+    "R_GRTT"
+   ],
+   "SYNPCC7942_RS11450": [
+    "R_PEPC"
+   ],
+   "SYNPCC7942_RS12760": [
+    "R_OCBT"
+   ],
+   "SYNPCC7942_RS04145": [
+    "R_SPODM"
+   ],
+   "Synpcc7942_2107": [
+    "R_NO2tabcpp",
+    "R_CYNTtabcpp"
+   ],
+   "SYNPCC7942_RS00540": [
+    "R_NNATr",
+    "R_NMNAT"
+   ],
+   "SYNPCC7942_RS06340": [
+    "R_NO3abcpp"
+   ],
+   "SYNPCC7942_RS06615": [
+    "R_PHETRS"
+   ],
+   "SYNPCC7942_RS06345": [
+    "R_NO3abcpp"
+   ],
+   "SYNPCC7942_RS09055": [
+    "R_THRS"
+   ],
+   "SYNPCC7942_RS06220": [
+    "R_GTHPi"
+   ],
+   "SYNPCC7942_RS10840": [
+    "R_MPML"
+   ],
+   "SYNPCC7942_RS00860": [
+    "R_GLNS"
+   ],
+   "SYNPCC7942_RS13245": [
+    "R_HEMEOS"
+   ],
+   "SYNPCC7942_RS06990": [
+    "R_DHNANT"
+   ],
+   "SYNPCC7942_RS07620": [
+    "R_BCT1_syn"
+   ],
+   "SYNPCC7942_RS09290": [
+    "R_IMPD"
+   ],
+   "SYNPCC7942_RS02965": [
+    "R_MPML"
+   ],
+   "SYNPCC7942_RS03035": [
+    "R_PFK_3",
+    "R_PFK"
+   ],
+   "SYNPCC7942_RS05240": [
+    "R_GLCDBRAN3"
+   ],
+   "SYNPCC7942_RS02715": [
+    "R_GF6PTA"
+   ],
+   "SYNPCC7942_RS11425": [
+    "R_ADMDC"
+   ],
+   "SYNPCC7942_RS07015": [
+    "R_MG2tex"
+   ],
+   "SYNPCC7942_RS01965": [
+    "R_GGDPR"
+   ],
+   "SYNPCC7942_RS07155": [
+    "R_CELLSYN"
+   ],
+   "SYNPCC7942_RS09370": [
+    "R_H4THDPS"
+   ],
+   "SYNPCC7942_RS09375": [
+    "R_ASAD"
+   ],
+   "SYNPCC7942_RS07300": [
+    "R_RBPCcx"
+   ],
+   "SYNPCC7942_RS07305": [
+    "R_AIRC2"
+   ],
+   "SYNPCC7942_RS05625": [
+    "R_AMPMS3"
+   ],
+   "SYNPCC7942_RS12415": [
+    "R_PIuabcpp"
+   ],
+   "SYNPCC7942_RS10640": [
+    "R_TDPDRR"
+   ],
+   "Synpcc7942_0491": [
+    "R_NDH_1_1_um_copy1",
+    "R_NDH_1_1_um_copy2"
+   ],
+   "SYNPCC7942_RS10055": [
+    "R_PDS2_1",
+    "R_PDS1_1",
+    "R_PHYPQOX"
+   ],
+   "SYNPCC7942_RS03140": [
+    "R_CS"
+   ],
+   "SYNPCC7942_RS05330": [
+    "R_PSIIum",
+    "R_PSIICSum"
+   ],
+   "SYNPCC7942_RS10050": [
+    "R_NDH_1_1_um_copy1",
+    "R_NDH_1_4_um_copy1",
+    "R_NDH_1_1_um_copy2",
+    "R_NDH_1_4_um_copy2"
+   ],
+   "SYNPCC7942_RS01245": [
+    "R_GLCP2_1"
+   ],
+   "SYNPCC7942_RS10115": [
+    "R_PRAMPC",
+    "R_PRATPP"
+   ],
+   "SYNPCC7942_RS04750": [
+    "R_MTAP"
+   ],
+   "SYNPCC7942_RS02490": [
+    "R_GLYALDDy",
+    "R_ALDD2y",
+    "R_GCALDDy"
+   ],
+   "SYNPCC7942_RS10110": [
+    "R_ENOPH"
+   ],
+   "SYNPCC7942_RS03625": [
+    "R_ORNDC"
+   ],
+   "SYNPCC7942_RS11635": [
+    "R_KDOPS"
+   ],
+   "SYNPCC7942_RS04355": [
+    "R_GTHOr"
+   ],
+   "SYNPCC7942_RS12090": [
+    "R_PMPK"
+   ],
+   "SYNPCC7942_RS11630": [
+    "R_KDOPP"
+   ],
+   "SYNPCC7942_RS06475": [
+    "R_NAt3pp"
+   ],
+   "SYNPCC7942_RS08975": [
+    "R_CYTBD4cm",
+    "R_CYTBD4um"
+   ],
+   "SYNPCC7942_RS05900": [
+    "R_CYTK1",
+    "R_PANTS"
+   ],
+   "SYNPCC7942_RS08155": [
+    "R_GTPCI"
+   ],
+   "SYNPCC7942_RS08870": [
+    "R_NDH_1_1_um_copy1",
+    "R_NDH_1_4_um_copy1",
+    "R_NDH_1_1_um_copy2",
+    "R_NDH_1_4_um_copy2"
+   ],
+   "SYNPCC7942_RS08150": [
+    "R_PERD"
+   ],
+   "SYNPCC7942_RS08875": [
+    "R_DHNCOAT"
+   ],
+   "SYNPCC7942_RS12395": [
+    "R_BCAROHX",
+    "R_BCAROHX2"
+   ],
+   "SYNPCC7942_RS04180": [
+    "R_SPS",
+    "R_SPP"
+   ],
+   "SYNPCC7942_RS08570": [
+    "R_SULabcpp"
+   ],
+   "SYNPCC7942_RS04290": [
+    "R_ASNTRS"
+   ],
+   "SYNPCC7942_RS01435": [
+    "R_GHMT2r"
+   ],
+   "SYNPCC7942_RS08475": [
+    "R_CYSTRS"
+   ],
+   "SYNPCC7942_RS01430": [
+    "R_OANTS",
+    "R_ACGAMT"
+   ],
+   "SYNPCC7942_RS10600": [
+    "R_NDH_1_4_um_copy1"
+   ],
+   "SYNPCC7942_RS10605": [
+    "R_NDH_1_4_um_copy1"
+   ],
+   "SYNPCC7942_RS04050": [
+    "R_PPS"
+   ],
+   "SYNPCC7942_RS01180": [
+    "R_PSCVT"
+   ],
+   "SYNPCC7942_RS02140": [
+    "R_BTS6"
+   ],
+   "SYNPCC7942_RS11730": [
+    "R_GLYCL"
+   ],
+   "SYNPCC7942_RS10465": [
+    "R_NTD6",
+    "R_NTD7"
+   ],
+   "SYNPCC7942_RS10460": [
+    "R_GCATENEC",
+    "R_LYCOPC"
+   ],
+   "SYNPCC7942_RS03485": [
+    "R_CXANHX",
+    "R_ZXANHX"
+   ],
+   "SYNPCC7942_RS02000": [
+    "R_MLTGY1pp",
+    "R_MLTGY4pp",
+    "R_MLTGY2pp",
+    "R_MLTGY3pp"
+   ],
+   "SYNPCC7942_RS11585": [
+    "R_NH4tpp"
+   ],
+   "SYNPCC7942_RS06020": [
+    "R_PSIIum",
+    "R_PSIICSum"
+   ],
+   "SYNPCC7942_RS12485": [
+    "R_GLYTRS"
+   ],
+   "SYNPCC7942_RS03360": [
+    "R_PSIIum",
+    "R_PSIICSum"
+   ],
+   "SYNPCC7942_RS01755": [
+    "R_MDDEP2pp",
+    "R_MDDEP1pp",
+    "R_MDDEP4pp",
+    "R_MDDEP3pp"
+   ],
+   "SYNPCC7942_RS02390": [
+    "R_PGM"
+   ],
+   "SYNPCC7942_RS12525": [
+    "R_AMANAPEr"
+   ],
+   "SYNPCC7942_RS01750": [
+    "R_PSIIum",
+    "R_PSIICSum"
+   ],
+   "SYNPCC7942_RS12520": [
+    "R_METAT"
+   ],
+   "SYNPCC7942_RS03080": [
+    "R_LTHRK"
+   ],
+   "SYNPCC7942_RS01500": [
+    "R_PSIIum",
+    "R_PSIICSum"
+   ],
+   "SYNPCC7942_RS00195": [
+    "R_GND"
+   ],
+   "SYNPCC7942_RS06690": [
+    "R_TRPTRS"
+   ],
+   "SYNPCC7942_RS12410": [
+    "R_PIuabcpp"
+   ],
+   "SYNPCC7942_RS00090": [
+    "R_DDPGA"
+   ],
+   "SYNPCC7942_RS04205": [
+    "R_ATPPRT"
+   ],
+   "SYNPCC7942_RS11640": [
+    "R_KDOCT2"
+   ],
+   "SYNPCC7942_RS11645": [
+    "R_A5PISO"
+   ],
+   "SYNPCC7942_RS06400": [
+    "R_PSIum",
+    "R_PSICSum"
+   ],
+   "SYNPCC7942_RS06695": [
+    "R_MTHFR3_1"
+   ],
+   "SYNPCC7942_RS03430": [
+    "R_ASPCT"
+   ],
+   "SYNPCC7942_RS13760": [
+    "R_MNHNAtpp"
+   ],
+   "SYNPCC7942_RS06405": [
+    "R_PSIum",
+    "R_PSICSum"
+   ],
+   "SYNPCC7942_RS12995": [
+    "R_NAD_H2"
+   ],
+   "SYNPCC7942_RS07210": [
+    "R_FE3abcpp"
+   ],
+   "SYNPCC7942_RS05575": [
+    "R_UPPDC1"
+   ],
+   "SYNPCC7942_RS02250": [
+    "R_AGDC"
+   ],
+   "SYNPCC7942_RS01690": [
+    "R_ATPSum"
+   ],
+   "SYNPCC7942_RS11345": [
+    "R_NDH_1_1_um_copy1",
+    "R_NDH_1_4_um_copy1",
+    "R_NDH_1_1_um_copy2",
+    "R_NDH_1_4_um_copy2"
+   ],
+   "SYNPCC7942_RS13055": [
+    "R_OMPDC"
+   ],
+   "SYNPCC7942_RS10300": [
+    "R_ETCPC"
+   ],
+   "SYNPCC7942_RS04970": [
+    "R_HMBS"
+   ],
+   "SYNPCC7942_RS01250": [
+    "R_GAPD",
+    "R_E4PD"
+   ],
+   "SYNPCC7942_RS02560": [
+    "R_GLUTRR"
+   ],
+   "SYNPCC7942_RS02565": [
+    "R_FBP",
+    "R_SBP"
+   ],
+   "SYNPCC7942_RS07585": [
+    "R_UAAGDS"
+   ],
+   "SYNPCC7942_RS12130": [
+    "R_FDH6"
+   ],
+   "SYNPCC7942_RS06495": [
+    "R_PMANM"
+   ],
+   "SYNPCC7942_RS09190": [
+    "R_MEHLER_1"
+   ],
+   "SYNPCC7942_RS12135": [
+    "R_OXADC"
+   ],
+   "SYNPCC7942_RS04985": [
+    "R_PLYCOI"
+   ],
+   "SYNPCC7942_RS06715": [
+    "R_ASNS1",
+    "R_ASPTRS"
+   ],
+   "Synpcc7942_0668": [
+    "R_NDH_1_1_um_copy1",
+    "R_NDH_1_1_um_copy2"
+   ],
+   "SYNPCC7942_RS02095": [
+    "R_TRPS3",
+    "R_TRPS1",
+    "R_TRPS2"
+   ],
+   "SYNPCC7942_RS07570": [
+    "R_IG3PS"
+   ],
+   "SYNPCC7942_RS09195": [
+    "R_MEHLER_1"
+   ],
+   "SYNPCC7942_RS00585": [
+    "R_HEX7"
+   ],
+   "SYNPCC7942_RS06300": [
+    "R_PC11M"
+   ],
+   "SYNPCC7942_RS07270": [
+    "R_RBPCcx"
+   ],
+   "SYNPCC7942_RS00940": [
+    "R_GTHRDH_syn"
+   ],
+   "SYNPCC7942_RS07275": [
+    "R_RBPCcx"
+   ],
+   "SYNPCC7942_RS09390": [
+    "R_PRE3BS"
+   ],
+   "SYNPCC7942_RS08110": [
+    "R_CLt3_1pp"
+   ],
+   "SYNPCC7942_RS02810": [
+    "R_UAG2E"
+   ],
+   "SYNPCC7942_RS13375": [
+    "R_SERAT"
+   ],
+   "SYNPCC7942_RS11540": [
+    "R_ADPGLC"
+   ],
+   "SYNPCC7942_RS04655": [
+    "R_ACONT"
+   ],
+   "SYNPCC7942_RS11545": [
+    "R_HPPK"
+   ],
+   "SYNPCC7942_RS05695": [
+    "R_LTHRK"
+   ],
+   "SYNPCC7942_RS02695": [
+    "R_EPXQR"
+   ],
+   "SYNPCC7942_RS07290": [
+    "R_RBPCcx"
+   ],
+   "SYNPCC7942_RS01800": [
+    "R_AGM4PH",
+    "R_AGMH",
+    "R_AGM3PH"
+   ],
+   "SYNPCC7942_RS00405": [
+    "R_ICLIPAabcpp"
+   ],
+   "SYNPCC7942_RS06875": [
+    "R_NDH_1_1_um_copy1",
+    "R_NDH_1_4_um_copy1",
+    "R_NDH_1_1_um_copy2",
+    "R_NDH_1_4_um_copy2"
+   ],
+   "SYNPCC7942_RS09235": [
+    "R_SPR"
+   ],
+   "SYNPCC7942_RS09720": [
+    "R_CHORM"
+   ],
+   "SYNPCC7942_RS06870": [
+    "R_NDH_1_1_um_copy1",
+    "R_NDH_1_4_um_copy1",
+    "R_NDH_1_1_um_copy2",
+    "R_NDH_1_4_um_copy2"
+   ],
+   "SYNPCC7942_RS11780": [
+    "R_NI2uabcpp",
+    "R_CUabcpp"
+   ],
+   "SYNPCC7942_RS00475": [
+    "R_BIOMASS_DNA"
+   ],
+   "SYNPCC7942_RS09555": [
+    "R_ICLIPAS"
+   ],
+   "SYNPCC7942_RS06375": [
+    "R_OANTIabcpp",
+    "R_OANTILpp"
+   ],
+   "SYNPCC7942_RS09650": [
+    "R_OANTS"
+   ],
+   "SYNPCC7942_RS05170": [
+    "R_FUM"
+   ],
+   "SYNPCC7942_RS13255": [
+    "R_CYOOum"
+   ],
+   "SYNPCC7942_RS05175": [
+    "R_FTHFD"
+   ],
+   "SYNPCC7942_RS06275": [
+    "R_PHYFXOR"
+   ],
+   "SYNPCC7942_RS10020": [
+    "R_NDH_1_1_um_copy2"
+   ],
+   "SYNPCC7942_RS03060": [
+    "R_DHNCOAS"
+   ],
+   "SYNPCC7942_RS02950": [
+    "R_MCTP2App",
+    "R_MCTP1Bpp",
+    "R_MCTP1App"
+   ],
+   "SYNPCC7942_RS09105": [
+    "R_PPBNGS"
+   ],
+   "SYNPCC7942_RS05375": [
+    "R_ETCPC"
+   ],
+   "SYNPCC7942_RS02595": [
+    "R_CBFCum"
+   ],
+   "SYNPCC7942_RS03100": [
+    "R_RPE"
+   ],
+   "SYNPCC7942_RS05370": [
+    "R_ETCPC"
+   ],
+   "SYNPCC7942_RS04020": [
+    "R_PAPA160",
+    "R_PAPA161",
+    "R_PAPA_HDE_PALM",
+    "R_PAPA_OLE_PALM",
+    "R_PAPA_OLE_HDE"
+   ],
+   "SYNPCC7942_RS02185": [
+    "R_IPPS",
+    "R_CITMS"
+   ],
+   "SYNPCC7942_RS05390": [
+    "R_ETCPC"
+   ],
+   "SYNPCC7942_RS09340": [
+    "R_UGMDDS"
+   ],
+   "SYNPCC7942_RS05395": [
+    "R_ETCPC"
+   ],
+   "SYNPCC7942_RS08520": [
+    "R_MDDCP1pp",
+    "R_MDDCP3pp",
+    "R_MDDCP5pp",
+    "R_MDDCP2pp",
+    "R_MDDCP4pp"
+   ],
+   "SYNPCC7942_RS08835": [
+    "R_BTS6"
+   ],
+   "SYNPCC7942_RS09420": [
+    "R_HPYRRy",
+    "R_TRSARyr"
+   ],
+   "SYNPCC7942_RS12945": [
+    "R_CITCIb",
+    "R_IPPMIb",
+    "R_IPPMIa",
+    "R_CITCIa"
+   ],
+   "SYNPCC7942_RS09425": [
+    "R_HOXGfx"
+   ],
+   "SYNPCC7942_RS08830": [
+    "R_BTS6"
+   ],
+   "SYNPCC7942_RS05655": [
+    "R_G6PDA"
+   ],
+   "SYNPCC7942_RS08725": [
+    "R_UPPRT"
+   ],
+   "SYNPCC7942_RS13295": [
+    "R_SHS1"
+   ],
+   "SYNPCC7942_RS04785": [
+    "R_3HAD160",
+    "R_3HAD180",
+    "R_3HAD60",
+    "R_3HAD120",
+    "R_3HAD100",
+    "R_OGMEACPD",
+    "R_3HAD40_2",
+    "R_3HAD80",
+    "R_OPMEACPD",
+    "R_3HAD140"
+   ],
+   "SYNPCC7942_RS08205": [
+    "R_MAN6PI",
+    "R_MAN1PT"
+   ],
+   "SYNPCC7942_RS01270": [
+    "R_ARGabcpp",
+    "R_GLNabcpp"
+   ],
+   "SYNPCC7942_RS07195": [
+    "R_FE3abcpp"
+   ],
+   "SYNPCC7942_RS04780": [
+    "R_UHGADA2"
+   ],
+   "SYNPCC7942_RS04250": [
+    "R_DALAabcpp",
+    "R_ALAALAabcpp",
+    "R_4PEPTabcpp"
+   ],
+   "SYNPCC7942_RS10645": [
+    "R_TDPGDH"
+   ],
+   "SYNPCC7942_RS05090": [
+    "R_PCXHtpp"
+   ],
+   "SYNPCC7942_RS01475": [
+    "R_DHORD3um"
+   ],
+   "SYNPCC7942_RS08595": [
+    "R_SULabcpp"
+   ],
+   "SYNPCC7942_RS06115": [
+    "R_PDX5PS2"
+   ],
+   "SYNPCC7942_RS08590": [
+    "R_SULabcpp"
+   ],
+   "SYNPCC7942_RS11160": [
+    "R_GLU5K"
+   ],
+   "SYNPCC7942_RS10700": [
+    "R_ACGAMK"
+   ],
+   "SYNPCC7942_RS03575": [
+    "R_PSIIum",
+    "R_PSIICSum"
+   ],
+   "SYNPCC7942_RS08845": [
+    "R_BTS6"
+   ],
+   "SYNPCC7942_RS02970": [
+    "R_RPI"
+   ],
+   "SYNPCC7942_RS01490": [
+    "R_PPNCL2",
+    "R_PPNCL3",
+    "R_PPCDC"
+   ],
+   "SYNPCC7942_RS08745": [
+    "R_ICDHyr"
+   ],
+   "SYNPCC7942_RS08740": [
+    "R_GLYCLTDx"
+   ],
+   "SYNPCC7942_RS11800": [
+    "R_PSIum",
+    "R_PSICSum"
+   ],
+   "SYNPCC7942_RS05000": [
+    "R_UDPGD"
+   ],
+   "SYNPCC7942_RS08445": [
+    "R_CAT"
+   ],
+   "SYNPCC7942_RS11805": [
+    "R_GLNTRS",
+    "R_ASNS1"
+   ],
+   "SYNPCC7942_RS07110": [
+    "R_PSIIum",
+    "R_PSIICSum"
+   ],
+   "SYNPCC7942_RS00155": [
+    "R_DBTS"
+   ],
+   "SYNPCC7942_RS00150": [
+    "R_MALCOAMT"
+   ],
+   "SYNPCC7942_RS00015": [
+    "R_PRFGS"
+   ],
+   "SYNPCC7942_RS02205": [
+    "R_ALAALAD"
+   ],
+   "SYNPCC7942_RS12590": [
+    "R_PSIIum",
+    "R_PSIICSum"
+   ]
+  },
+  "sbml_in": "iJB785.xml",
+  "taxon_id": "1140",
+  "sbml_out_generic": "e:\\cloud\\Dropbox\\projects\\sebastian_metadraft_templates\\metadraft_templates\\metadraft_template_data_2019-1\\lib_model\\(bigg2-sel)-(iJB785).seqplus.xml",
+  "sbml_out": "e:\\cloud\\Dropbox\\projects\\sebastian_metadraft_templates\\metadraft_templates\\metadraft_template_data_2019-1\\lib_model\\(bigg2-sel)-(iJB785).seqplus.xml",
+  "reaction2gene": {
+   "R_CTPS2": [
+    "SYNPCC7942_RS09920"
+   ],
+   "R_ALDD2y": [
+    "SYNPCC7942_RS02490"
+   ],
+   "R_PRPPS": [
+    "SYNPCC7942_RS10710"
+   ],
+   "R_HPROb": [
+    "SYNPCC7942_RS10440"
+   ],
+   "R_MPOMOR_1": [
+    "SYNPCC7942_RS09670"
+   ],
+   "R_PSIIum": [
+    "SYNPCC7942_RS13675",
+    "SYNPCC7942_RS08350",
+    "SYNPCC7942_RS13795",
+    "SYNPCC7942_RS08550",
+    "SYNPCC7942_RS03360",
+    "SYNPCC7942_RS02165",
+    "SYNPCC7942_RS06025",
+    "SYNPCC7942_RS06030",
+    "SYNPCC7942_RS01500",
+    "SYNPCC7942_RS10225",
+    "SYNPCC7942_RS12590",
+    "SYNPCC7942_RS09545",
+    "SYNPCC7942_RS08555",
+    "SYNPCC7942_RS03575",
+    "SYNPCC7942_RS13745",
+    "SYNPCC7942_RS03570",
+    "SYNPCC7942_RS05330",
+    "SYNPCC7942_RS11400",
+    "SYNPCC7942_RS09955",
+    "Synpcc7942_2010",
+    "SYNPCC7942_RS03355",
+    "SYNPCC7942_RS01145",
+    "SYNPCC7942_RS01140",
+    "SYNPCC7942_RS07110",
+    "SYNPCC7942_RS03585",
+    "SYNPCC7942_RS06020",
+    "SYNPCC7942_RS01750",
+    "SYNPCC7942_RS04600"
+   ],
+   "R_IPMD": [
+    "SYNPCC7942_RS07690"
+   ],
+   "R_ADCS": [
+    "SYNPCC7942_RS06820"
+   ],
+   "R_ASNN": [
+    "SYNPCC7942_RS00840"
+   ],
+   "R_3OAR140": [
+    "SYNPCC7942_RS03505"
+   ],
+   "R_NAt3pp": [
+    "SYNPCC7942_RS02780",
+    "SYNPCC7942_RS11985",
+    "SYNPCC7942_RS12165",
+    "SYNPCC7942_RS11110",
+    "SYNPCC7942_RS06475",
+    "SYNPCC7942_RS01565",
+    "SYNPCC7942_RS04195"
+   ],
+   "R_PANTS": [
+    "SYNPCC7942_RS05900"
+   ],
+   "R_FBA3": [
+    "SYNPCC7942_RS07385"
+   ],
+   "R_GLUDGS_OLE_PALM": [
+    "SYNPCC7942_RS05560"
+   ],
+   "R_PSCVT": [
+    "SYNPCC7942_RS01180"
+   ],
+   "R_H2CO3_NAt_syn": [
+    "SYNPCC7942_RS07540"
+   ],
+   "R_MDDCP4pp": [
+    "SYNPCC7942_RS08520",
+    "SYNPCC7942_RS09815"
+   ],
+   "R_GLYCK": [
+    "SYNPCC7942_RS05115"
+   ],
+   "R_ADCL": [
+    "SYNPCC7942_RS06825"
+   ],
+   "R_HOXGfx": [
+    "SYNPCC7942_RS09425"
+   ],
+   "R_DHNCOAT": [
+    "SYNPCC7942_RS08875"
+   ],
+   "R_SPMS": [
+    "SYNPCC7942_RS03225"
+   ],
+   "R_PTHPS": [
+    "SYNPCC7942_RS06065"
+   ],
+   "R_DHNCOAS": [
+    "SYNPCC7942_RS03060"
+   ],
+   "R_DHQTi": [
+    "SYNPCC7942_RS04705"
+   ],
+   "R_FCLT": [
+    "SYNPCC7942_RS00695"
+   ],
+   "R_CAT": [
+    "SYNPCC7942_RS08445"
+   ],
+   "R_CITMS": [
+    "SYNPCC7942_RS02185",
+    "SYNPCC7942_RS07215"
+   ],
+   "R_MPOMC1_1": [
+    "SYNPCC7942_RS09670"
+   ],
+   "R_SERTRS": [
+    "SYNPCC7942_RS02295"
+   ],
+   "R_NNATr": [
+    "SYNPCC7942_RS01040",
+    "SYNPCC7942_RS00540"
+   ],
+   "R_MPTG2": [
+    "SYNPCC7942_RS10140",
+    "SYNPCC7942_RS10355"
+   ],
+   "R_UAPGR": [
+    "SYNPCC7942_RS08855"
+   ],
+   "R_EAR100y": [
+    "SYNPCC7942_RS00640"
+   ],
+   "R_NMNDA": [
+    "SYNPCC7942_RS01425"
+   ],
+   "R_SULabcpp": [
+    "SYNPCC7942_RS08590",
+    "SYNPCC7942_RS08600",
+    "SYNPCC7942_RS08595",
+    "SYNPCC7942_RS08585",
+    "SYNPCC7942_RS08565",
+    "SYNPCC7942_RS08765",
+    "SYNPCC7942_RS08570",
+    "SYNPCC7942_RS08560"
+   ],
+   "R_H4THDPS": [
+    "SYNPCC7942_RS09370"
+   ],
+   "R_DPOR": [
+    "SYNPCC7942_RS09325",
+    "SYNPCC7942_RS07260",
+    "SYNPCC7942_RS07265"
+   ],
+   "R_CHRPL": [
+    "SYNPCC7942_RS00460"
+   ],
+   "R_3HAD40_2": [
+    "SYNPCC7942_RS04785"
+   ],
+   "R_UAGAAT2": [
+    "SYNPCC7942_RS04790",
+    "SYNPCC7942_RS12050"
+   ],
+   "R_SHK3Dr": [
+    "SYNPCC7942_RS12540"
+   ],
+   "R_THII": [
+    "SYNPCC7942_RS05425",
+    "SYNPCC7942_RS00800"
+   ],
+   "R_PRAGSr": [
+    "SYNPCC7942_RS04760"
+   ],
+   "R_NADDP": [
+    "SYNPCC7942_RS01040"
+   ],
+   "R_ZXANHX": [
+    "SYNPCC7942_RS03485"
+   ],
+   "R_UDPGLDC": [
+    "SYNPCC7942_RS05885"
+   ],
+   "R_TRDRf": [
+    "SYNPCC7942_RS05790",
+    "SYNPCC7942_RS08825"
+   ],
+   "R_EAR160y": [
+    "SYNPCC7942_RS00640"
+   ],
+   "R_PAPA161": [
+    "SYNPCC7942_RS04020"
+   ],
+   "R_ACGAMT": [
+    "SYNPCC7942_RS01430"
+   ],
+   "R_TRPTRS": [
+    "SYNPCC7942_RS06690"
+   ],
+   "R_PAPSR": [
+    "SYNPCC7942_RS12715"
+   ],
+   "R_3HAD100": [
+    "SYNPCC7942_RS04785"
+   ],
+   "R_PDH": [
+    "SYNPCC7942_RS05480",
+    "SYNPCC7942_RS09865",
+    "SYNPCC7942_RS00725",
+    "SYNPCC7942_RS06135"
+   ],
+   "R_GLCDBRAN3": [
+    "SYNPCC7942_RS00425",
+    "SYNPCC7942_RS05240"
+   ],
+   "R_AACPS6": [
+    "SYNPCC7942_RS04725"
+   ],
+   "R_ACOTA": [
+    "SYNPCC7942_RS04850"
+   ],
+   "R_LIPAMPL_1": [
+    "SYNPCC7942_RS07220"
+   ],
+   "R_MLTGY2pp": [
+    "SYNPCC7942_RS02000"
+   ],
+   "R_CITCIa": [
+    "SYNPCC7942_RS09625",
+    "SYNPCC7942_RS12945"
+   ],
+   "R_MALCOAMT": [
+    "SYNPCC7942_RS00150"
+   ],
+   "R_CITCIb": [
+    "SYNPCC7942_RS09625",
+    "SYNPCC7942_RS12945"
+   ],
+   "R_GLYCLTDx": [
+    "SYNPCC7942_RS01405",
+    "SYNPCC7942_RS08735",
+    "SYNPCC7942_RS08740",
+    "SYNPCC7942_RS02885"
+   ],
+   "R_NTD6": [
+    "SYNPCC7942_RS10465"
+   ],
+   "R_ALAR": [
+    "SYNPCC7942_RS11185"
+   ],
+   "R_DGDGS_HDE_PALM": [
+    "SYNPCC7942_RS05065"
+   ],
+   "R_LIPOS2": [
+    "SYNPCC7942_RS02300",
+    "SYNPCC7942_RS09790",
+    "SYNPCC7942_RS11955"
+   ],
+   "R_3OAS100": [
+    "SYNPCC7942_RS02730"
+   ],
+   "R_DAGK_HDE_PALM": [
+    "SYNPCC7942_RS02045"
+   ],
+   "R_MG2uabcpp": [
+    "SYNPCC7942_RS06500"
+   ],
+   "R_ARD": [
+    "SYNPCC7942_RS03120"
+   ],
+   "R_PRAMPC": [
+    "SYNPCC7942_RS10115"
+   ],
+   "R_SPODM": [
+    "SYNPCC7942_RS04145"
+   ],
+   "R_MNabc_1": [
+    "SYNPCC7942_RS13080",
+    "SYNPCC7942_RS13075",
+    "SYNPCC7942_RS13085",
+    "SYNPCC7942_RS06735",
+    "SYNPCC7942_RS06730",
+    "SYNPCC7942_RS06740"
+   ],
+   "R_BCT1_syn": [
+    "SYNPCC7942_RS07620",
+    "SYNPCC7942_RS07615",
+    "SYNPCC7942_RS07605",
+    "SYNPCC7942_RS07610"
+   ],
+   "R_GLUDGS_HDE_HDE": [
+    "SYNPCC7942_RS05560"
+   ],
+   "R_GFUCS": [
+    "SYNPCC7942_RS08655"
+   ],
+   "R_SFGTHi": [
+    "SYNPCC7942_RS02335"
+   ],
+   "R_PEPC": [
+    "SYNPCC7942_RS11450"
+   ],
+   "R_3OAR180": [
+    "SYNPCC7942_RS03505"
+   ],
+   "R_ASP1DC": [
+    "SYNPCC7942_RS11740"
+   ],
+   "R_UM4PCP": [
+    "SYNPCC7942_RS09960"
+   ],
+   "R_GF6PTA": [
+    "SYNPCC7942_RS02715"
+   ],
+   "R_UDPG4E": [
+    "SYNPCC7942_RS01630"
+   ],
+   "R_FMETTRS": [
+    "SYNPCC7942_RS10695"
+   ],
+   "R_GAPDi_nadp": [
+    "SYNPCC7942_RS08865"
+   ],
+   "R_GLUTRS": [
+    "SYNPCC7942_RS12160"
+   ],
+   "R_PHYTES2_1": [
+    "SYNPCC7942_RS10060"
+   ],
+   "R_ASPCT": [
+    "SYNPCC7942_RS03430",
+    "SYNPCC7942_RS02475"
+   ],
+   "R_G5SD": [
+    "SYNPCC7942_RS11385",
+    "SYNPCC7942_RS11510"
+   ],
+   "R_ANS": [
+    "SYNPCC7942_RS02040",
+    "SYNPCC7942_RS05145"
+   ],
+   "R_RBFSb_1": [
+    "SYNPCC7942_RS08285"
+   ],
+   "R_HSTPT": [
+    "SYNPCC7942_RS05290"
+   ],
+   "R_MPOMT_1": [
+    "SYNPCC7942_RS02245"
+   ],
+   "R_PCHLDA650": [
+    "SYNPCC7942_RS12700"
+   ],
+   "R_MI3PP": [
+    "SYNPCC7942_RS13150"
+   ],
+   "R_PTRCabcpp": [
+    "SYNPCC7942_RS11515"
+   ],
+   "R_Cobalt2abcppI": [
+    "SYNPCC7942_RS11895",
+    "SYNPCC7942_RS08360",
+    "SYNPCC7942_RS02850"
+   ],
+   "R_THRTRS": [
+    "SYNPCC7942_RS13275"
+   ],
+   "R_SPRMS": [
+    "SYNPCC7942_RS03225"
+   ],
+   "R_CYNTtabcpp": [
+    "SYNPCC7942_RS10675",
+    "Synpcc7942_2107",
+    "SYNPCC7942_RS10670"
+   ],
+   "R_OANTILpp": [
+    "SYNPCC7942_RS06375",
+    "SYNPCC7942_RS05765"
+   ],
+   "R_DPCOAK": [
+    "SYNPCC7942_RS01390"
+   ],
+   "R_CA2t2pp": [
+    "SYNPCC7942_RS00120"
+   ],
+   "R_ICHORS": [
+    "SYNPCC7942_RS11120"
+   ],
+   "R_GLYCL": [
+    "SYNPCC7942_RS10385",
+    "SYNPCC7942_RS10380",
+    "SYNPCC7942_RS11730"
+   ],
+   "R_DMATT": [
+    "SYNPCC7942_RS04025"
+   ],
+   "R_HGYDAS": [
+    "SYNPCC7942_RS09410"
+   ],
+   "R_GALUi": [
+    "SYNPCC7942_RS10005"
+   ],
+   "R_CDPDAGS_OLE_PALM": [
+    "SYNPCC7942_RS02010"
+   ],
+   "R_GLYCOX2": [
+    "SYNPCC7942_RS12230"
+   ],
+   "R_ORNDC": [
+    "SYNPCC7942_RS03625"
+   ],
+   "R_UMPK": [
+    "SYNPCC7942_RS02570"
+   ],
+   "R_NDH_1_1_um_copy1": [
+    "Synpcc7942_0491",
+    "SYNPCC7942_RS06870",
+    "SYNPCC7942_RS06865",
+    "SYNPCC7942_RS06875",
+    "SYNPCC7942_RS06045",
+    "SYNPCC7942_RS06055",
+    "SYNPCC7942_RS10025",
+    "SYNPCC7942_RS07240",
+    "Synpcc7942_0668",
+    "SYNPCC7942_RS06880",
+    "SYNPCC7942_RS07360",
+    "SYNPCC7942_RS13830",
+    "SYNPCC7942_RS10050",
+    "SYNPCC7942_RS05670",
+    "SYNPCC7942_RS06050",
+    "SYNPCC7942_RS11345",
+    "SYNPCC7942_RS12620",
+    "Synpcc7942_0413",
+    "SYNPCC7942_RS09675",
+    "SYNPCC7942_RS08870"
+   ],
+   "R_NDH_1_1_um_copy2": [
+    "SYNPCC7942_RS10025",
+    "SYNPCC7942_RS06870",
+    "SYNPCC7942_RS06865",
+    "SYNPCC7942_RS06875",
+    "SYNPCC7942_RS06045",
+    "SYNPCC7942_RS06055",
+    "SYNPCC7942_RS07240",
+    "Synpcc7942_0668",
+    "SYNPCC7942_RS06880",
+    "SYNPCC7942_RS13830",
+    "SYNPCC7942_RS10050",
+    "SYNPCC7942_RS05670",
+    "SYNPCC7942_RS06050",
+    "SYNPCC7942_RS10020",
+    "SYNPCC7942_RS11345",
+    "Synpcc7942_0491",
+    "SYNPCC7942_RS12620",
+    "Synpcc7942_0413",
+    "SYNPCC7942_RS09675",
+    "SYNPCC7942_RS08870"
+   ],
+   "R_DGDGS_HDE_HDE": [
+    "SYNPCC7942_RS05065"
+   ],
+   "R_GLUDGS_HDE_PALM": [
+    "SYNPCC7942_RS05560"
+   ],
+   "R_PROTRS": [
+    "SYNPCC7942_RS09940"
+   ],
+   "R_NADTRHD": [
+    "SYNPCC7942_RS08220",
+    "SYNPCC7942_RS08215",
+    "SYNPCC7942_RS08225"
+   ],
+   "R_HSK": [
+    "SYNPCC7942_RS07365"
+   ],
+   "R_CUabcpp": [
+    "SYNPCC7942_RS08020",
+    "SYNPCC7942_RS11780"
+   ],
+   "R_ACCOAC": [
+    "SYNPCC7942_RS07060",
+    "SYNPCC7942_RS09925",
+    "SYNPCC7942_RS08145",
+    "SYNPCC7942_RS13030"
+   ],
+   "R_GTPCI": [
+    "SYNPCC7942_RS08155"
+   ],
+   "R_G1PCTYT": [
+    "SYNPCC7942_RS00310"
+   ],
+   "R_SPR": [
+    "SYNPCC7942_RS09235"
+   ],
+   "R_ERTHMMOR": [
+    "SYNPCC7942_RS07690"
+   ],
+   "R_GRTT": [
+    "SYNPCC7942_RS04025"
+   ],
+   "R_TPI": [
+    "SYNPCC7942_RS06460"
+   ],
+   "R_DDPGA": [
+    "SYNPCC7942_RS00090"
+   ],
+   "R_ASPTA": [
+    "SYNPCC7942_RS12930"
+   ],
+   "R_NDPK8": [
+    "SYNPCC7942_RS12670"
+   ],
+   "R_NDPK7": [
+    "SYNPCC7942_RS12670"
+   ],
+   "R_NDPK6": [
+    "SYNPCC7942_RS12670"
+   ],
+   "R_NDPK5": [
+    "SYNPCC7942_RS12670"
+   ],
+   "R_NDPK4": [
+    "SYNPCC7942_RS12670"
+   ],
+   "R_NDPK3": [
+    "SYNPCC7942_RS12670"
+   ],
+   "R_NDPK2": [
+    "SYNPCC7942_RS12670"
+   ],
+   "R_NDPK1": [
+    "SYNPCC7942_RS12670"
+   ],
+   "R_EAR60y": [
+    "SYNPCC7942_RS00640"
+   ],
+   "R_NH4tpp": [
+    "SYNPCC7942_RS02260",
+    "SYNPCC7942_RS11585"
+   ],
+   "R_3OAS60": [
+    "SYNPCC7942_RS02730"
+   ],
+   "R_GLUDGE_HDE_PALM": [
+    "SYNPCC7942_RS04440"
+   ],
+   "R_PDX5POi": [
+    "SYNPCC7942_RS00345"
+   ],
+   "R_COCHL_1": [
+    "SYNPCC7942_RS00495",
+    "SYNPCC7942_RS04275"
+   ],
+   "R_G6PDA": [
+    "SYNPCC7942_RS05655"
+   ],
+   "R_ENO": [
+    "SYNPCC7942_RS03280"
+   ],
+   "R_AM4PCP": [
+    "SYNPCC7942_RS09960"
+   ],
+   "R_PPK2": [
+    "SYNPCC7942_RS08000"
+   ],
+   "R_ASAD": [
+    "SYNPCC7942_RS09375"
+   ],
+   "R_LPADSS2": [
+    "SYNPCC7942_RS04795"
+   ],
+   "R_DCTPD2": [
+    "SYNPCC7942_RS09635"
+   ],
+   "R_SULR_2": [
+    "SYNPCC7942_RS00100"
+   ],
+   "R_AMAOTr": [
+    "SYNPCC7942_RS00160"
+   ],
+   "R_ACMAMT": [
+    "SYNPCC7942_RS08420"
+   ],
+   "R_GND": [
+    "SYNPCC7942_RS00195"
+   ],
+   "R_NMNAT": [
+    "SYNPCC7942_RS01040",
+    "SYNPCC7942_RS00540"
+   ],
+   "R_SQDGS_HDE_PALM": [
+    "SYNPCC7942_RS02945"
+   ],
+   "R_PC11M": [
+    "SYNPCC7942_RS06300"
+   ],
+   "R_NMNS": [
+    "SYNPCC7942_RS01045"
+   ],
+   "R_OGMEACPD": [
+    "SYNPCC7942_RS04785"
+   ],
+   "R_AGM4PCP": [
+    "SYNPCC7942_RS09960"
+   ],
+   "R_MPTG": [
+    "SYNPCC7942_RS10140",
+    "SYNPCC7942_RS10355"
+   ],
+   "R_ADSL1r": [
+    "SYNPCC7942_RS01605"
+   ],
+   "R_ASPOb": [
+    "SYNPCC7942_RS09540"
+   ],
+   "R_OCBT": [
+    "SYNPCC7942_RS12760"
+   ],
+   "R_OGMEACPS": [
+    "SYNPCC7942_RS02730"
+   ],
+   "R_OGMEACPR": [
+    "SYNPCC7942_RS03505"
+   ],
+   "R_MLTGY1pp": [
+    "SYNPCC7942_RS02000"
+   ],
+   "R_IPDDI": [
+    "SYNPCC7942_RS09810"
+   ],
+   "R_ACBIPGT": [
+    "SYNPCC7942_RS13875"
+   ],
+   "R_RNDR1": [
+    "SYNPCC7942_RS08210"
+   ],
+   "R_MSBENZMT": [
+    "SYNPCC7942_RS03055"
+   ],
+   "R_ICLIPAabcpp": [
+    "SYNPCC7942_RS00405"
+   ],
+   "R_MAN1PT": [
+    "SYNPCC7942_RS08205"
+   ],
+   "R_ACM6PH": [
+    "SYNPCC7942_RS13120"
+   ],
+   "R_AHCi": [
+    "SYNPCC7942_RS03170"
+   ],
+   "R_MAN6PI": [
+    "SYNPCC7942_RS08205"
+   ],
+   "R_PPNCL3": [
+    "SYNPCC7942_RS01490"
+   ],
+   "R_GLGC": [
+    "SYNPCC7942_RS03095"
+   ],
+   "R_FOLD3": [
+    "SYNPCC7942_RS11705"
+   ],
+   "R_ASPTRS": [
+    "SYNPCC7942_RS06715"
+   ],
+   "R_DPR": [
+    "SYNPCC7942_RS07915"
+   ],
+   "R_EGMEACPR": [
+    "SYNPCC7942_RS00640"
+   ],
+   "R_DHORD3um": [
+    "SYNPCC7942_RS01475"
+   ],
+   "R_ASPO5": [
+    "SYNPCC7942_RS09540"
+   ],
+   "R_ASPO6": [
+    "SYNPCC7942_RS09540"
+   ],
+   "R_SAMTRI": [
+    "SYNPCC7942_RS11930"
+   ],
+   "R_TMDS3": [
+    "SYNPCC7942_RS05355"
+   ],
+   "R_BCAROHX2": [
+    "SYNPCC7942_RS12395"
+   ],
+   "R_UGMDDS": [
+    "SYNPCC7942_RS09340"
+   ],
+   "R_MDDCP5pp": [
+    "SYNPCC7942_RS08520",
+    "SYNPCC7942_RS09815"
+   ],
+   "R_HTHRPDH": [
+    "SYNPCC7942_RS04160"
+   ],
+   "R_VALTA": [
+    "SYNPCC7942_RS05285"
+   ],
+   "R_BPNT": [
+    "SYNPCC7942_RS04960",
+    "SYNPCC7942_RS00880"
+   ],
+   "R_PHETA1": [
+    "SYNPCC7942_RS05290"
+   ],
+   "R_UPP3S": [
+    "SYNPCC7942_RS01385"
+   ],
+   "R_IGPS": [
+    "SYNPCC7942_RS06130"
+   ],
+   "R_PDX5PS2": [
+    "SYNPCC7942_RS06115"
+   ],
+   "R_MDDEP1pp": [
+    "SYNPCC7942_RS01755",
+    "SYNPCC7942_RS00700",
+    "SYNPCC7942_RS09815"
+   ],
+   "R_AGM4PApp": [
+    "SYNPCC7942_RS10825"
+   ],
+   "R_GCALDDy": [
+    "SYNPCC7942_RS02490"
+   ],
+   "R_AGPATACP_HDE_PALM": [
+    "SYNPCC7942_RS07455"
+   ],
+   "R_DHNPA_1": [
+    "SYNPCC7942_RS00200"
+   ],
+   "R_DXYTST": [
+    "SYNPCC7942_RS02935"
+   ],
+   "R_PRASCSi": [
+    "SYNPCC7942_RS04770"
+   ],
+   "R_GLUCYS": [
+    "SYNPCC7942_RS11455"
+   ],
+   "R_AGDC": [
+    "SYNPCC7942_RS02250"
+   ],
+   "R_GTHPi": [
+    "SYNPCC7942_RS06220"
+   ],
+   "R_ILETA": [
+    "SYNPCC7942_RS05285"
+   ],
+   "R_PGM": [
+    "SYNPCC7942_RS02390",
+    "SYNPCC7942_RS10535"
+   ],
+   "R_MPML": [
+    "SYNPCC7942_RS02965",
+    "SYNPCC7942_RS10840",
+    "SYNPCC7942_RS11555"
+   ],
+   "R_PGK": [
+    "SYNPCC7942_RS05720"
+   ],
+   "R_PGI": [
+    "SYNPCC7942_RS10295"
+   ],
+   "R_TRPS3": [
+    "SYNPCC7942_RS02095",
+    "SYNPCC7942_RS10880"
+   ],
+   "R_TRPS2": [
+    "SYNPCC7942_RS02095",
+    "SYNPCC7942_RS10880"
+   ],
+   "R_TRPS1": [
+    "SYNPCC7942_RS02095",
+    "SYNPCC7942_RS10880"
+   ],
+   "R_NTPP2": [
+    "SYNPCC7942_RS07630"
+   ],
+   "R_GLUSfx": [
+    "SYNPCC7942_RS04585"
+   ],
+   "R_PC6YM_1": [
+    "SYNPCC7942_RS09385"
+   ],
+   "R_AMANAPEr": [
+    "SYNPCC7942_RS12525"
+   ],
+   "R_PSIICSum": [
+    "SYNPCC7942_RS13675",
+    "SYNPCC7942_RS08350",
+    "SYNPCC7942_RS13795",
+    "SYNPCC7942_RS08550",
+    "SYNPCC7942_RS03360",
+    "SYNPCC7942_RS02165",
+    "SYNPCC7942_RS06025",
+    "SYNPCC7942_RS06030",
+    "SYNPCC7942_RS01500",
+    "SYNPCC7942_RS10225",
+    "SYNPCC7942_RS12590",
+    "SYNPCC7942_RS09545",
+    "SYNPCC7942_RS08555",
+    "SYNPCC7942_RS03575",
+    "SYNPCC7942_RS13745",
+    "SYNPCC7942_RS03570",
+    "SYNPCC7942_RS05330",
+    "SYNPCC7942_RS11400",
+    "SYNPCC7942_RS09955",
+    "Synpcc7942_2010",
+    "SYNPCC7942_RS03355",
+    "SYNPCC7942_RS01145",
+    "SYNPCC7942_RS01140",
+    "SYNPCC7942_RS07110",
+    "SYNPCC7942_RS03585",
+    "SYNPCC7942_RS06020",
+    "SYNPCC7942_RS01750",
+    "SYNPCC7942_RS04600"
+   ],
+   "R_MNHNAtpp": [
+    "SYNPCC7942_RS07525",
+    "SYNPCC7942_RS07535",
+    "SYNPCC7942_RS07520",
+    "SYNPCC7942_RS07530",
+    "SYNPCC7942_RS07515",
+    "SYNPCC7942_RS07510",
+    "SYNPCC7942_RS13760"
+   ],
+   "R_GGDPR": [
+    "SYNPCC7942_RS01965"
+   ],
+   "R_AOXSr2": [
+    "SYNPCC7942_RS00140"
+   ],
+   "R_3OAS180": [
+    "SYNPCC7942_RS02730"
+   ],
+   "R_PKETF": [
+    "SYNPCC7942_RS10545"
+   ],
+   "R_PKETX": [
+    "SYNPCC7942_RS10545"
+   ],
+   "R_GMPS2": [
+    "SYNPCC7942_RS00960"
+   ],
+   "R_ACOATA": [
+    "SYNPCC7942_RS07445"
+   ],
+   "R_AGPR": [
+    "SYNPCC7942_RS07330"
+   ],
+   "R_PCHLDA430": [
+    "SYNPCC7942_RS12700"
+   ],
+   "R_SEPHCHCS": [
+    "SYNPCC7942_RS07340"
+   ],
+   "R_PFOR": [
+    "SYNPCC7942_RS12115"
+   ],
+   "R_SHKK": [
+    "SYNPCC7942_RS04605"
+   ],
+   "R_TRDR": [
+    "SYNPCC7942_RS03195"
+   ],
+   "R_PIuabcpp": [
+    "SYNPCC7942_RS12425",
+    "SYNPCC7942_RS12420",
+    "SYNPCC7942_RS12405",
+    "SYNPCC7942_RS12415",
+    "SYNPCC7942_RS12410"
+   ],
+   "R_THZT": [
+    "SYNPCC7942_RS05420"
+   ],
+   "R_SPS": [
+    "SYNPCC7942_RS04180"
+   ],
+   "R_BCAROHX": [
+    "SYNPCC7942_RS12395"
+   ],
+   "R_CELLSYN": [
+    "SYNPCC7942_RS07155",
+    "SYNPCC7942_RS10930",
+    "SYNPCC7942_RS02375"
+   ],
+   "R_PRMICI": [
+    "SYNPCC7942_RS09280"
+   ],
+   "R_UDPGD": [
+    "SYNPCC7942_RS05000"
+   ],
+   "R_AFAT": [
+    "SYNPCC7942_RS02505"
+   ],
+   "R_KDOPS": [
+    "SYNPCC7942_RS11635"
+   ],
+   "R_AGPAT161": [
+    "SYNPCC7942_RS07455"
+   ],
+   "R_AGPAT160": [
+    "SYNPCC7942_RS07455"
+   ],
+   "R_PPNCL2": [
+    "SYNPCC7942_RS01490"
+   ],
+   "R_SUCBZS": [
+    "SYNPCC7942_RS05245"
+   ],
+   "R_PAPA_HDE_PALM": [
+    "SYNPCC7942_RS04020"
+   ],
+   "R_SUCBZL": [
+    "SYNPCC7942_RS05250"
+   ],
+   "R_LDH_D": [
+    "SYNPCC7942_RS06885"
+   ],
+   "R_AM3PA": [
+    "SYNPCC7942_RS11990"
+   ],
+   "R_FRTT": [
+    "SYNPCC7942_RS04025"
+   ],
+   "R_PMEACPE": [
+    "SYNPCC7942_RS00145"
+   ],
+   "R_EHGLAT": [
+    "SYNPCC7942_RS12930"
+   ],
+   "R_TYRTA": [
+    "SYNPCC7942_RS12930"
+   ],
+   "R_AGMH": [
+    "SYNPCC7942_RS01800"
+   ],
+   "R_STACPSI": [
+    "SYNPCC7942_RS01220"
+   ],
+   "R_NADS2": [
+    "SYNPCC7942_RS00535"
+   ],
+   "R_PSERT": [
+    "SYNPCC7942_RS00970"
+   ],
+   "R_DB4PS": [
+    "SYNPCC7942_RS07325"
+   ],
+   "R_SBP": [
+    "SYNPCC7942_RS02565"
+   ],
+   "R_TALA": [
+    "SYNPCC7942_RS11675"
+   ],
+   "R_IMPD": [
+    "SYNPCC7942_RS09290"
+   ],
+   "R_PHYTES": [
+    "SYNPCC7942_RS10060"
+   ],
+   "R_PHEOX_1": [
+    "SYNPCC7942_RS11000"
+   ],
+   "R_CCGS": [
+    "SYNPCC7942_RS06815"
+   ],
+   "R_KARI_23dhmp_1": [
+    "SYNPCC7942_RS07915"
+   ],
+   "R_4PCP": [
+    "SYNPCC7942_RS09960"
+   ],
+   "R_UPPRT": [
+    "SYNPCC7942_RS08725"
+   ],
+   "R_DHORTS": [
+    "SYNPCC7942_RS02485"
+   ],
+   "R_BPNT2": [
+    "SYNPCC7942_RS04960",
+    "SYNPCC7942_RS00880"
+   ],
+   "R_3HAD80": [
+    "SYNPCC7942_RS04785"
+   ],
+   "R_MTRI": [
+    "SYNPCC7942_RS10100"
+   ],
+   "R_ACONT": [
+    "SYNPCC7942_RS04655"
+   ],
+   "R_GLUR": [
+    "SYNPCC7942_RS11995"
+   ],
+   "R_HEX7": [
+    "SYNPCC7942_RS00585"
+   ],
+   "R_PPNDH": [
+    "SYNPCC7942_RS04540"
+   ],
+   "R_ACGAMK": [
+    "SYNPCC7942_RS10700"
+   ],
+   "R_UAMAS": [
+    "SYNPCC7942_RS08860"
+   ],
+   "R_A5PISO": [
+    "SYNPCC7942_RS11645"
+   ],
+   "R_GTHOr": [
+    "SYNPCC7942_RS04355"
+   ],
+   "R_HPYRRy": [
+    "SYNPCC7942_RS09420"
+   ],
+   "R_CHPHYS": [
+    "SYNPCC7942_RS10565"
+   ],
+   "R_NNDMBRT": [
+    "SYNPCC7942_RS11525"
+   ],
+   "R_EAR120y": [
+    "SYNPCC7942_RS00640"
+   ],
+   "R_LEUTA": [
+    "SYNPCC7942_RS05285"
+   ],
+   "R_ALDR18": [
+    "SYNPCC7942_RS08140"
+   ],
+   "R_G3PAT161": [
+    "SYNPCC7942_RS10435",
+    "SYNPCC7942_RS07440"
+   ],
+   "R_G3PAT160": [
+    "SYNPCC7942_RS10435",
+    "SYNPCC7942_RS07440"
+   ],
+   "R_CDPMEK": [
+    "SYNPCC7942_RS01580"
+   ],
+   "R_UAMAGS": [
+    "SYNPCC7942_RS08500"
+   ],
+   "R_ARGOXRum": [
+    "SYNPCC7942_RS01880"
+   ],
+   "R_DVOCHR_1": [
+    "SYNPCC7942_RS06950"
+   ],
+   "R_PC20M": [
+    "SYNPCC7942_RS09400"
+   ],
+   "R_H4THDPR": [
+    "SYNPCC7942_RS10835"
+   ],
+   "R_ANPRT": [
+    "SYNPCC7942_RS10765"
+   ],
+   "R_SUCR": [
+    "SYNPCC7942_RS02025"
+   ],
+   "R_MDDEP4pp": [
+    "SYNPCC7942_RS01755",
+    "SYNPCC7942_RS00700",
+    "SYNPCC7942_RS09815"
+   ],
+   "R_3OAS120": [
+    "SYNPCC7942_RS02730"
+   ],
+   "R_3OAR120": [
+    "SYNPCC7942_RS03505"
+   ],
+   "R_SPTc": [
+    "SYNPCC7942_RS10975"
+   ],
+   "R_MEHLER_1": [
+    "SYNPCC7942_RS09190",
+    "SYNPCC7942_RS09195"
+   ],
+   "R_IMPC": [
+    "SYNPCC7942_RS02020"
+   ],
+   "R_GLCP2_1": [
+    "SYNPCC7942_RS01245"
+   ],
+   "R_GAPD": [
+    "SYNPCC7942_RS01250",
+    "SYNPCC7942_RS09840"
+   ],
+   "R_LDAPAT": [
+    "SYNPCC7942_RS04400"
+   ],
+   "R_NTPP8": [
+    "SYNPCC7942_RS07630"
+   ],
+   "R_OANTS": [
+    "SYNPCC7942_RS09650",
+    "SYNPCC7942_RS09570",
+    "SYNPCC7942_RS09640",
+    "SYNPCC7942_RS01430",
+    "SYNPCC7942_RS09645"
+   ],
+   "R_RNDR4": [
+    "SYNPCC7942_RS08210"
+   ],
+   "R_RNDR2": [
+    "SYNPCC7942_RS08210"
+   ],
+   "R_RNDR3": [
+    "SYNPCC7942_RS08210"
+   ],
+   "R_AGM4PA": [
+    "SYNPCC7942_RS11990"
+   ],
+   "R_PYK": [
+    "SYNPCC7942_RS00500"
+   ],
+   "R_3HAD160": [
+    "SYNPCC7942_RS04785"
+   ],
+   "R_CHORS": [
+    "SYNPCC7942_RS01075"
+   ],
+   "R_OPMEACPR": [
+    "SYNPCC7942_RS03505"
+   ],
+   "R_GLYOX": [
+    "SYNPCC7942_RS04820",
+    "SYNPCC7942_RS07180"
+   ],
+   "R_DCTPD": [
+    "SYNPCC7942_RS03695"
+   ],
+   "R_PGAMT": [
+    "SYNPCC7942_RS10815"
+   ],
+   "R_NTD7": [
+    "SYNPCC7942_RS10465"
+   ],
+   "R_ACGS": [
+    "SYNPCC7942_RS09615"
+   ],
+   "R_DMBZIDS2": [
+    "SYNPCC7942_RS08460",
+    "SYNPCC7942_RS10185"
+   ],
+   "R_3OAS80": [
+    "SYNPCC7942_RS02730"
+   ],
+   "R_RPE": [
+    "SYNPCC7942_RS03100"
+   ],
+   "R_METAT": [
+    "SYNPCC7942_RS12520"
+   ],
+   "R_RBFSa": [
+    "SYNPCC7942_RS11395"
+   ],
+   "R_OPMEACPD": [
+    "SYNPCC7942_RS04785"
+   ],
+   "R_AGTi": [
+    "SYNPCC7942_RS10975"
+   ],
+   "R_PPS": [
+    "SYNPCC7942_RS04050"
+   ],
+   "R_FUM": [
+    "SYNPCC7942_RS05170"
+   ],
+   "R_ORNTAC": [
+    "SYNPCC7942_RS09615"
+   ],
+   "R_NTRIRfx": [
+    "SYNPCC7942_RS06355"
+   ],
+   "R_ADCYRS": [
+    "SYNPCC7942_RS01070"
+   ],
+   "R_ZCAROTDH2": [
+    "SYNPCC7942_RS07730",
+    "SYNPCC7942_RS06385"
+   ],
+   "R_ZCAROTDH1": [
+    "SYNPCC7942_RS07730"
+   ],
+   "R_PPA": [
+    "SYNPCC7942_RS07080"
+   ],
+   "R_PPCDC": [
+    "SYNPCC7942_RS01490"
+   ],
+   "R_GTHS": [
+    "SYNPCC7942_RS11815"
+   ],
+   "R_LADGMDH": [
+    "SYNPCC7942_RS08075"
+   ],
+   "R_PDS2_1": [
+    "SYNPCC7942_RS10055"
+   ],
+   "R_HISTDb": [
+    "SYNPCC7942_RS07765"
+   ],
+   "R_LTHRK": [
+    "SYNPCC7942_RS05745",
+    "SYNPCC7942_RS04045",
+    "SYNPCC7942_RS03080",
+    "SYNPCC7942_RS06620",
+    "SYNPCC7942_RS05695"
+   ],
+   "R_ALATRS": [
+    "SYNPCC7942_RS04515"
+   ],
+   "R_PRUK": [
+    "SYNPCC7942_RS05015"
+   ],
+   "R_ADSK": [
+    "SYNPCC7942_RS04830"
+   ],
+   "R_GCATENEC": [
+    "SYNPCC7942_RS10460"
+   ],
+   "R_ADSS": [
+    "SYNPCC7942_RS12245"
+   ],
+   "R_ACODA": [
+    "Synpcc7942_1971",
+    "SYNPCC7942_RS01305"
+   ],
+   "R_PROAKGOX1": [
+    "SYNPCC7942_RS12600"
+   ],
+   "R_ASNTRS": [
+    "SYNPCC7942_RS04290"
+   ],
+   "R_BACCL": [
+    "SYNPCC7942_RS01760"
+   ],
+   "R_DTMPK": [
+    "SYNPCC7942_RS00470"
+   ],
+   "R_ZCARDS": [
+    "SYNPCC7942_RS07730"
+   ],
+   "R_MDDCP1pp": [
+    "SYNPCC7942_RS08520",
+    "SYNPCC7942_RS09815"
+   ],
+   "R_DADK": [
+    "SYNPCC7942_RS11240"
+   ],
+   "R_MOHMT": [
+    "SYNPCC7942_RS12100"
+   ],
+   "R_MOAT_1": [
+    "SYNPCC7942_RS11625",
+    "SYNPCC7942_RS11620"
+   ],
+   "R_GLUDGS_OLE_HDE": [
+    "SYNPCC7942_RS05560"
+   ],
+   "R_DHQS": [
+    "SYNPCC7942_RS02670"
+   ],
+   "R_LYCOPC": [
+    "SYNPCC7942_RS10460"
+   ],
+   "R_GLCS3": [
+    "SYNPCC7942_RS12785"
+   ],
+   "R_NAMNPP": [
+    "SYNPCC7942_RS01045"
+   ],
+   "R_ARGTRS": [
+    "SYNPCC7942_RS08055"
+   ],
+   "R_HBZNPT": [
+    "SYNPCC7942_RS09965"
+   ],
+   "R_NO2tabcpp": [
+    "SYNPCC7942_RS10675",
+    "Synpcc7942_2107",
+    "SYNPCC7942_RS10670"
+   ],
+   "R_EAR180y": [
+    "SYNPCC7942_RS00640"
+   ],
+   "R_MDRPD": [
+    "SYNPCC7942_RS10105"
+   ],
+   "R_FE3abcpp": [
+    "SYNPCC7942_RS07195",
+    "SYNPCC7942_RS07200",
+    "SYNPCC7942_RS11055",
+    "SYNPCC7942_RS07210"
+   ],
+   "R_AMPMS3": [
+    "SYNPCC7942_RS05625"
+   ],
+   "R_ALAALAabcpp": [
+    "SYNPCC7942_RS04245",
+    "SYNPCC7942_RS05995",
+    "SYNPCC7942_RS11355",
+    "SYNPCC7942_RS06675",
+    "SYNPCC7942_RS04250",
+    "SYNPCC7942_RS02275"
+   ],
+   "R_ATPSum": [
+    "SYNPCC7942_RS11770",
+    "SYNPCC7942_RS11775",
+    "SYNPCC7942_RS01715",
+    "SYNPCC7942_RS01695",
+    "SYNPCC7942_RS01710",
+    "SYNPCC7942_RS01685",
+    "SYNPCC7942_RS01705",
+    "SYNPCC7942_RS01690",
+    "SYNPCC7942_RS01700",
+    "SYNPCC7942_RS01680"
+   ],
+   "R_PRFGS": [
+    "SYNPCC7942_RS04230",
+    "SYNPCC7942_RS00015",
+    "SYNPCC7942_RS04235"
+   ],
+   "R_SUCDum": [
+    "SYNPCC7942_RS07835",
+    "SYNPCC7942_RS03290",
+    "SYNPCC7942_RS01600"
+   ],
+   "R_PAPPT3": [
+    "SYNPCC7942_RS00770"
+   ],
+   "R_DAPDC": [
+    "SYNPCC7942_RS01335"
+   ],
+   "R_PPBNGS": [
+    "SYNPCC7942_RS09105"
+   ],
+   "R_CYTK1": [
+    "SYNPCC7942_RS05900"
+   ],
+   "R_HMBS": [
+    "SYNPCC7942_RS04970"
+   ],
+   "R_AGDI_1": [
+    "SYNPCC7942_RS12205"
+   ],
+   "R_ADOCBLS": [
+    "SYNPCC7942_RS02320"
+   ],
+   "R_TMPK": [
+    "SYNPCC7942_RS13045"
+   ],
+   "R_UPP3MT": [
+    "SYNPCC7942_RS01380"
+   ],
+   "R_IPDPS_syn": [
+    "SYNPCC7942_RS00360"
+   ],
+   "R_HEMEAS_1": [
+    "SYNPCC7942_RS13250"
+   ],
+   "R_THRS": [
+    "SYNPCC7942_RS13305",
+    "SYNPCC7942_RS09055"
+   ],
+   "R_DESAT18a": [
+    "SYNPCC7942_RS13015"
+   ],
+   "R_P5CR": [
+    "SYNPCC7942_RS10440"
+   ],
+   "R_KARA1": [
+    "SYNPCC7942_RS07915"
+   ],
+   "R_G3PD2": [
+    "SYNPCC7942_RS12805"
+   ],
+   "R_AIRC3": [
+    "SYNPCC7942_RS02255"
+   ],
+   "R_AIRC2": [
+    "SYNPCC7942_RS07305"
+   ],
+   "R_3OAR160": [
+    "SYNPCC7942_RS03505"
+   ],
+   "R_SPP": [
+    "SYNPCC7942_RS04180"
+   ],
+   "R_DXPS": [
+    "SYNPCC7942_RS02195"
+   ],
+   "R_TDPDRR": [
+    "SYNPCC7942_RS10640"
+   ],
+   "R_DBTS": [
+    "SYNPCC7942_RS00155"
+   ],
+   "R_PRE3BS": [
+    "SYNPCC7942_RS09390"
+   ],
+   "R_CBFCum": [
+    "SYNPCC7942_RS02420",
+    "SYNPCC7942_RS11850",
+    "SYNPCC7942_RS12325",
+    "SYNPCC7942_RS11855",
+    "SYNPCC7942_RS01640",
+    "SYNPCC7942_RS01645",
+    "SYNPCC7942_RS07560",
+    "SYNPCC7942_RS06315",
+    "SYNPCC7942_RS06310",
+    "SYNPCC7942_RS02595",
+    "Synpcc7942_1478",
+    "SYNPCC7942_RS00575"
+   ],
+   "R_TDPDRE": [
+    "SYNPCC7942_RS10635",
+    "SYNPCC7942_RS00290"
+   ],
+   "R_ILETRS": [
+    "SYNPCC7942_RS12380"
+   ],
+   "R_LEUTRS": [
+    "SYNPCC7942_RS09745"
+   ],
+   "R_PPPGO2_1": [
+    "SYNPCC7942_RS04385"
+   ],
+   "R_IGPDH": [
+    "SYNPCC7942_RS00635"
+   ],
+   "R_GK1": [
+    "SYNPCC7942_RS06100"
+   ],
+   "R_GLYTRS": [
+    "SYNPCC7942_RS12485",
+    "SYNPCC7942_RS00095"
+   ],
+   "R_AHSERL2_1": [
+    "SYNPCC7942_RS01885"
+   ],
+   "R_PMDPHT": [
+    "SYNPCC7942_RS05155"
+   ],
+   "R_FMNRy_1": [
+    "SYNPCC7942_RS02765"
+   ],
+   "R_CYTBD4um": [
+    "SYNPCC7942_RS08975",
+    "SYNPCC7942_RS08980"
+   ],
+   "R_LIPATPT_1": [
+    "SYNPCC7942_RS07220"
+   ],
+   "R_CDGR": [
+    "SYNPCC7942_RS09355"
+   ],
+   "R_3HAD60": [
+    "SYNPCC7942_RS04785"
+   ],
+   "R_BIOMASS_DNA": [
+    "SYNPCC7942_RS00985",
+    "SYNPCC7942_RS00475",
+    "SYNPCC7942_RS04690",
+    "SYNPCC7942_RS02900",
+    "SYNPCC7942_RS11170",
+    "SYNPCC7942_RS00005",
+    "SYNPCC7942_RS02065"
+   ],
+   "R_ETCPC": [
+    "SYNPCC7942_RS05375",
+    "SYNPCC7942_RS05370",
+    "SYNPCC7942_RS05400",
+    "SYNPCC7942_RS05385",
+    "SYNPCC7942_RS05395",
+    "SYNPCC7942_RS01655",
+    "SYNPCC7942_RS05380",
+    "SYNPCC7942_RS01660",
+    "SYNPCC7942_RS10300",
+    "SYNPCC7942_RS05410",
+    "SYNPCC7942_RS01670",
+    "SYNPCC7942_RS05390",
+    "SYNPCC7942_RS01665"
+   ],
+   "R_AICART": [
+    "SYNPCC7942_RS02020"
+   ],
+   "R_4PEPTabcpp": [
+    "SYNPCC7942_RS04245",
+    "SYNPCC7942_RS05995",
+    "SYNPCC7942_RS11355",
+    "SYNPCC7942_RS06675",
+    "SYNPCC7942_RS04250",
+    "SYNPCC7942_RS02275"
+   ],
+   "R_OANTIabcpp": [
+    "SYNPCC7942_RS06375",
+    "SYNPCC7942_RS05765"
+   ],
+   "R_FDH6": [
+    "SYNPCC7942_RS12130"
+   ],
+   "R_GLUDGE_HDE_HDE": [
+    "SYNPCC7942_RS04440"
+   ],
+   "R_METS_1": [
+    "SYNPCC7942_RS07020"
+   ],
+   "R_MPOMMM": [
+    "SYNPCC7942_RS09670"
+   ],
+   "R_HEX1": [
+    "SYNPCC7942_RS01125"
+   ],
+   "R_QULNS": [
+    "SYNPCC7942_RS07410"
+   ],
+   "R_DHFS": [
+    "SYNPCC7942_RS04855"
+   ],
+   "R_DHFR": [
+    "SYNPCC7942_RS06075"
+   ],
+   "R_TDPGDH": [
+    "SYNPCC7942_RS10645"
+   ],
+   "R_DESAT16a": [
+    "SYNPCC7942_RS13015"
+   ],
+   "R_CDGS": [
+    "SYNPCC7942_RS06810"
+   ],
+   "R_FTHFD": [
+    "SYNPCC7942_RS05175"
+   ],
+   "R_ORNTA": [
+    "Synpcc7942_0034"
+   ],
+   "R_VALTRS": [
+    "SYNPCC7942_RS03010"
+   ],
+   "R_ENOPH": [
+    "SYNPCC7942_RS10110"
+   ],
+   "R_AMPTASECG": [
+    "SYNPCC7942_RS06095",
+    "SYNPCC7942_RS05815"
+   ],
+   "R_SPMDabcpp": [
+    "SYNPCC7942_RS11515"
+   ],
+   "R_THRPDC": [
+    "SYNPCC7942_RS05685"
+   ],
+   "R_ICLIPAS": [
+    "SYNPCC7942_RS11885",
+    "SYNPCC7942_RS10290",
+    "SYNPCC7942_RS10285",
+    "SYNPCC7942_RS10280",
+    "SYNPCC7942_RS10275",
+    "SYNPCC7942_RS09555"
+   ],
+   "R_DAGK_OLE_PALM": [
+    "SYNPCC7942_RS02045"
+   ],
+   "R_3OAR60": [
+    "SYNPCC7942_RS03505"
+   ],
+   "R_ARGSS": [
+    "SYNPCC7942_RS00045"
+   ],
+   "R_METTRS": [
+    "SYNPCC7942_RS05845"
+   ],
+   "R_URIDK2r": [
+    "SYNPCC7942_RS00470"
+   ],
+   "R_PGLYCP": [
+    "SYNPCC7942_RS13310"
+   ],
+   "R_UAAGDS": [
+    "SYNPCC7942_RS07585"
+   ],
+   "R_ICDHyr": [
+    "SYNPCC7942_RS08745"
+   ],
+   "R_NI2uabcpp": [
+    "SYNPCC7942_RS08020",
+    "SYNPCC7942_RS11780"
+   ],
+   "R_LIPOCT": [
+    "SYNPCC7942_RS02760",
+    "SYNPCC7942_RS07705"
+   ],
+   "R_AM4PA": [
+    "SYNPCC7942_RS11990"
+   ],
+   "R_Kabcpp": [
+    "SYNPCC7942_RS08510",
+    "SYNPCC7942_RS08800",
+    "SYNPCC7942_RS08515",
+    "SYNPCC7942_RS08505"
+   ],
+   "R_PFK": [
+    "SYNPCC7942_RS03035"
+   ],
+   "R_OHPBAT": [
+    "SYNPCC7942_RS10975"
+   ],
+   "R_ZNabcpp": [
+    "SYNPCC7942_RS13080",
+    "SYNPCC7942_RS13075",
+    "SYNPCC7942_RS13085",
+    "SYNPCC7942_RS06735",
+    "SYNPCC7942_RS06730",
+    "SYNPCC7942_RS06740"
+   ],
+   "R_PDS1_1": [
+    "SYNPCC7942_RS10055"
+   ],
+   "R_CYRDAAT": [
+    "SYNPCC7942_RS05500",
+    "SYNPCC7942_RS04920",
+    "SYNPCC7942_RS07095"
+   ],
+   "R_ARGabcpp": [
+    "SYNPCC7942_RS01265",
+    "SYNPCC7942_RS01255",
+    "SYNPCC7942_RS01270",
+    "SYNPCC7942_RS01260"
+   ],
+   "R_ACLSa": [
+    "SYNPCC7942_RS12365",
+    "SYNPCC7942_RS00705"
+   ],
+   "R_ACLSb": [
+    "SYNPCC7942_RS12365",
+    "SYNPCC7942_RS00705"
+   ],
+   "R_DGDGS_OLE_HDE": [
+    "SYNPCC7942_RS05065"
+   ],
+   "R_PPND": [
+    "SYNPCC7942_RS03380"
+   ],
+   "R_DDPA": [
+    "SYNPCC7942_RS12690"
+   ],
+   "R_PHEOASE": [
+    "SYNPCC7942_RS12855"
+   ],
+   "R_CMPA_1": [
+    "SYNPCC7942_RS10895"
+   ],
+   "R_PHYTK": [
+    "SYNPCC7942_RS05350"
+   ],
+   "R_DMPPS_syn": [
+    "SYNPCC7942_RS00360"
+   ],
+   "R_MCTP1Bpp": [
+    "SYNPCC7942_RS02950",
+    "SYNPCC7942_RS02455"
+   ],
+   "R_PPK": [
+    "SYNPCC7942_RS08000"
+   ],
+   "R_UM3PL": [
+    "SYNPCC7942_RS08860"
+   ],
+   "R_UAGCVT": [
+    "SYNPCC7942_RS03670"
+   ],
+   "R_DHNANT": [
+    "SYNPCC7942_RS12725",
+    "SYNPCC7942_RS06990"
+   ],
+   "R_FNOR_1": [
+    "SYNPCC7942_RS05020"
+   ],
+   "R_UDCPDP": [
+    "SYNPCC7942_RS09980"
+   ],
+   "R_PERD": [
+    "SYNPCC7942_RS08150"
+   ],
+   "R_R05219": [
+    "SYNPCC7942_RS00965"
+   ],
+   "R_PMANM": [
+    "SYNPCC7942_RS06495"
+   ],
+   "R_MTHFD": [
+    "SYNPCC7942_RS04030"
+   ],
+   "R_MTHFC": [
+    "SYNPCC7942_RS04030"
+   ],
+   "R_UAGPT3": [
+    "SYNPCC7942_RS11755"
+   ],
+   "R_PGCD": [
+    "SYNPCC7942_RS07670"
+   ],
+   "R_KDOCT2": [
+    "SYNPCC7942_RS11640"
+   ],
+   "R_TRSARyr": [
+    "SYNPCC7942_RS09420"
+   ],
+   "R_EAR140y": [
+    "SYNPCC7942_RS00640"
+   ],
+   "R_MECDPS": [
+    "SYNPCC7942_RS06000"
+   ],
+   "R_UNK3": [
+    "SYNPCC7942_RS09115"
+   ],
+   "R_GLCBRAN3": [
+    "SYNPCC7942_RS09580",
+    "SYNPCC7942_RS05570"
+   ],
+   "R_MOBDabcpp": [
+    "SYNPCC7942_RS07825",
+    "SYNPCC7942_RS07830",
+    "SYNPCC7942_RS07820"
+   ],
+   "R_CDPGLC46DH": [
+    "SYNPCC7942_RS00305"
+   ],
+   "R_PGMT": [
+    "SYNPCC7942_RS00790"
+   ],
+   "R_PMPK": [
+    "SYNPCC7942_RS12090"
+   ],
+   "R_TMPPP_1": [
+    "SYNPCC7942_RS05420"
+   ],
+   "R_MEPCT": [
+    "SYNPCC7942_RS03490"
+   ],
+   "R_PCXHtpp": [
+    "SYNPCC7942_RS05090"
+   ],
+   "R_ALDDC17": [
+    "SYNPCC7942_RS08135"
+   ],
+   "R_AGPATACP_OLE_HDE": [
+    "SYNPCC7942_RS07455"
+   ],
+   "R_GLUDGE_OLE_PALM": [
+    "SYNPCC7942_RS04440"
+   ],
+   "R_GLNS": [
+    "SYNPCC7942_RS10955",
+    "SYNPCC7942_RS11670",
+    "SYNPCC7942_RS00860"
+   ],
+   "R_CXANHX": [
+    "SYNPCC7942_RS03485"
+   ],
+   "R_PSIum": [
+    "SYNPCC7942_RS11905",
+    "SYNPCC7942_RS02075",
+    "SYNPCC7942_RS09705",
+    "SYNPCC7942_RS02720",
+    "SYNPCC7942_RS05140",
+    "SYNPCC7942_RS12755",
+    "SYNPCC7942_RS10395",
+    "SYNPCC7942_RS10390",
+    "SYNPCC7942_RS11900",
+    "SYNPCC7942_RS06760",
+    "SYNPCC7942_RS06400",
+    "SYNPCC7942_RS04735",
+    "SYNPCC7942_RS11800",
+    "SYNPCC7942_RS06405",
+    "SYNPCC7942_RS03350"
+   ],
+   "R_ADMDC": [
+    "SYNPCC7942_RS11425",
+    "SYNPCC7942_RS10365"
+   ],
+   "R_IPPS": [
+    "SYNPCC7942_RS02185"
+   ],
+   "R_AGM3PH": [
+    "SYNPCC7942_RS01800"
+   ],
+   "R_G3PAT1819Z_1": [
+    "SYNPCC7942_RS10435",
+    "SYNPCC7942_RS07440"
+   ],
+   "R_BTNPL2": [
+    "SYNPCC7942_RS01760"
+   ],
+   "R_ME2": [
+    "SYNPCC7942_RS06635"
+   ],
+   "R_G1PTT": [
+    "SYNPCC7942_RS10650"
+   ],
+   "R_NADK": [
+    "SYNPCC7942_RS11710",
+    "SYNPCC7942_RS09465"
+   ],
+   "R_IPPMIa": [
+    "SYNPCC7942_RS09625",
+    "SYNPCC7942_RS12945"
+   ],
+   "R_IPPMIb": [
+    "SYNPCC7942_RS09625",
+    "SYNPCC7942_RS12945"
+   ],
+   "R_GHMT2r": [
+    "SYNPCC7942_RS01435"
+   ],
+   "R_MLTGY4pp": [
+    "SYNPCC7942_RS02000"
+   ],
+   "R_DAPE": [
+    "SYNPCC7942_RS09780"
+   ],
+   "R_HSERTA": [
+    "SYNPCC7942_RS08720",
+    "SYNPCC7942_RS01890"
+   ],
+   "R_DAGK_OLE_HDE": [
+    "SYNPCC7942_RS02045"
+   ],
+   "R_GLUDGE_OLE_HDE": [
+    "SYNPCC7942_RS04440"
+   ],
+   "R_TKT1": [
+    "SYNPCC7942_RS02735"
+   ],
+   "R_TKT2": [
+    "SYNPCC7942_RS02735"
+   ],
+   "R_FALDH2": [
+    "SYNPCC7942_RS02340"
+   ],
+   "R_3OAR40_2": [
+    "SYNPCC7942_RS03505"
+   ],
+   "R_DHAD1": [
+    "SYNPCC7942_RS03210"
+   ],
+   "R_SHS1": [
+    "SYNPCC7942_RS13300",
+    "SYNPCC7942_RS13295"
+   ],
+   "R_DHAD2": [
+    "SYNPCC7942_RS03210"
+   ],
+   "R_UPPDC1": [
+    "SYNPCC7942_RS05575"
+   ],
+   "R_3OAR80": [
+    "SYNPCC7942_RS03505"
+   ],
+   "R_ALCD1": [
+    "SYNPCC7942_RS11615",
+    "SYNPCC7942_RS08430"
+   ],
+   "R_DALAabcpp": [
+    "SYNPCC7942_RS04245",
+    "SYNPCC7942_RS05995",
+    "SYNPCC7942_RS11355",
+    "SYNPCC7942_RS06675",
+    "SYNPCC7942_RS04250",
+    "SYNPCC7942_RS02275"
+   ],
+   "R_NO3abcpp": [
+    "SYNPCC7942_RS06350",
+    "SYNPCC7942_RS06340",
+    "SYNPCC7942_RS06345",
+    "SYNPCC7942_RS06335"
+   ],
+   "R_VPAMTr": [
+    "SYNPCC7942_RS11475"
+   ],
+   "R_GLUTRR": [
+    "SYNPCC7942_RS02560"
+   ],
+   "R_OMPDC": [
+    "SYNPCC7942_RS13055"
+   ],
+   "R_AGM4PH": [
+    "SYNPCC7942_RS01800"
+   ],
+   "R_CYOOum": [
+    "SYNPCC7942_RS13260",
+    "SYNPCC7942_RS13255",
+    "SYNPCC7942_RS13265"
+   ],
+   "R_PC6AR_1": [
+    "SYNPCC7942_RS00110"
+   ],
+   "R_PHYFXOR": [
+    "SYNPCC7942_RS06275"
+   ],
+   "R_DHPPDA": [
+    "SYNPCC7942_RS01030"
+   ],
+   "R_SHCHCS3": [
+    "SYNPCC7942_RS04015",
+    "SYNPCC7942_RS12830"
+   ],
+   "R_3HAD180": [
+    "SYNPCC7942_RS04785"
+   ],
+   "R_SERAT": [
+    "SYNPCC7942_RS12295",
+    "SYNPCC7942_RS13375"
+   ],
+   "R_SQDGS_PALM_PALM": [
+    "SYNPCC7942_RS02945"
+   ],
+   "R_CBPS": [
+    "SYNPCC7942_RS10760",
+    "SYNPCC7942_RS03645"
+   ],
+   "R_GLYDHDA": [
+    "SYNPCC7942_RS08945"
+   ],
+   "R_ADK1": [
+    "SYNPCC7942_RS11240"
+   ],
+   "R_ORPT": [
+    "SYNPCC7942_RS13200"
+   ],
+   "R_ANS2": [
+    "SYNPCC7942_RS02040",
+    "SYNPCC7942_RS05145"
+   ],
+   "R_CPH4S": [
+    "SYNPCC7942_RS09915"
+   ],
+   "R_CYTBD4cm": [
+    "SYNPCC7942_RS08975",
+    "SYNPCC7942_RS08980"
+   ],
+   "R_MDDCP2pp": [
+    "SYNPCC7942_RS08520",
+    "SYNPCC7942_RS09815"
+   ],
+   "R_GLNTRS": [
+    "SYNPCC7942_RS00590",
+    "SYNPCC7942_RS11805",
+    "SYNPCC7942_RS10735",
+    "SYNPCC7942_RS12160"
+   ],
+   "R_EPXQR": [
+    "SYNPCC7942_RS02695"
+   ],
+   "R_KAS14": [
+    "SYNPCC7942_RS02730"
+   ],
+   "R_HCO3E_1_cx": [
+    "SYNPCC7942_RS07280",
+    "SYNPCC7942_RS07405"
+   ],
+   "R_NPHBDC": [
+    "SYNPCC7942_RS13180",
+    "SYNPCC7942_RS10425",
+    "SYNPCC7942_RS00685"
+   ],
+   "R_ADCPS2": [
+    "SYNPCC7942_RS07370"
+   ],
+   "R_RPI": [
+    "SYNPCC7942_RS02970"
+   ],
+   "R_MDDEP2pp": [
+    "SYNPCC7942_RS01755",
+    "SYNPCC7942_RS00700",
+    "SYNPCC7942_RS09815"
+   ],
+   "R_CPPPGO": [
+    "SYNPCC7942_RS03450"
+   ],
+   "R_ACS": [
+    "SYNPCC7942_RS06910"
+   ],
+   "R_ANHMK": [
+    "SYNPCC7942_RS05610"
+   ],
+   "R_NPDPS": [
+    "SYNPCC7942_RS12000"
+   ],
+   "R_Ktu": [
+    "SYNPCC7942_RS06320"
+   ],
+   "R_GLYALDDy": [
+    "SYNPCC7942_RS02490"
+   ],
+   "R_ASNS1": [
+    "SYNPCC7942_RS00590",
+    "SYNPCC7942_RS11805",
+    "SYNPCC7942_RS10735",
+    "SYNPCC7942_RS06715"
+   ],
+   "R_ALAD_L": [
+    "SYNPCC7942_RS08945"
+   ],
+   "R_ALCD19": [
+    "SYNPCC7942_RS11615",
+    "SYNPCC7942_RS08430"
+   ],
+   "R_LPOR": [
+    "SYNPCC7942_RS12700"
+   ],
+   "R_PLYCOI": [
+    "SYNPCC7942_RS06385",
+    "SYNPCC7942_RS08770",
+    "SYNPCC7942_RS04985"
+   ],
+   "R_NAD_H2": [
+    "SYNPCC7942_RS12970",
+    "SYNPCC7942_RS12975",
+    "SYNPCC7942_RS12985",
+    "SYNPCC7942_RS12995",
+    "SYNPCC7942_RS12980",
+    "SYNPCC7942_RS01420",
+    "SYNPCC7942_RS07025",
+    "SYNPCC7942_RS12990",
+    "SYNPCC7942_RS01415"
+   ],
+   "R_ACHBSb": [
+    "SYNPCC7942_RS12365",
+    "SYNPCC7942_RS00705"
+   ],
+   "R_PFK_3": [
+    "SYNPCC7942_RS03035"
+   ],
+   "R_GGCLUT2": [
+    "SYNPCC7942_RS05810"
+   ],
+   "R_SQD1": [
+    "SYNPCC7942_RS02940"
+   ],
+   "R_CS": [
+    "SYNPCC7942_RS03140"
+   ],
+   "R_OPMEACPS": [
+    "SYNPCC7942_RS02730"
+   ],
+   "R_EAR40y": [
+    "SYNPCC7942_RS00640"
+   ],
+   "R_UDCPDPS": [
+    "SYNPCC7942_RS01345"
+   ],
+   "R_DMTPHT": [
+    "SYNPCC7942_RS05635"
+   ],
+   "R_PAPA160": [
+    "SYNPCC7942_RS04020"
+   ],
+   "R_FBP": [
+    "SYNPCC7942_RS11870",
+    "SYNPCC7942_RS02565"
+   ],
+   "R_PAPA_OLE_HDE": [
+    "SYNPCC7942_RS04020"
+   ],
+   "R_ACGK": [
+    "SYNPCC7942_RS07645"
+   ],
+   "R_ACKr": [
+    "SYNPCC7942_RS10540"
+   ],
+   "R_CYSTRS": [
+    "SYNPCC7942_RS08475"
+   ],
+   "R_CA2abcpp": [
+    "SYNPCC7942_RS05555"
+   ],
+   "R_ADPT": [
+    "Synpcc7942_2454"
+   ],
+   "R_KARI_1": [
+    "SYNPCC7942_RS07915"
+   ],
+   "R_FBA": [
+    "SYNPCC7942_RS07385"
+   ],
+   "R_MTHFR3_1": [
+    "SYNPCC7942_RS06695"
+   ],
+   "R_IG3PS": [
+    "SYNPCC7942_RS10580",
+    "SYNPCC7942_RS07570"
+   ],
+   "R_PNTK": [
+    "SYNPCC7942_RS09185"
+   ],
+   "R_G1SAT": [
+    "SYNPCC7942_RS03310"
+   ],
+   "R_LEUabcpp": [
+    "SYNPCC7942_RS09440",
+    "SYNPCC7942_RS09605",
+    "SYNPCC7942_RS11065",
+    "SYNPCC7942_RS04215",
+    "SYNPCC7942_RS09600"
+   ],
+   "R_BTS6": [
+    "SYNPCC7942_RS08830",
+    "SYNPCC7942_RS08845",
+    "SYNPCC7942_RS02140",
+    "SYNPCC7942_RS08835",
+    "SYNPCC7942_RS08840",
+    "SYNPCC7942_RS02300",
+    "SYNPCC7942_RS08825"
+   ],
+   "R_CYSDES": [
+    "SYNPCC7942_RS09790",
+    "SYNPCC7942_RS02300"
+   ],
+   "R_TYRTRS": [
+    "SYNPCC7942_RS13060"
+   ],
+   "R_PAPA_OLE_PALM": [
+    "SYNPCC7942_RS04020"
+   ],
+   "R_KAS15": [
+    "SYNPCC7942_RS07445"
+   ],
+   "R_CYSS_2": [
+    "SYNPCC7942_RS13380",
+    "SYNPCC7942_RS07500",
+    "SYNPCC7942_RS13425",
+    "SYNPCC7942_RS00870"
+   ],
+   "R_QUERT": [
+    "SYNPCC7942_RS02325"
+   ],
+   "R_CHORM": [
+    "SYNPCC7942_RS09720"
+   ],
+   "R_MDDCP3pp": [
+    "SYNPCC7942_RS08520",
+    "SYNPCC7942_RS09815"
+   ],
+   "R_ATPPRT": [
+    "SYNPCC7942_RS04060",
+    "SYNPCC7942_RS04205"
+   ],
+   "R_LYSTRS": [
+    "SYNPCC7942_RS12270"
+   ],
+   "R_SADT": [
+    "SYNPCC7942_RS01505"
+   ],
+   "R_LALGP": [
+    "Synpcc7942_1971"
+   ],
+   "R_GLYCOX1": [
+    "SYNPCC7942_RS12230"
+   ],
+   "R_ADPGLC": [
+    "SYNPCC7942_RS11540"
+   ],
+   "R_MCTP2App": [
+    "SYNPCC7942_RS02950",
+    "SYNPCC7942_RS02455"
+   ],
+   "R_3OAR100": [
+    "SYNPCC7942_RS03505"
+   ],
+   "R_OXADC": [
+    "SYNPCC7942_RS12135"
+   ],
+   "R_NDHPQRum": [
+    "SYNPCC7942_RS01005",
+    "SYNPCC7942_RS00515"
+   ],
+   "R_ALAGLUE": [
+    "SYNPCC7942_RS12060"
+   ],
+   "R_HSDy": [
+    "SYNPCC7942_RS10595"
+   ],
+   "R_3HAD120": [
+    "SYNPCC7942_RS04785"
+   ],
+   "R_HEMEOS": [
+    "SYNPCC7942_RS13245"
+   ],
+   "R_GART": [
+    "SYNPCC7942_RS03015"
+   ],
+   "R_PGPS_OLE_PALM": [
+    "SYNPCC7942_RS09260"
+   ],
+   "R_PSICSum": [
+    "SYNPCC7942_RS11905",
+    "SYNPCC7942_RS02075",
+    "SYNPCC7942_RS09705",
+    "SYNPCC7942_RS02720",
+    "SYNPCC7942_RS05140",
+    "SYNPCC7942_RS12755",
+    "SYNPCC7942_RS10395",
+    "SYNPCC7942_RS10390",
+    "SYNPCC7942_RS11900",
+    "SYNPCC7942_RS06760",
+    "SYNPCC7942_RS06400",
+    "SYNPCC7942_RS04735",
+    "SYNPCC7942_RS11800",
+    "SYNPCC7942_RS06405",
+    "SYNPCC7942_RS03350"
+   ],
+   "R_3HAD140": [
+    "SYNPCC7942_RS04785"
+   ],
+   "R_GLNabcpp": [
+    "SYNPCC7942_RS01265",
+    "SYNPCC7942_RS01255",
+    "SYNPCC7942_RS01270",
+    "SYNPCC7942_RS01260"
+   ],
+   "R_GLYOX_1": [
+    "SYNPCC7942_RS03275"
+   ],
+   "R_AGM3PApp": [
+    "SYNPCC7942_RS10825"
+   ],
+   "R_DAGK160": [
+    "SYNPCC7942_RS02045"
+   ],
+   "R_DAGK161": [
+    "SYNPCC7942_RS02045"
+   ],
+   "R_GMAND": [
+    "SYNPCC7942_RS06860"
+   ],
+   "R_G1PACT": [
+    "SYNPCC7942_RS01465"
+   ],
+   "R_THISAT": [
+    "SYNPCC7942_RS05425",
+    "SYNPCC7942_RS00800"
+   ],
+   "R_U23GAAT2": [
+    "SYNPCC7942_RS07415"
+   ],
+   "R_Nat_Kpp": [
+    "SYNPCC7942_RS05545",
+    "SYNPCC7942_RS05550"
+   ],
+   "R_ALAALAD": [
+    "SYNPCC7942_RS02205"
+   ],
+   "R_MECDPDHf": [
+    "SYNPCC7942_RS03655"
+   ],
+   "R_ALAALAr": [
+    "SYNPCC7942_RS12070"
+   ],
+   "R_GLUPRT": [
+    "SYNPCC7942_RS00020"
+   ],
+   "R_E4PD": [
+    "SYNPCC7942_RS01250",
+    "SYNPCC7942_RS09840"
+   ],
+   "R_UAG2E": [
+    "SYNPCC7942_RS02810"
+   ],
+   "R_NTRARf2": [
+    "SYNPCC7942_RS06330"
+   ],
+   "R_ARGDC": [
+    "SYNPCC7942_RS05325"
+   ],
+   "R_EPMEACPR": [
+    "SYNPCC7942_RS00640"
+   ],
+   "R_UAGDP": [
+    "SYNPCC7942_RS01465"
+   ],
+   "R_CLt3_1pp": [
+    "SYNPCC7942_RS06440",
+    "SYNPCC7942_RS08110",
+    "SYNPCC7942_RS08050"
+   ],
+   "R_ARGDHpp": [
+    "SYNPCC7942_RS04865"
+   ],
+   "R_RBFK": [
+    "SYNPCC7942_RS02505"
+   ],
+   "R_PSP_L": [
+    "SYNPCC7942_RS02470"
+   ],
+   "R_ZISO": [
+    "SYNPCC7942_RS10035"
+   ],
+   "R_GTPCII": [
+    "SYNPCC7942_RS07325"
+   ],
+   "R_UM4PL": [
+    "SYNPCC7942_RS08860"
+   ],
+   "R_ADSL2r": [
+    "SYNPCC7942_RS01605"
+   ],
+   "R_ARGSL": [
+    "SYNPCC7942_RS12575"
+   ],
+   "R_MDDEP3pp": [
+    "SYNPCC7942_RS01755",
+    "SYNPCC7942_RS00700",
+    "SYNPCC7942_RS09815"
+   ],
+   "R_NDHPQRcm": [
+    "SYNPCC7942_RS01005",
+    "SYNPCC7942_RS00515"
+   ],
+   "R_GARFT": [
+    "SYNPCC7942_RS04925"
+   ],
+   "R_PGL": [
+    "SYNPCC7942_RS02690"
+   ],
+   "R_THBTGT": [
+    "SYNPCC7942_RS09735"
+   ],
+   "R_PTPATi": [
+    "SYNPCC7942_RS10180"
+   ],
+   "R_NDH_1_4_um_copy2": [
+    "SYNPCC7942_RS06870",
+    "SYNPCC7942_RS06865",
+    "SYNPCC7942_RS06875",
+    "SYNPCC7942_RS06045",
+    "SYNPCC7942_RS06055",
+    "SYNPCC7942_RS07240",
+    "SYNPCC7942_RS06880",
+    "SYNPCC7942_RS13830",
+    "SYNPCC7942_RS10050",
+    "SYNPCC7942_RS03125",
+    "SYNPCC7942_RS05670",
+    "SYNPCC7942_RS06050",
+    "SYNPCC7942_RS11345",
+    "SYNPCC7942_RS01570",
+    "SYNPCC7942_RS12620",
+    "Synpcc7942_0413",
+    "SYNPCC7942_RS09675",
+    "SYNPCC7942_RS01575",
+    "SYNPCC7942_RS08870"
+   ],
+   "R_NDH_1_4_um_copy1": [
+    "SYNPCC7942_RS06870",
+    "SYNPCC7942_RS06865",
+    "SYNPCC7942_RS06875",
+    "SYNPCC7942_RS06045",
+    "SYNPCC7942_RS06055",
+    "SYNPCC7942_RS07240",
+    "SYNPCC7942_RS06880",
+    "SYNPCC7942_RS13830",
+    "SYNPCC7942_RS10050",
+    "SYNPCC7942_RS05670",
+    "SYNPCC7942_RS06050",
+    "SYNPCC7942_RS10615",
+    "SYNPCC7942_RS11345",
+    "SYNPCC7942_RS10600",
+    "SYNPCC7942_RS12620",
+    "Synpcc7942_0413",
+    "SYNPCC7942_RS09675",
+    "SYNPCC7942_RS10605",
+    "SYNPCC7942_RS10610",
+    "SYNPCC7942_RS08870"
+   ],
+   "R_3OAS160": [
+    "SYNPCC7942_RS02730"
+   ],
+   "R_PC8XM": [
+    "SYNPCC7942_RS09395"
+   ],
+   "R_PHYPQOX": [
+    "SYNPCC7942_RS10055"
+   ],
+   "R_HISTRS": [
+    "SYNPCC7942_RS11500"
+   ],
+   "R_GLU5K": [
+    "SYNPCC7942_RS11160"
+   ],
+   "R_MTAP": [
+    "SYNPCC7942_RS04750"
+   ],
+   "R_OPAH": [
+    "SYNPCC7942_RS12145"
+   ],
+   "R_MCTP1App": [
+    "SYNPCC7942_RS02950",
+    "SYNPCC7942_RS02455"
+   ],
+   "R_PRAIi": [
+    "SYNPCC7942_RS02080"
+   ],
+   "R_MLTGY3pp": [
+    "SYNPCC7942_RS02000"
+   ],
+   "R_KDOPP": [
+    "SYNPCC7942_RS11630"
+   ],
+   "R_GTHRDH_syn": [
+    "SYNPCC7942_RS13430",
+    "SYNPCC7942_RS00940"
+   ],
+   "R_G6PDH2r": [
+    "SYNPCC7942_RS11865"
+   ],
+   "R_EAR80y": [
+    "SYNPCC7942_RS00640"
+   ],
+   "R_MG2tex": [
+    "SYNPCC7942_RS07015"
+   ],
+   "R_DNAMTn2r": [
+    "SYNPCC7942_RS12505"
+   ],
+   "R_MCOATA": [
+    "SYNPCC7942_RS07450"
+   ],
+   "R_CYNL": [
+    "SYNPCC7942_RS10665"
+   ],
+   "R_RBPCcx": [
+    "SYNPCC7942_RS07270",
+    "SYNPCC7942_RS07290",
+    "SYNPCC7942_RS07275",
+    "SYNPCC7942_RS07295",
+    "SYNPCC7942_RS07285",
+    "SYNPCC7942_RS01445",
+    "SYNPCC7942_RS07280",
+    "SYNPCC7942_RS07300",
+    "SYNPCC7942_RS01450"
+   ],
+   "R_AGPATACP_OLE_PALM": [
+    "SYNPCC7942_RS07455"
+   ],
+   "R_NNDPR": [
+    "SYNPCC7942_RS04890"
+   ],
+   "R_3OAS140": [
+    "SYNPCC7942_RS02730"
+   ],
+   "R_DXPRIi": [
+    "SYNPCC7942_RS07735"
+   ],
+   "R_UHGADA2": [
+    "SYNPCC7942_RS04780"
+   ],
+   "R_HISTDa": [
+    "SYNPCC7942_RS07765"
+   ],
+   "R_HPPK": [
+    "SYNPCC7942_RS11545"
+   ],
+   "R_PC17M_1": [
+    "SYNPCC7942_RS09405"
+   ],
+   "R_PHETRS": [
+    "SYNPCC7942_RS06615",
+    "SYNPCC7942_RS10470"
+   ],
+   "R_PRATPP": [
+    "SYNPCC7942_RS10115"
+   ],
+   "R_DGDGS_OLE_PALM": [
+    "SYNPCC7942_RS05065"
+   ],
+   "R_PRAIS": [
+    "SYNPCC7942_RS04395"
+   ],
+   "R_ASPK": [
+    "SYNPCC7942_RS05135"
+   ],
+   "R_CPPPGO2": [
+    "SYNPCC7942_RS12105"
+   ]
+  }
+ }
+}
