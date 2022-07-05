@@ -7,21 +7,21 @@ To develop the models for Methanobacterium formicicum the tools merlin, CarveMe,
 #### MERLIN
 merlin is available for download in a single multi-platform version in https://merlin-sysbio.org/download/.
 
-CARVEME
+#### CARVEME
 conda install -c conda-forge mamba python=3.6 -n carveme
 conda activate carveme
 mamba install -c bioconda diamond
 mamba install -c bioconda carveme
 
-AUREME
+#### AUREME
 docker pull dyliss/aureme-img:2.4
 
 ## Run tools
 
-CARVEME
+#### CARVEME
 carve genome.faa --output model.xml
 
-AUREME
+#### AUREME
 docker run -it -v C:\Users\Desktop:/outside dyliss/aureme-img:2.4 bash
 docker start 40a155090560au
 docker exec -it 40a155090560 bash
