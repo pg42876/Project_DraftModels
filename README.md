@@ -4,7 +4,7 @@
 
 To develop the models for Methanobacterium formicicum the tools merlin, CarveMe, KBase and AuReMe were used. 
 
-MERLIN
+#### MERLIN
 merlin is available for download in a single multi-platform version in https://merlin-sysbio.org/download/.
 
 CARVEME
