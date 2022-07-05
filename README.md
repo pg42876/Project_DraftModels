@@ -4,9 +4,10 @@
 
 ```
 how to download merlin
-
+CARVEME:
 conda install -c conda-forge mamba
 mamba install -c bioconda carveme
+docker pull dyliss/aureme-img:2.4
 ...
 ```
 
