@@ -3,10 +3,14 @@
 ## Installation of tools
 
 ```
-how to download merlin
+MERLIN:
+merlin is available for download in a single multi-platform version in https://merlin-sysbio.org/download/
+
 CARVEME:
 conda install -c conda-forge mamba
 mamba install -c bioconda carveme
+
+AUREME:
 docker pull dyliss/aureme-img:2.4
 ...
 ```
