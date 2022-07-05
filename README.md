@@ -4,7 +4,7 @@
 
 ```
 MERLIN:
-merlin is available for download in a single multi-platform version in https://merlin-sysbio.org/download/
+merlin is available for download in a single multi-platform version in [here] https://merlin-sysbio.org/download/.
 
 CARVEME:
 conda install -c conda-forge mamba
